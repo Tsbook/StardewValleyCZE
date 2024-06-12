@@ -1,0 +1,15 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Leo",
+      "Entries": {
+        "winter_15.000": "Rád se dívám na ta světla.#$b#Připomínají mi něco z daleké minulosti...$s",
+        "winter.000": "Rád bych přečetl všechny knihy v knihovně, i když mi to bude chvíli trvat.#$b#Musím toho spoustu dohnat...$s",
+        "school": "Teď nemůžu mluvit, @. Musím se soustředit...",
+        "dinner": "Ach, máš hlad? Ale já už všechno jídlo snědl...$u",
+        "tent": "Déšť nám moc nevadí, ale někdy je hezké mít toto místo, kde můžeš vyschnout."
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/George",
+      "Entries": {
+        "AcceptGift_(O)StardropTea": "Hmm... *srk*...ach... chutná přesně jako zapečený tuňák od maminky! Taková dobrota!",
+        "GreenRain": "Neboj se, miláčku... neboj.%noturn#$b#Déšť sice může být jedovatý, ale já se za svoji dobu práce v dolech nadýchal mnohem horších věcí za mnohem kratší dobu... a pořád jsem tady!",
+        "GreenRain_2": "Vypadá to že vy mlaďoši budete po této spršce mít napilno... hehehe...$h",
+        "eventSeen_502969_memory_oneweek": "Nevím co jsi ${udělal^udělala}$, ale ti mývalové se tu od posledně už neukázali!",
+        "eventSeen_18_memory_oneweek": "Možná se zdám být zpátečnický, ale až budeš na světě tak dlouho jako já, poznáš jak to v životě chodí. Říká se tomu 'moudrost'.#$b#Mladí lidé si nevidí na špičku nosu. Jak by také mohli?",
+        "married_Alex": "...Hmmf.^Rád bych se stal pradědečkem ještě než natáhnu bačkory. Myslíš, že na tom můžete zapracovat?",
+        "divorced_once": "Hmmf... takže sis ${vybral^vybrala}$ tu snazší cestu, co?#$e#Dneska lidé přistupují ke svatbě jako k televizi... nelíbí se ti program a nudíš se, prostě stačí přepnout kanál! To by se za mých časů...",
+        "WinterStar_GiveGift_After": "Tobě se to nelíbí, co? Pche! Ta dnešní mládež... nic neocení, ničeho si neváží. Víš jak to bylo drahé? A já zrovna mám hluboko do kapsy!",
+        "Introduction": "Hmmf... Je hrozná otrava se pořád seznamovat s novými lidmi, ne?#$b#Takže, já jsem George. Tak jsme se seznámili a můžeš odprejsknout... Hmmf.",
+        "pamHouseUpgrade": "Díky že ses postaral o ten starý rozmlácený přívěs... na ten nový dům se kouká mnohem lépe.#$e#Vsadím se, že díky němu se nám zvedne i hodnota našeho!",
+        "accept_867": "Co to máš?#$b#Hmm... takže nejdřív musím stisknout tohle tlačítko tady? A na co je tohle tlačítko? Hmmf... moc tomu nerozumím.#$b#Hehe! No to se na to podívejme! Máme nový kanál!$h#$b#Chci ti něco za odměnu dát. Je to kámen, který jsem našel, když jsem tenkrát ještě pracoval jako horník. Je velmi zvláštní. Už přes čtyřicet let svítí modře a je pořád chladný. Jako kdyby v tom měly prsty nějaká kouzla!",
+        "pamHouseUpgradeAnonymous": "No... ten nový dům mi trochu brání ve výhledu na řeku... ale vypadá určitě lépe, než ta stará plechovka, v které Pam bydlela předtím.",
+        "MovieInvitation": "Ty chceš jít do kina s takovým starochem jako jsem já?...No... dobře, sejdeme se tam",
+        "joja_Begin": "Takže... staré komunitní centrum je pryč, co? Kampak se poděly maloměstské hodnoty? Je hrozná škoda jak moc se časy změnily...",
+        "Mon": "Moc toho nenamluvím. A už vůbec ne s lidmi co neznám, neber si to osobně.",
+        "Tue": "Hmmf... Vypadá to na další zatažený den.$s",
+        "Wed": "Ales je můj vnuk. Už jsem ti to říkal?#$e#Co? Mluv nahlas.",
+        "Wed_inlaw_Alex": "Jak se mohou dva muži vzít? To je proti přírodě... Asi jsem jen \"staromódní\"...^Teď jsi součástí rodiny. Jsem rád, že si můj vnuk našel skvělou ženu.",
+        "Wed10_inlaw_Alex": "Budu upřímný, připadalo mi to... divné... aby dva muži takhle spolu žili. Ale ty si mi ukázal, jaký sympatický mladík jsi a vím jak moc se vy dva milujete... Donutil si mě změnit můj názor.^Teď jsi součástí rodiny.... a já bych nemohlo být více hrdý.",
+        "Thu": "Teď si nemůžu povídat, ${mladý muži^děvenko}$.#$e#V televizi mi běží můj oblíbený pořad.",
+        "Fri": "Tak ty pracuješ na farmě, jo? Alespoň to je poctivá práce.",
+        "Sat": "Pro mě je víkend to samé jako všední dny.#$e#Takové to je, když jsi v důchodu.",
+        "Sun": "Není ti zima? Svetry už nedělají tak jako kdysi.#$e#*Povzdech*",
+        "Mon6": "Překvapuje mě, že se chceš přátelit se stařešinou jako jsem já.",
+        "Thu6": "Zdravím, @. Chceš se se mnou dívat na televizi?",
+        "Fri4": "Můj děda byl farmářem. Je to úctyhodné povolání.#$e#Kdybych nebyl tak zatraceně starý, šel bych k tobě a ukázal ti jak se to na farmě dělá..",
+        "Wed8": "Kdyby jen mé nohy byly v pořádku, tak bych si mohl házet míčem s Alexem.$s#$e#To se ale nikdy nestane.$s",
+        "Fri8": "Přemýšlel jsem... Možná jsem se choval trochu podrážděně.$s#$e#Myslel jsem si, že nás důchodce všichni považují za přítěž.",
+        "Fri10": "Poslyš, mám pocit, že jsem se ke všem choval jako mrzutý starý dědek. Ale teď mám dojem, že jsem trochu změknul, jako staré zralé ovoce. Hehe!$h#$e#Opatruj se, ${synku^dceruško}$.",
+        "Wed10": "@! Počkej, vypnu televizi, abychom si mohli popovídat.$h#$e#Tak co v těchto dnech dělají mladí lidé jako jsi ty?",
+        "Tue10": "Asi bych neměl být tak sklíčen kvůli svým nohám.#$e#Měl bych být rád, že jsem vůbec naživu.$h",
+        "Thu10": "Až budeš tak starý jako já, poznáš, že je mnohem těžší se přizpůsobit novým věcem.#$e#Jednoho dne poznáš, co tím myslím.#$e#Už jdi, užívej si mládí, dokud můžeš.",
+        "winter_1": "Ahh... je taková zima.#$e#Když jsi mladý, zima tě nezasáhne tak moc jako staré lidi."
+      }
+    }
+  ]
+}

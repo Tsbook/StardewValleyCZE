@@ -1,0 +1,30 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/Lexicon",
+      "Entries": {
+        "RandomNegativeItemNoun": "odpad#smetí#veteš#splašky#svinstvo",
+        "RandomPositiveAdjective_Child": "populární#vtipný#upravený#hodný#šikovný#úžasný#skvělý",
+        "RandomPositiveAdjective_AdultMale": "zajímavý#vzrušující#upravený#vtipný#ohromný",
+        "RandomPositiveAdjective_AdultFemale": "báječná#úžasná#potěšující#kouzelná#neuvěřitelná#milá#povznášející#rozkošná",
+        "RandomPositiveAdjective_PlaceOrEvent": "báječné#úžasné#potěšující#kouzelné#neuvěřitelné#milé#povznášející#rozkošné",
+        "RandomDeliciousAdjective": "vynikající#chutný#znamenitý#uspokojující#sytivý#báječný#vábný#libý",
+        "RandomDeliciousAdjective_Child": "dobroučký",
+        "RandomNegativeFoodAdjective_Child": "hnusný",
+        "RandomNegativeFoodAdjective_Polite": "...zajímavé#...nevšední#...jiné#...neobvyklé",
+        "RandomNegativeFoodAdjective": "ošklivé#hnusné#nechutné#odporné#znechucující#ohavné#děsné#odpuzující#mizerné#zkažené#příšerné#hnijící",
+        "RandomSlightlyPositiveFoodAdjective": "slušné#dobré#jedlé",
+        "ChildTerm_Male": "kluk",
+        "ChildTerm_Female": "holka",
+        "Pronoun_Male": "ho",
+        "Pronoun_Female": "ji",
+        "QuestionDialogue_Yes": "Ano",
+        "QuestionDialogue_No": "Ne",
+        "GenericPlayerTerm": "farmář",
+        "Possessive_Pronoun_Male": "jeho",
+        "Possessive_Pronoun_Female": "jejím"
+      }
+    }
+  ]
+}

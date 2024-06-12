@@ -1,0 +1,159 @@
+{
+  "Format": "2.2.0",
+  "Changes": [
+    {
+      "Action": "Include",
+      "FromFile": "Minigames/TitleButtons.json",
+      "When": { "Language": "cs" }
+    },
+    //Event
+    {
+      "Action": "Include",
+      "FromFile": "Data/Events/AbandonedJojaMart.json, Data/Events/AnimalShop.json, Data/Events/ArchaeologyHouse.json, Data/Events/Backwoods.json, Data/Events/BathHouse_Pool.json, Data/Events/Beach.json, Data/Events/BoatTunnel.json, Data/Events/BusStop.json, Data/Events/CommunityCenter.json, Data/Events/ElliottHouse.json, Data/Events/Farm.json, Data/Events/FarmHouse.json, Data/Events/FishShop.json, Data/Events/Forest.json, Data/Events/HaleyHouse.json, Data/Events/HarveyRoom.json, Data/Events/Hospital.json, Data/Events/IslandHut.json, Data/Events/IslandNorth.json, Data/Events/IslandSouth.json, Data/Events/IslandWest.json, Data/Events/JoshHouse.json, Data/Events/LeahHouse.json, Data/Events/ManorHouse.json, Data/Events/Mine.json, Data/Events/Mountain.json, Data/Events/QiNutRoom.json, Data/Events/Railroad.json, Data/Events/Saloon.json, Data/Events/SamHouse.json, Data/Events/SandyHouse.json, Data/Events/ScienceHouse.json, Data/Events/SebastianRoom.json, Data/Events/SeedShop.json, Data/Events/Sewer.json, Data/Events/Sunroom.json, Data/Events/Temp.json, Data/Events/Town.json, Data/Events/Trailer.json, Data/Events/Trailer_Big.json, Data/Events/WizardHouse.json, Data/Events/Woods.json",
+      "When": { "Language": "cs" }
+    },
+    //Festivaly
+    {
+      "Action": "Include",
+      "FromFile": "Data/Festivals/fall16.json, Data/Festivals/fall27.json, Data/Festivals/FestivalDates.json, Data/Festivals/spring13.json, Data/Festivals/spring24.json, Data/Festivals/summer11.json, Data/Festivals/summer28.json, Data/Festivals/winter8.json, Data/Festivals/winter25.json",
+      "When": { "Language": "cs" }
+    },
+    //TV
+    {
+      "Action": "Include",
+      "FromFile": "Data/TV/CookingChannel.json",
+      "When": { "Language": "cs" }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/TV/InterviewShow",
+      "FromFile": "Data/TV/Interviewshow.json",
+      "When": { "Language": "cs" }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/TV/TipChannel",
+      "FromFile": "Data/TV/TipChannel.json",
+      "When": { "Language": "cs" }
+    },
+    //Data
+    {
+      "Action": "Load",
+      "Target": "Data/Achievements",
+      "FromFile": "Data/Achievements.json",
+      "When": { "Language": "cs" }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Data/Boots.json, Data/Bundles.json, Data/EngagementDialogue.json, Data/ExtraDialogue.json, Data/hats.json, Data/mail.json, Data/Monsters.json, Data/NpcGiftTastes.json, Data/Quests.json, Data/SecretNotes.json",
+      "When": { "Language": "cs" }
+    },
+    //Dialogy
+    {
+      "Action": "Include",
+      "FromFile": "Characters/Dialogue/Abigail.json, Characters/Dialogue/Alex.json, Characters/Dialogue/Caroline.json, Characters/Dialogue/Clint.json, Characters/Dialogue/Demetrius.json, Characters/Dialogue/Dwarf.json, Characters/Dialogue/Elliott.json, Characters/Dialogue/Emily.json, Characters/Dialogue/Evelyn.json, Characters/Dialogue/George.json, Characters/Dialogue/Gil.json, Characters/Dialogue/Gus.json, Characters/Dialogue/Haley.json, Characters/Dialogue/Harvey.json, Characters/Dialogue/Jas.json, Characters/Dialogue/Jodi.json, Characters/Dialogue/Kent.json, Characters/Dialogue/Krobus.json, Characters/Dialogue/Leah.json, Characters/Dialogue/Lewis.json, Characters/Dialogue/Leo.json, Characters/Dialogue/LeoMainland.json, Characters/Dialogue/Linus.json, Characters/Dialogue/Marnie.json, Characters/Dialogue/MarriageDialogue.json, Characters/Dialogue/MarriageDialogueAbigail.json, Characters/Dialogue/MarriageDialogueAlex.json, Characters/Dialogue/MarriageDialogueElliott.json, Characters/Dialogue/MarriageDialogueEmily.json, Characters/Dialogue/MarriageDialogueHaley.json, Characters/Dialogue/MarriageDialogueHarvey.json, Characters/Dialogue/MarriageDialogueKrobus.json, Characters/Dialogue/MarriageDialogueLeah.json, Characters/Dialogue/MarriageDialogueMaru.json, Characters/Dialogue/MarriageDialoguePenny.json, Characters/Dialogue/MarriageDialogueSam.json, Characters/Dialogue/MarriageDialogueSebastian.json, Characters/Dialogue/MarriageDialogueShane.json, Characters/Dialogue/Maru.json, Characters/Dialogue/Mister Qi.json, Characters/Dialogue/Pam.json, Characters/Dialogue/Penny.json, Characters/Dialogue/Pierre.json, Characters/Dialogue/rainy.json, Characters/Dialogue/Robin.json, Characters/Dialogue/Sam.json, Characters/Dialogue/Sandy.json, Characters/Dialogue/Sebastian.json, Characters/Dialogue/Shane.json, Characters/Dialogue/Vincent.json, Characters/Dialogue/Willy.json, Characters/Dialogue/Wizard.json",
+      "When": { "Language": "cs" }
+    },
+    //Strings
+    {
+      "Action": "Include",
+      "FromFile": "Strings/schedules/Abigail.json, Strings/schedules/Alex.json, Strings/schedules/Caroline.json, Strings/schedules/Clint.json, Strings/schedules/Demetrius.json, Strings/schedules/Elliott.json, Strings/schedules/Emily.json, Strings/schedules/Evelyn.json, Strings/schedules/George.json, Strings/schedules/Gus.json, Strings/schedules/Haley.json, Strings/schedules/Harvey.json, Strings/schedules/Jas.json, Strings/schedules/Jodi.json, Strings/schedules/Leah.json, Strings/schedules/Leo.json, Strings/schedules/Lewis.json, Strings/schedules/Linus.json, Strings/schedules/Marnie.json, Strings/schedules/Maru.json, Strings/schedules/Pam.json, Strings/schedules/Penny.json, Strings/schedules/Pierre.json, Strings/schedules/Robin.json, Strings/schedules/Sam.json, Strings/schedules/Sandy.json, Strings/schedules/Sebastian.json, Strings/schedules/Shane.json, Strings/schedules/Vincent.json, Strings/schedules/Willy.json",
+      "When": { "Language": "cs" }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Strings/1_6_Strings.json, Strings/animationDescriptions.json, Strings/BigCraftables.json, Strings/Buildings.json, Strings/BundleNames.json, Strings/EnchantmentNames.json, Strings/Events.json, Strings/FarmAnimals.json, Strings/Furniture.json, Strings/Characters.json, Strings/Lexicon.json, Strings/Locations.json, Strings/MovieConcessions.json, Strings/MovieReactions.json, Strings/Movies.json, Strings/Notes.json, Strings/NPCNames.json, Strings/Objects.json, Strings/Pants.json, Strings/Quests.json, Strings/Shirts.json, Strings/SimpleNonVillagerDialogues.json, Strings/SpecialOrderStrings.json, Strings/SpeechBubbles.json, Strings/StringsFromMaps.json, Strings/UI.json, Strings/Weapons.json",
+      "When": { "Language": "cs" }
+    },
+    {
+      "Action": "Load",
+      "FromFile": "Strings/credits.json",
+      "Target": "Strings/credits",
+      "When": { "Language": "cs" }
+    },
+    {
+      "Action": "Load",
+      "FromFile": "Strings/WorldMap.json",
+      "Target": "Strings/WorldMap",
+      "When": { "Language": "cs" }
+    },
+    //Loose Sprites
+    {
+      "Action": "Include",
+      "FromFile": "LooseSprites/cursors.json, LooseSprites/Billboard.json, LooseSprites/Movies.json, LooseSprites/Ostatni.json",
+      "When": { "Language": "cs" }
+    },
+    //Mapy
+    {
+      "Action": "Include",
+      "FromFile": "Maps/fallMaps.json, Maps/Maps.json, Maps/springMaps.json, Maps/summerMaps.json, Maps/winterMaps.json",
+      "When": { "Language": "cs" }
+    },
+    //Intro
+    {
+      "Action": "Include",
+      "FromFile": "Minigames/Intro.json",
+      "When": { "Language": "cs" }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Minigames/jojacorps.json",
+      "When": { "Language": "cs" }
+    },
+    //Písmo
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/font_bold",
+      "FromFile": "LooseSprites/font_bold.png",
+      "ToArea": {
+        "X": 0,
+        "Y": 224,
+        "Width": 128,
+        "Height": 128
+      },
+      "When": { "Language": "cs" }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/font_colored",
+      "FromFile": "LooseSprites/font_colored.png",
+      "ToArea": {
+        "X": 0,
+        "Y": 224,
+        "Width": 128,
+        "Height": 128
+      },
+      "When": { "Language": "cs" }
+    },
+    {
+      "Action": "Load",
+      "Target": "Fonts/SmallFont",
+      "FromFile": "Fonts/SmallFont.xnb",
+      "When": { "Language": "cs" }
+    },
+    {
+      "Action": "Load",
+      "Target": "Fonts/SpriteFont1",
+      "FromFile": "Fonts/SpriteFont1.xnb",
+      "When": { "Language": "cs" }
+    },
+    //Bug - Nejde jinak
+    {
+      "Action": "Load",
+      "Target": "Strings/StringsFromCSFiles",
+      "FromFile": "Strings/StringsFromCSFiles.json",
+      "When": { "Language": "cs" }
+    },
+    // Zavedení jazyka
+    {
+      "Action": "Load",
+      "Target": "Mods/[CP] Stardew Valley česky/Minigames/Button",
+      "FromFile": "LooseSprites/LanguageButtons.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/AdditionalLanguages",
+      "Fromfile": "Data/AdditionalLanguages.json"
+    }
+  ]
+}

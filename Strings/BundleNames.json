@@ -1,0 +1,29 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/BundleNames",
+      "Entries": {
+        "Rare Crops": "vzácných plodin",
+        "Fish Farmer's": "rybníkáře",
+        "Garden": "zahrady",
+        "Brewer's": "sládka",
+        "Quality Fish": "kvalitních ryb",
+        "Master Fisher's": "mistrného rybáře",
+        "Treasure Hunter's": "lovce pokladů",
+        "Children's": "pro děti",
+        "Forager's": "sběrače",
+        "Home Cook's": "domácího kuchaře",
+        "Wild Medicine": "báby kořenářky",
+        "Sticky": "smůly",
+        "Engineer's": "důlního technika",
+        "Forest": "lesa",
+        "Helper's": "štědrého pomocníka",
+        "Spirit's Eve": "dušiček",
+        "Winter Star": "zimní hvězdy",
+        "Aquatic Jelly": "mořského slizu",
+        "Bookworm's": "knihomola"
+      }
+    }
+  ]
+}

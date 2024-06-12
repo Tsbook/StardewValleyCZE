@@ -1,0 +1,54 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/ManorHouse",
+      "Fields": {
+        "2123243/e 2111194": {
+          "7": "speak Emily \"Vítejte na mé terapii oblečením!\"",
+          "15": "speak Emily \"Asi si říkáte... co taková terapie obnáší?#$b#Pokusím se vám to vysvětlit.\"",
+          "17": "speak Emily \"Hrozně moc z nás se potýká s osobními problémy... věci, které nám brání žít tak jak chceme.$u#$b#Pro mě je důležité, aby všichni žili šťastně a svobodně... proto jsem vymyslela nový druh terapie, který lidem napomáhá dosáhnout takového naplnění.$u\"",
+          "20": "speak Emily \"Je založená na úžasné síle sebevyjádření. Věděli jste, že je to úžasná léčebná metoda?\"",
+          "23": "speak Emily \"Za tímto závojem najdete spoustu věšáků s oblečením. Možností je nekonečné množství.\"",
+          "25": "speak Emily \"Váš úkol je jednoduchý: najděte si šaty, které k vám opravdu promlouvají, a oblečte si je.#$b#Nestyďte se a věřte si sobě a vaší volbě. Ve vás všech dřímá styl, o který si můžete podělit se světem!#$b#Shane, ty půjdeš první!$h\"",
+          "33": "textAboveHead Shane \"No dobře\"",
+          "43": "speak Emily \"Ah, @. Jdeš právě včas. Jen se prostě dívej a měj otevřenou mysl... dobře?\"",
+          "53": "textAboveHead Robin \"Páni...\"",
+          "57": "textAboveHead Abigail \"Hustý\"",
+          "60": "speak Emily \"Shane, ukázal si nám svoji novou stranu, kterou jsme zatím neviděli. Přesně tak to má být!#$b#A teď můžeš jít ven a směle světu ukázat tuto novou tvář!\"",
+          "64": "textAboveHead ClothesTherapyCharacters \"Jasně\"",
+          "69": "speak Emily \"Dobrá, každý si to po jednom vyzkoušíte!\"",
+          "73": "textAboveHead Clint \"Ale ne...\"",
+          "81": "textAboveHead ClothesTherapyCharacters \"Hehe\"",
+          "85": "textAboveHead Lewis \"Panečku!\"",
+          "87": "textAboveHead Emily \"Nádhera!\"",
+          "92": "textAboveHead ClothesTherapyCharacters \"Uvidíme co tomu řekne Demetrius...\"",
+          "98": "textAboveHead Lewis \"Proč ne...\"",
+          "110": "textAboveHead ClothesTherapyCharacters \"Hehe... to není špatné!\"",
+          "115": "textAboveHead Emily \"Sluší vám to!\"",
+          "121": "textAboveHead Abigail \"Teď já!\"",
+          "134": "textAboveHead Emily \"Velmi pěkné!\"",
+          "139": "textAboveHead ClothesTherapyCharacters \"Jsem v tom celá zpocená...\"",
+          "149": "speak Emily \"Clinte? Teď jsi na řadě ty!\"",
+          "154": "textAboveHead Clint \"J...Já?\"",
+          "156": "speak Clint \"*polk*... Dobře, Emily. Udělám to.$4\"",
+          "172": "textAboveHead Emily \"Ach, vypadáš roztomile!\"",
+          "176": "speak Clint \"Ach? Roztomile? ...Ach jo...$7\"",
+          "184": "speak Emily \"No, mám pocit, že to šlo báječně!#$b#Doufám, že jim tento zážitek pomohl alespoň trochu dostat se z jejich ulit.\"",
+          "195": "speak Emily \"@... uhm...$4\"",
+          "199": "speak Clint \"Nedokázal jsem to! Nechci vylézt ze své ulity!$6\"",
+          "206": "speak Clint \"...Ah. Já... Asi tu překážím, že?$7\"",
+          "212": "speak Clint \"Chápu. Raději půjdu... Blahopřeji, @.$7\""
+        },
+        "prizeTicketIntro/n completedFirstBillboardQuest": {
+          "14": "speak Lewis \"Ah, rád tě vidím, @.\"",
+          "17": "speak Lewis \"Právě jsem doplňoval další výhry do automatu zde...\"",
+          "22": "speak Lewis \"Je součástí nového programu pocházející z hlavy mé maličkosti, jenž má za úkol šířit ducha dobrodějství mezi občany... což zahrnuje i tebe!#$b#Je to vskutku velmi jednoduché... stačí pomáhat ostatním ve městě a v některých případech dostaneš za odměnu 'Výherní lístek'. Ty pak můžeš směnit za různé výhry.#$b#A osobně můžu říct že o některé ceny určitě nechceš přijít!$h\"",
+          "27": "speak Lewis \"Mou jedinou obavou je, že lidé budou jen bažit po lístcích a unikne jim podstata šíření pospolitosti s našimi bližními...$s\"",
+          "29": "quickQuestion #Já chci hlavně pomáhat ostatním.#Máš pravdu, chci jen ty ceny.(break)pause 100\\emote Lewis 32\\speak Lewis \"Opravdu? No to rád slyším!$h\"(break)pause 50\\jump Lewis\\pause 500\\speak Lewis \"Rozumím!$u#$b#No... to není plně to co jsem chtěl slyšet, ale aspoň jsi ${upřímný^upřímná}.\"",
+          "31": "speak Lewis \"Každopádně... nezapomeň si občas prohlédnout nástěnku na náměstí ať zjistíš kdo zrovna co potřebuje. To je zaručený způsob jak získat další lístky.#$b#Přeji ti hodně zdaru.\""
+        }
+      }
+    }
+  ]
+}

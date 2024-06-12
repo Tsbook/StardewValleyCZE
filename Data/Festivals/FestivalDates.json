@@ -1,0 +1,18 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/FestivalDates",
+      "Entries": {
+        "spring13": "Festival vajec",
+        "spring24": "Tanec květin",
+        "summer11": "Luau",
+        "summer28": "Tanec měsíčních medúz",
+        "fall16": "Jarmark Stardew Valley",
+        "fall27": "Dušičky",
+        "winter8": "Ledový festival",
+        "winter25": "Hostina Zimní hvězdy"
+      }
+    }
+  ]
+}

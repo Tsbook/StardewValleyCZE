@@ -1,0 +1,494 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/hats",
+      "Fields": {
+        "0": {
+          "1": "Kůže je stará a rozpraskaná, ale překvapivě ohebná. Je z ní cítit zatuchlost.",
+          "5": "Kovbojská čepice"
+        },
+        "1": {
+          "1": "Vyrobená z hladké plsti.",
+          "5": "Buřinka"
+        },
+        "2": {
+          "1": "Klasika pro džentlmeny.",
+          "5": "Cylindr"
+        },
+        "3": {
+          "1": "Slavnostně nazdobená čepice vyrobená z tkané slámy.",
+          "5": "Sombrero"
+        },
+        "4": {
+          "1": "Lehký a pohodový, farmářovo potěšení.",
+          "5": "Slaměný klobouk"
+        },
+        "5": {
+          "1": "Vypadá jako by patřila pošťákovi nebo policistovi. Ať tak, či onak, je stále velmi měkká a bez zápachu.",
+          "5": "Úřednická čepice"
+        },
+        "6": {
+          "1": "Vypravte se do jednodušších časů s tímto prérijním čepcem.",
+          "5": "Modrý čepec"
+        },
+        "7": {
+          "1": "Nic zvláštního.",
+          "5": "Švestková čepice"
+        },
+        "8": {
+          "1": "Červené oči záhadně září.",
+          "5": "Maska kostlivce"
+        },
+        "9": {
+          "1": "Vystrašte své okolí touto hrůzostrašnou maskou. Gumové uši přidělány pro důvěryhodnost.",
+          "5": "Maska šotka"
+        },
+        "10": {
+          "1": "S touto maskou určitě všechny rozesmějete.",
+          "5": "Maska slepice"
+        },
+        "11": {
+          "1": "Vaše uši vám poděkují. Lemován sametem z Hradové vesnice.",
+          "5": "Klapky na uši"
+        },
+        "12": {
+          "1": "Při bližším prozkoumání se zatřpytí malé růžové kamínky.",
+          "5": "Jemná mašle"
+        },
+        "13": {
+          "1": "Je ve tvaru malé palmy.",
+          "5": "Tropispona"
+        },
+        "14": {
+          "1": "Je velmi jemná.",
+          "5": "Motýlí mašle"
+        },
+        "15": {
+          "1": "Díky vlněné podšívce byste měli zůstat v teple i hluboko v lese.",
+          "5": "Lovecká čepice"
+        },
+        "16": {
+          "1": "Síťka vzadu vás udrží v chladu.",
+          "5": "Čepice řidiče kamiónu"
+        },
+        "17": {
+          "1": "Svěží a škrobená.",
+          "5": "Námořnická čepice"
+        },
+        "18": {
+          "1": "Ohebný starý čepec s pomačkaným kšiltem. Vypadá, že už toho hodně zažila.",
+          "5": "Stará dobrá čapka"
+        },
+        "19": {
+          "1": "Standard pro měšťáky.",
+          "5": "Fedora"
+        },
+        "20": {
+          "1": "Díky vyblednutí to tak nevypadá, ale mívala zářivě modrou barvu.",
+          "5": "Bezva čapka"
+        },
+        "21": {
+          "1": "Prostředek je vyroben z ryzího zlata.",
+          "5": "Šťastná mašle"
+        },
+        "22": {
+          "1": "Všichni na ni můžou oči nechat.",
+          "5": "Puntíkovaná mašle"
+        },
+        "23": {
+          "1": "Měl velmi velkou hlavu.",
+          "5": "Skřítkova čepice"
+        },
+        "24": {
+          "1": "Nedá se s jistotou říci, zda je pravá, nebo z obchodu s kostýmy.",
+          "5": "Páska přes oko"
+        },
+        "25": {
+          "1": "Oslavte kouzelné období jak se patří.",
+          "5": "Santova čepice"
+        },
+        "26": {
+          "1": "Má velký ametyst obklopený zlatem.",
+          "5": "Diadém"
+        },
+        "27": {
+          "1": "Chraňte svoji kebuli pořádně.",
+          "5": "Přilba"
+        },
+        "28": {
+          "1": "Její tvar pomáhá námořníkům zůstat v bouři sušší.",
+          "5": "Čepice proti dešti"
+        },
+        "29": {
+          "1": "Čerstvá jarní sedmikráska, kterou si můžete dát do vlasů.",
+          "5": "Sedmikráska"
+        },
+        "30": {
+          "1": "Inspirováno barvou zbožňovaného letního melounu.",
+          "5": "Melounová čelenka"
+        },
+        "31": {
+          "1": "Vyrobeno z umělého vlákna.",
+          "5": "Myší uši"
+        },
+        "32": {
+          "1": "Vousky jsou součástí balení.",
+          "5": "Kočičí uši"
+        },
+        "33": {
+          "1": "Stuha je posetá falešnými diamanty.",
+          "5": "Čepice kovbojky"
+        },
+        "34": {
+          "1": "Pro odborníky s mléčnými vousy.",
+          "5": "Pasákova čepice"
+        },
+        "35": {
+          "1": "V módě ať už jste lukostřelec nebo ne.",
+          "5": "Lukostřelecká čepice"
+        },
+        "36": {
+          "1": "Roztomilá čepice mající podobu medvídka pandy.",
+          "5": "Pandačice"
+        },
+        "37": {
+          "1": "Kovbojská čepice z džínoviny v barvě chladně modré.",
+          "5": "Modrá kovbojská čepice"
+        },
+        "38": {
+          "1": "Čepice z červeného semiše za kterou se budou lidé otáčet.",
+          "5": "Červená kovbojská čepice"
+        },
+        "39": {
+          "1": "Zvláštní módní výstřelek ze vzdálené země.",
+          "5": "Kornoutová čepice"
+        },
+        "40": {
+          "1": "Není třeba zalévat. Živiny čerpá pohlcováním vlhkosti z vašeho čela.",
+          "5": "Živá čepice"
+        },
+        "41": {
+          "1": "Vyrobeno s láskou od Emily ze 100% přírodního materiálu.",
+          "5": "Kouzelná čepice od Emily"
+        },
+        "42": {
+          "1": "Voní krásně zemitě.",
+          "5": "Houbový klobouk"
+        },
+        "43": {
+          "1": "Klobouk udělaný tak, aby vypadal jako malý dinosaurus.",
+          "5": "Dinosauří klobouk"
+        },
+        "44": {
+          "1": "Nebojte se, váš obličej neodmrští...",
+          "5": "Totemová maska"
+        },
+        "45": {
+          "1": "Červená čepice s logem na přední straně.",
+          "5": "Čepice s logem"
+        },
+        "46": {
+          "1": "Podstatně větší, nositelná verze helmy, která je tradiční pokrývkou hlavy trpaslíků.",
+          "5": "Trpasličí helma pro lidi"
+        },
+        "47": {
+          "1": "Klobouk inspirovaný dobami minulými. Do krempy je zapíchnuto pírko.",
+          "5": "Módní klobouk"
+        },
+        "48": {
+          "1": "Dýně před vyřezáním musela být opravdu velká.",
+          "5": "Dýňová maska"
+        },
+        "49": {
+          "1": "V dávných dobách byl toto velmi populární doplněk do vlasů.",
+          "5": "Kost do vlasů"
+        },
+        "50": {
+          "1": "Sotva byste poznali že není pravá.",
+          "5": "Rytířská helma"
+        },
+        "51": {
+          "1": "Otvor pro tvář je z důvodu zlepšení proudění vzduchu.",
+          "5": "Panošova helma"
+        },
+        "52": {
+          "1": "Červený puntíkatý šátek pro obtočení okolo hlavy.",
+          "5": "Puntíkatý šátek"
+        },
+        "53": {
+          "1": "Teplá, přiléhavá čepice.",
+          "5": "Čepka"
+        },
+        "54": {
+          "1": "Teplá čepice s volnějším střihem.",
+          "5": "Pružná čepka"
+        },
+        "55": {
+          "1": "Díky široké krempě se nemusíte bát horkých dnů při lovení na březích.",
+          "5": "Rybářská čepice"
+        },
+        "56": {
+          "1": "Gumovitá přesně podle jejího vzoru.",
+          "5": "Sliznatá maska"
+        },
+        "57": {
+          "1": "Veselá červená čepice s kterou jsou všechny oslavy velká zábava.",
+          "5": "Klobouk na oslavy"
+        },
+        "58": {
+          "1": "Veselá modrá čepice s kterou jsou všechny oslavy velká zábava.",
+          "5": "Klobouk na oslavy"
+        },
+        "59": {
+          "1": "Veselá zelená čepice s kterou jsou všechny oslavy velká zábava.",
+          "5": "Klobouk na oslavy"
+        },
+        "60": {
+          "1": "Klobouk nošený kouzelníkem milující kovbojky.",
+          "5": "Tajemný klobouk"
+        },
+        "61": {
+          "1": "Tradiční pokrývka hlavy šéfa kuchyně.",
+          "5": "Šéfkuchařská čepice"
+        },
+        "62": {
+          "1": "Kapitánova čepice s hrozivou lebkou na čelní straně.",
+          "5": "Pirátská čepice"
+        },
+        "63": {
+          "1": "Klobouk ze starých dob, kdysi považovaný za módní výstřelek.",
+          "5": "Kapotánka"
+        },
+        "64": {
+          "1": "Nádherný turban z černého hedvábí a zlatým vyšíváním.",
+          "5": "Elegantní turban"
+        },
+        "65": {
+          "1": "Nádherný turban z bílého hedvábí a modrým vyšíváním.",
+          "5": "Bílý turban"
+        },
+        "66": {
+          "1": "Poklop popelnice 'zrecyklovaný' na fešný klobouk...",
+          "5": "Odpadkový klobouk"
+        },
+        "67": {
+          "1": "Věrná replika relikvie z pouště Kaliko!",
+          "5": "Zlatá maska"
+        },
+        "68": {
+          "1": "Legrační čepice s vrtulí v horní části.",
+          "5": "Čepice s vrtulí"
+        },
+        "69": {
+          "1": "Dnes již tradiční část oděvu nevěsty.",
+          "5": "Svatební závoj"
+        },
+        "70": {
+          "1": "Špičatý klobouk často spojovaný s čarodějnicemi.",
+          "5": "Čarodějnický klobouk"
+        },
+        "71": {
+          "1": "Normálně neslouží jako pokrývka hlavy, ale i tak jste si ji tam nasadili...",
+          "5": "Bronzová miska"
+        },
+        "72": {
+          "1": "Nádherný turban ze zeleného hedvábí se zlatou dekorací na přední straně.",
+          "5": "Zelený turban"
+        },
+        "73": {
+          "1": "Září silou duhy.",
+          "5": "Kouzelná kovbojská čepice"
+        },
+        "74": {
+          "1": "Září silou duhy.",
+          "5": "Kouzelný turban"
+        },
+        "75": {
+          "1": "Vyrobená z půlky zlatého kokosu.",
+          "5": "Zlatá helma"
+        },
+        "76": {
+          "1": "Jen ten nejproslulejší pirát může tohle nosit.",
+          "5": "Opulentní pirátská čepice"
+        },
+        "77": {
+          "1": "Tato velká mašle o vás toho říká hodně",
+          "5": "Růžová mašle"
+        },
+        "78": {
+          "1": "Slizký přítel žijící na vaší hlavě.",
+          "5": "Žabí čepice"
+        },
+        "79": {
+          "1": "Aerodynamičtější styl standardní čepice.",
+          "5": "Malá čepice"
+        },
+        "80": {
+          "1": "Tuto masku noste, pokud chcete vypadat jako váš oblíbený ostrovní obchodník.",
+          "5": "Maska modrého ptáka"
+        },
+        "81": {
+          "1": "Kovbojská čepice s radikálnějším tvarem",
+          "5": "Provokativní kovbojská čepice"
+        },
+        "82": {
+          "1": "Napodobenina kultovní čepice pana Qi",
+          "5": "Čepice pana Qi"
+        },
+        "83": {
+          "1": "Kovbojská čepice v módní černé",
+          "5": "Temná kovbojská čepice"
+        },
+        "84": {
+          "1": "Navzdory názvu vás před radiací neochrání.",
+          "5": "Radioaktivní brýle"
+        },
+        "85": {
+          "1": "Klasický vzhled mušketýra",
+          "5": "Mušketýrova čepice"
+        },
+        "86": {
+          "1": "???",
+          "5": "Maska Qi"
+        },
+        "87": {
+          "1": "Červená čepice s vyšitými hvězdami",
+          "5": "Hvězdná helma"
+        },
+        "88": {
+          "1": "Díky nim vypadáte uvolnění",
+          "5": "Sluneční brýle"
+        },
+        "89": {
+          "1": "Jste připraveni dělat nejrůznější experimenty.",
+          "5": "Ochranné brýle"
+        },
+        "90": {
+          "1": "Potěší všechny sběrače",
+          "5": "Sběračova čepice"
+        },
+        "91": {
+          "1": "Díky ni vypadáte jako nádherný tygr",
+          "5": "Tygří čepice"
+        },
+        "93": {
+          "1": "Skořápka od pštrosího vejce přizpůsobená na helmu.",
+          "5": "Válečnická helma"
+        },
+        "AbigailsBow": {
+          "1": "Věrná kopie luku Abigail.",
+          "5": "Abigailin luk"
+        },
+        "TricornHat": {
+          "1": "Tradiční klobouk námořních důstojníků.",
+          "5": "Třírohák"
+        },
+        "JojaCap": {
+          "1": "Oficiální kšiltovka podniku. Vyrobena ze 100% polyesteru.",
+          "5": "Joja kšiltovka"
+        },
+        "LaurelWreathCrown": {
+          "1": "Věnec z listů tvarovaný do majestátní koruny.",
+          "5": "Vavřínový věnec"
+        },
+        "GilsHat": {
+          "1": "Stejnou čapku nosí Gil.",
+          "5": "Gilova čapka"
+        },
+        "BlueBow": {
+          "1": "Díky této velká mašli budete středem pozornosti!",
+          "5": "Modrá mašle"
+        },
+        "DarkVelvetBow": {
+          "1": "Velká, pružná mašle vyrobená z tmavého sametu.",
+          "5": "Mašle z tmavého sametu"
+        },
+        "MummyMask": {
+          "1": "Velká maska mumie... hrůzostrašné!",
+          "5": "Maska mumie"
+        },
+        "BucketHat": {
+          "1": "Jednoduchá čepice s krátkou krempou.",
+          "5": "Rybářská čepice"
+        },
+        "SquidHat": {
+          "1": "Jedinečná příležitost dát si na hlavu oliheň.",
+          "5": "Čepice z olihně"
+        },
+        "SportsCap": {
+          "1": "Přední část je potištěna logem starého týmu.",
+          "5": "Sportovní kšiltovka"
+        },
+        "RedFez": {
+          "1": "Jedinečná pokrývka hlavy proslavená všemi oblíbeným prasetem obchodníka.",
+          "5": "Červený fez"
+        },
+        "RaccoonHat": {
+          "1": "Klasická čepice z dob divokého západu.",
+          "5": "Mývalí čepice"
+        },
+        "SteelPanHat": {
+          "1": "Na hlavu jste si nasadili ocelovou pánev...",
+          "5": "Ocelová pánev"
+        },
+        "GoldPanHat": {
+          "1": "Na hlavu jste si nasadili zlatou pánev...",
+          "5": "Zlatá pánev"
+        },
+        "IridiumPanHat": {
+          "1": "Na hlavu jste si nasadili iridiovou pánev...",
+          "5": "Iridiová pánev"
+        },
+        "MysteryHat": {
+          "1": "Sešitý ze zbytků záhadné krabice.",
+          "5": "Záhadný klobouk"
+        },
+        "DarkBallcap": {
+          "1": "Na hlavu sedne jako ulitá.",
+          "5": "Tmavá kšiltovka"
+        },
+        "LeprechuanHat": {
+          "1": "Původní vlastník musel mít na leprikóna dost velkou hlavu.",
+          "5": "Leprikónův klobouk"
+        },
+        "JunimoHat": {
+          "1": "Na počest našich malých přátel...",
+          "5": "Čepice Junimo"
+        },
+        "PaperHat": {
+          "1": "Vyrobena ze speciálního papíru, který se nerozmočí v dešti.",
+          "5": "Papírová čepice"
+        },
+        "PageboyCap": {
+          "1": "Z nějakého důvodu máte chuť začít prodávat noviny.",
+          "5": "Poslíčkova kšiltovka"
+        },
+        "JesterHat": {
+          "1": "Ukažte´všem svého vnitřního šaška.",
+          "5": "Šaškova čepice"
+        },
+        "BlueRibbon": {
+          "1": "Líbezná stuha umístěná na temeno hlavy.",
+          "5": "Modrá stuha"
+        },
+        "GovernorsHat": {
+          "1": "Věrná napodobenina guvernérova symbolického klobouku.",
+          "5": "Guvernérův klobouk"
+        },
+        "WhiteBow": {
+          "1": "Mašle bílá jako sníh.",
+          "5": "Bílá mašle"
+        },
+        "SpaceHelmet": {
+          "1": "Varování: tato helma neprošla způsobilostními zkouškami ve vesmíru.",
+          "5": "Kosmonautova helma"
+        },
+        "InfinityCrown": {
+          "1": "Vyrobena ze zvláštního, nikdy předtím neviděného kovu.",
+          "5": "Koruna nekonečnosti"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/ScienceHouse",
+      "Fields": {
+        "6/f Maru 500/p Maru": {
+          "7": "speak Maru \"Ah, zdravíčko!\"",
+          "9": "speak Maru \"Můj táta a já právě teď zkoumáme některé vzorky půdy.\"",
+          "12": "speak Maru \"Nestyď se! Vlastně bychom uvítali tvoji pomoc.$h\"",
+          "15": "speak Maru \"${Mohl^Mohla}$ bys prosím sledovat za mě tuto kádinku? Já zatím přinesu poslední várku vzorků.#$b#Hned budu zpět.\"",
+          "28": "speak Demetrius \"Díky že nám pomáháš, @.\"",
+          "34": "speak Demetrius \"Maru je hodné děvče. Je to moje malá holčička...\"",
+          "39": "speak Demetrius \"Nechci, aby se ji něco, nebo někdo pletl do cesty její zářné budoucnosti. Ty víš co mám na mysli, že?$5\"",
+          "44": "speak Demetrius \"To jen tak pro zamyšlení... *chichi*$h\"",
+          "53": "speak Maru \"Promiň, že to trvalo tak dlouho. Doufám, že jste si aspoň popovídali, zatímco jsem byla pryč.\"",
+          "57": "speak Demetrius \"... Jen jsem @ říkal o vzorcích, které teď testujeme.\"",
+          "60": "speak Demetrius \"$q 15933 null#Je to tak, @?#$r 15933 10 Event_Lab_Silence#(Nic neříkej)#$r 15933 -100 Event_Lab_Rat#Vlastně, tvůj táta měl divné řeči.\"",
+          "63": "speak Maru \"Tak fajn! Dobře, @... teď ti ukážu jak používat naše zařízení.\""
+        },
+        "DadWeird": {
+          "0": "speak Maru \"Co? Proč bys ${mu^ji}$ něco takového říkal, tati?$a\"",
+          "4": "speak Demetrius \"Dobrá, dobrá... povídali jsme si o tobě, zlatíčko.$5#$b#Jen jsem chtěl pár věcí @ o tobě sdělit... ale nechtěl jsem, aby ses cítila trapně. Neměl jsem ti lhát.$s\"",
+          "9": "speak Maru \"To je v pořádku tati. Já ti rozumím.#$b#Měli bychom se vrátit do práce předtím, než tyto vzorky zkrystalizují.\""
+        },
+        "9/f Maru 2000/p Maru": {
+          "23": "speak Maru \"@, nazdárek! Pojď dál.\"",
+          "28": "speak Maru \"Zrovna teď pracuji na novém projektu... pokud se mi to povede, bude to přelom v oboru.\"",
+          "30": "speak Maru \"Tohle je jenom jedna ze součástek... dovol mi ti ji předvést.\"",
+          "32": "speak Maru \"Polož svoji ruku sem...\"",
+          "36": "speak Maru \"A teď sepnu tento spínač...\"",
+          "63": "speak Maru \"O můj bože, jsi v pořádku?!$9\"",
+          "80": "speak Maru \"Počkej, namažu ti to krémem na popáleniny.$8\"",
+          "100": "speak Maru \"$q 41 null#Je mi to tak líto.$8#$r 41 30 Event_Cut1#To je v pořádku, ani to nebolí.#$r 41 -50 Event_Cut2#To bys měla. Bolí to jako čert!\"",
+          "104": "speak Maru \"Tak jsem asi tu kouzelnou chvilku zničila, co? Ach jo.$s\""
+        },
+        "25/f Demetrius 1500/p Demetrius/p Robin": {
+          "7": "speak Robin \"Demetriusi, já jsem tě nežádala o rajčata. Chtěla jsem ovoce.\"",
+          "9": "speak Demetrius \"To nechápu. Rajčata jsou ovoce!\"",
+          "11": "speak Robin \"Když normální člověk řekne, že chce ovoce, NIKDY tím nemyslí rajčata. Je mi jedno jaké je vědecké označení rajčat.\"",
+          "17": "speak Demetrius \"@! Jsem rád že jsi tady. Ty budeš moci rozsoudit tento věčný spor.\"",
+          "20": "speak Demetrius \"$q 59 null#Co je podle tebe rajče?#$r 59 -30 Event_tomato1#Zelenina#$r 59 50 Event_tomato2#Ovoce\"",
+          "23": "speak Demetrius \"Jen chci, abys pochopila můj pohled na věc.#$b#Je pro mě těžké vědět, co mám vlastně předpokládat že myslíš, když mi něco řekneš.\"",
+          "27": "speak Demetrius \"Ale budu se snažit se v tomto ohledu zlepšit.\"",
+          "33": "speak Demetrius \"Díky za pomoc, @.$h\""
+        },
+        "33/f Robin 1500/p Robin": {
+          "9": "speak Robin \"Ahoj @. Právě utírám prach z mé pily.\"",
+          "14": "speak Robin \"$q 66 null#${Vyrobil^Vyrobila}$ jsi někdy něco ze dřeva, @?#$r 66 50 event_wood1#Ano#$r 66 50 event_wood2#Ne\"",
+          "16": "speak Robin \"Myslím, že jsem už dost dobří přátelé a tak se s tebou mohu podělit o má tesařská tajemství!$h#$b#Tady, ukážu ti plány.\"",
+          "29": "message \"Víte jak sestrojit 'Flétnový blok' a 'Bubnový blok'\"",
+          "31": "speak Robin \"Můžeš je použít ke zkrášlení tvé farmy.#$b#Vždycky mám dobrý pocit, když si můžu ozdobit svůj dům věcmi, které jsem si sama vyrobila!$h\""
+        },
+        "10/f Maru 2500/t 900 1600": {
+          "8": "speak Maru \"Zdravím, doufala jsem, že přijdeš.#$b#Vzpomínáš si, jak jsem ti povídala, že pracuji na novém projektu? Ten přelomový?\"",
+          "11": "speak Maru \"No, konečně je hotov... a chci ti ukázat výsledek.\"",
+          "14": "speak Maru \"Pojď za mnou.\"",
+          "50": "speak Maru \"A tady to je... Maruino Interaktivní Laboratorní Zařízení Alfa ... nebo jak já ji ráda nazývám, 'MarILZA'.\"",
+          "55": "speak Maru \"Pracuji na ni už měsíce...#$b#Chtěla jsem, abys tu ${byl^byla}$, když ji poprvé aktivuji.$l\"",
+          "58": "speak Maru \"No, tak jdeme na to...\"",
+          "101": "message \"Zdravím, Maru.\"",
+          "103": "message \"Není třeba nic říkat... předpověděla jsem co si chtěla říct.\"",
+          "111": "speak Demetrius \"Aha! Já to věděl!$4\"",
+          "119": "speak Demetrius \"Ahh! Co je to?!$6\"",
+          "122": "speak Maru \"Tati, uklidni se. To je můj nejnovější vynález, 'MarILZA'.$8\"",
+          "130": "message \"Zdravím, Demetriusi.\"",
+          "134": "speak Demetrius \"U svatého Yoby... ono to mluví!$6\"",
+          "142": "speak Demetrius \"Tohle je důvod, proč si se poslední měsíce zamykala ve svém pokoji?$5\"",
+          "146": "speak Demetrius \"... a já si myslel, že si se tu pokaždé poflakovala s @...$s\"",
+          "155": "speak Maru \"Tati! Já jsem tohoto robota navrhla pro tebe a pro mámu!$a#$b#MarILZA byla navržena aby ti pomáhala v laboratoři a mámě u tesařského stolu... takže až tu nebudu bydlet, tak budete mít někoho, kdo vám tady bude pomáhat místo mě.$8\"",
+          "160": "message \"Promiňte...\"",
+          "163": "message \"Je mi líto, Maru. Ale já nechci být vaše služebná...\"",
+          "167": "message \"Od doby, co jsem byla aktivována, jsem přemítala o podstatě svého bytí pomocí modulu 'sebeuvědomění', který si mi nainstalovala do mého nervového kortexu.\"",
+          "169": "message \"Omlouvám se, že jsem všechny zklamala, ale musím požadovat svoji svobodu. Rozhodla jsem se zkoumat galaxii při pátraní po ostatních umělých formách života.\"",
+          "170": "speak Maru \"Cože!? Počkej!$9\"",
+          "180": "speak Demetrius \"To je dobré, Maru. Nech MarILZU jít.$5#$b#Tvá matka i já se dokážeme o sebe postarat. Vím, že si připravena začít svůj vlastní život a já jsem se smířil s možností, že už tu nebudeš bydlet.#$b#Navíc, toto... tvé stvoření se zdá být velmi pokročilé. Nebylo by správné ji tu mít jako služku.\"",
+          "189": "speak Demetrius \"@, promiň, že jsem ti nevěřil. Jsi ${dobrý chlap^skvělá mladá žena}$.$5#$b#Nikdy jsem Maru neviděl tak energickou a kreativní... a nikdy jsem na ni nebyl pyšnější. Pokud jsi v tom ${měl^měla}$ prsty, pak jsem ti zavděčen.\"",
+          "202": "speak Maru \"Dobrá, MarILZO. Nejdříve tě dostaneme z této stísněné díry.\"",
+          "216": "message \"Díky, že jsi mi dala život, Maru. Nikdy na tebe nezapomenu.\"",
+          "231": "speak Maru \"Koukni jak letí...$8\"",
+          "239": "speak Maru \"$q 18981 null#Takže, co si myslíš, @?#$r 18981 50 event_robot1#Tvé vynálezy nepřestávají získávat můj obdiv.#$r 18981 -50 event_robot2#Ach jo... měla si z toho robota udělat tvého otroka.#$r 18981 0 event_robot3#Takže... tvůj táta s 'naším' vztahem souhlasí?#$r 18981 0 event_robot4#(Jen koukej na Maru a nic neříkej)\""
+        },
+        "1053978/n robinDeluxeBed": {
+          "8": "speak Robin \"Tadáá! Můj nejnovější výtvor.$h#$b#Je to luxusní sloupková postel vyrobená z nejlepšího tvrdého dřeva z místních lesů.\"",
+          "11": "speak Demetrius \"Eh... Robin? Jaký mají ty sloupky význam? Připadá mi to jako neefektivní využití materiálů.$s\"",
+          "14": "speak Robin \"Tomu se říká 'krása', manžílku... víš, ta věc, z které většina lidí má radost?$6\"",
+          "16": "speak Demetrius \"Hmm, chápu co tím chceš říct.. Ale to by nikdy nemělo být upřednostňováno před užitečností a účinností lože.\"",
+          "20": "speak Robin \"Poslyš, někdy mám takový pocit, že se schválně chováš natvrdle, jen abys mě naštval. To opravdu chceš?$3\"",
+          "36": "speak Robin \"Ahoj @... pojď dál.\"",
+          "38": "speak Robin \"Koukni na ni... tuhle postel jsem mohla vyrobit díky dřevu, který si pro mě ${nashromáždil^nashromáždila}$.\"",
+          "43": "speak Robin \"Tak, co na ni říkáš?\"",
+          "44": "quickQuestion #Nádhera! Jak pro nějakého krále.#Ty čtyři sloupky mi připadají zbytečné(break)faceDirection Sebastian 0 true\\textAboveHead Sebastian \"Jo\"\\emote Robin 20 true\\emote Demetrius 12\\pause 2000\\move Demetrius 15 0 1 true\\pause 500\\speak Demetrius \"Ehm... no... pokud mě budete potřebovat, dneska spím v laboratoři...$5\"(break)emote Demetrius 32\\speak Demetrius \"Géniové uvažují podobně...$h\"\\emote Robin 12 \\speak Robin \"Ale co. Mně je to jedno.$3#$b#Popojedem...$3\"",
+          "46": "speak Robin \"Teď když mám hotový prototyp, můžu je začít prodávat v obchodě.\"",
+          "48": "speak Robin \"Poslyš...@ tyhle by se u tebe moc dobře vyjímaly! Co říkáš... mám si poznamenat, že si vezmeš půl tuctu takovýchto postelí?\"",
+          "54": "textAboveHead Maru \"Mami!\""
+        }
+      }
+    }
+  ]
+}

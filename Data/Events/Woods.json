@@ -1,0 +1,28 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Woods",
+      "Fields": {
+        "2123343/e 2111294/t 2200 2540/w sunny/F/D Emily": {
+          "15": "speak Emily \"No není tohleto pohodička?\"",
+          "21": "speak Emily \"Vlastně se trochu bojím...$u\"",
+          "37": "speak Emily \"Ha... je tu docela zima...$4\"",
+          "158": "speak Emily \"Medvěd! Doufám že nemá hlad... $6\"",
+          "170": "speak Emily \"Ah... druhý spacák zůstal venku...$u#$b#Tam mě ale za žádnou cenu nikdo nedostane!$6\"",
+          "172": "speak Emily \"Um.. @? Nevadilo by ti, kdybychom dnes spali v jednom spacáku?$4\""
+        },
+        "2120303/S 23/i 724/t 600 1900": {
+          "23": "speak Bear \"Ta vůně... pojď blíž...$2\"",
+          "29": "speak Bear \"Haha... Ne každý den si můžu promluvit s člověkem. Že máš v sobě trochu 'kouzla lesa'?... cítím to.$3\"",
+          "34": "speak Bear \"Takže tedy... můj dopis... ${přinesl^přinesla}$ jsi tu dobrotu?\"",
+          "51": "speak Bear \"HÓóÓóÓóó... to je síla... to je pořádná pecka!$h#$b#...Je to má oblíbená šťáva... a s ní je svět vždycky lepší.$h\"",
+          "123": "speak Bear \"...Dneškem sis ${získal^získala}$ nového přítele, @.\"",
+          "176": "speak Bear \"Chci ti ukázat něco velmi zajímavého...\"",
+          "200": "message \"Medvěd vám zanechal své vědomosti...\"",
+          "203": "message \"Lososky a ostružiny mají nyní 3krát větší hodnotu!\""
+        }
+      }
+    }
+  ]
+}

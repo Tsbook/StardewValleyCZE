@@ -1,0 +1,22 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Sunroom",
+      "Fields": {
+        "719926/t 900 1700/w sunny": {
+          "20": "speak Caroline \"Ah, zdravím! Dobré ráno, @. Jsem ráda, že jsi ${přišel^přišla}$...#$b#Chtěla jsem ti něco ukázat... je to má soukromá sluneční místnost.\"",
+          "23": "speak Caroline \"Takže, co na ni říkáš?\"",
+          "25": "quickQuestion #To je nádhera!#Velmi uvolňující.#Je tu hrozné vedro...#Má farma je lepší!(break)pause 100\\speak Caroline \"Děkuji! Hodně jsme pracovala na dosažení současného stavu...$h\"(break)pause 100\\speak Caroline \"Souhlasím... když vstoupím do této místnosti, okamžitě se cítím klidná a uvolněná. Je to opravdu terapeutické!\"(break)pause 100\\speak Caroline \"Opravdu? Pro mě osobně je toto teplo uklidňující.$s#$b#Lepší je, když se vůbec nehýbeš.\"(break)emote Caroline 16\\pause 100\\speak Caroline \"Ah, ale pěstování rostlin je tvé živobytí... pro mě je tohle pouze koníček.\"",
+          "28": "speak Caroline \"Chci ti říct, že toto je mé útočiště... místo, kde vždy můžu najít klid...\"",
+          "31": "speak Caroline \"A také pít mnou vypěstovaný čaj! Pojď, naliju ti šálek...\"",
+          "48": "quickQuestion Chceš se napít?#Ano#Ne(break)farmerEat 614\\pause 1000(break)pause 100\\speak Caroline \"Rozumím, je to tvé rozhodnutí...\"",
+          "55": "textAboveHead Caroline \"Výborný\"",
+          "58": "speak Caroline \"Ráda sem každý den chodím dát si hrníček čerstvého čaje.#$b#Je to můj malý rituál... #$b#Hmm... pokusím se ti jej vysvětlit...$h\"",
+          "66": "speak Caroline \"Doufám, že ti to dává smysl... #$b#Život může být velmi hektický, a proto mít takovýto koníček je milé pobavení.\"",
+          "70": "speak Caroline \"Kdykoliv se ti zachce, můžeš sem přijít a odpočinout si, co říkáš?\""
+        }
+      }
+    }
+  ]
+}

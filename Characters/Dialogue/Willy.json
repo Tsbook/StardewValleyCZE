@@ -1,0 +1,52 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Willy",
+      "Entries": {
+        "Introduction": "Zdravím příteli! Je hezké vidět, že se mladí lidé stěhují do našeho údolí. V této době to není moc běžné.",
+        "AcceptGift_(O)StardropTea": "U všech sumců...  šálek řaje kapky hvězd! A to jsem si myslel že se vyskytuje pouze v bájích a pověstech. Děkuji pěkně.",
+        "AcceptGift_(O)Book_Crabbing": "Áno...  tohle je nesmrtelná klasika. Při každém čtení nezůstane mé oko suché. Žádný pořádný rybář se nesmíří mít pouze jednu kopii! Děkuji.$h",
+        "AcceptGift_(O)Book_Roe": "Díky! Ideální četba pro dlouhé zimní večery. Ach, dokonce se z ní i line vůně moře...$h",
+        "AcceptGift_(O)SkillBook_1": "Ach, 'Návnada a splávek'... tohle je povinné čtení pro všechny rybáře, ale předplatné stojí velké peníze. V průběhu let to byl užitečný zdroj informací a rad ohledně rybaření. Moc ti děkuji!$h",
+        "AcceptGift_coffee_item": "Ach, tohle hezky zahřeje mé staré kosti. Děkuji.",
+        "GreenRain": "Áno... já jen doufám, že tento zvláštní déšť nijak rybám neublíží... jinak by mi to mohlo zničit život!",
+        "GreenRainFinished": "Zdá se že jsou všechny ryby zdravé jako předtím. Dokonce bych přísahal, že berou s velkou silou!",
+        "GreenRain_2": "Pokud se rybám déšť líbí, tak mně taky.",
+        "AcceptGift_(O)682": "To je otřesné! ...co je to za příšeru?",
+        "AcceptGift_(O)336": "křup*... jo, to je určitě zlato. Hehe! To je dárek k nezaplacení!$h",
+        "married": "Takže končíš s životem starého mládence, co?^Tak slečna už je na vdávání, jo?#$b#Jen nezanevři na rybaření...",
+        "fishCaught_160": "Aha, tak jsi konečně ${chytil^chytila}$ Ďasa, jo? To je hezký začátečnický úlovek a první krůčky do světa vzácných ryb.",
+        "fishCaught_159": "Vidím, že jsi konečně ${pokořil^pokořila}$ Karmínovce! Tahle ryba mě trýznila po několik let. Skoro se ji podařilo prokousat skrz dřevem v dolní části mého domu!",
+        "fishCaught_163": "U všech rybích vousů... ty jsi to ${dokázal. Chytil^dokázala. Chytila}$ jsi Legendu. Už jsem ani nevěřil, že se tohoto dne dožiju...$h#$b#No, ${synku, dokázal^slečno, dokázala}$ jsi to... po dlouhé době ${ses stal tím nejlepším rybářem^ses stala tou nejlepší rybářkou}$ které tohle údolí mělo poctu poskytnout domov.$h",
+        "fishCaught_775": "Výborně, další mistrný úlovek v podobě Ledoryby... jedna z nejkluzčích a nejproradnějších ryb kterou jsme měl tu čest zápasit!#$e#Kolikrát si ji zkoušel ulovit?",
+        "fishCaught_682": "*čich* *čich*... můj nos mi říká, že jsi ${zkoušel^zkoušela}$ své štěstí v kanálech, ${hochu^děvenko}$.#$b#Je to zcela netradiční místo na lov. Dle mýtů tam žije obrovský kapr, toxickým odpadem zmutovaný do hrůzné příšery...",
+        "summer_19": "Zítra se koná každoroční pstruhová derby... áno, je to slavnostní hřeb všech sladkovodních rybářů!#$e#Rybáři z celého světa se sjedou do našeho malého městečka, aby získali příležitost chytit našeho nádherného duhového pstruha...#$e#Doufám, že se tam potkáme, ${hochu˘slečinko}!$h#$e#Následující dva dny budu mít v obchodě otevřeno jen na jednu hodinu ráno od devíti. Takže pokud budeš něco potřebovat, můžeš se stavit v tu dobu.",
+        "summer_20": "Nastal den D! Můj prut, návnady, splávky, vše pečlivě upravené na lov pstruhů...#$e#Tak hodně zdaru!",
+        "summer_21": "Tak co? Berou ti pstruzi?#$b#Já sám jsem našel spoustu zlatých známek... ale ještě jsem neskončil!",
+        "winter_11": "Zítra na pláži se uskuteční malé setkání... říkáme mu 'Olihňobraní'.#$e#Áno... oliheň je pořádný zápasník, co ti nic nedá zadarmo. Ale já věřím, že touto dobou už máš vše na háku.",
+        "winter_12": "Ještě se nevzdávej! Olihněmi se to tu jen hemží...",
+        "winter_13": "Mé staré srdce plesá radostí při pohledu na všechny rybáře, co se tu sešli z lásky k řemeslu...$h",
+        "Wed6": "Slyšel jsem takovou zvěst, že v jezírcích mezi vodopády můžeš chytit zvláštní rybu...#$b#Pokud tam tedy dohodíš svým prutem...",
+        "Fri4": "Já ke štěstí potřebuji málo... vystačím si s plnou dýmkou. Pokud je prázdná... no tak ji znovu rychle naplním.$u",
+        "Fair_Judging": "Nedávám si velké šance na vítězství... Ryby jsou sice na pohled hezké, ale moc vábně nevoní...$s",
+        "Fair_Judged": "Hmm, dostal jsem málo bodů. Starosta asi není moc velký fanda ryb. No co se dá dělat...$s",
+        "accept_869": "Ahá... tohle je perfektní návnada pro sumce, kterého se už dlouho dobu snažím chytit!#$b#Počkej, výměnou ti chci dát tohle. Nevím co to je, ale před nedávnem jsme to našel vyplavené na pláži.#$b#Něco mi říká, že ty tajemství tohoto medailónku objasníš, ${chlapče^děvenko}$.",
+        "FullCrabPond": "*čich*... Ahhh. ta stará známá vůně. Že ty tu pěstuješ kraby, co?#$b#Ty jsi ${muž^žena}$ podle mého gusta, @. Haha!$h#$b#Tady máš, vem si to. Našel jsem to na pláži... Šetřil jsem si to na zvláštní příležitost. Ne vždy se najde někdo, kdo sdílí moji vášeň pro kraby! [797]",
+        "MovieInvitation": "Ah... film. To je od tebe hezké, ${mladíku^slečinko}$.#$b#Jen tu dokouřím svoji fajfku a vyrazím.",
+        "Mon": "Zdravím synku.^Zdravím slečinko.#$b#Dnes to vypadá na slušné počasí na rybaření, ne?",
+        "Mon4": "${Zkusil^Zkusila}$ jsi své štěstí v místních vodách? Vypadáš že by z tebe ${mohl^mohla}$ být ${skvělý rybář^skvělá rybářka}$, pokud bys doopravdy ${chtěl^chtěla}$.",
+        "Tue": "Opravdový rybář má k vodě úctu... na to nikdy nezapomeň.",
+        "Tue6": "Můj starej byl také rybář, jako já. Vyrostl jsem plavbou mezi kapradinovými ostrovy, živil se od úlovku k úlovku.#$e#Život rybáře je těžkým ale je na něm něco, co mě pohání dál.",
+        "Wed": "Některé ryby přicházejí a odcházejí s ročními obdobími. Jiné zase lze chytit pouze v dešti nebo v noci.",
+        "Thu": "*mumly* *mumly*... Hmm? Řekl bych ti, o čem přemýšlím, kdyby to nebyla rybářská tajemství.",
+        "Thu2": "Kolují tu řeči, že v těchto končinách byly zahlédnuty nějaké velmi vzácné ryby... ale pouze zkušený rybář má šanci změřit s nimi své síly.#$e#Pokud chceš vzácnou rybu navnadit, je třeba mít tu nejlepší návnadu, jakou dokážeš sehnat.",
+        "Fri": "Pokud fakt chceš, aby se ti ryba chytila na háček, nezapomeň na něj dát návnadu.",
+        "Sat": "Kdyby trochu více ožila místní rybářská činnost, možná bych zvážil rozšíření nabídky v obchodě.",
+        "Sat8": "Jak ti berou?#$e#Já se snažím chytat co nejvíce to jde, ale není to snadné, když se k tomu ještě musím starat o obchod.",
+        "Sun": "Když si koupíš vysoce kvalitní rybářský prut, budeš moci na vlasec nasadit návnadu a náčiní.#$b#Díky návnadě se ryba zakousne rychleji a náčiní ti může usnadnit práci při navíjení.#$e#Druhů náčiní je celá řada s různými výhodami. Většinou jsou docela chatrné, tak se nediv, když se ti po chvíli nějaké rozpadne.",
+        "Sun10": "Aha, tady je můj rejdař, @!$h^Aha, tady je má rejdařka, @!$h#$e#Dal bych ti slevu na návnadu, kdybych si to mohl dovolit.$s"
+      }
+    }
+  ]
+}

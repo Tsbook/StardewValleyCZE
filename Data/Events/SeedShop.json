@@ -1,0 +1,82 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/SeedShop",
+      "Fields": {
+        "1/f Abigail 500/p Abigail/d Sat": {
+          "45": "speak Abigail \"Nevkrádej se takhle do mého pokoje, ${vyděsil^vyděsila}$ jsi mě!\"",
+          "47": "speak Abigail \"*ah*... už hodiny hraju 'Pouť krále prérie' a nemůžu se dostat přes první úroveň...$s#$b#Tahle hra je vážně těžká!$a#$b#To, anebo jsem v ní naprosto neschopná.$s\"",
+          "52": "speak Abigail \"Hele, chceš si tu hru zahrát se mnou? S tvoji pomocí možná budu mít lepší výsledek.\"",
+          "72": "speak Abigail \"Uh, vzdávám to... nikdy se nedostanu přes první úroveň.$s#$b#No nic... díky za snahu.\""
+        },
+        "beatGame": {
+          "1": "speak Abigail \"Ha, to byla sranda!$h#$b#No, díky @. Vypadá to, že víš jak zacházet s joystickem, co? Asi to dává smysl. $h^Díky, @. Vůbec jsem nečekala, že budeš umět tak dobře zacházet s joystickem! Ale zdá se, že máš zkušenosti.$h\""
+        },
+        "3/f Abigail 2000/p Abigail/t 2000 2200/n abbySpiritBoard": {
+          "6": "speak Abigail \"Ahoj! Doufala jsem, že se tu zastavíš. Chci ti něco ukázat.\"",
+          "10": "speak Abigail \"Víš co to je? Říká se tomu deska mrtvých. Už si ji někdy ${používal^používala}$?\"",
+          "15": "speak Abigail \"Dej své ruce na destičku tak jak je mám já...$l\"",
+          "20": "speak Abigail \"A teď by nás duše měly navést k...$h\"",
+          "23": "speak Abigail \"PODÍVEJ, hýbe se!$7\"",
+          "25": "speak Abigail \"První písmeno je... 'J' ... druhé je 'A'\"",
+          "27": "speak Abigail \"Další je... '<' ...\"",
+          "29": "speak Abigail \"Páni, koukni jak lítá! Píše... '%firstnameletter'...#$b#JA < %firstnameletter...?\"",
+          "43": "speak Abigail \"Jejda, omylem jsem desku strhla! Ha ha...$h#$b#Stejně je to jen hloupá hra, nic to neznamená.$9\"",
+          "47": "speak Abigail \"Já, hm, mám ještě něco na práci. Už budeš muset jít... promiň.$9\""
+        },
+        "16/f Pierre 1500/p Pierre": {
+          "16": "message \"Nalezena Pierrova 'tajná skrýš'.\"",
+          "18": "speak Pierre \"Hej! Kdo je v mé ložnici?$4\"",
+          "34": "speak Pierre \"Co...? Jak si to ${našel^našla}$?!$4\"",
+          "38": "speak Pierre \"Rychle, dej mi to!$u\"",
+          "45": "speak Pierre \"$q 50 null#Slib mi, že o tom nikomu nikdy neřekneš.#$r 50 70 Event_naga1#Tvoje tajemství je u mě v bezpečí.#$r 50 -500 Event_naga2#Tvoje žena by o tom měla vědět.\"",
+          "50": "speak Pierre \"*grrr*... a teď si budu muset najít novou skrýš...*grrrr*$u \""
+        },
+        "17/f Caroline 1500/p Caroline/p Abigail": {
+          "7": "speak Abigail \"Přestaň mi řídit můj život!$a\"",
+          "9": "speak Caroline \"Tak dost! Necháváme tě tady žít zadarmo, dokud nedokončíš školu a ty nemáš ani kapku vděku!$u\"",
+          "11": "speak Abigail \"Přestaň mě nutit cítit vinu.$a#$b#Cením si vaší pomoci, ale jestli čekáš, že díky tomu se budu oblékat tak jak chceš ty, je šílenost.$a#$b#Už nejsem malá holka, mami.$u\"",
+          "15": "speak Caroline \"...Máš pravdu. Omlouvám se.$s\"",
+          "21": "speak Abigail \"Je tam někdo?$7\"",
+          "29": "speak Abigail \"Přísahám, v tomto domě straší.\"",
+          "32": "end dialogue Abigail \"Urgghh...$a#$b#Promiň... Před chvílí jsem se hádala s mámou.$s\""
+        },
+        "58/f Harvey 1500/t 1100 1500": {
+          "158": "speak Caroline \"Dobrá! Tímto skončíme naši lekci aerobiku!#$b#Tak co, zpotili jste se?$h\"",
+          "160": "speak Harvey \"*hah*...*hah*...Ano.$7\"",
+          "171": "speak Harvey \"@! Ty jsi mě ${viděl^viděla}$?$8#$b#...To je tak trapné... Nechtěl jsem aby o tom někdo věděl. A už vůbec ne ty.$s\"",
+          "173": "speak Harvey \"Jen se snažím udržet v kondici. Jak stárneš, vyžaduje to více úsilí.#$b#Nejsem ale na tom moc dobře... Sotva jim stačím.$s\"",
+          "177": "speak Harvey \"$q -1 null#Můžu tě o něco požádat? Nikomu ve městě prosím neříkej, že dělám taneční aerobik, dobře?#$r -1 20 event_aerobics1#Nikomu ani muk.#$r -1 -50 event_aerobics2#To nemůžu slíbit.\"",
+          "179": "end dialogue Harvey \"Páni, to bylo ale ...\""
+        },
+        "3102768/j 15/H": {
+          "11": "speak Pierre \"Vítej u Pierra! Jak ti můžu dnes pomoci?\"",
+          "23": "speak Morris \"Ehm...\"",
+          "29": "speak Morris \"To neuvěříte co tu pro vás mám lidičky... kupóny na 50% slevu na nákup v JojaMartu!\"",
+          "31": "textAboveHead Pierre \"50 procent!?!?\"",
+          "40": "speak Morris \"No? Jsou nějací zájemci?\"",
+          "63": "speak Pierre \"Ale... takovým cenám nemůžu konkurovat! Prodával bych ve ztrátě!$s\"",
+          "69": "speak Morris \"Musí to pro Vás být tak těžké... v jednu chvíli jen tak ztratit všechny věrné zákazníky.#$b#Ale můžete se jim divit? Společnost Joja je jednoznačně ta nejlepší volba.$h#$b#Brzo si to uvědomí celé město.\"",
+          "81": "end dialogue Pierre \"Ach jo...$s\""
+        },
+        "963113/n pierreQualityCrops": {
+          "6": "speak Pierre \"Gusi, mám pro tebe přesně to pravé...\"",
+          "7": "speak Gus \"Jsem jedno ucho.\"",
+          "8": "speak Pierre \"Nabízím ti balíček místní organicky pěstované zeleniny... jsou to staré kvalitní odrůdy...#$b#Každý kus byl vlastnoručně sklizen a roztříděn pro zaručení jen té nejlepší kvality a chuti.#$b#Tohle je jedinečná nabídka, žádná taková jiná už nebude!\"",
+          "9": "speak Gus \"To zní opravdu dobře! V hospodě by se mi určitě hodilo mít trochu kvalitní zeleniny. Kolik to stojí?\"",
+          "12": "speak Pierre \"JENOM... *šepty* *šepty*\"",
+          "14": "speak Gus \"Co jsi říkal?#$b#Hahaha... chvilku jsem myslel, že říkáš '25 000 zlatých'.$h\"",
+          "16": "speak Pierre \"Hehe... přesně tak. To je skoro zadarmo, že?\"",
+          "20": "speak Gus \"Pierre, zbláznil ses? To si nikdy nebudu moci dovolit. Musel bych prodat hospodu!$3\"",
+          "24": "speak Jodi \"Zaslechla jsem tu cenu... to je šílené! Měl byste se stydět.$3\"",
+          "26": "speak Pierre \"Počkat! A co takhle 10 000 zlatých!?$4\"",
+          "27": "textAboveHead Jodi \"V žádném případě!\"",
+          "36": "speak Pierre \"Je to katastrofa, @... $s#$b#Byl jsem přesvědčen, že tohle je jistá a spolehlivá obchodnická strategie.$s#$b#Ale asi to vypadá, že nikdo není ochoten koupit zeleninu za desetinásobek ceny, i když na ně nalepím štítky s textem 'organické' nebo 'bio'.$s\"",
+          "38": "quickQuestion #Někdy vyhraješ, někdy prohraješ#Neměl bys být tak chamtivý#Mně se nelíbí že nikdo nechce moji zeleninu(break)pause 300\\speak Pierre \"Máš pravdu, obchodník musí někdy zariskovat, bez toho to nejde.\"(break)emote Pierre 12\\speak Pierre \"No počkej, já nikoho nenutím, aby si kupoval zboží! Pokud se jim cena nelíbí, můžou jít jinam.$3\"\\pause 1000\\speak Pierre \"...ale, asi máš pravdu. Pokud si všechny zákazníky naštvu, brzo nebudu mít žádné...$s\"(break)faceDirection Jodi 3\\speak Jodi \"Tvá zelenina vypadá dobře, @. Nás znechutila Pierrova cena.\"\\faceDirection Jodi 1\\pause 1000",
+          "40": "speak Pierre \"Mimochodem, @... vypadáš jako někdo, kdo by si dnes k večeři ${rád dal^ráda dala}$ zeleninu.#$b#Co ty na to? Chceš si svoji zeleninu odkoupit zpět za skromnou cenu ve výši 2 501g?\""
+        }
+      }
+    }
+  ]
+}

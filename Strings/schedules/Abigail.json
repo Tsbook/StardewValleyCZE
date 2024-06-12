@@ -1,0 +1,20 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Abigail",
+      "Entries": {
+        "Sun.000": "Schováváme se tady, abychom s nikým nemuseli mluvit.",
+        "marriage_Mon.002": "Argh... sama to pořád nedokážu dohrát..$s",
+        "spring_4.000": "Uh... Dnes musím jít na prohlídku k doktorovi.$s",
+        "marriage_Fri.001": "Super že se naše stará parta zase sešla. Nic se nezměnilo.$h",
+        "spring_4.002": "Jak dlouho tady ještě budu muset být, doktore? Mám hlad.$s",
+        "marriage_Mon.001": "Ahoj, @. Ráda tady odpočívám, je tu takové ticho.",
+        "marriage_Fri.000": "Jak se vede, @? Já jdu jen pozdravit svoji mámu.",
+        "marriage_Mon.000": "Táta vypadá, že se mu tady beze mě daří.",
+        "winter_15.000": "Tohle je tak tajuplné... Moc se mi to líbí!",
+        "spring_4.001": "Jsem tu jen na každoroční prohlídce! Neboj se, nejsem těh... teda, nemocná! Hehe.$9"
+      }
+    }
+  ]
+}

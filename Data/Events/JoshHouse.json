@@ -1,0 +1,57 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/JoshHouse",
+      "Fields": {
+        "18/f George 1500/p George": {
+          "5": "speak George \"Hnnnngh....Já prostě na to nedosáhnu!$u#$b#Kdybych jen mohl vstát z tohoto proklatého vozíku...$s\"",
+          "24": "speak George \"Díky, mladý muži.^Díky, slečno.\"",
+          "32": "speak George \"*vzdech*...Stalo se to před 30 lety.$s#$b#Pracoval jsem v uhelných dolech. Končila nám šichta, ale potřebovali jsme rozrazit ještě jednu žílu.#$b#Šel jsem tam zapálit nálož dynamitu, ale sklouzla mi noha do trhliny a já ho upustil. Dynamit explodoval při nárazu.\"",
+          "34": "speak George \"Další věc co si pamatuji, je jak ležím v nemocnici... a jak mi říkají že již nikdy nebudu chodit.\"",
+          "36": "speak George \"A tak to je. Asi sis ${myslel^myslela}$, že jsem jen příliš starý, abych mohl chodit.#$b#Rád ti povím, že nebýt té nehody, bych byl hbitější než srnka!\"",
+          "41": "speak George \"Byl si na mě velmi hodný, chlapče. Oceňuji to.^Byla jste na mě velmi hodná, slečno. Oceňuji to.#$b#Když jsi v tomto věku, začneš zapomínat, že někomu na tobě záleží.\""
+        },
+        "19/f Evelyn 1000/p Evelyn": {
+          "8": "speak Evelyn \"Oh! @! Přemýšlíš co to tak dobře voní?#$b#Tedy, to je od tebe velmi hezké! Právě peču své slavné sušenky!$h\"",
+          "10": "speak Evelyn \"Tady, vezmi si a ochutnej.\"",
+          "21": "speak Evelyn \"$q 51 null#No, co na ně říkáš?#$r 51 100 Event_cookies1#Jsou báječné!#$r 51 -100 Event_cookies2#Bylo to jako žvýkat hokejový puk\"",
+          "23": "speak Evelyn \"Myslím, že se už známe dost dobře a proto jsem se rozhodla, že ti svěřím svůj recept. Jen ho prosím uchovej v tajnosti.$h\"",
+          "25": "message \"Víte jak upéct 'Sušenky'\""
+        },
+        "21/f Alex 1250/p Alex": {
+          "5": "speak Alex \"*povzdech*$s\"",
+          "12": "speak Alex \"Ah, ahoj @.$s\"",
+          "19": "speak Alex \"Podívej na všechny tyhle knihy. Ani jednu z nich jsem nečetl. Jen pomyšlení, že jednu z nich otevřu, mě znervózňuje.$s#$b#Ale v tomto světě se moc neuživíš, pokud nebudeš vzdělaný...$s\"",
+          "21": "speak Alex \"$q 57 null#Jsem budižkničemu...$s#$r 57 0 Event_books1#To není pravda. Jsi génius!#$r 57 50 Event_books2#Všichni máme své silné a slabé stránky.#$r 57 -50 Event_books3#Budižkničemu? Jo, to by odpovídalo.\"",
+          "25": "speak Alex \"No, já se jen tak nevzdám!$a\"",
+          "27": "speak Alex \"Pokud budu tvrdě pracovat, dosáhnu čehokoliv!\"",
+          "30": "speak Alex \"Ha, možná jednoho dne se sejdeme u večeře a budeme diskutovat o ....fi-lo-so-fi-i. O tom přece vy chytří lidé tak rádi mluvíte, ne?$h\""
+        },
+        "2119820/f Alex 1500/p Alex": {
+          "16": "speak Alex \"Oh! Ahoj... Právě jsem uprostřed svého každodenního posilovacího cvičení.$6#$b#... promiň, že nemám na sobě tričko.$6\"",
+          "19": "speak Alex \"Uh... @? Chtěl jsem si s tebou o něčem promluvit...$8\"",
+          "22": "speak Alex \"Začal jsem si uvědomovat... um, že jsem v minulosti byl k tobě neslušný. Víš, jak jsem mluvil o lize a tak.$8\"",
+          "26": "speak Alex \"Asi opravdu nemám na to být profesionálním hráčem... možná to byl jen dětský sen... víš?$8#$b#Každopádně... chci se ti omluvit za moje neustálé vychloubání, které bylo někdy až otravné. Jsem rád, že jsi i přesto ${zůstal mým přítelem˘zůstala moji přítelkyní}$.$6\""
+        },
+        "56/f Harvey 500/p George": {
+          "6": "speak Harvey \"Dobře, Georgi. Chci, aby ses teď zhluboka nadechl.\"",
+          "8": "speak Harvey \"Mmhmm... a teď se prosím otoč.\"",
+          "12": "speak Harvey \"Georgi, budu k tobě upřímný. Pokud chceš zůstat zdravý, je třeba v tvém způsobu života udělat pár změn.#$b#Chci, abys omezil svůj příjem sodíku a pokusil se několikrát za den udělat pár cviků s pažemi.\"",
+          "14": "speak George \"Hmmpf... já vím, co je pro mě nejlepší. Kdo si myslíš, že jsi, že mi nařizuješ, jak mám žít?\"",
+          "16": "speak Harvey \"Jsem tvůj doktor, Georgi. To jsem...#$b#A chodil jsem osm let do školy, abych se mohl naučit, jak pomáhat lidem zůstat zdravými.\"",
+          "21": "speak Harvey \"Oh!#$b#Promiň, ale tady bys ${neměl^nemělá}$ být... tyto kontroly mají být soukromé.\"",
+          "23": "speak George \"Ne tak rychle! Chtěl bych slyšet názor od ${tohoto mladého muže^této mladé slečny}$.\"",
+          "25": "speak Harvey \"Nu dobrá...\"",
+          "26": "speak Harvey \"$q 84 null#@, co myslíš, že by George měl udělat?#$r 84 40 event_george1#George by se měl řídit radami doktora.#$r 85 -40 event_george2#George ví, co je pro jeho tělo nejlepší.\"",
+          "30": "speak George \"Dobře. Udělám, co říkáš, doktore.\"",
+          "33": "speak Harvey \"$p 84#Díky za pomoc, @. Cením si toho.$h|Lepší je pacientovi nedávat smíšené zprávy, @. Zkus si to prosím pro příště zapamatovat.\""
+        },
+        "5837189/n georgeGifts": {
+          "25": "speak George \"@? Co má tohle znamenat...#$b#To je snad nějaký žert?\"",
+          "27": "quickQuestion #Chtěli jsme ti ukázat jak moc si tě ceníme#To všechno připravila tvá žena#Ano, je to žert(break)playMusic none\\pause 1000\\positionOffset George -4 0\\playSound Cowboy_Footstep\\pause 500\\positionOffset George -4 0\\playSound Cowboy_Footstep\\pause 500\\positionOffset George -4 0\\playSound Cowboy_Footstep\\pause 500\\specificTemporarySprite georgeLeekGift\\specificTemporarySprite removeSprite 998\\playSound Ship\\pause 800\\showFrame George 21\\playSound coin\\playMusic echos\\pause 1000\\speak George \"Pórek... $s\"\\pause 1000\\speak George \"Můj oblíbený... přesně jako od maminky, před tolika lety...\"\\pause 2000\\showFrame George 0\\faceDirection George 2\\speak George \"Hmm. No...\"\\emote George 40\\showFrame George 16\\pause 500\\speak George \"No... takže... Hmm.#$b#Asi nejsem až tak zapomenutý a přehlížený jak jsem si myslel...$s\"\\faceDirection George 3\\speak George \"Díky, synku.$h^Díky, děvenko.$h#$b#${Projasnil^Projasnila}$ si den jednoho starého páprdy.$h\"\\pause 500\\emote farmer 32(break)playMusic none\\pause 300\\jump George\\pause 1000\\speak George \"Haha! Určitě si myslela, jak mě obalamutí!\"\\pause 500\\faceDirection George 2\\pause 400\\showFrame George 16\\pause 600\\speak George \"Abych ji tak náhodou uvěřil... že pro všechny nejsem nic jiného než velká nepříjemnost.$s\"\\stopAnimation George\\faceDirection George 3\\speak George \"Ale já ji na to neskočím...\"\\pause 400\\faceDirection George 1\\speak George \"A teď zmiz!$u\"\\emote farmer 28(break)playMusic none\\pause 300\\jump George\\pause 1000\\speak George \"Haha! Takže ty jsi náš vtipálek, jo?\"\\emote George 40\\playMusic playful\\speak George \"Haha... Abych pravdu řekl, já byl za mlada taky trochu šprýmař.$h\"\\faceDirection George 2\\speak George \"No, aspoň si mě ${rozesmál^rozesmála}$.$h\"\\pause 2000\\faceDirection George 3\\emote George 8\\speak George \"Co, myslíš, že je otevřu?\"\\jump George\\pause 1000\\speak George \"Haha! Jen tak mě nepřechytračíš. Takový starý trik jako 'vybuchující dárek' poznám už z dálky.\"\\faceDirection George 2\\speak George \"Šup s nima do koše!\"\\pause 300\\faceDirection farmer 2 true\\showFrame farmer 94\\jump farmer"
+        }
+      }
+    }
+  ]
+}

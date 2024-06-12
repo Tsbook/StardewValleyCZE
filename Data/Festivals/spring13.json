@@ -1,0 +1,113 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring13",
+      "Fields": {
+        "afterEggHunt": {
+          "19": "speak Lewis \"Panečku, koukněte se na všechna ta vajíčka!$h#$b#Kdybych vás mladé přinutil sbírat odpadky se stejnou vervou, jakou sbíráte vejce, byli bychom to nejčistší město na této straně Drahokamového moře! *hehe*$h\"",
+          "22": "speak Lewis \"A nyní vyhlásíme vítěze letošního lovu vajec...\"",
+          "31": "speak Lewis \"Tady je tvá cena! Blahopřejeme.\"",
+          "35": "speak Lewis \"No a tímto je letošní festival vajec u konce. Všem vám děkuji za účast!\""
+        },
+        "AbbyWin": {
+          "6": "speak Lewis \"Tady je tvá cena, Abigail. Blahopřejeme!\"",
+          "13": "speak Lewis \"No a tímto je letošní festival vajec u konce. Všem vám děkuji za účast!\""
+        },
+        "mainEvent": {
+          "17": "speak Lewis \"Je čas na zlatý hřeb dnešních oslav... každoroční Jarní lov vajec!$h\"",
+          "22": "speak Lewis \"Uklidněte se, děti. Uchovejte si svoji energii na samotnou soutěž, pokud chcete najít všechna vejce a získat exkluzivní cenu.\"",
+          "35": "speak Lewis \"A nyní... všichni připraveni?\"",
+          "40": "speak Lewis \"Nechť lov vajec započne!$h\""
+        },
+        "afterEggHunt_y2": {
+          "16": "speak Lewis \"Panečku, koukněte se na všechna ta vajíčka!$h#$b#Kdybych vás mladé přinutil sbírat odpadky se stejnou vervou, jakou sbíráte vejce, byli bychom to nejčistší město na této straně Drahokamového moře! *hehe*$h\"",
+          "19": "speak Lewis \"A nyní vyhlásíme vítěze letošního lovu vajec...\"",
+          "28": "speak Lewis \"Tady je tvá cena! Blahopřejeme.\""
+        },
+        "mainEvent_y2": {
+          "14": "speak Lewis \"Je čas na zlatý hřeb dnešních oslav... každoroční Jarní lov vajec!$h\"",
+          "19": "speak Lewis \"Uklidněte se, děti. Uchovejte si svoji energii na samotnou soutěž, pokud chcete najít všechna vejce a získat exkluzivní cenu.\"",
+          "35": "speak Lewis \"A nyní... všichni připraveni?\"",
+          "40": "speak Lewis \"Nechť lov vajec započne!$h\""
+        }
+      },
+      "Entries": {
+        "name": "Festival vajec",
+        "Event.cs.1862": "Sloučením jejich úlovku do jednoho... Jas a Vincent!$1",
+        "Abigail_spouse": "Jdi pryč, až do konce lovu jsme zapřisáhlí nepřátelé!$h",
+        "Leah_spouse": "Ve městě jsem nikdy neměla moc přátel, takže tyhle události mi vždycky připadaly tak trochu nudné. Bufet ale nikdy neomrzí.",
+        "Maru_spouse": "Jen si tu povídám s Penny. Už jsi se ${napral^naprala}$ vajec?",
+        "Penny_spouse": "Maru se mě snaží přesvědčit, abych snědla ďábelské vejce. Nevím jestli na to mám žaludek...",
+        "Haley_spouse": "Plánovala jsem sníst nějaké vejce, ale pak jsem si vzpomněla, že držím jarní dietu.",
+        "Sebastian_spouse": "Budu ti při lovu vajec fandit.$h",
+        "Sam_spouse": "Naše parta se vůbec nezměnila. Bavíš se dobře?",
+        "Alex_spouse": "Ufff... Myslím, že jsem měl až příliš mnoho vajec na tvrdo...$s",
+        "Harvey_spouse": "Jak se všem daří? Jen si na chvíli dávám oddych. Těším se až tě uvidím v lovu vajec!",
+        "Elliott_spouse": "Těší mě tě vidět tak ${uvolněného, drahý^uvolněnou, drahá}$.$h",
+        "Abigail": "Hledání vajec je jako hledání pokladu.$h",
+        "Robin": "Jaro je vždycky rušné období... proto je hezké si udělat den volna a popovídat si s přáteli.",
+        "Demetrius": "Vejce... jaké zvláštní věci co jíme.",
+        "Maru": "Na tato setkání se vždycky těším... díky nim údolí vypadá jako jedna velká komunita.",
+        "Sebastian": "V minulosti jsme pořádali házení zkaženým vejcem...#$b#Starosta Lewis to velmi rychle ukončil.",
+        "Linus": "Nikdo se mnou nepromluví ani slovo... jen jsem si přišel pro ďábelská vejce.",
+        "Pierre": "Hej! Co tu děláš?$u#$b#Ničeho se nedotýkej.",
+        "Caroline": "Abby už odmalička zbožňovala lov vajec.",
+        "Alex": "Snažím se sníst alespoň tři vejce denně.#$e#Potřebuji protein pro své nohy.",
+        "George": "Proč všichni tak šílí? Hmmf...#$b#Vejce... proč vejce?",
+        "Evelyn": "Tento festival byl tradicí už od nepaměti.#$b#Tradice nás spojuje s minulostí a budoucností... je to uklidňující.",
+        "Lewis": "Užíváš si festival, @?$h",
+        "Clint": "Je tu ještě jídlo?$s",
+        "Penny": "Děti se na tento festival těší už celé týdny.",
+        "Pam": "Hehe... dala jsem něco hezkého do punče.$h#$e#Ale pššt... je to jen mezi námi, prcku.",
+        "Emily": "Už od rozbřesku barvím vejce... je to má nejoblíbenější událost jara.$h",
+        "Haley": "Tenhle festival není špatný... na co se ale opravdu těším, je Tanec květin.",
+        "Jodi": "Vincent tenhle festival zbožňuje... je radost vidět jak je šťastný.",
+        "Kent": "Abych byl upřímný, vejce moc v lásce nemám.",
+        "Marlon": "I když mi noha moc neslouží, festival ve městě si ujít nenechám.",
+        "Sam": "*čich*... ah... můj nof... ajergie...$s",
+        "Leah": "Mmmm... ten ovocný punč je neobyčejně dobrý.$h",
+        "Shane": "Naše slepice pracovali přesčas při přípravě na tento festival.#$b#Dnes si zaslouží to nejlepší... misky plné sladké kukuřice!$h",
+        "Marnie": "Vítej na festivalu vajec... pozornost od mého úžasného hejna slepic.",
+        "Elliott": "Občasný odpočinek od práce tě z dlouhodobého hlediska může učinit více produktivním.",
+        "Gus": "Doufám, že všem jídlo chutná... vařil jsem celé dny, abych to vše měl připravené.#$b#Smažená vejce, vejce na tvrdo, sázená vejce, ďábelská vejce, míchaná vejce, čokoládová vejce... vše na co si vzpomeneš!$h",
+        "Dwarf": "Říkáš že na zemí nad námi prší? *ahh*#$e#Déšť... pro nás je to skoro bájný úkaz. Někteří z nás prožijí celý život, aniž by ho jednou spatřili.",
+        "Wizard": "Hmm... a co takhle syrové ještěrčí vejce posypané zčernalým morkem?",
+        "Harvey": "Vejce dozajista mají své místo v dobře vyvážené stravě.#$e#Jejda... už bych si měl uvědomit, že nejsem v ordinaci.$11",
+        "Sandy": "Slyšela jsem, že u tebe doma prší. Proto jsi tady?$h#$e#Vlastně mi déšť tak trochu chybí...$s",
+        "Jas": "Doufám, že nějaká vejce najdu, než je všechny sebere Vincent...$s",
+        "Vincent": "Kdy už začne lov vajec?! Nemůžu se dočkat!!$h",
+        "Willy": "Někdy se mi povede schovat vejce až příliš dobře...#$b#Teda až dokud nenastane léto. Pak začne horký vzduch roznášet zápach zkažených vajec... Hehe. $h",
+        "???": "Ah, dneska kanál pěkně proudí. Bude tu hezky vlhko... přesně jak to mám rád.",
+        "Leo": "Představa, že lovíme vejce mi připadá trochu divná... ale žádná z těchto vajec asi nepochází od členů mé rodiny...$s#$b#No to je jedno, stejně si to zkusím zahrát!$h",
+        "Abigail_y2": "$y 'Myslíš si, že jsem na lov vajec už moc stará?_Ano_Hmmf... zníš jak moje máma!$a_Ne_Jasně, asi máš pravdu. Dokud se bavím, tak proč přestat?'",
+        "Robin_y2": "Po tak dlouhé chladné zimě je skvělé být zase na čerstvém vzduchu, že?",
+        "Demetrius_y2": "Ahoj @, ${ochutnal^ochutnala}$ jsi můj koláč s kapřími jikrami?#$b#...co? Tento festival se jmenuje 'Festival Vajec', ne?",
+        "Maru_y2": "Myslíš, že letos festival vyhraješ?",
+        "Sebastian_y2": "Když o tom teď přemýšlím, trochu se mi po zimě stýská... svým způsobem je ta doba ve všem jednodušší.",
+        "Linus_y2": "Já raději tajně později proklouznu a najím se. Hlavně bych se chtěl zakousnout do toho chutně vypadajícího koláče!",
+        "Pierre_y2": "Snažíš se udělat nějakou tajnou dohodu, co? Haha! Oceňuji tvoji kuráž.",
+        "Caroline_y2": "Možná jsou tyto festivaly trochu nudné, ale jsou také skvělou příležitostí jak se sblížit s tvými sousedy.",
+        "Alex_y2": "Jak moc si myslíš že bych mohl zvětšit své svaly, kdybych jedl třicet vajec denně?",
+        "George_y2": "Evelyn mi k snídani udělala vejce s pórkem, takže dneska mám báječný den.$h",
+        "Evelyn_y2": "$y 'Chováš na své farmě slepice?_Ano_Ah, výborně! Dozajista ti snáší ta nejchutnější vejce...$h_Ne_Jaro je vždycky nejlepší doba začít s jejich chovem, nemyslíš?",
+        "Clint_y2": "Ale ne... *polk*... tento rok mám jíst hlavně saláty...$s",
+        "Penny_y2": "Doufám, že Vincent letos najde alespoň jedno vejce... #$b#Pro jeho sebedůvěru by bylo dobré, kdyby měl pocit, že má aspoň nějakou šanci vyhrát.",
+        "Pam_y2": "Hej prcku... pokud budeš do mě chtít sázet vejce, tak se bez pálivé omáčky neobejdu!",
+        "Emily_y2": "Tento rok jsem pro některá vejce ušila malé kalhoty a čepice. Vypadají tak roztomile!$h",
+        "Haley_y2": "Ah! Málem jsem se zapomněla vyfotit u stojanu se zajíčkem. Co mé vlasy? Nejsou rozcuchané?",
+        "Jodi_y2": "Kent se vždycky zdá být značně nervózní během takovýchto setkání velkého počtu lidí...",
+        "Marlon_y2": "${Lovil^Lovila}$ jsi někdy slizáčí vejce? To je teprve ta pravá výzva...",
+        "Leah_y2": "Hmm... punč byl minulý rok mnohem lepší. Letos mu něco chybí!",
+        "Shane_y2": "Některá vejce mé slepičky snesly až dnes ráno. Sáhni si! Jsou ještě teplá!",
+        "Marnie_y2": "Slepice sice vejce snáší, ale kohouti mají taky důležitou roli... chrání slepice a brání šarvátkám mezi nimi!#$b#To ve výsledku znamená šťastnější slepice a lepši vejce...$h",
+        "Elliott_y2": "Buď velmi ${pozorný^pozorná}$ při sběru vajec, ať náhodou omylem nesebereš havraní vejce. Po zbytek jejich dnů budou k tobě chovat zášť!",
+        "Gus_y2": "Pšššt... tohle si nech pro sebe. Letos jsem zkusil novou přísadu... Kachní vejce v pudingu!$h",
+        "Harvey_y2": "Vejce jsou zdravotně v pořádku, ale nedoporučoval bych jich jíst třicet denně!",
+        "Jas_y2": "Letos se pokusím ze všech sil vyhrát!",
+        "Vincent_y2": "Chci bydlet ve velkém vejci!",
+        "Willy_y2": "Hmm... v těchto vodách lze za deště ulovit sumce. Zaručuji ti, že se s tebou budou přetahovat, ale za tu námahu to stojí!"
+      }
+    }
+  ]
+}

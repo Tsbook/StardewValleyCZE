@@ -1,0 +1,13 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Demetrius",
+      "Entries": {
+        "winter_16.000": "Výrazně doporučuji si vyzkoušet projíždku ponorkou. V hlubokých vodách žijí velmi zajímavé exempláře místní fauny.",
+        "summer_25.000": "Přicházejí k nám studenější období a proto jsem tu na přeočkování proti chřipce.",
+        "summer_25.001": "Doktore Harvey, četl jste poslední vydání 'Biologie a medicína'? Je v něm článek, který byste si měl přečíst."
+      }
+    }
+  ]
+}

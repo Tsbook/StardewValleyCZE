@@ -1,0 +1,16 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Evelyn",
+      "Entries": {
+        "Thu.000": "Toto místo je plné vzpomínek pro mě drahých. Moc ti děkuji, že si toto místo opravil.$h¦Toto místo je plné vzpomínek pro mě drahých. Moc ti děkuji, že si toto místo opravila.$h",
+        "2.001": "Ah jémináčku, proč jsi tady? Je to vážné?$s",
+        "winter_17.000": "Tato tradice tu v Pelikánově nemá tak hluboké kořeny, ale my jsme si ji oblíbili velmi rychle. Nemám pravdu, Georgi?",
+        "23.000": "Ale no tak, drahý... je důležité, aby se na tebe doktor dobře podíval. Je to hodný mladý muž! Tak se prosím tě dobře chovej. Udělej to pro svoji starou drahou ženu.",
+        "23.001": "Mohl byste se podívat na jeho plíce? Poslední dobou často sípe.",
+        "2.000": "Až budeš v mém věku, budeš muset k doktorovi chodit častěji."
+      }
+    }
+  ]
+}

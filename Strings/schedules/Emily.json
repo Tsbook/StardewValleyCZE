@@ -1,0 +1,26 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Emily",
+      "Entries": {
+        "Fri.000": "To je nádherný tkalcovský stav. Teď si připadám jak v nebi.",
+        "marriage_Mon.002": "Chudák Gus má beze mne problémy vše organizovat.",
+        "winter_11.000": "Většina z nás jde za doktorem kvůli každoroční kontrole.",
+        "marriage_Fri.001": "Často sem chodím čichat k ovoci.",
+        "winter_11.001": "Doktore, chtěla bych dostat 'přírodní léky' pokud je to jakkoliv možné.",
+        "marriage_Mon.001": "Dnes se pokouším se jen tak projít. Mám pocit že místo nohou mám nudle.",
+        "marriage_Fri.000": "Jen hledám mořské panny.",
+        "marriage_Mon.000": "Je dobré čas od času navštívit můj starý dům. Je plný vzpomínek.",
+        "marriage_Fri.002": "O pátečních nocích máme frmol, proto tu vypomáhám. Připomíná mi to staré dobré časy a navíc je to švanda!$h",
+        "winter_15.000": "Tahle loď je asi má nejoblíbenější. V mnohém se liší od ostatních!",
+        "Sandy_Birthday_Greeting": "Ahoj Sandy! Mám pro tebe dárek. Doufám, že se ti bude líbit!$h",
+        "Sandy_Birthday_Hangout": "Jsem tak ráda že dneska nemusím pracovat!$h#$e#Dnešek je báječný.",
+        "Sandy_Birthday_Lake": "Uf... to je vedro!#$e#Dnešek se zdá být ideální na koupání.#$e#Jezírko je určitě krásně chladné.$h",
+        "Sandy_Birthday_Bones": "Nemůžu uvěřit že tu něco takového existuje!#$e#Ve vzduchu visí tajemná aura...",
+        "Sandy_Birthday_Camel": "Trávit čas se zvířaty je vždycky má největší záliba.#$e#Tento svět je plný kouzel a tajných duchů.",
+        "Sandy_Birthday_Bye": "Moc jsem si dnešek užila!#$b#Určitě se brzo zase vrátím!$h"
+      }
+    }
+  ]
+}

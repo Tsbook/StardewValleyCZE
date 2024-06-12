@@ -1,0 +1,35 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/IslandSouth",
+      "Fields": {
+        "6497428/e 6497423/f Leo 1500/w sunny/t 600 1800/Hl leoMoved": {
+          "25": "textAboveHead Linus \"Počkej!\"",
+          "89": "speak Linus \"Ahoj, Leo... Mé jméno je Linus.#$b#Slyšel jsem o tobě a tvé papouščí rodině spoustu věcí.#$b#Jste opravdu něco úžasného!$h\"",
+          "91": "speak Willy \"Ano, chlapče... Linus s náma žije na pevnině.#$b#Když jsem uslyšel co se ti stalo... hned jsem ti chtěl pomoct. A tak jsem si tu s Linusem promluvil a vymysleli jsme takový malý plán.$h\"",
+          "95": "speak Willy \"Tak, Linusi... pověz mu co zamýšlíme.\"",
+          "101": "speak Linus \"Leo...#$b#Přál bych si, aby ses s námi vrátil do Stardew Valley.#$b#Je to nádherné místo... není tam takové teplo jako tady, ale je i tak plné života... a já žiju přímo uprostřed toho všeho!#$b#Vím o všem co se šustne, co lze získat z místních vod, co lze sbírat ze stromů, jaká zvířata tu žijí a spoustu dalších věcí...#$b#Říkám ti to proto... že jako ty jsem také dítě přírody. Dalo by se říci, že jsme 'dvě vrány, co si k sobě sedly'.$h#$b#Ale, už nejsem nejmladší... a předtím než odejdu z tohoto světa bych chtěl někomu předat své znalosti...$s#$b#Leo... vrátíš se s námi do údolí?\"",
+          "103": "speak Leo \"O... opustit ostrov?$u\"",
+          "105": "speak Willy \"Vždycky tě můžu odvézt lodí sem na návštěvu!$h#$b#Ale chlapče.... tady nemůžeš žít věčně...#$b#Víš, že u nás doma jsou také děti? Určitě by tě rády poznaly...\"",
+          "108": "speak Leo \"J... jiné děti?$u\"",
+          "112": "speak Willy \"Co si o tom myslíš, @?\"",
+          "114": "quickQuestion #To je skvělý nápad.#Myslím že by tu měl zůstat.#Rozhodnutí je na Leovi...(break)pause 400\\emote Willy 32\\speak Linus \"No, hlavně si uvědomte... rozhodnutí je teď v Leových rukách...\"\\pause 500(break)pause 100\\emote Willy 28\\speak Linus \"Rozumím ti. Tohle je přeci jen jeho domov.$s\"\\move Linus -1 0 0\\speak Linus \"...Změny jsou  těžké, ale občas jsou pro tvé dobro.#$b#Přesto... rozhodnutí nechávám na tobě, Leo.\"(break)faceDirection farmer 1\\pause 400",
+          "119": "speak Leo \"Já... $u#$b#Já půjdu...\"",
+          "122": "textAboveHead Linus \"Výborně!\"",
+          "130": "speak Leo \"Ale... má rodina...$s\"",
+          "161": "speak Leo \"Říká...\"",
+          "165": "speak Leo \"Říká že papoušci mají radost a přejí mi to.#$b#...a chtějí, abych začal novou kapitolu svého života, i když už nebude na tomto ostrově...\"",
+          "168": "speak Leo \"A ať se stane cokoliv... vždycky budou má rodina... navždy.\"",
+          "181": "textAboveHead Leo \"Sbohem!\"",
+          "190": "speak Leo \"Jsem připraven!$h\"",
+          "200": "message \"Nový přírůstek do našeho údolí...\"",
+          "202": "message \"Zdá se, že se naše malé městečko rozroste o nového občana!\""
+        },
+        "PlayerKilled": {
+          "7": "message \" {2}, vzbuď se!\""
+        }
+      }
+    }
+  ]
+}

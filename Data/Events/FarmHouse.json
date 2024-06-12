@@ -1,0 +1,126 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/FarmHouse",
+      "Fields": {
+        "558291/y 3/H": {
+          "8": "speak Grandpa \"Můj drahý vnuku...^Moje drahá vnučko...#$b#Od doby, kdy jsme spolu naposledy mluvili, uběhlo mnoho let. ${Byl jsi ještě malý kluk^Byla jsi ještě malá holčička}$... Vzpomínáš?#$b#Podívej kam jsi ${dospěl^dospěla}$!#$b#I když si na mě možná ${zapomněl^zapomněla}$, já jsem byl celou dobu při tobě.#$b#Mé tělo sice tento svět opustilo, ale mé srdce navždy zůstane v tomto údolí.\"",
+          "11": "speak Grandpa \"Už jsi tu dva roky...\"",
+          "14": "speak Grandpa \"Budoucnost %farm farmy je teď ve tvých rukou.#$b#Sbohem!\""
+        },
+        "558292/e 321777/t 600 620/H": {
+          "9": "speak Grandpa \"Můj drahý vnuku...^Má drahá vnučko...#$b#Jsem rád, že jsi mě ${povolal^povolala}$. Posledně... jsem možná byl na tebe až příliš přísný.#$b#Odpusť mi to. ${Pracoval^Pracovala}$ jsi velmi tvrdě a já jsem na to pyšný.\"",
+          "12": "speak Grandpa \"Tak se podívejme...\""
+        },
+        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": {
+          "6": "speak Emily \"Vítej doma, @. ${Měl^Měla}$ si pěkný den?\"",
+          "10": "speak Emily \"Takže... dokončila jsem projekt, s kterým jsi mi tak hezky ${pomohl^pomohla}$.\"",
+          "13": "speak Emily \"Tadá! Tvůj hezký nový oděv!$h\"",
+          "18": "message \"Od Emily jste obdrželi Kouzelnou čepici, Kouzelné boty, Kouzelné tričko a kalhoty ladící se zbytkem oděvu!\"",
+          "20": "speak Emily \"Vždycky jsem zbožňovala ruční práce, zvláště šití... A tak jsem si řekla, že ti udělám něco vlastnoručně vyrobeného. Vážně jsem si to užila!#$b#Doufám že ti to všechno sedne... a že ta látka tě nebude moc kousat.#$b#Máš tu boty, čepici, tričko a kalhoty! Je to kompletní oděv.\"",
+          "22": "speak Emily \"A pokaždé, co toto oblečení budeš nosit, si vzpomeneš na mě... a budeš vědět, že na tebe tady vždycky budu čekat, až se mi v pořádku vrátíš domů...$l\"",
+          "69": "end dialogue Emily \"A teď honem do postele.\""
+        },
+        "3918600/f Sam 3500/O Sam/t 610 1700/p Sam/L": {
+          "16": "speak Sam \"Ah, čau @. Vypadáš, že si dneska ${měl^měla}$ tam venku dost práce!\"",
+          "21": "speak Sam \"Hmm, poslední dobou jsem přemýšlel...$s#$b#Rád tady s tebou bydlím. vlastně... nic jiného ani nechci!#$b#Ale, mám pocit, že si poslední dobou jen válím šunky. Každý den se poflakuji bezcílně okolo.$s\"",
+          "25": "speak Sam \"Ale já vím, že tobě to nevadí! Vyděláváš dost peněz na farmě, takže já nepotřebuji pracovat a toho si vážně cením!#$b#Ale chci taky mít pocit, že někam přispívám... víš jak to myslím?\"",
+          "28": "speak Sam \"A proto jsem se rozhodl, že si najdu nějakou práci... něco s hudbou.#$b#To jediné jsem miloval nade vše!$h#$b#Uh, teda vedle tebe, samozřejmě!$8#$b#Hehe...$10\"",
+          "30": "speak Sam \"Každopádně... určitě ti řeknu, jak to dopadlo!\""
+        },
+        "3918601/e 3918600/O Sam/t 610 1700/A samJob1/p Sam/L": {
+          "15": "speak Sam \"Hej, @! Poslechni si tohle!$8\"",
+          "20": "speak Sam \"'Drahý Same, jsme potěšeni, že Vám můžeme nabídnout pozici 'pomocného hudebního skladatele' v oddělení televizního vysílání Vysílací Skupiny Zuzu...'$6#$b#Páni! Skládal bych hudbu pro pořad v televizi! To je fakt hustý!$h\"",
+          "24": "textAboveHead Sam \"Aha...\"",
+          "27": "speak Sam \"Hej... počkat...$s#$b#... ten pořad je pro malé děti... 'Náš kamarád Junimo'.$s\"",
+          "30": "speak Sam \"To není úplně to, co jsem si představoval...$s\"",
+          "36": "quickQuestion #Zkus o tom uvažovat jako odrazový můstek své kariéry...#Jen pomysli jak svoji hudbou vykouzlíš úsměv na tvářích dětí!#To je mi líto...(break)pause 100\\speak Sam \"Hmm... jo, taky se na to dá takhle nahlížet.$7\"(break)pause 100\\speak Sam \"No... asi máš pravdu, někdo musí skládat hudbu pro děti. Ale ne že by tohle byla moje 'práce snů'...$7\"(break)pause 100\\speak Sam \"No co se dá dělat. Zkusím se na to dívat i z té světlejší strany, tak jak to dělám vždycky.$7\"",
+          "39": "speak Sam \"Budu asi muset začít 'myslet jako dítě'...\"",
+          "40": "quickQuestion #To ti určitě problém dělat nebude...#Možná by sis mohl bráškovi říct o pomoc!(break)animate Sam false true 100 33\\shake Sam 4000\\pause 500\\textAboveHead Sam \"Hej!\"\\faceDirection farmer 2 true\\animate farmer false true 200 102 103(break)pause 100\\speak Sam \"Hmm... to není špatný nápad. Alespoň bych mu mohl zahrát nějaké písně a zeptat se ho, jestli se mu líbí.#$b#Díky za radu, @.$10\"",
+          "42": "end dialogue Sam \"Budu na tomhle pár dní pracovat.\""
+        },
+        "3918602/e 3918601/O Sam/t 610 1700/A samJob2/p Sam/L": {
+          "8": "speak Sam \"Nazdar, @. Se svoji písničkou jsem zase o kus dál... poslouchej.\"",
+          "19": "speak Sam \"Zatím nic moc... ale až přidám všechny instrumenty, tak to bude super píseň. Uvidíš.\"",
+          "21": "speak Sam \"A víš co? Už mi ani tolik nevadí, že je to pro pořad pro děti.#$b#Někde prostě musíš začít, ne?#$b#A co víš, možná to dokonce bude velký hit na dětských koncertech!$h\"",
+          "24": "end dialogue Sam \"ZA chvíli budu mít písničku dokončenou. Doufám, že se jim bude líbit!\""
+        },
+        "3918603/e 3918602/O Sam/t 610 1700/A samJob3/p Sam/L": {
+          "10": "speak Vincent \"Nemůžu se dočkat, Same!\"",
+          "13": "speak Sam \"Dobře, dobře, Vinci... hned ti tu písničku pustím.$h#$b#Ale musíš dobře poslouchat, abys mi pak mohl říct, zda se ti líbí. Jasné?\"",
+          "16": "textAboveHead Vincent \"Jasně!\"",
+          "47": "speak Jas \"Moc se mi líbila!$h\"",
+          "48": "textAboveHead Vincent \"Mně taky!\"",
+          "54": "speak Sam \"Páni! Tak ohromující reakci jsem nečekal!$8#$b#Super! Tohle bych si nechal líbit!$h\"",
+          "62": "speak Sam \"Hele, díky, že si celou dobu ${držel^držela}$ při mě.#$b#Když o tom přemýšlím... tak skládání písní pro děti se mi vlastně docela líbí. Není to nic prestižního, ale díky mně jsou ty děti opravdu šťastné. A to je důležité!$h\"",
+          "66": "speak Sam \"Tady, chci ti dát tohle. Je to kazeťák s moji písničkou... teď si ji můžeš pustit kdykoliv se ti zachce.\"",
+          "73": "end dialogue Sam \"Hřeje mě u srdce vědomí, že má hudba dělá lidi šťastnými...\""
+        },
+        "3917666/f Maru 3500/O Maru/t 610 1700/p Maru/d Sun/z winter": {
+          "6": "speak Maru \"Ahoj zlato.#$b#Zítra večer se staneme svědky vzácné astronomické události... v blízkosti naší planety prolétne kometa!#$b#Tak jsem přemýšlela... nechceš se na ni podívat společně?$l\"",
+          "9": "speak Maru \"Super!$h#$b#Sejdeme se zítra o půlnoci v horách.#$b#Pokud bude pršet, tak to zkusíme další večer... kometu půjde pozorovat po několik dní.\""
+        },
+        "3912132/e 3912126/O Elliott/A elliottGone/B": {
+          "13": "speak Elliott \"@... tvůj milovaný je zpět...\"",
+          "26": "speak Elliott \"Ah... jak mé oči toužily tě znovu spatřit.$l#$b#Jeden doušek velkého města a jsem ukojen... Mnohem více jsem rád tady s tebou!\"",
+          "29": "speak Elliott \"Tak tedy, předpokládám, že zabřednu opět do své staré rutiny!$h#$b#Mám pár pochůzek, které neodkladně potřebuji udělat...\"",
+          "31": "end dialogue Elliott \"Je skvělé být zase zpátky...\""
+        },
+        "3917626/f Harvey 3500/O Harvey/t 2000 2400/p Harvey/L": {
+          "23": "textAboveHead Harvey \"Chce to sůl...\"",
+          "41": "textAboveHead Harvey \"Pálí se to!\"",
+          "60": "textAboveHead Harvey \"Hmm...\"",
+          "66": "textAboveHead Harvey \"Trošku tohoto...\"",
+          "80": "textAboveHead Harvey \"Kapku tamtoho...\"",
+          "90": "textAboveHead Harvey \"Presto!\"",
+          "98": "speak Harvey \"Ah... jdeš právě včas, @!$h#$b#Dovol mi prostřít stůl...\"",
+          "114": "speak Harvey \"Celý den koukám jak tvrdé pracuješ na naší farmě... tak jsem ti chtěl uvařit speciální večeři jako poděkování.\"",
+          "116": "speak Harvey \"Představuji ti 'zeleninové capellini'... se škeblemi!$h\"",
+          "126": "quickQuestion #Chutná to božsky#To vypadá zdravě#Jsou dost vodovité#Cítím spáleninu#Chutná to jako tvůj knír#Dal jsi tam houby?(break)speak Harvey \"Božsky, jo? To musí být těmi speciálními těstovinami!$h#$b#Jsem rád, že ti chutná! Zasloužíš si jen to nejlepší.$l\"(break)speak Harvey \"Ah ano, to jsem ti zapomněl říct... použil jsem celozrnné těstoviny. A navíc máš na talíři plno čerstvé zeleniny.#$b#Je důležité, abys ${jedl^jedla}$ zdravě, pak budeš žít věčně...$l\"(break)speak Harvey \"Aha... já věděl, že to chce více přisolit.$s#$b#No tak aspoň přijmeš spoustu tekutin.$s\"(break)emote Harvey 28\\speak Harvey \"Ah... byl jsem přesvědčen, že jsem sobě podal tu spálenou porci.$s#$b#Ehm, přestal jsem hlídat jednu pánev a ta začala hořet...Moc mě to mrzí, ${drahý^drahá}$.$s\"(break)jump Harvey\\pause 500\\speak Harvey \"Ahhh...! Hehe. je možné, že mi do těstovin spadl chlup z mých vousů...$8#$b#No co naděláš! Aspoň tam máš více vlákniny, ne? Hehe... (promiň miláčku)$8\"(break)jump Harvey\\pause 400\\speak Harvey \"Oh! Eh... To musí být lanýžový olej, kterým jsem naše jídlo pokapal...$8#$b#${Měl^Měla}$ jsi na mysli výtečnou, jedlou houbu... že ${zlato^miláčku}$? Samozřejmě... Hehe.$8\"",
+          "129": "speak Harvey \"Tak tedy, pověz mi, jak si ${strávil^strávila}$ dnešek...\"",
+          "130": "quickQuestion #Dneska jsem ${pracoval¦pracovala}#V dole jsem ${těžil¦těžila}$#Celý den jsem ${rybařil¦rybařila}$#Ve městě jsem si ${povídal¦povídala}$ s lidmi#Trochu od všeho#Ani si nemůžu vzpomenout#Nic(break)speak Harvey \"Ah ano, stále vidím špínu ve tvých vlasech! Opravdu si cením vší těžké práce, kterou odvádíš, drahoušku.\"(break)speak Harvey \"To zní nebezpečně... jsi si ${jistý^jistá}$, že ti nehrozí úraz?$8#$b#Nechci, abys mi někdy v budoucnu ${skončil^skončila}$ na operačním stole...$s#$b#I tak musím obdivovat jakou máš odvahu...$l\"(break)speak Harvey \"Klidný den u vody? To je určitě velmi uvolňující.#$b#Jsem rád, že si to venku užíváš!$h\"(break)speak Harvey \"Ah, to je dobře. Aktivní sociální život je pro mozek nepostradatelný.#$b#Ale nezapomeň, že jsem tu i já. Zvláště pokud si potřebuješ s někým promluvit!$l\"(break)speak Harvey \"Tomu rozumím. V tomto údolí je toho tolik, co se dá dělat! ...a já vím jak moc si ${pracovitý^pracovitá}$.#$b#Jen si nezapomeň taky odpočinout! Když se takhle vytěžuješ, je snadné dosáhnout limitu svých sil a vyčerpat se.\"(break)speak Harvey \"Ah... také mám tento problém. Dny mi často splývají dohromady... je těžké o všem mít přehled!\"(break)speak Harvey \"Takže sis dnes ${dal^dala}$ volno, ano? To rád slyším.#$b#To budeš díky dnešnímu odpočinku a vydatné večeři mít plno sil do zítřejšího dne.\"",
+          "134": "speak Harvey \"Uf... jsem přecpaný! Ale bylo to výborné...\"",
+          "138": "speak Harvey \"Nádobí umyji já...\"",
+          "142": "speak Harvey \"To je v pořádku... rád pro tebe dělám takovéto věci! Dělá mi to radost.\"",
+          "144": "speak Harvey \"Já vím, že tohle říkám skoro pořád, ale... oženit se s tebou bylo to nejlepší, co se v mém životě stalo!$l\"",
+          "149": "end dialogue Harvey \"To byla pořádná večeře. Čas jít spát...\""
+        },
+        "4325434/f Penny 3500/O Penny/t 1500 1900/p Penny": {
+          "20": "speak Penny \"Vítej doma, ${zlato^miláčku}$... jaký jsi ${měl^měla}$ dneska den?\"",
+          "21": "quickQuestion #Dneska to bylo fajn#Nic moc...#Dnešek byl super!(break)speak Penny \"Takže vše při starém, co?#$b#No možná až ochutnáš můj nový pikantní recept, který je teďka v troubě, budeš mít o zážitek postaráno!$h\"(break)emote Penny 28\\speak Penny \"Aha, to mě mrzí!$s#$b#No, teď když si zpátky doma... vynasnažím se ti zlepšit náladu.\"(break)speak Penny \"Tak to je dobře! Jsem ráda, že si svoji práci tak užíváš.$h\"",
+          "22": "speak Penny \"Konečně jsi zase doma.$l\"",
+          "34": "speak Penny \"Ah, je z tebe cítit vůně venkova...$l#$b#Voníš hezky...$l\"",
+          "59": "speak Penny \"Chtěla jsem si s tebou o něčem promluvit. Moc si cením veškeré těžké dřiny, kterou pro naši rodinu děláš.#$b#A proto je pro mě důležité zajistit, aby při tvém příchodu byl náš dům pěkný a útulný a vše bylo v naprostém pořádku!\"",
+          "61": "speak Penny \"A proto jsem si myslela... že by bylo dobré předělat naši ložnici podle mého návrhu!#$b#Ale nejdřív se tě musím zeptat...$11\"",
+          "62": "quickQuestion Jaký styl se ti nejvíce líbí?#Les a Měsíc: Uklidňující modrá#Jahodový domov#Piráti#Nechci nic předělávat!(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt0\\speak Penny \"Ah... něco uvolňujícího. Rozumím!#$b#Jen na to potřebuji pár dní.#$b#Tvých truhel se nedotknu, ale bylo by od tebe hezké, kdybys je z ložnice ${přesunul^přesunula}$.\"(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt1\\speak Penny \"Něco teplého a vábivého, myslíš? S tím mohu jen souhlasit!#$b#Jen na to potřebuji pár dní.#$b#Tvých truhel se nedotknu, ale bylo by od tebe hezké, kdybys je z ložnice ${přesunul^přesunula}$.\"(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt2\\speak Penny \"Hehe... Dobře. Jak si přeješ, miláčku.$h#$b#Jen na to potřebuji pár dní.#$b#Tvých truhel se nedotknu, ale bylo by od tebe hezké, kdybys je z ložnice ${přesunul^přesunula}$.\"(break)addMailReceived noQuilt\\speak Penny \"Aha! Nevadí... jako bych nic neřekla.$s\"",
+          "68": "speak Penny \"Ah! Mé bochánky jsou hotové.\"",
+          "99": "end dialogue Penny \"Usaď se, ${drahý^drahá}$.\""
+        },
+        "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B": {
+          "18": "speak Penny \"@... dobré ráno...$11\"",
+          "56": "speak Penny \"Cítíš tu neobyčejnou hebkost? Přehoz jsem rukou sama ušila.$11\"",
+          "61": "speak Penny \"Tak, co tomu říkáš?$11\"",
+          "62": "quickQuestion #Vypadá to skvěle!#Nelíbí se mi to.(break)emote Penny 20\\speak Penny \"To jsem ráda. Dům začíná vypadat hezky útulně, ne?$h\"\\faceDirection Penny 2\\faceDirection farmer 2\\emote farmer 20\\faceDirection farmer 3\\faceDirection Penny 1\\pause 1000\\animate Penny false true 100 35\\animate farmer true true 100 101(break)emote Penny 28\\speak Penny \"Aha.. jasně.$s#$b#Starý nábytek jsem dala do truhly... můžeš ho vyměnit za tento...$s\"\\faceDirection Penny 3",
+          "67": "message \"Penny teď velmi tvrdě pracuje na vylepšení domu...\"",
+          "69": "message \"Začíná to tu opravdu vypadat jako domov!\""
+        },
+        "8675611/e 6184643/O Haley/A haleyCakewalk1/t 620 1700/p Haley": {
+          "9": "speak Haley \"Ahoj zlatíčko.#$b#Hele... dostala jsem takový nápad... chci všechny ve městě pozvat na charitativní dortová škatulata.\"",
+          "13": "speak Haley \"Umm... hraje se to podobně jako normální škatulata, ale tady každý vyhraje a dostane dort! Neboj se, uvidíš...$h#$b#Uspořádáme to příští sluneční den na náměstí.#$b#A ještě něco... ${nemohl^nemohla}$ bys přinést čokoládový dort?\"",
+          "14": "quickQuestion Přinesete čokoládový dort?#Ano#Ano (neochotně)(break)speak Haley \"Bezva! Tak zítra na náměstí, pokud nebude pršet.$h\"\\animate Haley false true 100 28\\animate farmer true true 100 101\\positionOffset Haley 8 0\\positionOffset farmer -8 0(break)emote Haley 12\\speak Haley \"Co tě žere?$3#$b#No jak myslíš. Buď zítra přineseš ten čokoládový dort, nebo uvidíš. Tak si to radši pořádně rozmysli.$3\"",
+          "18": "end dialogue Haley \"Já přinesu růžový dort.\""
+        },
+        "9333220/e 9333219/O Sebastian/A sebastianFrog/t 620 1900": {
+          "13": "speak Sebastian \"Koukej, naší malé kamarádce se daří už mnohem lépe.\"",
+          "22": "speak Sebastian \"...ale myslím, že do přírody se už nemůže vrátit... už není tak rychlá, aby mohla utéct predátorům.#$b#...proto jsem ji postavil tohle terárium.#$b#Vypadá šťastně, nemyslíš?$h\"",
+          "29": "speak Sebastian \"Jestlipak se ale bude cítit osaměle...\"",
+          "33": "quickQuestion #Co takhle vytvořit 'žabí útočiště'?#Ona to přežije.(break)speak Sebastian \"...bezpečné místo pro žáby a ropuchy, kteří se sami neuživí? To není špatný nápad.\"(break)speak Sebastian \"Vypadá jako pravý tvrďák. Ale i tak, pokud narazím na další zraněnou žábu, myslím že ji bude lépe s kamarádem.\"",
+          "36": "quickQuestion #Proč vlastně máš tak moc rád žáby?#V tomhle domě nic takového nechci#Hezké že sis našel nového koníčka(break)speak Sebastian \"Hmm... No, rád chodím za deště ven, takže jsem samozřejmě na spoustu z nich takto narazil.#$b#A proto mezi námi vzniklo jakési společné pouto.\"\\faceDirection farmer 1 true\\emote farmer 20(break)emote Sebastian 12\\showFrame Sebastian 12\\pause 400\\speak Sebastian \"Já se nehodlám o tomhle bavit. Tohle je má část domu a já si v ní můžu dělat co se mi zlíbí.\"\\showFrame Sebastian 0(break)speak Sebastian \"Jo, bude to švanda. Trávím hodně času na počítači, proto je hezké mít nějaké skutečné, fyzické koníčky.#$b#Možná zkusím jaké to je šlechtit žáby!$h\"\\faceDirection farmer 1 true\\emote farmer 16\\pause 500",
+          "55": "message \"Dnes se naše rodina o kousek rozrostla...\"",
+          "63": "message \"...a také oslizla!\""
+        }
+      }
+    }
+  ]
+}

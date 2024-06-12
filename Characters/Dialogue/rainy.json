@@ -1,0 +1,40 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/rainy",
+      "Entries": {
+        "Abigail": "V dešti vypadá údolí zajímavěji... nemyslíš?",
+        "Robin": "Déšť mi nezabrání dokončit moji práci!$h#$e#I když s promočeným dřevem není moc sranda pracovat.$s",
+        "Demetrius": "Zdravíčko. Zůstaň doma, pokud se chceš udržet v teple.",
+        "Maru": "Když prší, mám dobrou výmluvu pro celodenní práci na mých vynálezech.$h#$e#Pro tebe to ale musí být dost velká nuda.",
+        "Sebastian": "Když budeš mít štěstí, uvidíš v tomto dešti žábu.",
+        "Linus": "Teplý déšť může posloužit jako příjemná sprcha pro umytí.$h",
+        "Pierre": "Většina lidí v takovémto počasí zůstane doma... to pro můj obchod znamená ztrátu.$s",
+        "Caroline": "Má zahrada dnes září štěstím.$h#$e#... a náš účet za vodu bude tento měsíc o to nižší.",
+        "Alex": "Hmmf. Tohle není dobré počasí na sportování..$s#$e#Ale co, vždycky můžu doma zvedat činky.$h",
+        "George": "Je hrozná zima, co? Zpropadený den toto.",
+        "Evelyn": "Když jsem se dnes vzbudila, odněkud jsem uslyšela kapání vody... střecha má asi někde díru.$s#$e#Byly doby, kdy George by neváhal ani chvilku a hned by ji šel opravit... *povzdech*$s",
+        "Lewis": "Zdravím tě, @. Dáváš si přestávku?#$e#Doufám, že se řeka nevylije z koryta...$s",
+        "Clint": "Dnes je skvělý den na prozkoumávání dolů... Třeba tam objevíš i nějaké vzácné rudy.",
+        "Penny": "Kapky deště dopadající na plechovou střechu našeho přívěsu zní jako tlučení kladiv.#$e#...Mě to ale velmi uklidňuje.$h",
+        "Pam": "Nazdar prcku. Zůstáváš v suchu?",
+        "Emily": "V poušti Kaliko nikdy neprší... Tam bydlí má přítelkyně Sandy.#$e#Škoda že jsem ji dnes nemohla navštívit.$s",
+        "Haley": "Celé ráno jsem si upravovala vlasy... a teď díky dešti všechna ta práce může přijít vniveč.$s#$e#*povzdech* ...Život je někdy pes.",
+        "Jodi": "${Otřel^Otřela}$ sis boty, než jsi sem ${vstoupil^vstoupila}$? Promiň... právě jsem umyla podlahu.#$e#Přesto jsi tu vždy ${vítán^vítána}$! Hehe.$h",
+        "Sam": "Déšť tlumí zvuk mé kytary a proto na ni teď můžu hrát hlasitěji, aniž by se máma rozčilovala. Hehe.$h",
+        "Leah": "Možná bych dnes měla uvařit něco nového a vzrušujícího. Třeba něco pálivého.",
+        "Shane": "Hmm... z tohohle počasí mám vždycky chuť se napít.$s",
+        "Marnie": "Ahoj @. Vypadáš ${zmáčený^zmáčená}$ až na kost... ubožáčku!$h",
+        "Elliott": "Někdy když ležím v posteli slyším jak deštěm proniká zvuk vzdálené mlhové sirény.#$b#Ale když vyhlédnu ze svého okna, vidím jen závěje z šedi.",
+        "Gus": "V takovýto den nejlépe bodne sklenka sušeného červeného vína, nemám pravdu?#$e#Miluji svoji práci. Hehehe",
+        "Dwarf": "Déšť... pro nás je to skoro bájný úkaz. Někteří z nás prožijí celý život, aniž by ho jednou spatřili.",
+        "Wizard": "Jen během těchto bouřkových dnů mohu komunikovat s určitými elementály.#$e#Nepředpokládám, že něco takového pochopíš.",
+        "Harvey": "Ahoj @! Umm... ${měl^měla}$ jsi poslední dobou příležitost přečíst si nějaké knížky v knihovně?#$e#Hehe, no... ummm... tak se zase někdy uvidíme?",
+        "Sandy": "Slyšela jsem, že u tebe doma prší. Proto jsi tady?$h#$e#Vlastně mi déšť tak trochu chybí...$s",
+        "Krobus": "Ah, dneska kanál pěkně proudí. Bude tu hezky vlhko... přesně jak to mám rád.",
+        "Leo": "Údolí v dešti je tak klidné.#$e#Pro mě... je příroda někdo, koho znám a má každý den jinou náladu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Mine",
+      "Fields": {
+        "901756/f Abigail 2500/t 1700 2400/o Abigail": {
+          "56": "speak Abigail \"$q 776589 null#*vzlyk*$s#$r 776589 20 Event_Cave2_1#Co se stalo?#$r 776589 40 Event_Cave2_2#Jsi v pořádku?\"",
+          "63": "speak Abigail \"Víš, že už nějakou dobu cvičím s mečem...$9#$b#No a dneska jsem se rozhodla, že půjdu vyzkoušet své schopnosti do jeskyně...$8\"",
+          "67": "speak Abigail \"...ale začala jsem se bát. Prostě jsem to nemohla udělat.$8\"",
+          "70": "speak Abigail \"$q 34 null#Asi nejsem tak silná jak jsem si myslela...$8#$r 34 20 Event_Cave_1#Se mnou si v bezpečí.#$r 34 40 Event_Cave_2#Já se také bojím.#$r 34 -50 Event_Cave_3#Přestaň, brečíš jako ufňukané dítě.\"",
+          "76": "speak Abigail \"@, Já... já tě mám vážně ráda... více než jako ${přítele^^přítelkyni}$. To víš, ne?$l\"",
+          "78": "speak Abigail \"Nemůžu uvěřit, že to doopravdy říkám... ale já už to nedokážu dusit v sobě. Už dlouhou dobu to takto cítím.$l\"",
+          "80": "speak Abigail \"Nic neříkej. Jen bych chtěla, abychom tady takhle chvíli zůstali...$l^Vůbec jsem netušila, že budu mít tyto pocity k ženám... dokud jsem nepotkala tebe.\""
+        },
+        "100162/t 600 2600": {
+          "10": "speak Marlon \"Hmmm... \"",
+          "19": "speak Marlon \"...Jenom jsem se díval dolů do této staré šachty.#$b#Už desítky let tam nikdo nebyl.\"",
+          "22": "speak Marlon \"I tak, určitě se tam nachází nějaká cenná ruda.#$b#Ale je to temné místo, dlouho nikým nenavštívené... obávám se, že ruda nebude to jediné co tam najdeš...\"",
+          "26": "speak Marlon \"Tady, vezmi si to. Možná to budeš potřebovat.\"",
+          "40": "speak Marlon \"Mimochodem, jmenuji se Marlon. Mám na starosti spolek dobrodruhů, ten hned venku.#$b#Budu si tě hlídat. Dokaž mi, co v tobě je, a já zvážím tvé členství v našem spolku.\""
+        },
+        "PlayerKilled": {
+          "7": "message \" {2}, vzbuď se!\""
+        }
+      }
+    }
+  ]
+}

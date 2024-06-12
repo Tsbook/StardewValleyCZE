@@ -1,0 +1,106 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/Jojacorps",
+      "FromFile": "Minigames/jojacorps.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 84,
+        "Height": 41
+      },
+      "ToArea": {
+        "X": 183,
+        "Y": 67,
+        "Width": 84,
+        "Height": 41
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/Jojacorps",
+      "FromFile": "Minigames/jojacorps.png",
+      "FromArea": {
+        "X": 86,
+        "Y": 23,
+        "Width": 32,
+        "Height": 16
+      },
+      "ToArea": {
+        "X": 426,
+        "Y": 581,
+        "Width": 32,
+        "Height": 16
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/Jojacorps",
+      "FromFile": "Minigames/jojacorps.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 57,
+        "Width": 143,
+        "Height": 57
+      },
+      "ToArea": {
+        "X": 259,
+        "Y": 600,
+        "Width": 143,
+        "Height": 57
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/Jojacorps",
+      "FromFile": "Minigames/jojacorps.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 41,
+        "Width": 95,
+        "Height": 16
+      },
+      "ToArea": {
+        "X": 807,
+        "Y": 616,
+        "Width": 95,
+        "Height": 16
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/Jojacorps",
+      "FromFile": "Minigames/jojacorps.png",
+      "FromArea": {
+        "X": 86,
+        "Y": 1,
+        "Width": 22,
+        "Height": 5
+      },
+      "ToArea": {
+        "X": 119,
+        "Y": 266,
+        "Width": 22,
+        "Height": 5
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/Jojacorps",
+      "FromFile": "Minigames/jojacorps.png",
+      "FromArea": {
+        "X": 86,
+        "Y": 8,
+        "Width": 41,
+        "Height": 13
+      },
+      "ToArea": {
+        "X": 512,
+        "Y": 750,
+        "Width": 41,
+        "Height": 13
+      }
+    }
+  ]
+}

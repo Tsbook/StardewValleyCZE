@@ -1,0 +1,19 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Sam",
+      "Entries": {
+        "fall_11.000": "Dneska musím zajít ke strejdovi doktorovi... Super.$7",
+        "winter_17.000": "Pokud mi vše ostatní nevyjde, možná se stanu kapitánem ponorky. To můře být super.",
+        "marriage_Fri.001": "Promiň zlato. Teď se tu snažím soustředit... $7",
+        "marriage_Mon.001": "Vincent se zdá být beze mě hrozně osamělý. Často jsem si s ním hrál.",
+        "marriage_Fri.000": "Neříkej to mámě... ale navštívil jsem naše jen kvůli obědu zdarma.$h",
+        "fall_11.002": "Právě jsem byl u doktora. Naprosto zdravý a plný síly, jak jsem čekal.$h",
+        "marriage_Mon.000": "Máma se zdá být v pořádku. Možná trochu přepracovaná.",
+        "fall_11.001": "Jsem zdravý klučina, ne doktore? Už můžu jít? Tohle je nuda.",
+        "rain2.000": "Nic se nevyrovná ledově vychlazené Joja Cole v promočený den jako je teď, co?#$e#Jen si dělám srandu. Hehehe.$h"
+      }
+    }
+  ]
+}

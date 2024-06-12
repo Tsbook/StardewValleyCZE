@@ -1,0 +1,44 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Kent",
+      "Entries": {
+        "Mon": "Zdravím, farmáři.#$e#Byl jsem pryč takovou dobu... jako kdybych už jsem sem ani nepatřil.",
+        "AcceptGift_(O)StardropTea": "To je pro mě? Hmm, to jsem nečekal... ale s radostí přijímám. Díky!",
+        "AcceptGift_(O)Book_Bombs": "Hmm, trpasličtinu sice neovládám, ale je to zajímavý přírůstek do mé sbírky. Děkuji ti.",
+        "GreenRain_2": "Hehe... ten déšť je požehnáním. Připomíná nám, že na světě budou vždycky existovat vyšší moci než co si obyčejný člověk dokáže představit nebo vymyslet.#$e#A to je pro mě taková úleva, @.",
+        "married_Sam": "Jako otec si nemohu přát nic lepšího, než vidět jak se z mého syna stává muž. Máte mé srdečné požehnání.$h",
+        "eventSeen_100_memory_oneday": "Omlouvám se za své předchozí chování.#$e#Nechci mít nějaké zvláštní výhody nebo aby se mnou zacházelo v rukavičkách. Chci být normální člověk žijící normální život, jako každý jiný.",
+        "Tue6": "Myslím že se mi daří docela dobře začít si zvykat na normální život. V tomhle ohledu jsou přátele jako ty k nezaplacení.$h",
+        "Wed10": "Být naživu je opravdový dar o který v mžiku můžeš přijít... to měj vždycky na paměti.",
+        "Fri4": "Přemýšlím zda bych měl zkusit začít rybařit. Měl bych aspoň co dělat a moct něčím zaměstnat své ruce.",
+        "Sun4": "Tvá každodenní rutina tě asi hodně zaměstnává, nemám pravdu? To je myslím dobře.#$e#Příliš volného času tě může naopak svazovat. Všem nám prospěje když si do života vneseme trochu řádu.",
+        "Resort_Entering": "Ahoj, @. Rád tě vidím.",
+        "Resort_Leaving": "Čas jít domů.",
+        "Resort_Shore": "Když tu stojím na pláži... cítím vzácný moment klidu.$h#$e#Oceán je opravdu zvláštní místo.",
+        "Resort_Chair": "Tohle je skvělé místo na trávení trochy času s rodinou a sbližování se s nimi. Jsem moc rád, že si to tady opravil.^Tohle je skvělé místo na trávení trochy času s rodinou a sbližování se s nimi. Jsem moc rád, že si to tady opravila.",
+        "Resort_Bar": "Jen si jdu pro trochu vody.",
+        "Resort": "Cesta sem lodí byla docela zábava. Dokonce jsem měl příležitost využít svůj námořnický výcvik a pomoc s navigací.$h",
+        "accept_864": "...!$4#$b#...Kde si to ${sebral^sebrala}$?$4#$b#...$5#$b#@, tenhle muž... bojovali jsme spolu ve válce. Byl pro mě jako bratr.#$b#Ale... jen jeden z nás se dokázal vrátit.$5#$b#Nikdy ale nepřišel o svoji odvahu. I když čelil smrti. Opravdový hrdina... nikdy na něj nezapomenu.#$b#Díky že jsi mi to ${přinesl^přinesla}$... hodně to pro mě znamená.#$b#Tady, vezmi si toto na oplátku. Už roky nám to leželo vzadu ve skříni a nikdy jsme to nepoužili.",
+        "reject_865": "Jo... je pevně uzavřena, takže chuť by měla zůstat stále silná a výrazná.",
+        "MovieInvitation": "Ehh... rozumím. Děkuji. Potkáme se tam.$h",
+        "Mon4": "Nevím, jestli si někdy zvyknu být zase doma.#$e#Klid tohoto města mi připadá jako přetvářka. Ale to bude asi jen mnou.",
+        "Tue": "Věci se moc nezměnily co jsem byl pryč#$e#Až na to, že teď jsi tady i ty.",
+        "Tue2": "Věci se moc nezměnily co jsem byl pryč#$e#Až na to, že máme ve městě ${nového farmáře^novou farmářku}$.$h",
+        "Wed6": "...V bojích jsme ztratil spoustu přátel.$s#$e#A to nejsmutnější je, že si ani nedokážu vybavit jejich tváře.#$e#...",
+        "Wed": "Uf, jsi tady nějakou dobu, nemýlím se? Na farmě se ti musí dařit.",
+        "Thu6": "#$1 Kent1#Jsem vzhůru již od 4 hodin... Někdy mám pocit, že už nikdy nebudu žít všedním životem.$k#$e#Sam hodně vyrostl když jsem byl pryč. Teď už je z něj muž.#$e#Kéž bych tu mohl pro něj být.$s",
+        "Thu": "Ty a můj syn jste přátelé?#$e#Pravděpodobně ho znáš lépe, než já...$s",
+        "Thu_inlaw_Sam": "Ahoj, @. Jsi ${spokojený^spokojená v manželském životě?^Ahoj, @. Jsi spokojená v manželském životě?",
+        "Fri": "Dnes se zdá být slušný den na rybaření, že ano?",
+        "Sat": "Jodi mi říkala jak ses stal součástí této komunity.To rád slyším.^Jodi mi říkala jak ses stala součástí této komunity.To rád slyším.",
+        "Sat8": "Mám problémy se spaním, tak mi prosím odpusť, pokud ti připadám unavený.#$e#Jsem si jistý, že to pochopíš.",
+        "Sun": "Nevím co teď mám se sebou dělat, když jsem se vrátil.#$e#Jsem zvyklý mít svůj den více naplánovaný.",
+        "event_popcorn1": "Ty buď zticha! Přestaň se snažit mě obrátit proti mé ženě.$u",
+        "event_popcorn2": "...$s#$b#Máš naprostou pravdu, @.$s",
+        "event_popcorn3": "Nelži mi! Lži nesnáším ze všeho nejvíce!$u"
+      }
+    }
+  ]
+}

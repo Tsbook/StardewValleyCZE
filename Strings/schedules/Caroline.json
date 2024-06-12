@@ -1,0 +1,19 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Caroline",
+      "Entries": {
+        "Fri.000": "Konečně... trocha času pro sebe.",
+        "Sun.000": "To předchozí vlastníci vybudovali místnost s oltářem. My nejsme pobožní, ale necháváme ostatní obyvatele města ji používat jak se jim zachce.",
+        "fall_25.002": "Promiň, musím doktorovi Harveymu něco říct v soukromí...$u",
+        "Tue.000": "Hmm... Měla bych si dnes na aerobické cvičení vzít něco speciálního na sebe?",
+        "Tue.001": "Máš skvělou postavu, Jodi! Ty činky dělají zázraky, co?",
+        "fall_25.000": "Dnes jdu na svoji každoroční prohlídku. Alespoň to není daleko.",
+        "fall_25.001": "Ty jdeš taky za doktorem? Co se stalo?",
+        "Tue.002": "Mmm... myslím, že jsem si dnes zasloužila pár sušenek. *křup*.",
+        "winter_16.000": "Dnes večer chci mít nákupy dárků hotové! Zakřič pokud uvidíš Peirra přicházet..."
+      }
+    }
+  ]
+}

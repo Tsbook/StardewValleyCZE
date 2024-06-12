@@ -1,0 +1,163 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Monsters",
+      "Fields": {
+        "Green Slime": {
+          "14": "Zelený Slizák"
+        },
+        "Dust Spirit": {
+          "14": "Prašný duch"
+        },
+        "Bat": {
+          "14": "Netopýr"
+        },
+        "Frost Bat": {
+          "14": "Ledový netopýr"
+        },
+        "Lava Bat": {
+          "14": "Lávový netopýr"
+        },
+        "Iridium Bat": {
+          "14": "Iridiový netopýr"
+        },
+        "Stone Golem": {
+          "14": "Kamenný golem"
+        },
+        "Wilderness Golem": {
+          "14": "Houštinný golem"
+        },
+        "Iridium Golem": {
+          "14": "Houštinný golem"
+        },
+        "Grub": {
+          "14": "Larva"
+        },
+        "Fly": {
+          "14": "Moucha"
+        },
+        "Frost Jelly": {
+          "14": "Ledoželák"
+        },
+        "Sludge": {
+          "14": "Kalňák"
+        },
+        "Shadow Guy": {
+          "14": "Stínolek"
+        },
+        "Ghost": {
+          "14": "Duch"
+        },
+        "Carbon Ghost": {
+          "14": "Uhlíkový duch"
+        },
+        "Duggy": {
+          "14": "Zakopávač"
+        },
+        "Rock Crab": {
+          "14": "Kamenný krab"
+        },
+        "Truffle Crab": {
+          "14": "Kamenný krab"
+        },
+        "Lava Crab": {
+          "14": "Lávový krab"
+        },
+        "Iridium Crab": {
+          "14": "Iridiový krab"
+        },
+        "Fireball": {
+          "14": "Ohnivá koule"
+        },
+        "Squid Kid": {
+          "14": "Malá oliheň"
+        },
+        "Skeleton Warrior": {
+          "14": "Kostlivcový bojovník"
+        },
+        "Crow": {
+          "14": "Vrána"
+        },
+        "Frog": {
+          "14": "Žába"
+        },
+        "Cat": {
+          "14": "Kočka"
+        },
+        "Shadow Brute": {
+          "14": "Stínostie"
+        },
+        "Shadow Shaman": {
+          "14": "Stínoděj"
+        },
+        "Skeleton": {
+          "14": "Kostlivec"
+        },
+        "Skeleton Mage": {
+          "14": "Kostlivcový mág"
+        },
+        "Metal Head": {
+          "14": "Kovová palice"
+        },
+        "Spiker": {
+          "14": "Nabodávač"
+        },
+        "Bug": {
+          "14": "Brouk"
+        },
+        "Mummy": {
+          "14": "Mumie"
+        },
+        "Big Slime": {
+          "14": "Velký slizák"
+        },
+        "Serpent": {
+          "14": "Vipera"
+        },
+        "Pepper Rex": {
+          "14": "Pepřosaurus"
+        },
+        "Tiger Slime": {
+          "14": "Tigří slizák"
+        },
+        "Lava Lurk": {
+          "14": "Lávový slídil"
+        },
+        "Hot Head": {
+          "14": "Horká palice"
+        },
+        "Magma Sprite": {
+          "14": "Magmový duch"
+        },
+        "Magma Duggy": {
+          "14": "Magmový zakopávač"
+        },
+        "Magma Sparker": {
+          "14": "Magmový jiskřič"
+        },
+        "False Magma Cap": {
+          "14": "Falešná magmovka"
+        },
+        "Dwarvish Sentry": {
+          "14": "Trpasličí strážce"
+        },
+        "Putrid Ghost": {
+          "14": "Páchnoucí duch"
+        },
+        "Shadow Sniper": {
+          "14": "Stínostřelec"
+        },
+        "Spider": {
+          "14": "Pavouk"
+        },
+        "Royal Serpent": {
+          "14": "Královská vipera"
+        },
+        "Blue Squid": {
+          "14": "Modrá oliheň"
+        }
+      }
+    }
+  ]
+}

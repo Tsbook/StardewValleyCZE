@@ -1,0 +1,22 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Leo",
+      "Entries": {
+        "Mon": "Ahoj... vše v pořádku?",
+        "AcceptGift_(O)StardropTea": "Ty jo, chutná stejně jako zlaté oříšky! To je úžasné!",
+        "AcceptGift_(TR)ParrotEgg": "Toto vejce chrání malého ptáčka! Jsem rád,  že jsi mi ho ${přinesl^přinesla}$. Já ho ochráním.",
+        "Mon4": "Hodně jsem se naučil od své papouščí rodiny...#$b#Ale je jasné, že tam ve světě existuje spousta věcí o kterých nic nevím.$s",
+        "Tue": "Když je Slunce naštvané, je v džungli příjemně.#$e#Slunce nás pod listy nenajde. Obelstili jsme ho! Haha...$h",
+        "Wed": "...promiň... dnes nechci s nikým mluvit.$3",
+        "Wed2": "Dávej si pozor v sopce... duchové cizince nemají rádi.",
+        "Thu": "Potkal si už ostatní tvého druhu na ostrově?^Potkala si už ostatní tvého druhu na ostrově?#$b#Já s nimi moc nemluvím. Cítím se bezpečněji tady se svoji rodinou...$3",
+        "Fri": "Jedné noci... byl jsem na vršku sopky a v dálce na obzoru jsem uviděl světla.#$b#Jestlipak jsou v té dálce jiné ptačí rodiny?$3",
+        "Fri4": "Jsem zvědavý, jestli z vrcholu sopky můžu vidět tvůj domov?",
+        "Sat": "...dnes je mi smutno.$s#$e#Jen jdi... bav se. Já chci být smutný.$s",
+        "Sun": "Ostrov navštěvují zvláštní ptáci když prší.#$b#Zkusil jsme s nimi mluvit... ale vždycky odletí pryč.$s#$b#Asi se nechtějí kamarádit...$s"
+      }
+    }
+  ]
+}

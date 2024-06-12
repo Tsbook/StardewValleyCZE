@@ -1,0 +1,40 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Krobus",
+      "Entries": {
+        "4_*": "...Potkal si v dolech další mně podobným? Je mi líto, pokud na tebe zaútočili. Abys to pochopil, naučili jsme se lidí bát... bylo příliš mnoho... nemilých setkání.#$e#Doufám že jsi... nepobil mé přátele, nebo snad ano?",
+        "SpouseStardrop": "Chtěl bych ti tohle dát jako poděkování, že s tebou můžu tady žít.$h",
+        "AcceptBirthdayGift_Positive": "Ah, dárek na připomenutí dne mého vylíhnutí! Děkuji ti velice!$h",
+        "GreenRain": "Dnešní průtok vody je neobvykle vysoký... co se to tam nahoře děje?",
+        "AcceptBirthdayGift_Negative": "Hmm... a tomuhle tedy říkáte 'narozeninový dárek'? Já lidi asi nikdy nepochopím...$s",
+        "AcceptGift_(O)StardropTea": "To je čaj Kapky Hvězd? Velké díky! Jedna kapka tohoto nápoje a můj pokoj je provoněn na celý den.",
+        "AcceptGift_(O)Book_Void": "Hele, koukej! Všichni mí přátele jsou popsáni na těchto stránkách!$h#$b#Počkat, já jsem tu taky...?$7",
+        "AcceptGift_(O)879": "Aha, tuhle voňavku nikdy neodmítnu? Ach, @... promiň, že se takhle před tebou červenám. Ty to možná ani nepoznáš...$4",
+        "AcceptGift_(O)308": "Ach, ta úžasná vůně! Půlku sním a druhou použiji jako tělové mléko...$h",
+        "18_*": "Snažím se tu být tichý jako myška. Bojím si představit co by se stalo, kdyby lidé uslyšeli z kanálů moje divné skřeky...",
+        "eventSeen_691039": "...jsem trochu pošramocený, ale jinak v pořádku.",
+        "Sat4": "Líbilo by se mi více prozkoumat venkovní svět, ale mám obavu že bych tam nahoře necítil v bezpečí.$s",
+        "Sat8": "Asi nikdy nepoznám jaké to je být člověkem... ale díky naším rozhovorům jsem o tom získal alespoň malý obrázek.",
+        "reject_868": "Och, to je ledový střípek! ${Našel^Našla}$ jsi velmi vzácný kouzelný předmět.#$b#Být tebou, tak bych ho ukázal Kouzelníkovy!",
+        "8_*": "Nedávno skončila 1000letá válka mezi námi a trpaslíky. Na obou stranách je stále dost zášti.",
+        "15_*": "Nikomu prosím neříkej, že tady přebývám. Kdyby se to dozvěděli trpaslíci, určitě by na mě poslali nájemného vraha.",
+        "Fri": "...",
+        "Wed": "Na tomto místě nacházím spoustu věcí a také je tu prodávám. Chceš si něco koupit?",
+        "Wed6": "Když přiložíš ucho ke správné trubce, budeš moct uslyšet vše, co se děje v domech odtud dolů.#$b#Já jsem ale tohle nikdy nevyužil ke špehování!$3",
+        "Thu": "Nikomu o mně prosím neříkej.#$b#Lidé mají v povaze zničit věcí, kterým nemohou porozumět.",
+        "Thu6": "Nikomu o mně prosím neříkej.#$b#Většina lidí se nás stínoleků bojí... možná i z dobrého důvodu.$s#$b#Každopádně, pokud by o mně věděli, nebyl bych tu v bezpečí.",
+        "Tue": "Jsem příliš citlivý na sluneční svit a proto po většinu dní nevycházím.#$b#Tady je prostředí dokonalé.#$e#Chceš si něco koupit?",
+        "Mon": "Nemusíš se obávat. Já nejsem jako ostatní.#$e#Sledováním lidí jsem zasvětil spoustu svého času. Vím jak moc rádi nakupujete. Chceš si prohlédnout mé zboží?",
+        "Mon2": "To už si zase zpět? To myslím odpovídá mé teorii o lidském chování.",
+        "Mon6": "'Krobus' znamená v našem jazyce 'překračovatel mostů'.",
+        "Sat": "Během pátků mlčím na znamení mé oddanosti Yobovi.",
+        "Sun": "...Promiň, v přítomnosti lidí jsem stále trochu obezřetný. Avšak můj obchod je pro tebe stále otevřen.",
+        "Sun4": "Ty nejsi jako ostatní lidé, že?",
+        "Sun8": "${Otevřel^Otevřela}$ jsi mé oči novým poznáním o světě lidí. Za to jsem ti vděčný.",
+        "divorced": "..."
+      }
+    }
+  ]
+}

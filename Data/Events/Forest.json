@@ -1,0 +1,185 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Forest",
+      "Fields": {
+        "14/f Haley 2000/z winter/t 1000 1600/w sunny": {
+          "28": "speak Haley \"Ah! @.$8\"",
+          "32": "speak Haley \"Osvětlení je teď tak perfektní... Prostě jsem musela vyjít ven a udělat pár fotek venku.\"",
+          "38": "speak Haley \"Snažím se více spojit s přírodou...#$b#Chtěla bych se dozvědět jaké farmaření je. Je to způsob života o kterém jsem předtím nepřemýšlela.#$b#Tedy, až do teď...$l\"",
+          "42": "speak Haley \"Ha, ty krávy jsou tak rozkošné...\"",
+          "46": "speak Haley \"Hej, mám nápad!$h\"",
+          "54": "speak Haley \"Pojďme se s těmi krávami vyfotit! Můžeš mi ukázat jak se k nim přiblížit.$h#$b#Jen nastavím časovač na foťáku.\"",
+          "69": "speak Haley \"...uf...$9\"",
+          "71": "speak Haley \"*ha ha*$10#$b#To byla legrace, @! ...A fotky jsou povedené!$10\"",
+          "73": "speak Haley \"Já se teď půjdu domů osprchovat...$10\"",
+          "76": "end dialogue Haley \"Teda, tak špinavá jsem ještě nikdy v životě nebyla.$h\""
+        },
+        "52/f Leah 1500/p Leah/z winter": {
+          "17": "speak Leah \"Oh! @! Ty jsi mě ${vyděsil^vyděsila}$.$6\"",
+          "21": "speak Leah \"Vidíš tam nahoře to ovoce? Že vypadá lahodně?#$b#Ale já na něj nemůžu dosáhnout.$s\"",
+          "65": "speak Leah \"Aaahh!$6#$b#Hehe...Díky.$h\"",
+          "69": "speak Leah \"Super... mám ho!\"",
+          "114": "speak Leah \"Jsi silnější než vypadáš!$h\"",
+          "116": "speak Leah \"Tady, ochutnej... \"",
+          "129": "speak Leah \"Víš, právě teď jsem si něco uvědomila.#$b#I když mi má kariéra umělkyně nevyjde, vždycky budu mít někoho, kdo mě chytí až budu padat.$h\"",
+          "131": "end dialogue Leah \"Díky ti za tvoji pomoc předtím...$h\""
+        },
+        "54/f Leah 2500/t 1100 1600/z winter/w sunny": {
+          "7": "speak Leah \"Ahoj @. Já jsem věděla že tady budeš dnes procházet.#$b#...A proto jsem připravila překvapení...$h\"",
+          "10": "speak Leah \"Udělala jsem pro nás malý piknik!$h\"",
+          "15": "speak Leah \"Toto je zeleninová směs, s mojí 'speciální' směsicí koření.\"",
+          "18": "speak Leah \"...a toto je čerstvý salát ze zeleniny, kterou jsem nasbírala přímo tady v lese!$h\"",
+          "24": "speak Leah \"@, um...$l\"",
+          "28": "speak Leah \"Chci ti poděkovat... za to jak mi moc pomáháš v mém snažení stát se opravdovým umělcem.$l\"",
+          "69": "message \"VZDÁLENÝ HLAS: Ale, ale, ale... Copak to tu máme?\"",
+          "92": "speak Leah \"Kele??$6#$b#Co tu sakra děláš?$a\"",
+          "94": "message \"KEL: Copak jsi mě na výstavě neviděla? A to kvůli tobě vážím cestu až z města Zuzu, aby mé oči mohly tvé sochy spatřit.\"",
+          "96": "message \"KEL: A také tě chci přesvědčit, aby ses ke mně vrátila.\"",
+          "97": "message \"KEL: Chci aby byly věci jako předtím... chybíš mi, kotě.\"",
+          "100": "speak Leah \"Fuj, takhle se mnou nemluv!$a#$b#Předtím si mé umění nikdy ${nepodporoval^nepodporovala}$... a teď když jsem začala být úspěšná mě chceš zpátky? Je mi z tebe zle.$a\"",
+          "103": "message \"KEL: Hej! Pojď sem!\"",
+          "106": "question fork1 \"#Prašti ${ho¦ji}$ pěstí do obličeje.#Zkus se s ${ním¦ní}$ domluvit.\"",
+          "139": "speak Leah \"Ah můj Bože!$6\"",
+          "146": "speak Leah \"Myslím, že se z toho dostane... ale možná to bylo až moc, @.^Je v pořádku... ale možná to bylo až moc, @.\"",
+          "148": "speak Leah \"Pojďme odsud. Myslím, že už nás nebude otravovat.\"",
+          "157": "speak Leah \"Příště si najdeme odlehlejší místo...$l\"",
+          "160": "end dialogue Leah \"No, můj piknik nevyšel přesně podle mých představ.$h\""
+        },
+        "choseInternet": {
+          "1": "message \"KEL: Našel jsem tvůj obchod s uměním na internetu... nikdy ti nepřipadalo divné, že 'Osoba K' vykupoval všechny tvé sochy?\"",
+          "3": "speak Leah \"Ty jsi 'Osoba K'? Já... já myslela, že je to jen nějaký bohatý chlápek, kterému se líbí co dělám.$s\"",
+          "5": "message \"KEL: Ha. No, měla jsi z poloviny pravdu...\"",
+          "7": "message \"KEL: Podívej, Leah. chci tě zpátky. Chybíš mi, kotě.\"",
+          "10": "speak Leah \"Fuj, takhle se mnou nemluv!$a#$b#Předtím si mé umění nikdy ${nepodporoval^nepodporovala}$... a teď když jsem začala být úspěšná mě chceš zpátky? Je mi z tebe zle.$a\"",
+          "13": "message \"KEL: Hej! Pojď sem!\"",
+          "16": "question fork1 \"#Prašti ${ho¦ji}$ pěstí do obličeje.#Zkus se s ${ním¦ní}$ domluvit.\"",
+          "49": "speak Leah \"Ah můj Bože!$6\"",
+          "56": "speak Leah \"Myslím, že se z toho dostane... ale možná to bylo až moc, @.^Je v pořádku... ale možná to bylo až moc, @.\"",
+          "58": "speak Leah \"Pojďme odsud. Myslím, že už nás nebude otravovat.\"",
+          "67": "speak Leah \"Příště si najdeme odlehlejší místo...$l\"",
+          "70": "end dialogue Leah \"No, můj piknik nevyšel přesně podle mých představ.$h\""
+        },
+        "noPunch": {
+          "1": "message \"KEL: Chci ji něco říct. Zmiz mi z cesty.\"",
+          "5": "message \"KEL: Opravdu, Leah... Co děláš tady s tímhle přihlouplým nemehlem?\"",
+          "39": "speak Leah \"@ je každým coulem lepší ${muž^žena}$ než jsi ty!$a#$b#A teď mi zmiz z očí a už se nikdy nevracej!$a\"",
+          "42": "speak Leah \"Pojďme, @. Myslím, že už nás nebude otravovat.\"",
+          "51": "speak Leah \"Příště si najdeme odlehlejší místo...$l\"",
+          "54": "end dialogue Leah \"No, můj piknik nevyšel přesně podle mých představ.$h\""
+        },
+        "181928/f Penny 2000/t 900 1600/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY TroutDerby, !SEASON_DAY summer 17 summer 18 summer 19": {
+          "12": "speak Penny \"Oh, @! Tvé načasování nemohlo být lepší.\"",
+          "14": "speak Penny \"Vzala jsem děti na malý výlet na venkov.#$b#Ty víš vše o životě na venkově, ne?$h\"",
+          "15": "speak Penny \"$q -1 null#Tak jsem tak přemýšlela... co takhle o tom dětem něco povědět?#$r -1 10 event_speaker_yes#Bude mi potěšením!#$r -1 0 event_speaker_yes#Jasně.#$r -1 -1500 event_speaker_no#Ne... nesnáším děti.\"",
+          "22": "speak Penny \"Jasi! Vincente! Poslouchejte mě chvíli!\"",
+          "37": "speak Penny \"Dnes tu mám velmi speciálního průvodce... našeho vlastního místního farmáře, @.^Dnes tu mám velmi speciálního průvodce... naší vlastní místní farmářku, @.#$b#Protože žije na venkově, má zkušenosti z první ruky jak to tu chodí a ví vše o 'přírodních zdrojích' tohoto údolí!\"",
+          "39": "speak Penny \"Kdo mi řekne co je to 'přírodní zdroj'?\"",
+          "44": "speak Penny \"Jas?\"",
+          "47": "speak Jas \"Přírodní zdroj je ten zdroj materiálního bohatství, které se vyskytuje přirozeně v přírodě a má ekonomickou hodnotu.$4\"",
+          "49": "speak Penny \"Velmi dobře! To je za dva hvězdné body, Jas.\"",
+          "50": "speak Jas \"Jupí!$h\"",
+          "52": "speak Penny \"Dobrá, a teď budeme poslouchat ${našeho farmáře^naši farmářku}$.\"",
+          "55": "question fork0 \"#Život na venkově je celý o farmaření.#Život na venkově je umět využít přírodu kolem.\"",
+          "58": "question fork0 \"#Toto údolí je plné vzácných minerálů.#Okolní vody se hemží mořskými rybami.#Zde najdete to nejlepší dřevo na jih od Krabovky.\"",
+          "66": "speak Penny \"Ano, Vincente?\"",
+          "67": "speak Vincent \"Pane @, vy si vezmete slečnu Penny za ženu?$s^Slečno @... um, už máte přítele?\"",
+          "68": "speak Penny \"Vincente! To je velmi nevhodná otázka! Chovej se slušně, jinak ti odeberu všechny hvězdné body za celý den.$a\""
+        },
+        "choseFarming": {
+          "1": "question fork0 \"#Půda v údolí je ideální pro pěstování výborné zeleniny.#Ovzduší a tráva v údolí jsou ideální pro chov zvířat.\"",
+          "9": "speak Penny \"Ano, Vincente?\"",
+          "10": "speak Vincent \"Um, ${pane farmáři^slečno farmářko}$? Pokud budu jíst vaší zeleninu budu taky tak silný jako můj velký bratr Sam až vyrostu?#$b#Je tak silný, minulou noc jsem ho viděl zvedat slečnu Penny ze země, když lezli na strom.$h\"",
+          "17": "speak Penny \"Vincente! Není slušné šířit pomluvy!$a\""
+        },
+        "choseAnimals": {
+          "7": "speak Penny \"Ano, Vincente?\"",
+          "8": "speak Vincent \"${Pane farmáři^Slečno farmářko}$? Můžu osedlat jednu z vašich krav a zajet s ní do města? Chci být jako skutečný kovboj!\"",
+          "9": "speak Penny \"Vincente! Chovej se slušně. ${Pan^Slečna}$ @ si tady na farmě vydělává na živobytí! Tohle není hřiště.$h\""
+        },
+        "choseMinerals": {
+          "7": "speak Penny \"Ano, Vincente?\"",
+          "8": "speak Vincent \"${Pane farmáři^Slečno farmářko}$? Je pravda, že goblini žijí hluboko v jeskyních... a že rádi unášejí malé holčičky, aby je pak mohli sníst?\"",
+          "14": "speak Penny \"Vincente! Děsíš Jas. O příšerách mluvit nebudeme, dobře?$a\""
+        },
+        "fieldTripEnd": {
+          "2": "speak Penny \"Tak, to by asi pro dnešek stačilo. Můžete si jít hrát.\"",
+          "19": "speak Penny \"Starat se o děti je hodně velká práce...$u#$b#Ale mně to nevadí. Ráda je vidím se učit... a snad s mojí pomocí z nich vyrostou dobří lidé.\"",
+          "23": "speak Penny \"$q -1 null#Chceš být někdy ${otcem^matkou}$, @?#$r -1 0 event_speaker_kids1#Zatím mě to nenapadlo.#$r -1 20 event_speaker_kids2#Samozřejmě. Chci velkou rodinu.#$r -1 20 event_speaker_kids3#Asi ano. je to přirozená touha.#$r -1 10 event_speaker_kids4#Ne, nemyslím si, že budu dobrý rodič.#$r -1 -10 event_speaker_kids5#Ne, svět už je i tak přeplněný.#$r -1 -10 event_speaker_kids6#Ne, nechci aby mě svazovala rodina.\"",
+          "29": "speak Penny \"No, jsem ráda že jsi ${přišel^přišla}$, @. Myslím, že děti se měli báječně.$h\"",
+          "30": "end dialogue Penny \"Díky tobě byl tento výlet velký úspěch.\""
+        },
+        "eventEnd": {
+          "2": "end dialogue Penny \"Nemůžu uvěřit, že mi nechceš pomoct.$a\""
+        },
+        "318560/j 10/t 900 1600/d Tue Wed Fri Sat": {
+          "7": "speak Jas \"Fuj... to smrdí.$s\"",
+          "21": "speak Vincent \"...$s#$b#Proč je to zamčené? Já se chci podívat do kanálů!$s\"",
+          "25": "speak Jas \"Myslím, že Gunther má klíč.\"",
+          "28": "speak Vincent \"Profesor Gunther? Ten, co řídí muzeum?? Proč myslíš, že ho má?$u\"",
+          "31": "speak Jas \"Jednou jsem viděla jak mu z kapsy vypadl velký rezavý klíč.#$b#Takový hrozný poklop od kanálů se určitě otevírá takovým klíčem.$4\"",
+          "67": "speak Jas \"Něco se tam hýbe!$u\""
+        },
+        "611944/f Shane 500/t 2000 2400": {
+          "9": "speak Shane \"Ty ještě nespíš, jo?\"",
+          "13": "speak Shane \"Tady máš, je vychlazené.\"",
+          "23": "speak Shane \"Pff... život.\"",
+          "26": "speak Shane \"${Měl^Měla}$ jsi někdy pocit... že ať uděláš cokoliv, vždycky selžeš?#$b#...Jako kdyby jsi ${byl uvězněn^byla uvězněna}$ v nějaké mizerné propasti a jsi v ní tak hluboko, že ani nevidíš denní světlo?\"",
+          "28": "speak Shane \"Mám pocit, že ať se snažím jakkoliv... Nemám sílu se z té díry dostat.\"",
+          "32": "speak Shane \"He... to už jsi to do sebe ${nalil? Muž^nalila? Žena}$ podle mého gusta.#$b#Jen to nepřeháněj... ještě máš nějakou budoucnost.\"",
+          "36": "speak Shane \"No.. moje játra mě prosí abych přestal. Raději bych to dnes měl zabalit.#$b#Uvidíme se, @.\""
+        },
+        "3910975/f Shane 1500/e 3910674/t 900 2000/w rainy": {
+          "9": "speak Shane \"...$7#$b#@...$7\"",
+          "13": "speak Shane \"P... Promiň...*škyt*$7#$b#...$7#$b#M... Můj život...$7#$b#Jsem takový ubožák...$7#$b#Jen se podívej...$7#$b#...$7#$b#Proč se vlastně snažím? ...*vzlyk*$7#$b#Jsem prostě neschopný ... a moc hloupý, abych něco v životě udělal...$7#$b#Jsem jen šváb... čekající až ho někdo zašlápne ... *krrrk*$7#$b#.........$7#$b#Poslední dobou sem chodím často... dívám se dolů... $7#$b#Teď mám konečně příležitost vzít život do vlastních rukou... Tyhle skály...$7#$b#...$7#$b#A... Al... *řííh*... ale jsem moc velký zbabělec, moje úzkosti. Jako vždycky... $7\"",
+          "17": "speak Shane \"@... Jen pracuji, spím a piju ...a... abych necítil k sobě takovou nenávist.$7#$b#Proč bych měl vůbec ještě žít? Řekni... mi... Řekni proč bych se neměl z téhle skály svalit a hned teď to ukončit...$7\"",
+          "21": "question shaneCliffs \"#Protože je toho tolik pro co můžeš žít!#Jas tě potřebuje. Má tě ráda jako svého otce.#Byl by to hřích.#Rozhodnutí je na tobě. Jen věz že já tu budu vždycky pro tebe.\"",
+          "26": "speak Shane \"@...$7\"",
+          "30": "speak Shane \"...Asi bys mě teď ${měl^měla}$ vzít do nemocnice.$7\"",
+          "46": "speak Harvey \"...Vypumpoval jsem mu žaludek a zavodnil jeho tělo. Určitě se z toho dostane.#$b#Ještě že si ho ${přivedl^přivedla}$.\"",
+          "49": "speak Harvey \"Přílišné množství alkoholu je pro tělo škodlivé... ale v tuto chvíli se nejvíce obávám o jeho duševní zdraví...$s#$b#Až se probere tak si s ním popovídám o možnostech jeho léčby. Znám jednoho skvělého odborníka ve městě Zuzu...\"",
+          "53": "speak Harvey \"Život někdy může být těžký a bolestivý...#$b#Ale vždy existuje naděje na světlejší zítřky. V to musíme věřit.\""
+        },
+        "3910979/f Vincent 2000/f Jas 2000/t 600 1700/z summer/z fall/z winter/w sunny": {
+          "13": "speak Vincent \"Ahojky, ${pane^slečno}$ @!\"",
+          "20": "speak Vincent \"Ja..jatní cibulka. Máma mě občas pošle, abych je nasbíral...\"",
+          "23": "speak Jas \"Na mě jsou moc pálivé!$s\"",
+          "38": "speak Vincent \"Na dospěláka jsi docela ${hodný^hodná}$... takže když ti povím tajemství, určitě ho nikomu nepovíš.$h\"",
+          "46": "speak Vincent \"Když se na ni takhle koukneš, tak vypadá docela dobře, co?\"",
+          "48": "speak Vincent \"Ale když ji trochu oloupeš...\"",
+          "53": "speak Vincent \"...Vidíš jak je plná brouků?$s\"",
+          "59": "speak Vincent \"Super, ne?$h\"",
+          "61": "speak Jas \"Um... Vincente, co pak děláš s těmi brouky?\"",
+          "64": "speak Vincent \"Většinou je prostě rozmáčknu!\"",
+          "68": "textAboveHead Jas \"Ah!\"",
+          "70": "speak Jas \"To je ale hrozné! Ne, ne, ne, ne, ne...$s\"",
+          "72": "speak Jas \"${Pane^Slečno}$ @? Snažně vás prosím... dávejte brouky zpátky do trávy, ať mohou zase žít v pokoji.\"",
+          "95": "message \"Naučili jste se jak očistit jarní cibulku... aniž byste jejím bývalým obyvatelům nějak ublížili.\"",
+          "98": "message \"Jarní cibulky mají nyní pětinásobně vyšší hodnotu!\""
+        },
+        "3091462/e 3911124/O Leah/w sunny/t 1130 1400/A leahPaint": {
+          "11": "speak Marnie \"Um... Leah? Jak dlouho to ještě bude trvat?$s#$b#...kolena se mi třesou, stehna kňučí a ztratila jsem cit v nohách.$s\"",
+          "15": "speak Leah \"Jen hezky stůj klidně, Marnie... nevrť se!$h\"",
+          "17": "speak Leah \"Poslouchej, @. Jaký styl bych měla použít pro dnešní malbu? Dnes mám náladu vyzkoušet cokoliv...\"",
+          "19": "quickQuestion #Klasický portrét z venkova#Barevný retro pop-art#Minimalistická moderna(break)speak Leah \"Zůstat u klasiky, myslíš? Jo, myslím, že tohle Marnie ocení.\"\\addWorldState m_painting0(break)speak Leah \"Dobrý nápad! To bude zábavné... nejdřív si ale na paletu musím dát více žluté barvy...\"\\addWorldState m_painting1(break)speak Leah \"Hmm... v tomhle stylu obyčejně nekreslím, ale zkusím to. Asi bych ale měla místo těchto barev použít akrylové...\"\\addWorldState m_painting2",
+          "21": "speak Leah \"Jak to jde tobě?\"",
+          "22": "quickQuestion #Je to mistrovské dílo moderního umění!#Snažím se, jak můžu...#Je to strašná čmáranice(break)speak Leah \"Teda, líbí se mi tvoje sebejistota!$h#$b#Kdo ví? Možná se z tebe stane další Lupini!$h#$b#...Nemůžu se dočkat, až to uvidím.\"(break)speak Leah \"Jasně, to je vše, co po tobě chci. Pokud budeš vždycky do toho dávat vše, budeš se stále zlepšovat!\"(break)speak Leah \"Hele, to nevadí! Někde začít musíš. A co víš, pro někoho to jsou škrábanice, pro jiného je to 'moderní umění'.\"",
+          "24": "textAboveHead Marnie \"Ať jsem krásná!\"",
+          "26": "textAboveHead Leah \"Ššš!\"",
+          "28": "speak Leah \"A teď, nezapomeň na techniky, které jsem tě učila... dělej široké tahy štětcem a drž ho takto...\"",
+          "38": "textAboveHead Leah \"Hotovo!\"",
+          "44": "textAboveHead Leah \"Tak co tomu říkáš?\"",
+          "46": "textAboveHead Marnie \"Oooo!\"",
+          "51": "speak Marnie \"Moc se mi to líbí! Hned si to pověsím do ložnice...$h\"",
+          "53": "speak Leah \"Teď mi ukaž tvůj výtvor, @.\"",
+          "65": "speak Leah \"Ehm... to je... zajímavé pojetí!$6#$b#Je to, um... určitě originální styl...$6\"",
+          "69": "textAboveHead Marnie \"Chci se podívat\"",
+          "86": "speak Leah \"Marnie, teď si můžeš u sebe pověsit oba naše obrazy!$h\"",
+          "89": "speak Marnie \"Ehm... @, co kdyby sis ten svůj ${nechal^nechala}$ pro sebe? Vždyť je to, uh... tvůj první obraz... to přece nechceš nikomu dávat, ne?$s\"",
+          "96": "end dialogue Leah \"Um... zlato? Kam plánuješ pověsit ten svůj obraz?$3\""
+        }
+      }
+    }
+  ]
+}

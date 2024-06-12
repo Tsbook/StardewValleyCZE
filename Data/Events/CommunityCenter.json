@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/CommunityCenter",
+      "Fields": {
+        "Punch": {
+          "3": "textAboveHead Morris \"Ha!\"",
+          "5": "speak Morris \"Tohle nic neznamená. Stačí abych zlevnil vše o 75% a všichni mí zákazníci se připlazí zpět prosíce o odpuštění. Jen počkejte!$h\"",
+          "9": "speak Pierre \"Ne... tentokrát ne, Morrisi.$u#$b#Myslím že nastal čas vyřešit tohle jednou provždy.$u\"",
+          "11": "speak Morris \"Hmm? A jaké řešení máš na mysli?$u\"",
+          "17": "speak Morris \"Ha! Jak primitivní...\"",
+          "19": "speak Pierre \"Pokud si příliš velký zbabělec, aby ses se mnou pral, pak zavolej jednoho z tvých kolegů! Nebo je snad zbabělost jeden z požadavků pro práci v Joja?$u\"",
+          "25": "speak Morris \"Mě můžeš urážet dle libosti... ale NEOPOVAŽUJ se pošpinit dobré jméno společnosti Joja!$u\"",
+          "47": "textAboveHead George \"Ha! To je síla!\"",
+          "68": "speak Morris \"Jsi ještě slabší než zvůj výběr čerstvé zeleniny!$u\"",
+          "72": "speak Pierre \"A to jak mácháš pěstmi je stejné jako Joja...$u#$b#Množství před kvalitou!\"",
+          "85": "textAboveHead George \"Jen do něj!\"",
+          "151": "message \"Po Morrisovi a jeho kumpánech z JojaMartu se pak slehla zem a nikdy se už nevrátili.\""
+        }
+      }
+    }
+  ]
+}

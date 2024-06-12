@@ -1,0 +1,19 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/BoatTunnel",
+      "Fields": {
+        "9348571/Hl willyBoatFixed": {
+          "19": "speak Willy \"Ano... je na ni smutný pohled, co?\"",
+          "21": "speak Willy \"Byla to loď mého otce... přes 50 let mu věrně sloužila.#$b#Ale teď se sotva udrží na vodě.$s\"",
+          "24": "speak Willy \"Rád bych ji opravil, ale nemám u sebe potřebný materiál, ${chlapče^děvenko}$.\"",
+          "26": "speak Willy \"Hmm... na začátek bych opravil trup. Na to bude potřeba asi 200 kusů tvrdého dřeva.#$b#Ale pak taky bude třeba opravit automat na lístky a iridiovou kotvu.\"",
+          "29": "speak Willy \"Kdyby se mi do rukou dostaly ty správné prostředky a mohl bych tuhle dámu opravit... no, pak bychom mohli vyrazit na návštěvu Kapradinových ostrovů.\"",
+          "32": "speak Willy \"Říká se, že to jsou sopečné ostrovy obývané zvláštními papoušky...\"",
+          "34": "quickQuestion #Určitě ti pomohu#Ne, tohle pro mě není...(break)emote Willy 32\\speak Willy \"Ahh... myslel jsem si to, ${chlapče^slečinko}$.$h\"\\speak Willy \"Tyhle dveře teda nechám pro tebe otevřené... kdykoliv se můžeš zastavit a předat mi co potřebuji.\"(break)emote Willy 28\\speak Willy \"Nu dobrá, jak chceš...$s#$b#Pokud si to rozmyslíš, dveře pro tebe zůstanou otevřené. Můžeš se kdykoliv stavit a pomoct mi.\""
+        }
+      }
+    }
+  ]
+}

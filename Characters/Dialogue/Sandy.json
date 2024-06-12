@@ -1,0 +1,31 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Sandy",
+      "Entries": {
+        "accept_866": "Růže ze Stardew Valley? To je super! Děkuji ti!$h#$b#Kdykoliv mi tu bude smutno, čichnu si k této růži. Hehe.$h#$b#Chci ti na oplátku něco dát. Mám to tu už deset let na pultě, ale nikdo si to nekoupil. Můžeš si to vzít!",
+        "AcceptGift_(O)18": "Ah, ten je nádherný! Není lepší symbol jara, než narcis z údolí!$h",
+        "AcceptGift_(O)StardropTea": "Ach, to mi dáváš velkou vzácnost... nechce se mi věřit, že se s nim chceš jen tak rozloučit! Díky moc, zlatíčko!",
+        "AcceptGift_(O)418": "Ach... i v zimě údolí plodí nádherné kvítí.",
+        "GreenRain": "Slyšela jsem že jste měli v údolí nějaký divný déšť.#$e#Kéž by tady taky spadlo krapet vody...$s",
+        "married_Emily": "Jaký byl váš velký den? Emily mě nedávno navštívila a řekla mi co máte v plánu.#$b#Někdy vás budu muset na vaší farmě navštívit!",
+        "AcceptGift_(O)402": "*vzlyk*... hmmm... hrachory mají tak neuvěřitelnou vůni.",
+        "Mon": "Čauky mňauky zlatíčko!#$b#Velice mě těší, že autobus už zase jezdí. Už jsem se tu začínala sama nudit.#$e#...Skoro jsem zkrachovala.$s#$e#Ale to už je za námi a ty jsi teď určitě ${přijel^přijela}$, aby sis tady ${koupil^koupila}$ spoustu semínek... nemám pravdu, zlatíčko?$h",
+        "Tue": "Venku můžeš najít kokosové a kaktusové ovoce. Můžeš si jich vzít kolik chceš.#$e#Jsou ah tak moc mňamkavé. Haaaa~$h",
+        "Wed": "Ahojky! Pokud tam u vás potkáš Emily, můžeš ji říct, že jsem ji řekla 'Ahoj'?#$e#Dík!$h",
+        "Thu": "Ten pochybně vypadající chlápek vzadu? Neměla bych o něm mluvit.#$e#Co jinak? Jaké počasí tam máte u vás v údolí?",
+        "Fri": "Tam venku by sis moc ${nezafarmařil, fešáku^nezafarmařila, holčičko}$.#$e#Teda, pokud nechceš pěstovat kaktusy.$h",
+        "Sat": "Zdravím! Vítej v Oáze u Sandy, první a jediný cíl v poušti Kaliko!#$e#*šeptem* Znělo to profesionálně?$h#$e#Nezapomeň si prohlédnout nabídku sezónních semínek.#$e#Vypadáš vyprahle. Tady, ochutnej tohle ledově vychlazené mléko. [184]#$e#Dobrota, co?$h",
+        "Sun": "Sluníčko tu svítí pořád, i v zimě!#$e#Vlastně je tady na mě až trochu moc horko... má citlivá pleť se na sluníčku rychle spálí.$s",
+        "Thu2": "Ten pochybně vypadající chlápek vzadu? Vážně bych neměla o něm mluvit.#$e#Co jinak? Jaké počasí tam máte u vás v údolí?",
+        "Thu4": "Hej... myslím že ti můžu věřit. Nikomu to nevyžvaníš, že?#$b#*šeptem* Ten chlápek vzadu... patří k nějakému exkluzivnímu klubu. Já v něm nikdy nebyla, ale platí mi horečnou sumu peněz jako nájemné každý měsíc, takže se neptám.#$e#TAK Co? Jaké počasí je teď ve Stardew Valley?",
+        "Fri4": "Já se ve skutečnosti nejmenuji Sandy, to jen pro informaci. Ale pro obchod se to hodilo.#$e#Ale každý mi tak stejně říká a tak jsem si na to zvykla.",
+        "Wed8": "Nestojí tě to spoustu peněz takhle často jezdit do pouště?#$e#Asi musím být tvá oblíbená, co? Hmmm... $h||ach jo... tolik mi chybí pohled na květiny rostoucí v údolí...$s",
+        "Sun8": "Čauves květinko. Ano, jsem tu jen já, sama v tomto velkém starém obchodě. Hmmm...#$e#No kromě toho divného chlápka vzadu. Ale ten nikdy nehne ani brvou, takže si ho často ani nevšimnu.",
+        "Wed10": "Hele, jestlipak to není @! Ráda tě vidím, prcku. Už jsem si začínala myslet, že se nikdy nevrátíš!#$e#Kdybych neměla tento obchod na starosti, nasedla bych na autobus a pár dní bych s tebou strávila v údolí... jen ty a já na staré farmě.$s#$e#Takže mi to budeš muset vynahradit tím, že mě budeš často navštěvovat, jinak budu smutná.$h",
+        "Tue10": "Čus bus!~ Můžeš tu zůstat jak dlouho chceš.#$e#Klimatizace je skvělý vynález, co?"
+      }
+    }
+  ]
+}

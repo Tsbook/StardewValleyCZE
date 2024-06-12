@@ -1,0 +1,259 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 90,
+        "Height": 61
+      },
+      "ToArea": {
+        "X": 16,
+        "Y": 0,
+        "Width": 90,
+        "Height": 61
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 1,
+        "Y": 62,
+        "Width": 13,
+        "Height": 6
+      },
+      "ToArea": {
+        "X": 35,
+        "Y": 90,
+        "Width": 13,
+        "Height": 6
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 91,
+        "Y": 0,
+        "Width": 90,
+        "Height": 61
+      },
+      "ToArea": {
+        "X": 16,
+        "Y": 256,
+        "Width": 90,
+        "Height": 61
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 91,
+        "Y": 62,
+        "Width": 24,
+        "Height": 11
+      },
+      "ToArea": {
+        "X": 20,
+        "Y": 334,
+        "Width": 24,
+        "Height": 11
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 91,
+        "Y": 62,
+        "Width": 24,
+        "Height": 11
+      },
+      "ToArea": {
+        "X": 20,
+        "Y": 334,
+        "Width": 24,
+        "Height": 11
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 115,
+        "Y": 63,
+        "Width": 16,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 178,
+        "Y": 334,
+        "Width": 16,
+        "Height": 9
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 132,
+        "Y": 62,
+        "Width": 37,
+        "Height": 57
+      },
+      "ToArea": {
+        "X": 331,
+        "Y": 322,
+        "Width": 37,
+        "Height": 57
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 1,
+        "Y": 75,
+        "Width": 90,
+        "Height": 61
+      },
+      "ToArea": {
+        "X": 400,
+        "Y": 320,
+        "Width": 90,
+        "Height": 61
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 93,
+        "Y": 74,
+        "Width": 13,
+        "Height": 19
+      },
+      "ToArea": {
+        "X": 0,
+        "Y": 384,
+        "Width": 13,
+        "Height": 19
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 1,
+        "Y": 139,
+        "Width": 90,
+        "Height": 61
+      },
+      "ToArea": {
+        "X": 16,
+        "Y": 384,
+        "Width": 90,
+        "Height": 61
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 95,
+        "Y": 97,
+        "Width": 26,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 428,
+        "Y": 393,
+        "Width": 26,
+        "Height": 9
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 93,
+        "Y": 139,
+        "Width": 90,
+        "Height": 61
+      },
+      "ToArea": {
+        "X": 16,
+        "Y": 512,
+        "Width": 90,
+        "Height": 61
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 183,
+        "Y": 1,
+        "Width": 90,
+        "Height": 61
+      },
+      "ToArea": {
+        "X": 16,
+        "Y": 640,
+        "Width": 90,
+        "Height": 61
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 170,
+        "Y": 64,
+        "Width": 90,
+        "Height": 61
+      },
+      "ToArea": {
+        "X": 16,
+        "Y": 768,
+        "Width": 90,
+        "Height": 61
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Movies",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 184,
+        "Y": 139,
+        "Width": 90,
+        "Height": 61
+      },
+      "ToArea": {
+        "X": 16,
+        "Y": 896,
+        "Width": 90,
+        "Height": 61
+      }
+    }
+  ]
+}

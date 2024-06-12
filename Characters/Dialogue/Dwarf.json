@@ -1,0 +1,33 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Dwarf",
+      "Entries": {
+        "Introduction": "Musím ti říct, že těžení ti na člověka docela jde.",
+        "AcceptBirthdayGift_Positive": "Ano! O této tradici jsem četl... to je 'narozeninový dárek', že? Ano ano, to je opravdu zajímavé...",
+        "AcceptBirthdayGift_Negative": "Ano! O této tradici jsem četl... to je 'narozeninový dárek', že?#$b#Rád bych se zeptal, zda je také součástí této tradice dávat takovýto odpad?",
+        "GreenRain": "Bohužel zelenou barvu špatně vidím.#$b#Možná to bude tím, že velkou část života jsem žil v podzemí.",
+        "AcceptGift_(O)StardropTea": "*čich*... to je mléko? *srk*... hmm... chutná výtečné.",
+        "AcceptGift_milk_item": "Ach, 'mléko'... *srk*... zajímavá chuť. Připomeň mi... odkud tato šťáva pochází?#$b#...!!! *prsk*",
+        "firstVisit_IslandNorth": "Vstoupíš-li do sopky na Zázvorovém ostrově, možná narazíš i na jiné trpaslíky. Neboj se! Lidem nechceme ublížit.",
+        "mineArea_121": "Na člověka ti těžení opravdu jde.",
+        "fishCaught_158": "Ale, ty jsi ${chytil^chytila}$ cihlovce? Tuto rybu moc dobře znám. Občas je chováme jako mazlíčky.",
+        "fishCaught_161": "Hmm, ${chytil^chytila}$ jsi ledového tipce? Jsou to velmi čilé ryby přestože žijí v mrazivém prostředí. My se takovým prostředím vyhýbáme... moc velká zima!",
+        "fishCaught_162": "Cítím z tebe nezaměnitelnou vůni lávového úhoře... výborně, takže ty jsi ho ${chytil^chytila}$! Jejich lovení je velkou součástí naší kultury. Považujeme je za pochoutku!",
+        "firstVisit_Caldera": "Ty jsi navštívil naši legendární trpasličí výheň? To je k neuvěření... sám jsem ji nikdy nespatřil.#$e#Všechny zařízení tam jsou už tak stará, že si nikdo z nás nepamatuje, jak vlastně fungují. Ale určitě používají trpasličí technologie.",
+        "Mon": "Všechno toto jsem získal z povrchu. Vždycky během noci vyjdu a vám, lidem, to vezmu.#$e#Hmm? Co je to \"soukromý majetek\"?",
+        "Tue": "Ah... dušená jeskynní mrkev, pečená jeskynní mrkev, polévka z jeskynní mrkve a gratinovaná jeskynní mrkev.#$e#...A jako sladkou tečku kokilku plnou brulée z jeskynní mrkve.#$e#Proč se tak na mě díváš?",
+        "Wed": "Ahoj, chceš si něco koupit?",
+        "Wed_6": "Před dávnými časy můj lid znal tajemství pokročilé technologie. Archeologické nálezy všude kolem to potvrzují.#$e#Ale odkudpak se asi vzala? A kam se ztratila? Na některé otázky asi nikdy nenajdeme odpověď...",
+        "Thu_4": "V podzemí se cítím nejpohodlněji.#$e#Čím hlouběji, tím lépe.",
+        "Fri": "Ty jsi trpaslíka předtím nikdy neviděl, co?^Ty jsi trpaslíka nikdy předtím neviděla, co?",
+        "Sat_8": "Doly jsou velmi zrádné místo. Buď opatrný, příteli.",
+        "Sat": "V dolech je to velmi nebezpečné. Co kdyby sis zakoupil pár předmětů z mého obchodu, které tě určitě ochrání?^V dolech je to velmi nebezpečné. Co kdyby sis zakoupila pár předmětů z mého obchodu, které tě určitě ochrání?",
+        "Sun": "Jednou mi budeš muset vyprávět o nápoji, kterému říkáte \"mléko\".",
+        "Thu": "Doufám, že nejsi špión poslaný stínoleky, nebo snad ano?#$e#Budu tě bedlivě sledovat.",
+        "Fri_2": "Většina lidí se neznámého bojí... a proto jsem svůj obchod ukryl sem.#$e#Tvá zručnost při dolování dokazuje, že ti můžu věřit."
+      }
+    }
+  ]
+}

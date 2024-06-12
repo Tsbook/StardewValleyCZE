@@ -1,0 +1,103 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Bundles",
+      "Fields": {
+        "Pantry/0": {
+          "6": "jarních plodin"
+        },
+        "Pantry/1": {
+          "6": "letních plodin"
+        },
+        "Pantry/2": {
+          "6": "podzimních plodin"
+        },
+        "Pantry/3": {
+          "6": "kvalitních plodin"
+        },
+        "Pantry/4": {
+          "6": "zvířat"
+        },
+        "Pantry/5": {
+          "6": "řemeslných výrobků"
+        },
+        "Crafts Room/13": {
+          "6": "jarní sklizně"
+        },
+        "Crafts Room/14": {
+          "6": "letní sklizně"
+        },
+        "Crafts Room/15": {
+          "6": "podzimní sklizně"
+        },
+        "Crafts Room/16": {
+          "6": "zimní sklizně"
+        },
+        "Crafts Room/17": {
+          "6": "stavařů"
+        },
+        "Crafts Room/19": {
+          "6": "exotické sklizně"
+        },
+        "Fish Tank/6": {
+          "6": "říčních ryb"
+        },
+        "Fish Tank/7": {
+          "6": "jezerních ryb"
+        },
+        "Fish Tank/8": {
+          "6": "mořských ryb"
+        },
+        "Fish Tank/9": {
+          "6": "nočních ryb"
+        },
+        "Fish Tank/10": {
+          "6": "zvláštních ryb"
+        },
+        "Fish Tank/11": {
+          "6": "krabí pasti"
+        },
+        "Boiler Room/20": {
+          "6": "kováře"
+        },
+        "Boiler Room/21": {
+          "6": "geologa"
+        },
+        "Boiler Room/22": {
+          "6": "dobrodruha"
+        },
+        "Vault/23": {
+          "6": "2 500 zlatých"
+        },
+        "Vault/24": {
+          "6": "5 000 zlatých"
+        },
+        "Vault/25": {
+          "6": "10 000 zlatých"
+        },
+        "Vault/26": {
+          "6": "25 000 zlatých"
+        },
+        "Bulletin Board/31": {
+          "6": "šéfkuchaře"
+        },
+        "Bulletin Board/32": {
+          "6": "terénního výzkumu"
+        },
+        "Bulletin Board/33": {
+          "6": "zaklínače"
+        },
+        "Bulletin Board/34": {
+          "6": "barev"
+        },
+        "Bulletin Board/35": {
+          "6": "krmiva"
+        },
+        "Abandoned Joja Mart/36": {
+          "6": "ztracených"
+        }
+      }
+    }
+  ]
+}

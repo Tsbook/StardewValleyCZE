@@ -1,0 +1,48 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/Pants",
+      "Entries": {
+        "Pants_Name": "Kalhoty",
+        "Pants_Description": "Kalhoty vhodné k běžnému nošení.",
+        "FarmerPants_Name": "Farmářské kalhoty",
+        "FarmerPants_Description": "Pohodlné a odolné. Vhodné pro dlouhé hodiny práce na poli..",
+        "Shorts_Name": "Kraťasy",
+        "Shorts_Description": "Ideální pro horké letní dny... vaše nohy vám poděkují.",
+        "Dress_Name": "Dlouhé šaty",
+        "Dress_Description": "Dlouhé, volné šaty.",
+        "Skirt_Name": "Sukně",
+        "Skirt_Description": "Hezká sukně",
+        "PleatedSkirt_Name": "Skládaná sukně",
+        "PleatedSkirt_Description": "Pěkná skládaná sukně",
+        "DinosaurPants_Name": "Dinosauří kalhoty",
+        "DinosaurPants_Description": "O těchto kalhotách se myslelo, že vyšly z módy před mnoha miliony lety!",
+        "GrassSkirt_Name": "Travní sukně",
+        "GrassSkirt_Description": "Sukně složená ze suché trávy.",
+        "LuauSkirt_Name": "Luau sukně",
+        "LuauSkirt_Description": "Sukně díky níž budete 'luau' všech večírků!",
+        "GeniePants_Name": "Džinovy kalhoty",
+        "GeniePants_Description": "Vaše přání byla vyslyšena:  Kalhoty co se ve spodní části vzdouvají!",
+        "TightPants_Name": "Těsné kalhoty",
+        "TightPants_Description": "Díky nim budete vypadat hubenější. Ať vám neupadnou nohy!",
+        "BaggyPants_Name": "Volné kalhoty",
+        "BaggyPants_Description": "Pro ty, co vyžadují svobodu a volnost v pohybu.",
+        "SimpleDress_Name": "Jednoduché šaty",
+        "SimpleDress_Description": "Hedvábné, ladné a hebké šaty střední velikosti.",
+        "RelaxedFitPants_Name": "Kalhoty s uvolněným střihem",
+        "RelaxedFitPants_Description": "Kalhoty s uvolněným střihem/Díky jejich střihu mají více prostoru pro nohy.",
+        "RelaxedFitShorts_Name": "Kraťasy s uvolněným střihem",
+        "RelaxedFitShorts_Description": "Pokud vám standardní kraťasy připadají poněkud těsné.",
+        "PolkaDotShorts_Name": "Puntíkaté kraťasy",
+        "PolkaDotShorts_Description": "Módě se meze nekladou! Tohle je důsledek...",
+        "TrimmedLuckyPurpleShorts_Name": "Ozdobené fialové kraťasy",
+        "TrimmedLuckyPurpleShorts_Description": "Fialové kraťasy z hedvábí ozdobené zlatými pruhy. Zlaté odlesky vábí paní Štěstěnu...",
+        "PrismaticPants_Name": "Duhové kalhoty",
+        "PrismaticPants_Description": "Kalhoty zářící silou duhy.",
+        "PrismaticGeniePants_Name": "Duhové džinové kalhoty",
+        "PrismaticGeniePants_Description": "Co se stane při kombinaci kouzelných sil duhy a džinů?"
+      }
+    }
+  ]
+}

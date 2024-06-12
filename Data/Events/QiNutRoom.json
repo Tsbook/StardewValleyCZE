@@ -1,0 +1,21 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/QiNutRoom",
+      "Fields": {
+        "10040609": {
+          "6": "speak MrQi \"Ale ale ale... kdopak se to dostal až do mého tajného bunkru.\"",
+          "12": "speak MrQi \"Nepřestáváš mě překvapovat.#$b#I když jsi pro přístup na celý ostrov ${potřeboval^potřebovala}$ jen zlomek oříšků, ${chtěl si sám^chtěla si samu}$ sebe překonat a dokázat si že máš na víc.#$b#Tvá touha zjistit, co se za tajnými dveřmi ukrývá byla natolik silná, že jsi ${byl ochotný^byla ochotná}$ překonat všechny překážky s velkou vervou.#$b#Tenhle zápal je to, co tě odlišuje od ostatních, ${hochu^děvče}$. Máš kolem sebe speciální auru.\"",
+          "18": "speak MrQi \"Nicméně...#$b#Doufám, že sis ${nemyslel^nemyslela}$, že tímto je výzvám konec, či ano?#$b#Ne... Ha. Ha. Ha... Opak je pravdou. Ty nejtěžší úkoly máš teprve před sebou.\"",
+          "24": "speak MrQi \"Po tvé levici najdeš nástěnku s jistými velmi zajímavými příležitostmi.#$b#Tyto úlohy, které jsem vymyslel jen pro tebe, tě doženou až na kraj tvých sil.\"",
+          "26": "speak MrQi \"Pokud je ale úspěšně splníš, odměním tě moji speciální měnou... říkám jim 'Qi šperky'\"",
+          "28": "speak MrQi \"Hlavně je ale nedávej do pusy, prcku... jsou vysoce radioaktivní. He he he...\"",
+          "32": "speak MrQi \"Můžeš je použít v automatu po tvé pravici a získat opravdu vzácné a mocné odměny.\"",
+          "35": "speak MrQi \"Zní to zajímavě, že?#$b#Ano... měl jsem pocit, že někomu jako ty se tohle velice zalíbí...\"",
+          "41": "speak MrQi \"A teď mě prosím omluv... musím se věnovat svým velice důležitým záležitostem.\""
+        }
+      }
+    }
+  ]
+}

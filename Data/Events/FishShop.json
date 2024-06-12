@@ -1,0 +1,23 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/FishShop",
+      "Fields": {
+        "16253595/j 29/X": {
+          "9": "textAboveHead Willy \"Ahoj!\"",
+          "12": "speak Willy \"Pojď dál... chovej se jako doma...\"",
+          "21": "speak Willy \"Ahh... koukám že máš dobrý čuch. Po tomhle ti budou ryby samy z vody skákat.#$b#Jen... eh... pokud si své ruce takhle ve šťávě vymácháš, tak si je pak pořádně umyj...$s\"",
+          "22": "speak Willy \"Ta vůně z tebe bude táhnout i klidně sedm týdnů, ${chlapče^slečno}$...\"",
+          "44": "speak Willy \"Takže... berou?\"",
+          "49": "quickQuestion #Ano#Ne#Je to hrozně těžké...(break)emote Willy 20\\speak Willy \"Aha! Tak se mi líbíš...$h\"\\pause 500\\speak Willy \"${Rybářovi^Rybářce}$ vždycky můžeš věřit...\"\\speak Willy \"Aspoň tak to říkal můj starý taťka. Haha!$h#$b#No, jen tak dál... pokud chytneš všechny druhy ryb v těchto vodách, mám pro tebe připraven speciální dárek...\"(break)emote Willy 28\\speak Willy \"Rybaření ti nevoní, co? To je škoda...$s\"(break)emote Willy 16\\speak Willy \"Ano, je to náročná disciplína... zvláště pro začátečníky.#$b#${Zkusil^Zkusila}$ jsi 'Začátečnický prut'? Můžeš si je tady u mě koupit za rozumnou cenu.#$b#${Měl^Měla}$ bys ho používat dokud nenasbíráš více zkušeností.\"",
+          "53": "quickQuestion #Chceš mi něco říct?#Je vše v pořádku?(break)pause 100(break)pause 100",
+          "55": "speak Willy \"Ahh... no, obchody poslední dobou moc nejdou.$s#$b#Vše šlo od deseti k pěti ve stejnou dobu, co začalo chátrat to staré komunitní centrum... moje ryby už se tak dobře neprodávají jako kdysi...#$b#Musím pracovat dvakrát tolik, jen abych se uživil!\"",
+          "58": "speak Willy \"Nemám čas na své vlastní projekty...$s#$b#Ale, pokud by se to tu znovu rozhýbalo, možná budu mít čas ti něco ukázat...\"",
+          "61": "speak Willy \"He he... Čeká mě tam vzadu... má 'stará přítelkyně', co už má nejlepší dny za sebou...$h\"",
+          "70": "speak Willy \"Jednoho dne ${chlapče^slečinko}$... pochopíš, co jsem tím myslel.\""
+        }
+      }
+    }
+  ]
+}

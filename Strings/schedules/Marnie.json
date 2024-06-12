@@ -1,0 +1,16 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Marnie",
+      "Entries": {
+        "winter_18.000": "Mám pocit, že Jas se vlastně u doktora líbí. Je to neobyčejná malá holka.",
+        "fall_18.000": "Ehm... doktore Harvey? Toto je naprosto důvěrné, že?",
+        "Tue.000": "Dnes se mi bude velmi dobře spát.$h",
+        "winter_18.001": "Jsme tu na vyšetření na 13:30.",
+        "winter_18.002": "Emm... doktore Harvey? Až jí vpíchnete její injekce, můžeme dostat dvě lízátka?",
+        "winter_16.000": "Ahh.. takové nádherné jemné hedvábí. A ta barva. To bych v JojaMartu nikdy nesehnala!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Elliott",
+      "Entries": {
+        "winter_17.000": "Loďstvo obchodníků s exotickým zbožím, brázdící vody po celém světě na cestě za bohatstvím, předčící naše nejdivočejší sny... nenapadá mě lepší definice dobrodružství!",
+        "marriage_Mon.000": "Ahoj, @. Já jen odsud pozoruji vlny.",
+        "summer_9.001": "Doktore, bolí mě záda... to víte, jak se pořád hrbím když píšu svoji knihu.",
+        "summer_9.000": "Zdravím tě. Co tě přivádí na toto strašlivé místo?"
+      }
+    }
+  ]
+}

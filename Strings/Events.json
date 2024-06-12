@@ -1,0 +1,37 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/Events",
+      "Entries": {
+        "BirthMessage_Adoption": "Během noci vám adopční agentura přivezla vaše nové děťátko. Jmenuje se {0}.",
+        "BirthMessage_PlayerMother": "Během noci si porodila děťátko jménem {0}.",
+        "BirthMessage_SpouseMother": "Během noci {1} porodila děťátko jménem {0}.",
+        "BirthMessage_SpouseNaming_Male": "{0} pojmenovává vašeho novorozeného chlapečka.",
+        "BirthMessage_SpouseNaming_Female": "{0} pojmenovává vaši novorozenou holčičku.",
+        "BabyNamingTitle_Male": "Jak se bude náš chlapeček jmenovat?",
+        "BabyNamingTitle_Female": "Jak se bude naše holčička jmenovat?",
+        "HaveBabyQuestion": "Chceš mít dítě, {0}?",
+        "HaveBabyQuestion_Adoption": "Měli bychom adoptovat dítě, {0}?",
+        "HaveBabyAnswer_Yes": "Ano",
+        "HaveBabyAnswer_No": "Teď ne...",
+        "HavePlayerBabyQuestion": "Chcete mít dítě s {0}?",
+        "HavePlayerBabyQuestion_Adoption": "Chcete adoptovat dítě s {0}?",
+        "AnimalBirth": "Během noci, {0} porodila mládě - {1}.",
+        "AnimalNamingTitle": "Pojmenujte váš nový přírůstek ({0}):",
+        "SoundInTheNight_UFO": "V noci byly slyšet divné zvuky...",
+        "SoundInTheNight_Meteorite": "V noci byl slyšet výbuch...",
+        "SoundInTheNight_Earthquake": "V noci bylo cítit zemětřesení.",
+        "BeachNightMarket_NowOpen": "Noční trh se otevírá.",
+        "Maru_comet5": "Jsem vděčná, že můžu namísto toho být zde s tebou v tomto živém světě!",
+        "Maru_comet4": "Osamocená putující prázdným vesmírem...",
+        "Maru_comet3": "Na okamžik ji můžeme zde zahlédnout na její nekonečné pouti.",
+        "Maru_comet2": "Vzácný zázrak z kosmu...",
+        "Maru_comet1": "Krásná, co říkáš?",
+        "ElliottBook_mystery": "Modrá věž",
+        "ElliottBook_romance": "Kaméliová stanice",
+        "ElliottBook_default": "Vzestup a Pád planety Yazzo"
+      }
+    }
+  ]
+}

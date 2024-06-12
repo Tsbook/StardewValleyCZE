@@ -1,0 +1,28 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/EnchantmentNames",
+      "Entries": {
+        "Starburst": "Třeskající",
+        "Artful": "Šikula",
+        "Haymaker": "Sekáč",
+        "Bug Killer": "Zabiják brouků",
+        "Vampiric": "Upír",
+        "Crusader": "Křižák",
+        "Powerful": "Silák",
+        "Efficient": "Šetřící",
+        "Swift": "Rychlík",
+        "Expansive": "Přesahující",
+        "Bottomless": "Bezedná",
+        "Shaving": "Ořezávající",
+        "Archaeologist": "Archeolog",
+        "Generous": "Štědrá",
+        "Master": "Rybomistr",
+        "Auto-Hook": "Autoháček",
+        "Preserving": "Zachovávající",
+        "Fisher": "Rybářská"
+      }
+    }
+  ]
+}

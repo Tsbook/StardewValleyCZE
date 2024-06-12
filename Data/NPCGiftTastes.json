@@ -1,0 +1,247 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Fields": {
+        "Robin": {
+          "0": "To je pro mě? Páni, tohle naprosto zbožňuji!!",
+          "2": "Díky! To je od tebe hezké!",
+          "4": "Um... proč?",
+          "6": "Co to...? Tohle je strašné!",
+          "8": "Díky. Tohle se může hodit."
+        },
+        "Demetrius": {
+          "0": "Tohle dáváš mně? To je úžasné!",
+          "2": "Díky! Tohle je zajímavý exemplář.",
+          "4": "...Co je to?",
+          "6": "To je nechutné.",
+          "8": "To je od tebe velmi ohleduplné."
+        },
+        "Maru": {
+          "0": "Je to snad...? No páni, @! To je krása!",
+          "2": "Toto je báječný dárek, děkuji!",
+          "4": "Oh... To je pro mě? Tak já to někam dám...",
+          "6": "Fuj! Jak tě mohlo napadnout, že se mi zrovna tohle bude líbit?",
+          "8": "Díky."
+        },
+        "Sebastian": {
+          "0": "Tohle je má oblíbená věc. Jak to víš?",
+          "2": "Díky, tohle se mi líbí.",
+          "6": "...To je hrůza.",
+          "8": "...díky."
+        },
+        "Linus": {
+          "0": "Tohle je překrásné! Díky tobě je dnešní den mnohem lepší.",
+          "2": "Tohle je skvělý dar. Děkuji ti!",
+          "4": "Hmm... Tohle není moc pro mě.",
+          "6": "Proč mi tohle dáváš? Jen protože žiji ve stanu, to neznamená, že mám rád odpadky? Tohle je strašné.",
+          "8": "Chceš mi dát dárek? To je hezké."
+        },
+        "Pierre": {
+          "0": "Tohle je moje nejoblíbenější věc! Díky!",
+          "2": "To je od tebe velmi hezké. Líbí se mi to.",
+          "4": "Tohle není zrovna to co mám rád...",
+          "6": "Já tě žádám, už mi tohle nikdy nenos.",
+          "8": "Dáváš mi dárek? Díky!"
+        },
+        "Caroline": {
+          "0": "Ach, @... ty mě rozmazluješ! Mmůžu na tom oči nechat",
+          "2": "Pro mě! To je od tebe velmi ohleduplné. Děkuji!",
+          "4": "Ach, hmm, no dobře... tak já to... určitě nějak využiji...",
+          "6": "Hmm, možná bych to mohla hodit do kompostu...",
+          "8": "Ah to je tak hezké. Děkuji."
+        },
+        "Abigail": {
+          "0": "Tohle fakt miluji! Ty jsi nejlepší, @!",
+          "2": "Hej, jak víš že mám hlad? Tohle vypadá moc dobře!",
+          "4": "Co s tím mám dělat?",
+          "6": "Na co myslíš? Tohle je odporné!",
+          "8": "Chceš mi dát dárek? Děkuji."
+        },
+        "Alex": {
+          "0": "Hej, super! Tohle zbožňuji!",
+          "2": "Tohle je fajn dárek! Díky.",
+          "4": "Um... Dobře. Díky.",
+          "6": "To myslíš vážně? Tohle je k ničemu.",
+          "8": "Díky!"
+        },
+        "George": {
+          "0": "Tohle bylo vždycky mé oblíbené! Děkuji.",
+          "2": "Díky.",
+          "4": "Tohle je hrozný dárek.",
+          "6": "Tohle je pravděpodobně ten nejhorší dárek, jaký jsem kdy dostal. Díky za nic.",
+          "8": "Dárek? Hmm...#$e#Chceš něco na oplátku?"
+        },
+        "Evelyn": {
+          "0": "*hah*... Nádherný dar!$u#$e#Díky tobě je tato stará žena velmi šťastná.",
+          "2": "Ah panečku, to vypadá úžasně! To je od tebe velmi hezké.",
+          "4": "Um, kampak to jen dám?",
+          "6": "...hrozně to smrdí.",
+          "8": "Jak hezké. Moc ti děkuji."
+        },
+        "Lewis": {
+          "0": "No ne, jedno z mých oblíbených! Díky!",
+          "2": "Díky, tohle je skvělé!",
+          "4": "No, aspoň to byl dobrý úmysl...",
+          "6": "Dělá se mi z toho špatně. To je otřesný dárek.",
+          "8": "To je od tebe velmi hezké. Děkuji."
+        },
+        "Clint": {
+          "0": "Ano! Přesně tohle jsem hledal!",
+          "2": "Tohle je hezký dárek. Děkuji!",
+          "4": "*Vzdech*...",
+          "6": "Mám z toho depresi.",
+          "8": "Díky."
+        },
+        "Penny": {
+          "0": "Moc ti děkuji! Vážně se mi to líbí!",
+          "2": "Díky! Tohle vypadá jako vzácnost.",
+          "4": "Uh, to je pro mě? ...Díky.",
+          "6": "Uf...promiň, ale já tohle absolutně nenávidím.",
+          "8": "Díky, vypadá hezky."
+        },
+        "Pam": {
+          "0": "Tedy, tedy! Tak tohle je určitě něco! Díky moc, prcku.",
+          "2": "Tak s tímhle ti to vyšlo, prcku. Díky!",
+          "4": "Tohle není pro mě.",
+          "6": "Tak tohle je naprosto ohavné.$u#$e#(Má tohle snad být nějaký hrozný vtip?)",
+          "8": "Díky, prcku."
+        },
+        "Emily": {
+          "0": "Ani nemůžu popsat slovy co teď cítím! Díky moc!",
+          "2": "Díky! Cítím jak z tohoto daru sálá pozitivní energie.",
+          "4": "Promiň, @. Tohle se mi nelíbí.",
+          "6": "Tento dar vysílá silnou negativní energii. Nemůžu ho vystát.",
+          "8": "Díky!"
+        },
+        "Haley": {
+          "0": "Ah můj bože, tohle je má nejoblíbenější věc!!",
+          "2": "Ach...pro mě? Díky!",
+          "4": "Fuj...to je tak hloupý dárek.",
+          "6": "Hnus!",
+          "8": "Díky. Mám ráda dárky."
+        },
+        "Jas": {
+          "0": "Jé...Páni!! Díky!$h",
+          "2": "Mám ráda dárky! Děkuji ti!",
+          "4": "Tohle je dárek? Ach...$s",
+          "6": "Fuj. Tohle je hnus.$s",
+          "8": "Děkuji ti!"
+        },
+        "Vincent": {
+          "0": "Teda, páni, moc ti děkuji! Tohle je super!",
+          "2": "Pro mě? Páni, díky!",
+          "4": "To nevypadá moc zábavně...$s",
+          "6": "Fuj, co je to?$s",
+          "8": "Díky!"
+        },
+        "Jodi": {
+          "0": "Ah, ty si takové zlatíčko! Moc se mi to líbí!",
+          "2": "Díky! Teď si mi projasnil den.",
+          "4": "Hmm, vždycky tu je možnost vyhodit to na kompost...",
+          "6": "*Ble*... tohle nesnáším...",
+          "8": "To je od tebe velmi hezké! Děkuji."
+        },
+        "Kent": {
+          "0": "Oh...! Tohle mi vždycky dávala má máma, když jsem byl malý. Přináší mi to hezké vzpomínky. Díky.",
+          "2": "Ha, no tak tohle je skvělý dárek. Díky.",
+          "4": "Ah... To je... co to vlastně je? Hmm...",
+          "6": "Tohle... to mi dávali v Gotorském vězeňském táboře. Snažil jsem se na to zapomenout to. *brrr*",
+          "8": "To je od tebe hezké. Rodina si to určitě zalíbí."
+        },
+        "Sam": {
+          "0": "Ach, super! Můj fakt nejoblíbenější dárek!",
+          "2": "Díky! Vážně se mi to líbí.",
+          "4": "Hmm.. tohle je... zajímavé.",
+          "6": "Ty asi fakt nic nechápeš, co?",
+          "8": "To chceš dát mně? Díky!"
+        },
+        "Leah": {
+          "0": "Ah! Tohle jsem přesně chtěla! Díky!",
+          "2": "Tohle je opravdu hezký dárek! Děkuji!",
+          "4": "Hmm... každý asi máme jiný vkus.",
+          "6": "Tohle je opravdu hrozný dárek, nemyslíš?",
+          "8": "Děkuji ti."
+        },
+        "Shane": {
+          "0": "No páni, @! Jak víš, že tohle je mé oblíbené?",
+          "2": "Tohle je skvělé! Děkuji!",
+          "4": "Moc se mi to nelíbí.",
+          "6": "Proč mi dáváš svůj odpad?",
+          "8": "Ach, něco pro mě? Díky!"
+        },
+        "Marnie": {
+          "0": "Tohle je úžasný dárek! Díky!!",
+          "2": "Děkuji ti!",
+          "4": "Ach. No asi si to vezmu.",
+          "6": "Tohle je bezcenné. Nechápu co tím myslíš.",
+          "8": "Díky! Tohle vypadá hezky."
+        },
+        "Elliott": {
+          "0": "@, tohle je nádherný dárek! Díky!",
+          "2": "To je pro mě? Vynikající!",
+          "4": "Hmm... tohle se mi moc nezamlouvá.",
+          "6": "Z tohoto předmětu mám špatný pocit. Budu se ho muset zbavit.",
+          "8": "Ach, dárek! Děkuji moc!"
+        },
+        "Gus": {
+          "0": "Čemu vděčím za takovou poctu? To si snad ani nezasloužím.",
+          "2": "No podívejme se na to! Takový skvost!",
+          "4": "Ehm, no nevím co s tím budu dělat...",
+          "6": "Tohle bych nedal ani svému nejhoršímu nepříteli.",
+          "8": "Díky! Cením si toho."
+        },
+        "Dwarf": {
+          "0": "Ach, takové věci se mi moc líbí. V dolech můžeš najít spoustu báječných věcí.",
+          "2": "Ach, tohle mi připomíná domov.",
+          "4": "Hmm... tohle se lidem líbí?",
+          "6": "Je mi jedno jaký živočišný druh jsi. Tohle je naprosto bezcenný odpad.",
+          "8": "Aha, nabídka daru! Děkuji ti."
+        },
+        "Wizard": {
+          "0": "Ahh, tohle je naplněno silnými energiemi tajemné povahy. Velmi užitečné pro mé studie. Děkuji ti!",
+          "2": "Moc ti děkuji. Tato věc má jisté velmi zajímavé vlastnosti.",
+          "4": "Tohle?... No asi to hodím do plamenů a uvidíme co se stane.",
+          "6": "Eh... Tohle je naprosto obyčejné. S takovouto věcí mě už v budoucnu nezatěžuj.",
+          "8": "Děkuji ti. Tohle Se bude hodit, tedy aspoň myslím."
+        },
+        "Harvey": {
+          "0": "To je pro mě? Tohle mám moc rád! Jako když mi čteš myšlenky..",
+          "2": "Takový krásný dárek. Děkuji ti!",
+          "4": "Hmm... Je to opravdu zdravé?",
+          "6": "...myslím že na toto jsem alergický.",
+          "8": "Díky. To je od tebe velmi milé."
+        },
+        "Sandy": {
+          "0": "Ooo! Já naprosto miluji dostávat dárky z údolí. Jsem tak šťastná!~",
+          "2": "To vypadá báječně. Moc děkuji!",
+          "4": "Oh... Um. Dík.",
+          "6": "*čich* ...co je to",
+          "8": "To je pro mě? Díky!"
+        },
+        "Willy": {
+          "0": "Mimořádné! Kéž jen můj starý taťka ještě žil. Z tohohle by se zbláznil.",
+          "2": "Vypadá to hezky. Děkuji!",
+          "4": "Hmmm... Takové věci se ti líbí? Hmm.",
+          "6": "... *čich*... No, vždycky můžu takové věci hodit do kbelíku s návnadou.",
+          "8": "Ach! Dárek od tebe! Moc děkuji."
+        },
+        "Krobus": {
+          "0": "Absolutně úžasný dar. Pro můj lid je velká pocta obdržet něco takového.",
+          "2": "Moc ti děkuji.",
+          "4": "Lidé mají... zvláštní vkus.",
+          "6": "Oh... ehm. Tak já tedy tvůj dar přijmu.",
+          "8": "Díky."
+        },
+        "Leo": {
+          "0": "Jé, tohle mám moc rád. Hned si to dám do svého hnízda",
+          "2": "Opravdu si to můžu vzít? Je to tak hezké...",
+          "4": "Ach... no nevím... bojím se že tohle nebudu moci strávit...",
+          "6": "*čich* *čich*... proč mi to dáváš? Chceš abych ti to zakopal?",
+          "8": "Přijímám tvůj dar."
+        }
+      }
+    }
+  ]
+}

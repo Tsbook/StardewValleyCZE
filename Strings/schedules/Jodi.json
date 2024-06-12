@@ -1,0 +1,18 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Jodi",
+      "Entries": {
+        "spring_11.003": "Vincent byl dnes u doktora velmi statečný. Jsem na něj pyšná.",
+        "winter_17.000": "Cestovat takhle po světe musí být velmi vzrušující... *ach*...",
+        "spring_11.001": "Buď statečný, Vincente. Mysli na svého otce.",
+        "Tue.000": "Ahhh... z rukou mám želé... $s",
+        "spring.000": "Šššš... teď zrovna spí.",
+        "spring_18.000": "Hej! Nemůžeš jen tak vejít když tu provádějí soukromá vyšetření!$u",
+        "spring_11.002": "Doktore Harvey? Mám trochu starosti ohledně Vincentovi výšky. Není na svůj věk trochu malý?",
+        "spring_11.000": "Vincent nesnáší chodit k doktorovi více, než cokoliv jiného, ale bude se s tím muset srovnat."
+      }
+    }
+  ]
+}

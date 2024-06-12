@@ -1,0 +1,48 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Gus",
+      "Entries": {
+        "Introduction": "No to se podívejme, kdo to k nám přichází! Vítej, já jsem Gus, kuchař a majitel hospody u Kapky hvězd.#$e#Pokud se chceš něčím posilnit, u nás vždycky máme připravenu horkou kávu a studené pivo.$h",
+        "AcceptGift_(O)StardropTea": "No to je něco, díky! Má chuť to celé vypít jedním douškem, ale chci si něco nechat pro hospodu. Z tohohle jde určitě udělat pár zajímavých koktejlů!",
+        "AcceptGift_category_cooking": "*Čich*... Ach. Výtečně připravené. ty víš co mi chutná, @.$h",
+        "GreenRain": "Včera večer jsem se díval na předpověď počasí. Dost mi to nahnalo hrůzu!$s#$e#Jsou venku nějaké příšery? Co se tam děje?",
+        "GreenRainFinished": "Uf, to jsem rád že je po všem. S provozem hospody už tak mám dost starostí. Nepotřebuji naložit další ve formě tohoto zvláštního počasí!",
+        "GreenRain_2": "*Čich*... tyhle deště mají zvláštní vůni. Cítíš to taky? Mně to připomíná čerstvě nakrájené bylinky...",
+        "cropMatured_256": "Lewis mi řekl, že ti uzrály rajčata. To rád slyším!#$b#...jen si představ o co by kulinářský svět přišel nebýt rajčat...",
+        "eventSeen_502969": "Záleží mi na lidech. Chci aby mohli jíst chutná a zdravá jídla. V dnešním světe tohle bohužel není pro všechny samozřejmostí.",
+        "married": "Ahoj @, jen chci říct že mám z tebe a %spouse velkou radost.",
+        "dating_Emily_memory_oneweek": "Emily má poslední dobou moc dobrou náladu... co se jí asi stalo? *mrk*",
+        "divorced_once": "Zdravím, slyšel jsem o tvém rozvodu. Je mi to líto...$s#$e#Chceš-li se vypovídat dveře hospody budou pro tebe vždycky otevřené.",
+        "divorced_twice": "Tak zase to nevyšlo? To se stává. Tak kolik mám připravit sudů na tvoji neodvratnou návštěvu hospody...?$s",
+        "eventSeen_3206194": "Ahoj, vážně si mi ${vytrhl^vytrhla}$ trn z paty s těmi vejci. Omeleta se opravdu povedla a to jen díky tobě!",
+        "accept_865": "*čich* *čich* ... ta štiplavá vůně!#$b#*srk* *srk* ... ta pikantní chuť! Ah, ta zrnitá textura nemá obdoby!#$b#To všechno má jen gurmánská rajčatová sůl! Uděláme výměnný obchod.",
+        "Resort_Entering": "Ahoj, @! Jsem rád, že si přišel. Dnes budu za barem servírovat nápoje, které si určitě oblíbíš.^Ahoj, @! Jsem rád, že si přišla. Dnes budu za barem servírovat nápoje, které si určitě oblíbíš.",
+        "Resort_Leaving": "Uvidíme se zase u nás doma, @.",
+        "Resort": "Pokud potřebuješ doplnit tekutiny, zastav se u mého baru.",
+        "IslandSouth_14_21": "Ahoj, máš žízeň? Dělám tu speciální nápoje vyráběné z místních pestrých surovin.$h",
+        "willyCrabs": "Tohle jsou snad ty nejlepší krabí koláčky, co jsem kdy udělal...",
+        "Mon": "Jo, vím toho spoustu o místních lidech.#$e#To je jedna z výhod, když jsi výčepní.$h#$e#Někdy toho uslyšíš až příliš...",
+        "pamHouseUpgrade": "Ahoj, slyšel jsem co si udělal pro Pam. To bylo od tebe velmi štědré!$h#$e#Bohužel si myslím, že tohle ji s její nadměrným požíváním 'nápojů' nepomůže...",
+        "pamHouseUpgradeAnonymous": "Před chvilkou jsem potkal Pam... smála se od ucha k uchu! Pověděla mi, že ji někdo koupil nový dům!#$e#Ať to byl kdokoliv, určitě si zaslouží pořádnou pochvalu!$h",
+        "Saloon": "Vítej v hospodě U Kapky Hvězd. Co ti můžu nabídnout?",
+        "Saloon4": "Zdravím @. Buď tu jako doma.",
+        "SeedShop_Entry": "Ahoj Pierre!/Tak, co teď potřebuji.../Ah, to vypadá dobře!/Dnes dělám svoji speciální omáčku!/Pierre! Co máš čerstvé?/Pierre! Co pro mě máš?",
+        "Saloon8": "Zdravím tě @. Rád tě vidím! Vždy tu budeš vítán.",
+        "Saloon_Tue": "Ahoj! Posaď se a uvolni se.",
+        "Saloon_Thu": "Nazdar, vypadáš, že prahneš po nějakém nápoji.",
+        "Saloon_Fri": "Obchody jdou tento večer náramně dobře. Jsem spokojen.",
+        "Tue": "Každý týden máme jiné menu, tak se nezapomeň občas zastavit!#$e#Připrav se na velký kulinářský zážitek.$h#$e#Jen mi dopředu dej vědět, jestli si na něco alergický.$s#$e#Tak jo, brzo se zase uvidíme.",
+        "Wed": "Emily tu pracuje už nějakou dobu. Nevím, co bych si bez ní počal!#$e#Nerad bych sám myl všechny ty hrnce.$s",
+        "Thu": "Pam a Clint chodí do hospody skoro každou noc.#$e#Kdyby sem přestali chodit, asi bych musel brzo zavřít krám.$h#$e#Tak si hlavně dej pozor ať je odsud nevyženeš!",
+        "Thu6": "Clint sem chodí skoro každý večer a vždy sedí sám u toho samého stolu.#$e#Někdy rychle pohlédne na Emily, ve tváři má vždycky takový nervózní výraz. Hmmmm.#$e#Možná to je důvod proč sem chodí tak často. No, to mi je jedno. Hlavně že to znamená další vydělané peníze pro mě.",
+        "Thu8": "No to se podívejme, kdo to k nám přichází! Vítej, já jsem Gus, kuchař a majitel hospody u Kapky hvězd.#$e#Pokud se chceš něčím posilnit, máme tu horkou kávu a studené pivo.$h",
+        "Fri": "Zdravíčko, @. Pokud budeš mít dnes večer žízeň, určitě se zastav u mě v hospodě, platí?",
+        "Fri4": "Já sám moc alkohol nepiji. Dělám to hlavně kvůli obživě.#$e#I když si čas od času dám sklenku vinného moku Stardew Valley.",
+        "Sat": "Jak moc dobrý si kuchař, @?^Jak moc dobrá si kuchařka, @?#$e#Pokud máš kuchyni a znáš pár receptů, můžeš si uvařit skvělá a užitečná jídla.#$e#Doma uvařená jídla jsou také skvělými dárky.",
+        "Sun": "Díky mým stálým zákazníkům máme pravidelné tržby."
+      }
+    }
+  ]
+}

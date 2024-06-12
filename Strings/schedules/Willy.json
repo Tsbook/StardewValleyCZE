@@ -1,0 +1,20 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Willy",
+      "Entries": {
+        "Fri.000": "Po celodenní práci se slanými rybami mi vždycky vyprahne.",
+        "spring_9.001": "Ah, do palce se mi zasekl háček... doktor ho vyřeže.",
+        "winter_17.000": "Ah, nic tě po dlouhém, temném dni neuklidní více, než pořádně horký nápoj...",
+        "spring_9.002": "Jauvajs To bolelo, doktore!$s",
+        "spring_9.000": "Musím dneska k doktorovi, takže pokud chceš nakupovat, udělej to prosím rychle.",
+        "spring_9.003": "Potřebuji něco na zahřátí, abych byl připraven na další studenou noc na moři.$h",
+        "Sat.000": "Ah... Nic se nevyrovná odpočinku se studeným pivem v ruce po klidném dni stráveném rybařením.$h",
+        "winter_15.000": "Kvůli nočnímu trhu nezamhouřím oko.. ale co, mně to nevadí, já se dokáží přizpůsobit.",
+        "winter.000": "Potřebuji něco na zahřátí, abych byl připraven na další studenou noc na moři.$h",
+        "winter_16.000": "Už ses byl projet v hlubokomořské ponorce? Její kapitán je můj starý přítel."
+      }
+    }
+  ]
+}

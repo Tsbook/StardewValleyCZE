@@ -1,0 +1,14 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Gus",
+      "Entries": {
+        "fall_4.000": "Z návštěvy doktora jsem vždycky nervózní... Co když mi zbývá už jen pár let? Ještě nejsem připraven odejít!",
+        "fall_4.001": "Jsou to ty moje játra, že doktore? Vidím ti to ve tváři. *Povzdech*... vážně potřebuji přestat pít to lahodné sladké víno ze Stardew Valley.$s",
+        "Mon.000": "Nakupuji nějaké zásoby pro hospodu. Pierre má dnes dobré zboží.$h",
+        "Sun.000": "Hey @. Promiň... bar bude do konce utkání zavřený."
+      }
+    }
+  ]
+}

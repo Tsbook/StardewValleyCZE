@@ -1,0 +1,20 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/HarveyRoom",
+      "Fields": {
+          "normal": {
+            "1": "speak Harvey \"Promiň, jsem celý rozcuchaný... Nevěděl jsem, že přijdeš.$h\"",
+            "4": "speak Harvey \"Hej, asi slyším jak nad námi letí letadlo...\"",
+            "8": "speak Harvey \"@, pojď rychle sem!\"",
+            "12": "speak Harvey \"Podívej!\"",
+            "16": "speak Harvey \"Jako dítě jsem snil o tom, že budu jednou pilotem.\"",
+            "18": "speak Harvey \"...ale s mým špatným zrakem a ohromujícím strachem z výšek se tento sen začal rozplývat.$s\"",
+            "24": "speak Harvey \"To je v pořádku... nebuď smutný.^To je dobré... nebuď smutná.#$b#Už jsem se vyrovnal se svoji životní situací. Ne každý si může splnit své sny... takový svět prostě je.\"",
+            "26": "speak Harvey \"Hej, ukáži ti své modely letadel. Právě jsem dokončil novou sadu TR-Hvězdopták delux.$h\""
+          }
+        }
+      }
+  ]
+}

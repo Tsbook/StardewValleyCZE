@@ -1,0 +1,46 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/ArchaeologyHouse",
+      "Fields": {
+        "1848481/f Elliott 2000/t 1300 1900/n elliottReading": {
+          "8": "speak Elliott \"@, tak jsi konečně tady!$h#$b#Když jsem tuto knihu dokončil, hrozně se mi ulevilo... už necítím tu hroznou tíhu na ramenech.\"",
+          "16": "speak Elliott \"No, radši je nenechám déle čekat... Drž mi palce.$8\"",
+          "25": "speak Elliott \"Dobré odpoledne všem.\"",
+          "29": "textAboveHead Emily \"Ahoj!\"",
+          "38": "speak Elliott \"Už odmalička jsem snil o tom stát se spisovatelem.#$b#Když nastal čas odejít z domova a osamostatnit se, rozhodl jsem se přestěhovat sem. Přitahovala mě místní tichá krása tohoto údolí a doufal jsem, že klidné dny plné rozjímání v této idylické atmosféře probudí moji spisovatelskou múzu.\"",
+          "44": "speak Elliott \"Po bezpočtu hodin strávených psaním u mého stolu Vám představuji svůj první román: 'Vzestup a pád planety Yazzo'... Je to scifi epos popisující tisíce let odehrávající se v exotickém planetárním systému.\"",
+          "47": "speak Elliott \"Kapitola první.#$b#Velitel Yutkin prošel pod zlatým obloukem, zatímco se za ním uzavřel vzduchový uzávěr. Dnes byl jeho první den na planetě Yazzo a všech 14 spojeneckých delegátů bylo předvoláno k Velké Věži...\"",
+          "64": "speak Elliott \"...a jak 7. měsíc zapadl za obzor, planeta započala svoji zlověstnou přeměnu... událost na kterou velitel Yutkin nebyl vůbec připraven.\"",
+          "68": "speak Elliott \"A tady bychom skončili se čtením. Podepsané kopie své knihy budu prodávat recepci. Děkují Vám za pozornost!$h\"",
+          "76": "speak Elliott \"Tak co, jaké to bylo?\"",
+          "78": "speak Elliott \"Díky. $h#$b#Víš, že nápad napsat scifi knihu jsem dostal od tebe? Vzpomínáš si?#$b#Proto jsem se rozhodl tuto knihu věnovat tobě...$l\""
+        },
+        "mysteryBook": {
+          "1": "speak Elliott \"Po bezpočtu hodin strávených psaním u mého stolu Vám představuji svoji první knihu: 'Modrá věž'... je to detektivní román odehrávající se ve fantaskní dystopické budoucnosti.\"",
+          "4": "speak Elliott \"Kapitola první.#$b#Ze stínů se vynořil muž vyzařující záhadnou vševědoucnost. 'Dobrý večer, pane Lu.', ozvalo se z jeho chvějících se úst. Lu se zdál být zaskočen. 'Jak víte jak se jmenuji?'\"",
+          "21": "speak Elliott \"Lu prohlédl Jenuovi kapsy, pak se zvedl a odešel do ložnice. Rychle nalezl jím hledaný zlatý klíček, který pak umístil do své kapsy kabátu.\"",
+          "25": "speak Elliott \"A tady bychom skončili se čtením. Podepsané kopie své knihy budu prodávat recepci. Děkují Vám za pozornost!$h\"",
+          "33": "speak Elliott \"Tak co, jaké to bylo?\"",
+          "35": "speak Elliott \"Díky. $h#$b#Víš, že nápad napsat detektivní knihu jsem dostal od tebe? Vzpomínáš si?#$b#Proto jsem se rozhodl tuto knihu věnovat tobě...$l\""
+        },
+        "romanceBook": {
+          "1": "speak Elliott \"Po bezpočtu hodin strávených psaním u mého stolu Vám představuji svůj první román: 'Kaméliová stanice'... Je to romantický příběh o číšnici, která se zamiluje do cestujícího architekta...\"",
+          "4": "speak Elliott \"Kapitola první.#$b#'Máte lístek, pane?' Průvodčí Gozman natáhl rukavicí chráněnou ruku směrem k mladému cestujícímu. 'Ah, ano. Mám ho přímo tady,' odpověděl a sáhl do své náprsní kapsy. Zděšen zjistil, že jeho lístek zmizel.\"",
+          "21": "speak Elliott \"...'Kláro, musím ti něco říct,' vyhrkl, hned jak začala odcházet. Klára se pomalu otočila a zahleděla se do jeho očí plné zoufalství. V tu chvíli Gozman vtrhl do bytu, obličej zcela rudý.\"",
+          "25": "speak Elliott \"A tady bychom skončili se čtením. Podepsané kopie své knihy budu prodávat recepci. Děkují Vám za pozornost!$h\"",
+          "33": "speak Elliott \"Tak co, jaké to bylo?\"",
+          "35": "speak Elliott \"Díky. $h#$b#Víš, že nápad napsat romantickou knihu jsem dostal od tebe? Vzpomínáš si?#$b#Proto jsem se rozhodl tuto knihu věnovat tobě...$l\""
+        },
+        "0/n somethingToDonate/l somethingWasDonated": {
+          "17": "speak Gunther \"Hrozné...#$b#V celé sbírce není ani jeden kousek.\"",
+          "24": "speak Gunther \"Copak to máš? Něco jsi ${našel^našla}$? Dovol mi se podívat.\"",
+          "31": "speak Gunther \"Zajímavé!#$b#Je to velmi staré.#$b#Moc rád bych uvítal možnost prozkoumat toto podrobněji... Ale ${našel^našla}$ jsi to ty a tak ti to patří.\"",
+          "35": "speak Gunther \"Hmmm...#$b#Chtěl bych tě o něco požádat.#$b#${Mohl^Mohla}$ bys darovat jakékoli nové artefakty nebo minerály, které nalezneš, sem do našeho muzea?#$b#Spolu bychom mohli učinit průlomové objevy!#$b#A kdo ví... Pokud budeš velmi ${štědrý^štědrá}$ v darování, možná narazím na zajímavé věci, které na oplátku pošlu tobě.\"",
+          "39": "speak Gunther \"Popřemýšlej o tom, ano?#$b#Pokud nalezneš něco, co bys ${chtěl^chtěla}$ věnovat, stačí to přinést do recepce.\""
+        }
+      }
+    }
+  ]
+ }

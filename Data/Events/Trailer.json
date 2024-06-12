@@ -1,0 +1,42 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Trailer",
+      "Fields": {
+        "35/f Penny 1000/p Penny": {
+          "7": "speak Penny \"Fuj... tady to je tak špinavé.$s\"",
+          "16": "speak Penny \"@! Um... omlouvám se za ten nepořádek. Právě jsem chtěla uklízet.$u\"",
+          "22": "speak Penny \"Ty mi chceš pomoct? To myslíš vážně?$h\"",
+          "26": "speak Penny \"Dobře, můžeš začít uklízet tamhle. Já vyčistím kuchyni.\"",
+          "66": "speak Pam \"Co si myslíte že děláte?!$u\"",
+          "70": "speak Pam \"Přestaňte! Měla jsem tu všechno uspořádané tak jak mi to vyhovovalo!$u\"",
+          "75": "speak Penny \"Mami, vždyť je tu naprostý bordel. @ a já jsme tu chtěli jen trochu poklidit.#$b#*čich* *čich*... nebyla jsi teď v hospodě? Táhne z tebe pivo...$s\"",
+          "80": "speak Pam \"Kam jdu tě nemusí zajímat. Nic ti do toho není!$4\"",
+          "82": "speak Penny \"To teda JE! Nechci aby jsi se neustále ničila!$a#$b#Copak nechápeš, že to působí i na mě? Přestaň být tak sobecká!$a\"",
+          "86": "speak Pam \"Sobecká? Dala jsem ti střechu nad hlavou a oblečení co nosíš a ty se mě opovažuješ nazvat sobecká!? Takhle se mi odvděčuješ? Ty jedna malá nevděčná...$u\"",
+          "95": "speak Pam \"Asi by jsi ${měl^měla}$ jít. Omlouvám se, že jsi ${musel^musela}$ být svědkem naší hádky.$4\"",
+          "111": "speak Pam \"Je to pohledný mladý muž...^Je to milá mladá dáma...\"",
+          "112": "speak Pam \"Ale nechci, aby si ostatním říkala ať uklízejí v mém domě! Je to trapné! Rozumíš?$4\"",
+          "118": "speak Penny \"...Ano, matko.$s\""
+        },
+        "36/f Penny 1500/p Penny": {
+          "10": "speak Penny \"@, ${přišel^přišla}$ jsi právě včas!#$b#Právě dokončuji vaření nového receptu, který jsem vymyslela!$h\"",
+          "15": "speak Penny \"Chviličku strpení, hned ho dodělám.\"",
+          "41": "speak Penny \"Tady máš, ochutnej to.\"",
+          "56": "speak Penny \"$q 72 null#... tak co?#$r 72 50 event_cook1#(Lež) Mmm! To bylo výborné!#$r 73 -50 event_cook2#Uh... můžu si zbytek vzít domů?#$r 73 0 event_cook3#No, má to ojedinělou chuť... jak si dosáhla té gumové konzistence?\"",
+          "58": "speak Penny \"$p 72#Poslyš, protože si první osoba, která to ochutnala, tak já tento recept nazvu 'Chili na způsob @'.$h|No, ten recept se asi moc nepovedl...$s\"",
+          "62": "speak Penny \"Um... chceš se koukat na film, nebo něco jiného?\"",
+          "68": "end dialogue Penny \"Díky, že jsi ${byl můj ochutnávač^byla má ochutnávačka}$.$h\""
+        },
+        "963313/n pamPotatoJuice": {
+          "6": "speak Pam \"Hehehe... koukám, že mi přišla objednávka.$h\"",
+          "8": "speak Pam \"Tak si dáme trochu loka.$h\"",
+          "28": "textAboveHead Pam \"Fujtajbl!\"",
+          "33": "speak Pam \"Chtěla jsem brambory, ne zkvašené opičí ledviny!$u\"",
+          "35": "end dialogue Pam \"Ten džus? Jo, zkusila jsem ho prcku. $4#$b#Jak mi chutnalo? ...některé věci je lepší nevědět. A tak bych to i nechala být.$4\""
+        }
+      }
+    }
+  ]
+}

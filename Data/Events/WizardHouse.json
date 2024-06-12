@@ -1,0 +1,41 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/WizardHouse",
+      "Fields": {
+        "112/n seenJunimoNote": {
+          "9": "speak Wizard \"Ah... pojď dál.\"",
+          "18": "speak Wizard \"Mé jméno je Rasmodius... hledač pravd tajemných.#$b#Most mezi fyzickým a éterickým.#$b#Pán sedmi elementálů.#$b#Strážce posvátné cha-... zbytek určitě znáš.\"",
+          "21": "speak Wizard \"A ty... @. ${Ten, jehož^Ta, jejíž}$ příchod jsem dlouho předpovídal.\"",
+          "23": "speak Wizard \"Pohleď, chci ti něco ukázat.\"",
+          "28": "speak Wizard \"Hle!\"",
+          "49": "speak Wizard \"Už jsi jednoho ${viděl^viděla}$, že?\"",
+          "55": "speak Wizard \"Říkají si 'Junimos'...#$b#Tajná to stvoření... z nějakého důvodu se mnou nechtějí komunikovat.\"",
+          "69": "speak Wizard \"Nevím, proč obývají komunitní centrum, ale není třeba se jich obávat.\"",
+          "74": "speak Wizard \"Hmmm? ${Našel^Našla}$ jsi zlatý svitek psaný v neznámém jazyce?#$b#Velmi zajímavé...\"",
+          "76": "speak Wizard \"Počkej tady. Podívám se na to sám. Za chvíli se vrátím.\"",
+          "112": "speak Wizard \"Tak jsem se na něj podíval...\"",
+          "115": "speak Wizard \"Jazyk to je zastaralý, ale podařilo se mi ho rozluštit:\"",
+          "117": "message \"My, Junimo, ti rádi pomůžeme. Na oplátku žádáme dary tohoto údolí. Koluje-li ti v žilách duše lesa, pak uvidíš pravou podstatu svitků.\"",
+          "125": "speak Wizard \"Hmm... 'Duše lesa v žilách'... co tím myslí?\"",
+          "127": "speak Wizard \"...*čich*...*čich*...\"",
+          "132": "speak Wizard \"Ah-ha!$h\"",
+          "135": "speak Wizard \"Pojď sem!$h\"",
+          "143": "speak Wizard \"V mém kotli probublávají ingredience z lesa.$h#$b#Minikapradí, mech, hříbek... Cítíš tu vůni?$h\"",
+          "148": "speak Wizard \"Tak. Napij se. Nech ať duše lesa prostoupí tvým tělem.$h\"",
+          "170": "message \"Získali jste sílu kouzel lesa! Nyní můžete rozluštit pravý smysl svitků od Junimů.\""
+        },
+        "418172/n hasPickedUpMagicInk": {
+          "5": "speak Wizard \"${Našel^Našla}$ jsi můj inkoust! Výtečně.\"",
+          "8": "speak Wizard \"Um...\"",
+          "13": "speak Wizard \"${Nesetkal^Nesetkala}$ ses... náhodou s moji bývalou ženou?#$b#Ne? A co její dům...?#$b#Máš pocit, že žije sama? Nebo...$h\"",
+          "20": "speak Wizard \"...Raději mi to ani neříkej... Nechci to vědět.\"",
+          "25": "speak Wizard \"Každopádně... asi musíš přemítat co vlastně dostaneš za odměnu. Ukáži ti tedy...\"",
+          "40": "speak Wizard \"Je to kniha vyvolávacích kouzel.#$b#Skrývá v sobě nejedno mocné kouzlo... ale vynasnažím se ti to zjednodušit.#$b#Pomocí této knihy můžeš seslat kouzelné budovy přímo na svoji farmu.#$b#Myslím, že ti budou ku prospěchu.\"",
+          "44": "speak Wizard \"Ah, skoro jsem opomněl ti říct... ehm... Děkuji ti.\""
+        }
+      }
+    }
+  ]
+}

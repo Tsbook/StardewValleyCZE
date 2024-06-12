@@ -1,0 +1,58 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Hospital",
+      "Fields": {
+        "7/f Maru 1000/p Maru": {
+          "9": "speak Maru \"*vzdech*... Už mě nebaví pořád připravovat tyhle vzorky...$s\"",
+          "24": "speak Maru \"Ah! Ale ne!... $4\"",
+          "28": "speak Maru \"Celý vzorek je zničený... Harvey mě za tohle zabije...$s\"",
+          "35": "speak Maru \"$q 38 null#@, co bych měla udělat?#$r 38 -50 Event_Hospital_1#Jen vytři podlahu. Nepozná rozdíl.#$r 39 -20 Event_Hospital_2#Řekni Harveymu, že to byla má chyba.#$r 38 50 Event_Hospital_3#Řekni Harveymu, že to byla nehoda.\"",
+          "41": "speak Harvey \"Co se stalo? Slyšel jsem jak se něco rozbilo.\"",
+          "43": "speak Maru \"$p 38#Omylem jsem upustila jeden ze vzorků... Je mi to moc líto.$s|@ přišel a práskl dveřmi tak hlasitě, až jsem se lekla a upustila vzorek.$u\"",
+          "47": "speak Harvey \"Neměla bys svalovat své problémy na ostatní, Maru.$a\"",
+          "50": "speak Harvey \"*vzdech*... Teď budu muset zavolat pacientovi a požádat ho znovu o jeho vzorek.$s#$b#Tím pádem budeme tento měsíc zase v červených číslech...$s\""
+        },
+        "toldTruth": {
+          "1": "speak Harvey \"Díky že jsi mi řekla pravdu, Maru.#$b#O ten vzorek se nemusíš starat, prostě získáme další.\"",
+          "5": "speak Maru \"Děkují, že máte se mnou takovou trpělivost doktore Harvey.\"",
+          "7": "speak Harvey \"To je samozřejmé... moc mi tu pomáháš. Nevím, co bych bez tebe dělal!\"",
+          "14": "speak Harvey \"@? Jsi celý ${bledý^bledá}$... jsi v pořádku?\""
+        },
+        "57/f Harvey 1000/p Harvey": {
+          "9": "speak Harvey \"Ah, @! Právě jsem ti chtěl napsat dopis.\"",
+          "12": "speak Harvey \"Totiž, mé záznamy ukazují, že je čas na tvoji roční lékařskou prohlídku!\"",
+          "14": "speak Harvey \"No tak, no tak... Není třeba se obávat. Bude to rychlé a bezbolestné. Pojď za mnou.\"",
+          "26": "speak Harvey \"Hmm... Dobře. A teď stůj pevně, prosím.\"",
+          "28": "speak Harvey \"Otevři pusu a řekni 'aaaaa...'\"",
+          "30": "speak Harvey \"Dobře, můžeš přestat.\"",
+          "40": "speak Harvey \"Teď potřebuji zkontrolovat tvé vitální funkce.\"",
+          "64": "speak Harvey \"$q 86 null#Hmm... Máš vysoký tep.$u#$r 86 20 event_heart1#Jsem trochu nervózní...#$r 86 20 event_heart2#Práce na farmě mě vyčerpává.#$r 86 -50 event_heart3#Můj tep je v pořádku. Jsi vůbec doktor?\"",
+          "88": "speak Harvey \"Tak, tedy! Tvé zdraví je v pořádku, @.#$b#Jen si prosím dávej pozor aby, ses na té tvé farmě ${nepřepracoval^nepřepracovala}$!\"",
+          "94": "speak Harvey \"Díky že ses ${zastavil^zastavila}$.$h\""
+        },
+        "571102/f Harvey 2000": {
+          "8": "speak Harvey \"Haló? Haló? Je tam někdo?$9\"",
+          "11": "speak Harvey \"Tady Dr. H na... 52. stupni severně, 43,5. stupni východně... Čekám na vzdušnou odpověď...Je tam někdo?$9\"",
+          "16": "message \"Rozumím.. Dr. H na zemi... tady je Blackbird Pětka Pětka Zuzu. Máte něco k hlášení?\"",
+          "20": "speak Harvey \"Někdo tam je!?$10#$b#Umm... Teda já... Standardní hlášení ze země: Vítr má rychlost 3 uzlíky, 36 stupně severozápadně. Teplota je 42 stupňů Slejzija. Vlhkost 53%. Dr. H končí!$10\"",
+          "25": "speak Harvey \"Jejda, stoupá mi tep...$7\"",
+          "32": "question fork1 \"#Zeptat se Harveyho proč je tak vyvedený z míry.#Předstírat, že je vše v pořádku.\"",
+          "35": "speak Harvey \"Ah, ano... Víš, já si tu jen hrál s rádiem... a kontaktoval jsem skutečného pilota!\"",
+          "37": "speak Harvey \"Vlastně ho pravděpodobně můžeme teď vidět jak nad námi letí!\"",
+          "41": "speak Harvey \"Pojď rychle sem!\"",
+          "49": "speak Harvey \"Podívej!\"",
+          "53": "speak Harvey \"Jako dítě jsem snil o tom, že budu jednou pilotem.\"",
+          "55": "speak Harvey \"...A...ale s mým špatným zrakem a ohromujícím strachem z výšek se tento sen začal rozplývat.$s\"",
+          "61": "speak Harvey \"To je v pořádku... nebuď ${smutný^smutná}$.#$b#Už jsem se vyrovnal se svoji životní situací. Ne každý si může splnit své sny... takový svět prostě je.\"",
+          "63": "speak Harvey \"Hej, ukáži ti své modely letadel. Právě jsem dokončil novou sadu TR-Hvězdopták delux.$h\""
+        },
+        "PlayerKilled": {
+          "7": "message \"Opatrně... ne tak rychle..\"",
+          "10": "speak Harvey \"Někdo tě našel ${potlučeného^potlučenou}$ v bezvědomí... Musel jsem na tobě provést urgentní operaci!#$b#Buď prosím příště opatrnější, rozumíš?$s\""
+        }
+      }
+    }
+  ]
+}

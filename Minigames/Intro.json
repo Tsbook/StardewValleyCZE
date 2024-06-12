@@ -1,0 +1,15 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/Intro",
+      "FromFile": "Minigames/Intro.png",
+      "ToArea": {
+        "X": 66,
+        "Y": 205,
+        "Width": 28,
+        "Height": 10
+      }
+    }
+  ]
+}

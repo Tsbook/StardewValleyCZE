@@ -1,0 +1,14 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Leah",
+      "Entries": {
+        "spring_16.001": "Nic mi není, doktore Harvey?",
+        "marriage_Mon.000": "Ahoj, @. Jen si chvíli užívám trochy čerstvého vzduchu. Doma jsem zavřená začínala šílet.",
+        "winter_15.000": "Hmmm... Lupiniho originál? Pěkný kousek...",
+        "spring_16.000": "Ahoj. Jdeš také k doktorovi?"
+      }
+    }
+  ]
+}

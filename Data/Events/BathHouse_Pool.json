@@ -1,0 +1,19 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Bathhouse_Pool",
+      "Fields": {
+        "38/f Penny 2500/t 1900 2400/n pennySpa": {
+          "13": "speak Penny \"Tady jsi... Už jsem se bála, že si ${nedostal^nedostala}$ můj dopis.$6\"",
+          "18": "speak Penny \"Vypadá to, že jsme sami.$8\"",
+          "20": "speak Penny \"Voda je v tuto dobu báječná, že?$6\"",
+          "28": "speak Penny \"$q -1 null#Víš proč jsem tě sem dnes večer pozvala?$8#$r -1 0 event_pool1#Chceš mi něco říct.#$r -1 0 event_pool2#Upřímně nevím.#$r -1 0 event_pool3#Chceš mě vidět v plavkách.\"",
+          "32": "speak Penny \"Hmm, jak to jen říct...$8\"",
+          "37": "speak Penny \"Už dlouhou dobu jsem ti chtěla povědět... co k tobě cítím.$8#$b#Nemůžu na tebe přestat myslet...$8#$b#K nikomu jinému jsem nic takového necítila.$8\"",
+          "38": "speak Penny \"$q -1 null#...$8#$r -1 0 event_pool4#Já cítím k tobě to samé.#$r -1 -1500 event_pool5#Promiň, ale já nemohu opětovat tvé city...\""
+        }
+      }
+    }
+  ]
+}

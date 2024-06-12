@@ -1,0 +1,18 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Penny",
+      "Entries": {
+        "winter_4.001": "Hej! To je takový zločin chtít trochu soukromí?$a",
+        "marriage_Mon.002": "Myslíš si, že se Maru někdy vdá?",
+        "marriageJob.000": "Ahoj, zlato. Jak milé, že jsi mě navštívil v práci.$h¦Ahoj, zlato. Jak milé, že jsi mě navštívil v práci.$h",
+        "marriage_Mon.001": "Neboj se, platím to ze svého.",
+        "marriage_Mon.000": "Ahoj miláčku! Jen tu tak nakupuji.",
+        "winter_15.000": "Cítíš to? Vzduch ti tu úplně štípe v nosu...",
+        "winter_4.000": "Zítra mám domluvené vyšetření na klinice.",
+        "rain2.000": "Půjdu dovnitř, chtěla jsem jen chvilku ticha pro sebe."
+      }
+    }
+  ]
+}

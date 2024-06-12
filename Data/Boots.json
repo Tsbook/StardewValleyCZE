@@ -1,0 +1,82 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Boots",
+      "Fields": {
+        "504": {
+          "1": "Sice nevalné kvality.. ale přesto v módě!",
+          "6": "Tenisky"
+        },
+        "505": {
+          "1": "Chrání od vnějšího prostředí.",
+          "6": "Gumové boty"
+        },
+        "506": {
+          "1": "Kůže je velmi poddajná.",
+          "6": "Kožené boty"
+        },
+        "507": {
+          "1": "S ocelovou špičkou pro dodatečnou ochranu.",
+          "6": "Pracovní boty"
+        },
+        "508": {
+          "1": "Zpevněné železným pletivem.",
+          "6": "Vojenské boty"
+        },
+        "509": {
+          "1": "Chlupatá podšívka udrží vaše kotníky v teple.",
+          "6": "Boty do zimy"
+        },
+        "510": {
+          "1": "Navrženy pro pobyt v extrémním počasí.",
+          "6": "Zateplené boty"
+        },
+        "511": {
+          "1": "Vyrobeny ze silné černé kůže.",
+          "6": "Temné boty"
+        },
+        "512": {
+          "1": "Říká se, že vydrží i to nejžhavější magma.",
+          "6": "Boty ohnivého chodce"
+        },
+        "513": {
+          "1": "Látkou prostupuje zvláštní energie.",
+          "6": "Džinovy boty"
+        },
+        "514": {
+          "1": "Iridiová tkanina dává botám fialový lesk.",
+          "6": "Vesmírné boty"
+        },
+        "515": {
+          "1": "Vrchol venkovské módy.",
+          "6": "Kovbojské boty"
+        },
+        "804": {
+          "1": "Vyrobeny s láskou od Emily. 100% biologicky rozložitelné!",
+          "6": "Emiliny kouzelné boty"
+        },
+        "806": {
+          "1": "Přezka je vyrobena z ryzího zlata.",
+          "6": "Leprikónovy boty"
+        },
+        "853": {
+          "1": "Tyto kouzelné boty patřily slavnému šaškovi v trpasličím království.",
+          "6": "Popelákovy Boty"
+        },
+        "854": {
+          "1": "Boty vyrobené z šupin mořské panny dávající jim ochranou auru",
+          "6": "Boty mořské víly"
+        },
+        "855": {
+          "1": "Tyto třpytivé boty vydrží snad skoro vše.",
+          "6": "Boty z dračích šupin"
+        },
+        "878": {
+          "1": "Tyto jiskřivé boty chrání vaše nohy před všemi nástrahami",
+          "6": "Krystalové boty"
+        }
+      }
+    }
+  ]
+}

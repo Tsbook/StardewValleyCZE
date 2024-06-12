@@ -1,0 +1,54 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Railroad",
+      "Fields": {
+        "528052/f Harvey 2500/t 900 1700/n harveyBalloon": {
+          "6": "speak Harvey \"Tady jsi... a právě včas!$l\"",
+          "10": "speak Harvey \"Podívej, už sem letí!$8\"",
+          "23": "message \"Marcellova půjčovna balónů k vašim službám!\"",
+          "48": "message \"Marcello: Na dvě hodiny je jen váš.\"",
+          "51": "message \"Marcello: Tak a teď... říkali mi, že někde poblíž je hospoda?\"",
+          "57": "speak Harvey \"Viděl jsem v novinách reklamu na létání balónem a hned jsem věděl, že tě musím jedním výletem překvapit.\"",
+          "59": "question fork1 \"#To bude vážně zábava! Tak letíme!#... ale nebojíš se náhodou výšek?\"",
+          "62": "speak Harvey \"Dobře... ty první.$l\"",
+          "141": "speak Harvey \"My... my jsme tak vysoko... *polk*$8\"",
+          "144": "speak Harvey \"Chtěl jsem tě tímto překvapit... ale koukni na mě. Třesu se jako osika.$7\"",
+          "147": "speak Harvey \"No, ty máš dostatek odvahy za nás oba, @... proto... to je jedna z částí kvůli které tě mám rád.$11\"",
+          "149": "speak Harvey \"Dobře, zkusím otevřít oči a podívat se dolů... nepouštěj mou ruku.$4\"",
+          "174": "speak Harvey \"Já... myslím že už to dokážu.$8\"",
+          "186": "speak Harvey \"Hej, to je neuvěřitelné! Myslím, že vidím starostu Lewise jak stojí na náměstí!$h\"",
+          "189": "speak Harvey \"Ah jémine... skoro nám vypršel čas.$s\"",
+          "195": "speak Harvey \"Um... @? Už se známe nějakou dobu a... já... ehm...$11\"",
+          "227": "speak Harvey \"Jejda... náš čas vypršel už před půl hodinou. Radši bychom už měli přistát.$l\"",
+          "229": "end dialogue Harvey \"Takový skvělý den jsem neměl ani nepamatuji.$l\""
+        },
+        "afraid": {
+          "1": "speak Harvey \"Ano... bojím.$s#$b#Ale rozhodl jsem se, že to mě nezastaví před tím, co chci dělat... a užívat si to s tebou.$l#$b#Pokusím se strach překonat.\"",
+          "80": "speak Harvey \"My... my jsme tak vysoko... *polk*$8\"",
+          "83": "speak Harvey \"Chtěl jsem tě tímto překvapit... ale koukni na mě. Třesu se jako osika.$7\"",
+          "86": "speak Harvey \"No, ty máš dostatek odvahy za nás oba, @... proto... to je jedna z částí kvůli které tě mám rád.$11\"",
+          "88": "speak Harvey \"Dobře, zkusím otevřít oči a podívat se dolů... nepouštěj mou ruku.$4\"",
+          "113": "speak Harvey \"Já... myslím že už to dokážu.$8\"",
+          "125": "speak Harvey \"Hej, to je neuvěřitelné! Myslím, že vidím starostu Lewise jak stojí na náměstí!$h\"",
+          "128": "speak Harvey \"Ah jémine... skoro nám vypršel čas.$s\"",
+          "134": "speak Harvey \"Um... @? Už se známe nějakou dobu a... já... ehm...$11\"",
+          "169": "speak Harvey \"Jejda... náš čas vypršel už před půl hodinou. Radši bychom už měli přistát.$l\"",
+          "170": "end dialogue Harvey \"Takový skvělý den jsem neměl ani nepamatuji.$l\""
+        },
+        "529952/C": {
+          "14": "speak Wizard \"Ah... @. Již jsem tě očekával.\"",
+          "20": "speak Wizard \"Vyprávěl jsem ti někdy o mém manželství?\"",
+          "28": "speak Wizard \"Zvláštní, že? Muž jako jsem já... Ale je to pravda.\"",
+          "33": "speak Wizard \"Má žena a já jsme byli spolu po mnoho let, až jednoho dne... jednoho dne jsem udělal chybu, kterou jsem ji zahnal.\"",
+          "36": "speak Wizard \"Měla v sobě tolik zlosti a žárlivosti, že celá zezelenala a začala lítat na koštěti po okolí, zaklínajíc vše v její cestě...\"",
+          "38": "speak Wizard \"Jakmile jsem to zjistil, zapečetil jsem cestu k jejímu příbytku. Měl jsem totiž obavy, že se nevinní obyvatelé z okolí stanou obětmi jejích temných čar, když k ní zabloudí.\"",
+          "40": "speak Wizard \"Ale nyní nastal čas tuto pečeť strhnout... protože při našem odloučení si s sebou vzala můj kouzelný inkoust!#$b#A já ho potřebuji zpět!$h#$b#Udělal bych to sám, ale... nemohl bych se ji podívat do očí. A proto žádám tebe o tvou pomoc.\"",
+          "42": "speak Wizard \"Pro zlomení kouzla které toto místo chrání je zapotřebí temný talisman. Promluv si s Krobusem v kanálech... měl by vědět, kde se nějaký nachází.\"",
+          "45": "speak Wizard \"Spoléhám na tebe... pokud se ti podaří můj inkoust získat zpět, slibuji ti, že budeš bohatě ${odměněn^odměněna}$... a teď už jdi!\""
+        }
+      }
+    }
+  ]
+}

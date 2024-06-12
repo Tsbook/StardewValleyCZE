@@ -1,0 +1,32 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/SimpleNonVillagerDialogues",
+      "Entries": {
+        "derby_contestent0": "Rybář: Kvůli této derby se táhnu celou cestu sem až z Krabovky.||Rybář: Bez pytle plného pstruhů odsud neodejdu!",
+        "derby_contestent1": "Námořník: Na tohle jsem možná až moc ve stresu.",
+        "derby_contestent2": "Námořník: No samozřejmě... nějaký chlápek si přijde stejně oblečený jako já. To je tak trapné!",
+        "derby_contestent3": "Rybář: Promiňte, snažím si vychutnat klid okolí.||Rybář: ...||Rybář: ...||Rybář: ...||Rybář: Asi jsem se nevyjádřil dost jasně...||Rybář: ...||Rybář: ...||Rybář: ...||Rybář: Někoho za chvilku asi praštím po hlavě a ryba to nebude.||Rybář:...",
+        "derby_contestent4": "Sestry rybářky: Jsme slavné sestry rybářky!||Sestry rybářky: Vylovíme vše co si usmyslíme! Na na na!",
+        "derby_contestent5": "Porybný: Tak co? Berou? Jediné co tu kouše mě jsou komáři...",
+        "derby_contestent6": "Pstruhový fanda: U nás doma mi říkají 'Pstruhový fanda'.||Pstruhový fanda: Není větší odborník na pstruhy než já. Celých pět let jsem se učil jak myslet jako pstruh. Jsou to vcelku prosté myšlenkové pochody: jíst, jíst, jíst, snést vejce, spát, zase jíst.||Pstruhový fanda: Jíst mi vlastně docela jde. Ale snášet vejce ještě moc neumím.",
+        "derby_contestent7": "Rybář: Nechceš se prát s davem lidí o úlovky? Došel jsem ke stejnému závěru.",
+        "derby_contestent8": "Rybářský šampión: Já vím, že tohle není zrovna soutěž ale... kdo nasbírá nejvíce značek se může po celý rok chlubit!||Rybářský šampión: Můžeš si být ${jist^jista}$ že v zimě přijedu na Olihňobraní... to je teprve ta pravá výzva!||Rybářský šampión: Tajemstvím pro zaručený odchyt pstruhů je dát jim něco, co na pohled vypadá tak strašně, že se prostě musí zakousnout...",
+        "derby_contestent9": "Rybář: Ach, tak tomuhle říkám pohoda. Nic mě neuklidňuje víc než celodenní rybaření pstruhů.",
+        "winter_derby_contestent0": "Rybář: Olihně jsou normálně aktivní pouze v noci. Ale pořadatelé do vody hodili speciální návnadu, která je vyláká z jejich úkrytů i během dne.",
+        "winter_derby_contestent1": "Námořník: Díky studenému vzduchu je má kůže pěkně tuhá. Jako kus sušeného hovězího.||Námořník: Na druhou stranu když je teplo, je jako pudink.",
+        "winter_derby_contestent2": "Námořník: Kde jsi, olihničko? Pojď ke mně...",
+        "winter_derby_contestent3": "Rybář: Ty jsi místní, co? Doufám, že ti nebude vadit, když ti seberu pár skvělých pstruhů...",
+        "winter_derby_contestent4": "Sestry rybářky: Jsme slavné sestry rybářky.||Sestry rybářky: Olihně již od dětství chytáme solidně. Na na na!",
+        "winter_derby_contestent5": "Porybný: Brrr... to je zima! Možná nejsem úplně stavěný na lovení ryb v zimě.||Porybný: Mně spíš víc vyhovuje Kaprobraní...",
+        "winter_derby_contestent6": "Pstruhový fanda: No, olihně se nedají srovnávat se pstruhy, ale to mě neodradí v jejich chytání.||Pstruhový fanda: Jestli vůbec chceš mít šanci něco vyhrát, raději bys ${měl^měla}$ začít něco dělat!",
+        "winter_derby_contestent7": "Rybář: Má žena mi na cestu dala termosku s horkou kávou. To je moje holka zlatá!",
+        "winter_derby_contestent8": "Rybářský šampión: Ššššš... Nechci vyplašit olihně.||Rybářský šampión: Tady je ideální místo na lov. Není tu tolik lidí. Olihně se občas mohou stydět.||Rybářský šampión: Dovolím ti tady lovit. Jen se pokus být potichu.",
+        "winter_derby_contestent9": "Rybář: Mně ani moc nezáleží na výhře v soutěži. Jsem tu, abych si užil atmosféru.||Rybář: Mám radši letní počasí, ale na drsném zimním počasí je něco přitažlivého. A jaký by byl život bez protikladů?",
+        "winter_derby_contestent10": "Rybář: Mé prsty jsou jako rampouchy, takže si na zahřátí teď tady dám šálek starého dobrého moštu. Přeji ti hodně štěstí!",
+        "winter_derby_contestent11": "Olihňový šéfkuchař: Ach, mně si nemusíš všímat... netrpělivě tu čekám na výprodej olihní s množstevními slevami!||Olihňový šéfkuchař: Tak co tu jen tak postáváš? Olihně ti sami na háček nenaskáčou!"
+      }
+    }
+  ]
+}

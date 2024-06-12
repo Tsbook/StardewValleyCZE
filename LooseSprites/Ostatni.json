@@ -1,0 +1,115 @@
+{
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/ControllerMaps",
+      "FromFile": "LooseSprites/ControllerMaps.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Concessions",
+      "FromFile": "LooseSprites/Concessions.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 15,
+        "Height": 16
+      },
+      "ToArea": {
+        "X": 17,
+        "Y": 16,
+        "Width": 15,
+        "Height": 16
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/CraneGame",
+      "FromFile": "LooseSprites/Crane.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 3,
+        "Width": 38,
+        "Height": 11
+      },
+      "ToArea": {
+        "X": 195,
+        "Y": 127,
+        "Width": 38,
+        "Height": 11
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/CraneGame",
+      "FromFile": "LooseSprites/Crane.png",
+      "FromArea": {
+        "X": 39,
+        "Y": 0,
+        "Width": 19,
+        "Height": 14
+      },
+      "ToArea": {
+        "X": 253,
+        "Y": 124,
+        "Width": 19,
+        "Height": 14
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/JojaCDForm",
+      "FromFile": "LooseSprites/JojaCDForm.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/JunimoNote",
+      "FromFile": "LooseSprites/JunimoNote.png",
+      "ToArea": {
+        "X": 517,
+        "Y": 286,
+        "Width": 65,
+        "Height": 20
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Furniture",
+      "FromFile": "LooseSprites/Movies.png",
+      "FromArea": {
+        "X": 93,
+        "Y": 74,
+        "Width": 13,
+        "Height": 19
+      },
+      "ToArea": {
+        "X": 50,
+        "Y": 983,
+        "Width": 13,
+        "Height": 19
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors_1_6",
+      "FromFile": "LooseSprites/Cursors_1_6.png",
+      "ToArea": {
+        "X": 132,
+        "Y": 0,
+        "Width": 15,
+        "Height": 16
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/raccoon_bundle_menu",
+      "FromFile": "LooseSprites/JunimoNote.png",
+      "ToArea": {
+        "X": 517,
+        "Y": 286,
+        "Width": 65,
+        "Height": 20
+      }
+    }
+  ]
+}

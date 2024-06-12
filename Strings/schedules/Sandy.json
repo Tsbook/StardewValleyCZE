@@ -1,0 +1,16 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Sandy",
+      "Entries": {
+        "Sandy_Birthday_Greeting": "Čauves Emily! Doufala jsem, že dorazíš!$h#$b#Dneska ráno mi tu bylo docela smutno.#$e#Ale teď jsem ráda, že jsi tu!$h",
+        "Sandy_Birthday_Hangout": "Jak je teď ve Stardew Valley?#$e#Květiny tam vždycky nádherně voní.$h",
+        "Sandy_Birthday_Lake": "Okolo jezera se zdá být vždycky chladněji.#$e#Je dobré občas vyrazit z domu!$h",
+        "Sandy_Birthday_Bones": "Zvláštní, co?",
+        "Sandy_Birthday_Camel": "Myslím, že prodává některé vzácnosti.",
+        "Sandy_Birthday_Bye": "Dneska to byla švanda.$h#$b#Takovou kamarádku jako jsi ty si ani nezasloužím.$h#$e#Můžeš přijít kdy chceš!$h"
+      }
+    }
+  ]
+}

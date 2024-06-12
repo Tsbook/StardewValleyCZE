@@ -1,0 +1,138 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/TV/CookingChannel",
+      "Fields": {
+        "1": {
+          "1": "Smažená míchanice! Skvělý způsob jako na váš talíř dostat trochu zeleniny. Zpěňte ji v trošce sezamového oleje a nezapomeňte tam přidat hodně čerstvého zázvoru a česneku. A teď se zhluboka nadechněte... Ah, to je dobrota.",
+          "2": "Smažená míchanice"
+        },
+        "2": {
+          "1": "Zelný salát! Představujete si nevzhlednou hromádku zvadlého salátu? Nejste sami. Ale skvělý salát může být mnohem víc. Nezapomeňte si připravit šťavnatý čerstvý salát. Zamíchejte trochu octa a majonézy a máte hotovo. Ah, to je křupavé.",
+          "2": "Zelný salát"
+        },
+        "3": {
+          "1": "Ředkvičkový salát! Nic se nevyrovná čerstvé, pálivé ředkvičce. Připomíná mi pozdní jaro... má máma vždycky nasekala čerstvé ředkvičky a podávala je na pšeničném chlebu s trochou soli a pepře. Ah, to byly časy... ale to bych už nemluvila o vaření. A teď se pozorně dívejte...",
+          "2": "Ředkvičkový salát"
+        },
+        "4": {
+          "1": "Omeleta! Je to velmi jednoduché jídlo, ale tak často nesprávně připravené! Perfektní omeleta je krása na pohled. Je to čistý zlatý andílek z lesknoucího se vejce a já vám nyní ukážu dokonalou metodu přípravy...",
+          "2": "Omeleta"
+        },
+        "5": {
+          "1": "Pečená ryba! Kdykoliv toto jídlo dělám doma, mé dvě kočky se po tom mohou utlouct. Potřebuji druhého kuchaře jen na to, aby jim zabránil ve vyskočení na linku, aby si mohly kus odnést! Jen je třeba mít rybu čerstvou, nejlépe chycenou vaším vlastním prutem! A teď se dívejte jak rybu položím na rozloženou jarní zeleninu...",
+          "2": "Pečená ryba"
+        },
+        "6": {
+          "1": "Palačinky! Někdy se nechám unést pompézními a složitými jídly... ale na jednoduché palačince je něco uklidňujícího. Budete potřebovat hodně másla a javorového sirupu, abyste tuto teplou hromádku pořádně namazali... mmmm....",
+          "2": "Palačinky"
+        },
+        "7": {
+          "1": "Maki rolka! Jemná chuť oceánu, zabalená uvnitř měkkého obláčku rýže. Pro odvážné lze přidat trochu wasabi. Už teď mám sliny v puse. Ah, jak já miluji suši...",
+          "2": "Maki rolka"
+        },
+        "8": {
+          "1": "Chleba! Pečení chleba je složitá formy umění, ale já ji pro vás zjednoduším. Nejdůležitější přísadou je bezpochyby mouka. Ale předtím, než budeme moci vyválet těsto, musíme zadělat kvásek. Kvasnice mají rádi teplou vodu a něco k zakousnutí. Já používám obyčejný cukr, ale med nebo javorový sirup postačí!",
+          "2": "Chleba"
+        },
+        "9": {
+          "1": "Tortilly! Kolik z vás, teď jak mě sledujete, chroupe burrito koupené v obchodě a ohřáté v mikrovlnné troubě? Styďte se! To už si můžete zabalit fazole do špinavého hadru na nádobí. A teď pozorně sledujte. Jakmile zkusíte mé čerstvé, rustikální kukuřičné tortilly, už nikdy nebudete chtít jíst jiné...",
+          "2": "Tortilla"
+        },
+        "10": {
+          "1": "Pstruhová polévka! Na čerstvě uloveném pstruhu je něco zvláštního, co mě prostě probudí. Možná za to může ta jemná chutí řeky. V každém případě mám pro vás recept na úžasnou pstruhovou polévku, který vám dnes ukáži...",
+          "2": "Pstruhová polévka"
+        },
+        "11": {
+          "1": "Sladké brambory s polevou! Je období sladkých brambor a není lepší způsob jak je podávat, než tyto hlízy namazat sladkou omáčkou. Budete potřebovat pěknou, čerstvou bramboru a spoustu cukru. A jak se to dělá? Sledujte náš program...",
+          "2": "Sladké brambory s polevou"
+        },
+        "12": {
+          "1": "Artyčoková omáčka! Tento recept je velmi chutný způsob jak do vašeho těla dostat více artyčoku. Já si v ní ani nic nenamáčím. Prostě ji vysaji jako koktejl. To je dobrota.",
+          "2": "Artyčoková omáčka"
+        },
+        "13": {
+          "1": "Švestkový pudink! Vnouček mi švestky sice nepřinesl přes palouček, ale ani on by nemohl odolat této mazlavé pochutině. A divíte se? Švestky mají sladkou, květinovou chuť, s trochou kyselosti, která je přesně akorát na aktivování všech vašich natěšených chuťových pohárků. Nejlepší je, když to prostě ochutnáte sami...",
+          "2": "Švestkový pudink"
+        },
+        "14": {
+          "1": "Čokoládový dort! Co lepšího lze během těchto chladných zimních večerů dělat, než se prokousávat horou krémové čokolády? S moji pomocí budete na nejlepší cestě k vytvoření nejlepšího dortu, který jste kdy viděli. Tak jdeme na to, budete potřebovat hodně cukru...",
+          "2": "Čokoládový dort"
+        },
+        "15": {
+          "1": "Dýňový koláč! V mém domě je tradicí jíst dýňový koláč během Hostiny Zimní hvězdy. Tato roční doba by nebyla úplná bez té nebeské chuti, kterou získáte pouze z nejlepších vypěstovaných dýní. Přidáte trochu muškátového oříšku, skořice a hřebíčku a nasednete na expresní vlak do rudo zlaté země chutí...",
+          "2": "Dýňový koláč"
+        },
+        "16": {
+          "1": "Brusinkové bonbóny! Toto je zábavný recept na oslavu nového roku. Brusinky jsou samy o sobě docela hořké, ale ponořte je do moře cukru a budou chutnat jako andělské slzy. Povím vám jak na to...",
+          "2": "Brusinkové bonbóny"
+        },
+        "17": {
+          "1": "Pizza! Existuje důvod proč pizza je nestárnoucí kuchařská klasika. Dáte dohromady mistrovsky upečenou zlatohnědou krustu, štiplavou omáčkou marinara s česnekem a završíte to směsicí tří sýrů z které vám potečou sliny. A to je teprve začátek! Navrch dáme čerstvou papriku a rajče. Ah, panečku, to je něco!",
+          "2": "Pizza"
+        },
+        "18": {
+          "1": "Bramborové placky! Toto je jednoduchý recept, ale to je jen dobře! Stačí když nakrájíte pár brambor, přidáte přiměřené množství soli a usmažíte vše k dokonalosti ve vašem oblíbeném oleji. Zní to jednoduše, že? To ano, já mám ale pro vás tipy, které přípravu ještě více zjednoduší...",
+          "2": "Bramborové placky"
+        },
+        "19": {
+          "1": "Kompletní snídaně! Minulý týden jsem vás naučila jak dělat bramborové placky. Dnes vám povím, jak je spojit s ostatními přísadami tak, abyste vytvořili vydatnou kompletní snídani. Toto jídlo vás zcela zasytí a dá vám energii potřebnou k vykonání každodenní práce.",
+          "2": "Kompletní snídaně"
+        },
+        "20": {
+          "1": "Šťastný oběd! Stará legenda praví, že tomuto jídlu nemohou odolat duchové přinášející štěstí a bohatství. Poté co ho sníte, je možné, že do vašeho břicha přilákáte dobrého ducha, odkud vás požehná štěstím dokud jídlo nestrávíte! Zní to divně, že? Nemohu říct, že bych tomu věřila,ale jídlo je přesto velmi chutné!",
+          "2": "Šťastný oběd"
+        },
+        "21": {
+          "1": "Poslyšte, měli jste někdy v lednici nebo mrazáku pár kaprů a nevěděli jste co s nimi? No, já byla ve stejné situaci. Ale vymyslela jsem skvělý způsob, jak tento až příliš častý problém vyřešit. Nazvala jsem ho... Kaprové překvapení. Je velmi jednoduché ho udělat, ale budete potřebovat spoustu kaprů...",
+          "2": "Kaprové překvapení"
+        },
+        "22": {
+          "1": "Javorové tyčinky! Všimli jste si někdy, že javorové tyčinky jsou vždy to první co zmizí z krabičky na cukrovinky? Je to matoucí, protože obyčejné tyčinky chutnají jako pocukrovaný hokejový puk. Nemám pravdu? No jen počkejte až vyzkoušíte můj recept. U mých tyčinek ucítíte vůni a chuť lesa. Tak se dejme do toho, budete potřebovat opravdový, vysoce kvalitní javorový sirup...",
+          "2": "Javorové tyčinky"
+        },
+        "23": {
+          "1": "Divačka z Pelikánova mi nedávno napsala... počkejte, hned to najdu... Jmenuje se Haley. Napsala, 'Když jsem naposledy navštívila město Zuzu, vyzkoušela jsem váš růžový dort a okamžitě jsem si ho zamilovala. Mohla byste v příštím vysílání pořadu ukázat jak se dělá?'. No, a proč ne? je to úžasný dort. A vsadím se, že nikdy neuhádnete jeho tajnou přísadu... meloun!",
+          "2": "Růžový dort"
+        },
+        "24": {
+          "1": "Pražené lískové ořechy! Za mým domem roste velký a starý ořechový strom a každý rok pozvu svoji rodinu k sobě a uděláme si den pražených ořechů! Jakmile začneme pražit, je jen otázkou času kdy se objeví i sousedé. Té bohaté, ořechové vůni nelze odolat. A teď vám povím náš rodinný recept...",
+          "2": "Pražené lískové ořechy"
+        },
+        "25": {
+          "1": "Ovocný salát! Ukážu vám jak si udělat zdravé a chutné pohoštění, které vám rozjasní váš den. Nejdůležitější věc je nezapomenout, že potřebujete zralé ovoce. Vůbec nezkoušejte ty věci, co prodávají v supermarketech, ty jsou naprosto bez chutí... mluvím o právě sklizeném, šťavnatém, chutí překypujícím ovoci. Tak a teď se pozorně dívejte...",
+          "2": "Ovocný salát"
+        },
+        "26": {
+          "1": "Ostružinová bublanina! Tato bublanina mi vždy připomene Stardew Valley. Vždycky na pár dní v podzimu je údolí přeplněno těmi nejlepšími ostružinami, jaké jsem kdy jedla. Pokud nějaké získáte, určitě bych je použila na tuto skvělou bublaninu.",
+          "2": "Ostružinová bublanina"
+        },
+        "27": {
+          "1": "Krabí koláčky! Krabí maso je samo o sobě velmi křehké, ale když ho obalíte ve vejci a strouhance, můžete jej pak bez problémů uplácat do konečné podoby. Proto jsou krabí koláčky můj oblíbený způsob pojídání krabího masa! Ale předtím, než začnete rozbíjet vejce, vám ukáži moji nezbytnou směs koření...",
+          "2": "Krabí koláčky"
+        },
+        "28": {
+          "1": "Rizoto z mladého kapradí! Mladé kapradí vypadá krásně, ale chuť má velmi nevýraznou. Proto musíte zvláště dávat pozor na koření, které použijete. Budu k vám upřímná, uvařit toto rizoto dobře není lehké. Ale s moji pomocí k tomu budeme mít ty nejlepší předpoklady.",
+          "2": "Rizoto z mladého kapradí"
+        },
+        "29": {
+          "1": "Makový vdolek! Máky mohou složit jako nádherné okrasné rostliny... ale proč nevyužít i ten zbytek na tyto velmi chutné vdolky? Já mám mák strašně ráda. Je jemný, ale do moučných zákusků obohatí skvělou chutí a výraznou texturou. A navíc je ještě zdravý!",
+          "2": "Makový vdolek"
+        },
+        "30": {
+          "1": "Humrový bisque! Toto byste mohli podávat samotnému guvernérovi. Je to hutné, krémové a tak lahodné, s dokonalým poměrem chutí oceánu. Nejtěžší na tomto receptu je získat humra, ale jsem si jistá, že to zvládnete. No a pokud se cítíte zvláště mazaně, mohli byste zkusit jednoho chytit sami pomocí krabí pasti!",
+          "2": "Humrový bisque"
+        },
+        "31": {
+          "1": "Bruschetta! Naprosto jednoduchý předkrm, který pozvedá kvality jednotlivých přísad. Budete potřebovat chleba, rajče a olej. Nejprve opečte chleba. Nakrájejte rajče na plátky a umístěte jej na opečený chleba.Pokapejte jej olejem a můžete podávat. Říkala jsem vám, že je to jednoduché!",
+          "2": "Bruschetta"
+        },
+        "32": {
+          "1": "Krevetový koktejl! Tady máme další dobrý předkrm pro vás a vaše hosty u večeře. Moje koktejlová omáčka je pikantnější než obvykle bývá a já jsem si jistá, že si ji zamilujete. A teď, co uděláme jako první...",
+          "2": "Krevetový koktejl"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/NPCNames",
+      "Entries": {
+        "OldMariner": "Starý námořník",
+        "MisterQi": "Pan Qi",
+        "Bouncer": "Bouchač",
+        "Henchman": "Nohsled",
+        "Governor": "Guvernér",
+        "Grandpa": "Dědeček",
+        "Bear": "Medvěd",
+        "Dwarf": "Trpaslík",
+        "ProfessorSnail": "Profesor Šnek",
+        "Wizard": "Kouzelník"
+      }
+    }
+  ]
+}

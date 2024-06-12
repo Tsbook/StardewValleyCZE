@@ -1,0 +1,29 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/IslandNorth",
+      "Fields": {
+        "6497421/e 6497423/f Leo 1000/w sunny/t 600 1800/Hl leoMoved": {
+          "24": "speak Leo \"Promiň...$u\"",
+          "25": "speak Leo \"Je těžké si vzpomenout, že musím mluvit... normálně...$s\"",
+          "29": "speak Leo \"Myslíš si, že jsem divný, že jo?$s\"",
+          "30": "quickQuestion #Vůbec ne#Trochu, ale zvykám si#(Hlasitě zakrákat)(break)pause 250\\speak Leo \"Díky, to jsem rád.\"(break)pause 250\\speak Leo \"Díky, já si taky na tebe zvykl!$h\"(break)pause 250\\startJittering\\playSound parrot\\pause 250\\stopJittering\\pause 250\\speak Leo \"Hehe... už ti to docela dobře jde!$h\"",
+          "39": "speak Leo \"Někdy přemýšlím jak by se můj život odvíjel, kdyby mě moře na tomto ostrově nevyplavilo...$s\"",
+          "41": "speak Leo \"U nás doma jsem se o ptáky nikdy nezajímal. Nechtěl jsem vědět, zda a o čem si povídají.$s\"",
+          "45": "speak Leo \"Ale to je možná pro normální děti... normální.$s\"",
+          "49": "speak Leo \"Co asi... co by asi řekli o mně...$s\"",
+          "55": "speak Leo \"Myslíš, že někdy budu zase normální?$s\"",
+          "56": "question null \"#Ano#Ne#Možná...\"",
+          "58": "speak Leo \"Hmmm... asi máš pravdu.$u\"",
+          "59": "speak Leo \"I když jsem na tomto ostrově zažil věci, které normální děti nikdy neuvidí.$h\"",
+          "63": "speak Leo \"Kdyby nebylo papoušků... kdo ví co by se mnou bylo.\"",
+          "67": "speak Leo \"Jsem vděčný za to, že jsem je mohl potkat. Pro mě vždycky budou rodina, i když to ze mě dělá podivína.$h\"",
+          "77": "speak Leo \"Díky, že si se mnou chceš povídat, @.\"",
+          "79": "speak Leo \"Možná jednoho dne můžu být součástí i tvé rodiny, hehe.$h\"",
+          "83": "speak Leo \"Chceš vědět, jak papouškovi říct \\\"Pojďme si hrát\\\"?\""
+        }
+      }
+    }
+  ]
+}

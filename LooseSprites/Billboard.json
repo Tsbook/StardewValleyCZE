@@ -1,0 +1,56 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Billboard",
+      "FromFile": "LooseSprites/Billboard.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 26,
+        "Width": 119,
+        "Height": 29
+      },
+      "ToArea": {
+        "X": 110,
+        "Y": 31,
+        "Width": 119,
+        "Height": 29
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Billboard",
+      "FromFile": "LooseSprites/Billboard.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 58,
+        "Width": 215,
+        "Height": 12
+      },
+      "ToArea": {
+        "X": 43,
+        "Y": 233,
+        "Width": 215,
+        "Height": 12
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Billboard",
+      "FromFile": "LooseSprites/Billboard.png",
+      "FromArea": {
+        "X": 121,
+        "Y": 0,
+        "Width": 35,
+        "Height": 57
+      },
+      "ToArea": {
+        "X": 292,
+        "Y": 132,
+        "Width": 35,
+        "Height": 57
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,50 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/BusStop",
+      "Fields": {
+        "60367/u 0": {
+          "10": "speak Robin \"Ahoj! Ty musíš být @.#$b#Já jsem Robin, pracuji tu jako místní tesařka. Starosta Lewis mě poslal, abych tě přivedla a ukázala ti, jak se dostat k tvému novému domu. Právě teď tam je a poklízí před tvým příchodem.#$b#Farma je kousek odsud za rohem. Pojď za mnou.\"",
+          "29": "speak Robin \"Tak toto je %farm farma.\"",
+          "42": "speak Robin \"Copak?#$b#No ano, je trochu zarostlá, ale pod tímto vším nepořádkem leží dobrá půda!#$b#S trochou péče bude za chvilku vše jako předtím.\"",
+          "49": "speak Robin \"...Tak a tady to je, tvůj nový domov.$h\"",
+          "56": "speak Lewis \"Aha, ${náš nový farmář^naše nová farmářka}$!$h\"",
+          "63": "speak Lewis \"Vítej! Mé jméno je Lewis a jsem starosta Pelikánova.#$b#Musím říct, že všichni v okolí jsou na tebe zvědaví.#$b#Ne každý den se sem někdo nový nastěhuje. Je to docela velká událost!\"",
+          "69": "speak Lewis \"Takže... Budeš bydlet ve staré chatce po tvém dědečkovi.#$b#Je to dobrý dům... velmi 'rustikální'.\"",
+          "75": "speak Robin \"Rustikální? Dalo by se to taky tak říct... $4#$b#'Rozpadlý' je ale mnohem přesnější slovo.$4\"",
+          "79": "textAboveHead Lewis \"Ta drzost!\"",
+          "95": "speak Lewis \"Neposlouchej ji, @. Jen se tě snaží zviklat a donutit tě si od ní koupit vylepšení na dům.$u\"",
+          "103": "textAboveHead Robin \"Hmf.\"",
+          "105": "speak Lewis \"Každopádně... Po tak dlouhé cestě musíš být ${unavený. Měl^unavená. Měla}$ by sis odpočinout.#$b#Zítra si můžeš prohlédnout město a seznámit se s ostatními.#$b#To by určitě všechny potěšilo.\"",
+          "113": "speak Lewis \"Ah, málem bych zapomněl. Pokud budeš chtít cokoliv prodat, můžeš to dát do této krabice zde. Já během noci přijdu a vezmu si to.#$b#To by bylo asi tak vše... Hodně štěstí!\""
+        },
+        "4081148/e 47/t 1600 1900": {
+          "11": "speak Sam \"Ahoj @. Díky že jsi ${přišel^přišla}$.\"",
+          "15": "speak Sam \"Takže, naše nástroje už jsou naložené... Vypadá to, že jsme připraveni.\"",
+          "18": "speak Sam \"Tak fajn lidi... všichni do autobusu!$u\"",
+          "31": "speak Sam \"*polk*... Začínám být vážně nervózní.$8\"",
+          "35": "speak Sam \"Dobře, tak jsme tady... drž mi palce!$u\"",
+          "73": "end dialogue Sam \"Hej. Koncert byl skvělý úspěch! Ještě jednou díky, @.\""
+        },
+        "9581348/e 2128292/t 1600 1800": {
+          "12": "speak Shane \"Ahoj, tak tady jsi!$6#$b#Jsem rád že jsi ${přišel^přišla}$. Asi bychom už měli jít...$6\"",
+          "30": "speak Shane \"Už jsme skoro tam...\"",
+          "34": "speak Shane \"*polk* ...jsem před hrou celý nervózní...$10\"",
+          "50": "speak Shane \"Tady máš, na posilněnou...\"",
+		"65": "speak Shane \"Poslyš, chtěl jsem ti něco říct... $6#$b#Díky že ses na mě přes to všechno ${nevykašlal^nevykašlala}$... moje úzkosti, deprese... ${sám jsi to viděl^sama jsi to viděla}$...$6#$b#Vážně si ${přítel^přítelkyně}$ k nezaplacení.$6\"",
+          "69": "speak Shane \"Takže... tohle je tvůj první opravdový zápas v síťobalu, co?\"",
+          "71": "speak Shane \"$q -1 null#No, co tomu říkáš?#$r -1 10 event_stadium1#Hlučné... Chybí mi tu klid našeho městečka.#$r -1 10 event_stadium2#Je to vzrušující... S tímhle se Pelikánov nemůže nikdy rovnat.\"",
+          "77": "speak Shane \"Hele!! Koukej, Raziči jdou do útoku!$10\"",
+          "84": "textAboveHead Shane \"Góól!\"",
+          "88": "textAboveHead Alex \"Góól!\"",
+          "132": "speak Shane \"Ah!...$10\"",
+          "134": "speak Shane \"Um... Promiň... Trochu jsem se nechal unést.$10#$b#Možná jsem trochu přebral...\"",
+          "163": "speak Shane \"No... za mě to byla náramná podívaná.$l\"",
+          "165": "speak Shane \"Jo,... a taky jsme vyhráli zápas.$l\"",
+          "168": "speak Shane \"No... tak snad se brzy uvidíme.$6\""
+        }
+      }
+    }
+  ]
+}

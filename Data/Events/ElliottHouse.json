@@ -1,0 +1,45 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/ElliottHouse",
+      "Fields": {
+        "39/f Elliott 500/p Elliott": {
+          "8": "speak Elliott \"@! Pojď dál.\"",
+          "13": "speak Elliott \"Vítej v mé skromné... hmm, chatrči.\"",
+          "15": "speak Elliott \"Zde je můj psací stůl. Tady trávím nejvíce ze svého času.\"",
+          "18": "speak Elliott \"Kam až mi paměť sahá jsem vždycky chtěl být spisovatelem. Povídal jsem ti o tom někdy?#$b#Proto žiji tady sám. Myslel jsem si, že život samotáře u moře by mi pomohl se soustředit na mé spisovatelské snahy...$s\"",
+          "20": "speak Elliott \"Všichni doma mi říkali, že jsem se zbláznil... že jako spisovatel se nedokážu uživit.#$b#Jen si to představ! Řekli mi 'Na každého úspěšného spisovatele je 1000, kteří naprosto selhají'. Takový pesimismus... je mi z toho na zvracení.\"",
+          "23": "speak Elliott \"Vidím to v tvých očích... je v nich ta jiskra. Ty mi věříš, @.#$b#Ten pohled mě inspiroval! To je přesně to co hledám...\"",
+          "26": "speak Elliott \"$q 958699 null#Otázka... Jaké knihy máš ${rád^ráda}$, @?#$r 958699 30 event_idea1#Detektivky#$r 958700 30 event_idea2#Milostné#$r 958701 30 event_idea3#Scifi\"",
+          "28": "speak Elliott \"Dobrá! Dost řečí o mně!\"",
+          "31": "speak Elliott \"Hmm... předpokládám, že máš hluboké znalosti ohledně rostlin, že?\"",
+          "34": "speak Elliott \"${Mohl^Mohla}$ by ses podívat na tuto růži? Obávám se, že se ji nevede moc dobře.$7\"",
+          "41": "end dialogue Elliott \"Díky za to že jsi se mnou ${strávil^strávila}$ kousek svého času... Popřemýšlím o tom, co jsi mi ${řekl^řekla}$.\""
+        },
+        "423502/f Elliott 1500/p Elliott": {
+          "15": "speak Elliott \"Ah... Zdálo se mi, že tam někdo stojí.$7\"",
+          "21": "question fork1 \"#To bylo úžasné.#Kolik let už hraješ na klavír?\"",
+          "25": "speak Elliott \"Díky. Zas tak mi to nejde, ale hrát na něj mě baví.$h\""
+        },
+        "howLong": {
+          "2": "speak Elliott \"Oh, Nejsem si jistý... Na piáno jsem hrával už od dětství.$7#$b#Nikdy mi to moc nešlo, ale baví mě to.\""
+        },
+        "elliottPianoJoin": {
+          "25": "speak Elliott \"Dnem a nocí se snažím dokončit moji knihu... Mám pocit že se zblázním, @.$s\"",
+          "30": "speak Elliott \"Jediné rozptýlení. které si dovolím, je toto hraní na klavír.$7\"",
+          "33": "speak Elliott \"Jednoduše je toho spousta co musím udělat! A můj bankovní účet již je skoro v červených číslech.$7#$b#Někdy si přeji, abych tohle všechno mohl hodit za hlavu a stát se farmářem jako ty.$h\"",
+          "36": "question fork1 \"#Jen pro informaci, být farmářem je stejně těžké.#Tak pojď se mnou žít na farmu, každá volná ruka se hodí.\"",
+          "40": "speak Elliott \"Máš pravdu... to ode mne nebylo velmi taktní.$8\"",
+          "43": "speak Elliott \"Chtěl jsem jen říct, že bych se jednou chtěl dostat z tohoto temného, zatuchlého vězení a užít si pro jednou života jak se patří... to je vše.$s\"",
+          "48": "speak Elliott \"*vzdech*... Promiň, že si takto stěžuji. Čas od času potřebuji někoho, s kým si můžu promluvit.$7\""
+        },
+        "extraHelp": {
+          "2": "speak Elliott \"Vážně?$8\"",
+          "5": "speak Elliott \"To zní báječně... ale nemůžu teď zdát psaní své knihy. Už je z půlky hotova.$7\"",
+          "10": "speak Elliott \"*vzdech*... Promiň, že si takto stěžuji. Čas od času potřebuji někoho, s kým si můžu promluvit.$7\""
+        }
+      }
+    }
+  ]
+}

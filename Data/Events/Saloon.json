@@ -1,0 +1,156 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Saloon",
+      "Fields": {
+        "40/f Elliott 1000/p Gus/t 1500 2200": {
+          "11": "speak Gus \"Ahoj. Hned u tebe budu.\"",
+          "29": "speak Elliott \"Zdravím, @! Jaké příjemné překvapení!#$b#Chtěl jsem si zde odpočinout po osmihodinovém psaní v kuse.$h\"",
+          "32": "speak Elliott \"Výčepní! Dvě sklenice vašeho nejlepšího piva, prosím!^Výčepní! Doneste mi vaše nejlepší pivo. A pro dámu sklenku vína!\"",
+          "47": "speak Gus \"Tady máte, pane.$u\"",
+          "51": "speak Elliott \"$q 28376 null#Počkat. Navrhuji přípitek! Na...#$r 28376 25 event_toast4#Na Pelikánov!#$r 28376 50 event_toast2#Na naše přátelství!#$r 28376 -10 event_toast1#Na mé dobré zdraví!#$r 28376 -50 event_toast3#Na tvoji zkázu!\"",
+          "63": "speak Elliott \"*Škyt*... To je silné pití...$h\""
+        },
+        "96/f Gus 1000/f Pam 500/p Gus": {
+          "12": "speak Gus \"Ah, zdravím, příteli.^Zdravím, @.\"",
+          "21": "speak Gus \"*vzdech*... prohlížím si výdělky z minulého měsíce... a nevypadá to dobře, @.$s#$b#A ta nejhorší věc... a nerad to říkám, protože jsme dobří přátelé... je Pam! Už týdny nezaplatila svůj účet!$s#$b#...Ale já ji o to nemůžu požádat. Začne se bránit a já ji nechci ranit.$s\"",
+          "24": "speak Gus \"@, musíš mi pomoct!$s\"",
+          "33": "speak Pam \"Čauves!$h#$b#Gusi... mám hroznou žízeň, víš jak to myslím.\"",
+          "35": "speak Gus \"Eh... no, dobře Pam.$s\"",
+          "40": "speak Pam \"$q 207 null#@, co se to tu děje?#$r 207 -50 event_credit1#Musíš hned zaplatit svůj dluh!#$r 208 15 event_credit2#Hospoda si moc nevede, co se peněz týče\"",
+          "44": "speak Pam \"....$u#$b#*vzdech* ... No, asi bych měla splatit svůj dluh.$s\"",
+          "52": "speak Gus \"Díky, Pam!$h\"",
+          "55": "speak Gus \"A díky tobě, @.$u\"",
+          "58": "speak Gus \"A teď ti přinesu tvé pití, Pam.$h\"",
+          "60": "end dialogue Gus \"Díky za pomoc, @. Ty peníze hospodě velmi pomohou.\""
+        },
+        "97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun": {
+          "24": "speak Clint \"Zdravím, @... nechceš si přisednout?\"",
+          "30": "speak Clint \"Nebudu chodit kolem horké kaše.$u#$b#Mám hroznou smůlu s ženami, @...*vzdech*$s#$b#Když mě poznáš, hned uvidíš, že nejsem špatný chlap, přísahám!$u\"",
+          "36": "speak Clint \"@, tebe všechny holky mají rády...^Ty jsi holka, @...\"",
+          "37": "speak Clint \"$q 211 null#Máš nějaké rady?^Můžeš mi nějak poradit?#$r 211 25 event_advice1#Očaruj ženy svoji silou a šarmem#$r 211 25 event_advice1#Chovej se jako blázen, aby lidé pořád přemýšleli co se ti honí v hlavě#$r 211 0 event_advice2#Chovej se přirozeně... buď sám sebou#$r 211 25 event_advice1#Chovej se k ženám stejně tak jako k mužům\"",
+          "50": "speak Emily \"Ahoj Clinte, co to dneska bude?$h\"",
+          "54": "speak Clint \"Ano!\"",
+          "56": "speak Clint \"Eh.. teda, chtěl bych Velký Sýrák. S extra omáčkou, prosím.$s#$b#...$u\"",
+          "61": "speak Emily \"Ahoj @.\"",
+          "65": "speak Clint \"Eh... *ahem* D... díky, Emily. Za... za přijetí mé objednávky.#$b#Um, Emily? Chtěl jsem...*polk*... myslel jsem...$h\"",
+          "70": "speak Emily \"Ano, Clinte?$u\"",
+          "74": "speak Clint \"... ale nic.$s\"",
+          "85": "speak Emily \"Ahoj, Shane! Tady máš své pití.$h\"",
+          "95": "speak Shane \"Díky, Emily!$h#$b#Tak co... jaká je dnes šichta?\"",
+          "96": "speak Emily \"V pořádku! Díky za optání, Shane!$h#$b#Máš pro mě nějaké nové příběhy o kuřatech?\"",
+          "102": "speak Clint \"*vzdech*$s#$b#Nikdy to nezvládnu...$s\""
+        },
+        "911526/f Alex 2500/t 1900 2200/n joshMessage": {
+          "14": "speak Alex \"Díky, Gusi. To bylo super.\"",
+          "21": "speak Alex \"Tady je to hezké... nikdy jsem tu předtím nevečeřel.\"",
+          "24": "speak Alex \"Um, každopádně... zarezervoval jsem tuto soukromou místnost, abychom si mohli promluvit...$l\"",
+          "30": "speak Emily \"Mám tu špagety s krémovou houbovou omáčkou pro pana @.^Mám tu kapustovo-ořechový salát pro dámu.#$b#... a grilovaný steak pro Alexe.^A grilovaný steak pro pána.\"",
+          "33": "speak Alex \"Díky.\"",
+          "37": "speak Alex \"Takže, co jsem chtěl říct je...$9\"",
+          "39": "speak Alex \"*polk*$s\"",
+          "41": "speak Alex \"No... když jsme se potkali poprvé, okamžitě si mě přitahoval. Bylo jsem z toho zmaten... nikdy jsem nic takového k žádnému jinému člověku necítil.$l^Když jsme se potkali poprvé, připadal jsi mi vážně hezká.$l#$b#Říkal jsem si 'Takové pocity nemůžeš mít pro jiného chlapa'.$l^Většinou, když se mi někdo líbí, ten pocit rychle zmizí...$l\"",
+          "43": "speak Alex \"...Ale mé srdce mi říkalo něco jiného.^...Ale u tebe pořád rostl.$l\"",
+          "47": "question fork1 \"#Já to cítím stejně.#Promiň... ale já to samé k tobě necítím.\"",
+          "50": "speak Alex \"...$l#$b#Nemůžu uvěřit že to trvalo takovou dobu, než jsme si navzájem sdělili své pocity.$l\"",
+          "63": "speak Alex \"Mmm... ten steak je výtečný. Cítíš jak voní ta omáčka?$10\""
+        },
+        "rejectJosh": {
+          "4": "speak Alex \"...Ah...$s#$b#Já... promiň že se kvůli mně cítíš nepříjemně...$s\"",
+          "6": "speak Alex \"Už nemám hlad...$s\""
+        },
+        "195099/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/i 446/k 195013": {
+          "5": "message \"Z ničehonic máte najednou nutkání dát si ruku do kapsy...\"",
+          "7": "message \"Vaše ruka spočinula na králičí pracce, načež vámi prostoupil náhlý pocit úlevy...\"",
+          "18": "textAboveHead Sam \"Nazdar!\"",
+          "19": "textAboveHead Alex \"Jak se vede?\"",
+          "20": "textAboveHead Shane \"Ah, ahoj\"",
+          "25": "speak Harvey \"Přicházíš právě včas! Připravujeme se na vůbec první turnaj Osmičky v Pelikánově!\"",
+          "27": "speak Elliott \"Tvé obavy jsou neopodstatněné, já sám jsem v této hře také začátečníkem.$h\"",
+          "29": "speak Shane \"Je to jednoduché, jen musíte kouli dát pořádný šťouchanec...$h\"",
+          "34": "message \"S kluky jste si zahráli jedno kolo.\"",
+          "36": "message \"Sebastian vyhrál, samozřejmě... ale i tak to byla velká zábava!\""
+        },
+        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": {
+          "26": "textAboveHead Sam \"Ne tak rychle!\"",
+          "27": "textAboveHead Alex \"Počkej!\"",
+          "28": "textAboveHead Shane \"Stůj!\"",
+          "38": "speak Sam \"Asi jsi ${překvapen^překvapena}$, že se tví 'nápadníci' tady sešli v tomto složení. Co, @?$a\"",
+          "40": "speak Harvey \"Všechny si nás obelhal a my ti to spolkli i s navijákem...$s^@... Já myslel že se chceš se za mě vdát a založit rodinu... Kde jsem udělal chybu?$s\"",
+          "42": "speak Shane \"Poslední útržek naděje co mi zbyl je teď roztrhán na cucky... Díky, @. Doufám že jsi ${šťastný^šťastná}$.$s\"",
+          "44": "speak Alex \"@? Já myslel... Myslel jsem, že nejsi jako ostatní, že něco mezi náma je... Ale ty jsi mě jen využíval?$s^Proč se takhle díváš na *mě*? Myslíš, že k tobě přiskočím tě bránit jako nějaký pes?$a\"",
+          "46": "speak Elliott \"Pro jednou mě má slova opouštějí... $a\"",
+          "49": "speak Sam \"Každopádně, tohle už dále trpět nehodláme!$a^Všichni už víme jak se věci mají! Ale tohle dneškem končí!$a\"",
+          "50": "textAboveHead Alex \"Přesně tak!\"",
+          "52": "speak Sebastian \"No? Co nám k tomu povíš?$a\"",
+          "54": "question fork1 \"#Omlouvám se... ${nechtěl¦nechtěla}$ jsem vám takto ublížit.#Pánové, uklidněte se! Já vše vysvětlím...\"",
+          "57": "textAboveHead Alex \"To určitě...\"",
+          "59": "speak Shane \"Snaha byla, ale tohle ti jen tak neprojde...$a\"",
+          "62": "speak Sam \"...a proto jsme došli k rozhodnutí... že, hoši?$u\"",
+          "64": "speak Harvey \"...ano.$s\"",
+          "65": "speak Elliott \"Vskutku.$a\"",
+          "74": "speak Sam \"Skončili jsme s tebou!$a\""
+        },
+        "choseToExplain": {
+          "1": "textAboveHead Shane \"To jsem zvědav...\"",
+          "4": "question fork2 \"#Všichni jste byli tak chtivý! Bylo těžké vás odmítnout!#Pierre na mě tlačil! Chtěl prodat více kytic!#(Začít brečet)",
+          "7": "textAboveHead Sam \"To je lež!\"",
+          "8": "textAboveHead Alex \"Aha, to ti tak beru!\"",
+          "9": "speak Elliott \"Za tvé chyby ostatní nemohou! Takto jen zaháníš ty nejmenší zbytky úcty, co pro tebe ještě máme...$a\"",
+          "13": "speak Sam \"...Myslím, že jsme už došli k rozhodnutí... nemám pravdu, kluci?$u\"",
+          "15": "speak Harvey \"...ano.$s\"",
+          "16": "speak Sebastian \"To si piš.$a\"",
+          "40": "speak Sam \"Skončili jsme s tebou!$a\""
+        },
+        "crying": {
+          "10": "speak Harvey \"Tohle už fungovat nebude! Už nás nebudeš citově vydírat!$a\"",
+          "11": "speak Alex \"Tohle je zase jen tvoje další divadélko...$a^Přesně dle programu...$a\"",
+          "13": "speak Sebastian \"Za své činy musíš vzít zodpovědnost...$a\"",
+          "17": "speak Sam \"...Myslím, že jsme už došli k rozhodnutí... nemám pravdu, kluci?$u\"",
+          "19": "speak Harvey \"...ano.$s\"",
+          "20": "speak Sebastian \"To si piš.$a\"",
+          "44": "speak Sam \"Skončili jsme s tebou!$a\""
+        },
+        "wewereworried": {
+          "5": "speak Shane \"Jsem tvůj partner... ${měl^měla}$ bys mi věřit. S mými problémy jsem se ti vždycky svěřoval.$a#$b#Něco ti řeknu... vím, že jsem nedokázal skoncovat s pitím ... ale, fakt se snažím... a díky tomu se cítím lépe a zdravěji.#$b#Můj život je teď lepší, než kdy předtím. Hlavou se mi už nehoní samé černé myšlenky...\"",
+          "11": "speak Shane \"Víš, když hraju tuhle hru, moje soustředění odvádí mé myšlenky od jiných věcí. Opravdu mi pomáhá když mám 'chutě'...\"",
+          "13": "speak Shane \"Každopádně... já si... ehm... zahraji ještě JEDNU hru a pak půjdu domů. Souhlasíš?\"",
+          "17": "end dialogue Shane \"Asi jste museli být opravdu zaražení, když jste vešli a viděli jste mě před hracím automatem!$h\""
+        },
+        "3917590/n saloonSportsRoom/O Alex": {
+          "8": "textAboveHead Alex \"Dobrá hra!\"",
+          "12": "textAboveHead George \"Gól!\"",
+          "14": "textAboveHead Alex \"Tak se to dělá!\"",
+          "22": "textAboveHead George \"To je ono!\"",
+          "31": "speak Alex \"Ahoj, @! Konečně jsi ${dorazil^dorazila}$!$h\"",
+          "33": "speak Alex \"Tak... co tomu říkáš?\"",
+          "37": "speak Alex \"Poslední dobou jsem přemýšlel... víš jak jsem sníval o tom, že jednoho dne bude ze mne atlet?#$b#No, můj život se ubral jiným směrem... $9#$b#Nechápej mě špatně, jsem za to vděčný!$h#$b#...ale myslel jsem si, že by bylo super mít místečko jako je tohle, kde bychom se my chlapi mohli scházet a koukat na nedělní zápas. Gusovi se ten nápad tak zalíbil, že mi nabídl část zadní místnosti ve své hospodě!#$b#Takhle můžu alespoň maličko udržet část mého 'snu' při životě.\"",
+          "42": "speak George \"Dobrá práce, synku. Sice bych se na tohle mohl dívat doma, ale když přijdu sem, cítím se zase jako za mlada!$h\"",
+          "44": "speak Alex \"Díky, dědo.\"",
+          "46": "speak Kent \"Jsem rád za každou záminku, abych se mohl dostat z domu a rozptýlit si hlavu.\"",
+          "49": "textAboveHead Shane \"Souhlas\"",
+          "51": "speak Gus \"Moc se tu bavím. A pro hospodu je to taky dobré!$h#$b#To samé ale nemohu říct o Shanových játrech...$s\"",
+          "57": "textAboveHead Shane \"Hej!\"",
+          "64": "message \"Zdá se, že tu vznikla nová nedělní tradice.\"",
+          "66": "message \"Dobře utracených 5 000 zlatých!\"",
+          "68": "end dialogue Alex \"Ještě jednou ti děkuji za peníze, @. S tímhle projektem jsem si hodně užil zdá se, že se to všem i líbí!\""
+        },
+        "3206194/n gusGiantOmelet": {
+          "7": "speak Gus \"No lidičky... zase jsme se jednou sešli kvůli velmi zvláštní příležitosti.\"",
+          "9": "speak Gus \"...vzácné návštěvě velmi drahé přítelkyně...\"",
+          "13": "speak Gus \"...mé světově proslulé velké omeletě!$h#$b#Pikantní papriky, šťavnatá rajčata, výborné houby a štiplavý sýr... to vše přikryté lahodnými nadýchanými vejci. Nechejte si chutnat, vážení.\"",
+          "36": "speak Gus \"Co na ni říkáš Willy?\"",
+          "46": "speak Willy \"Houby jsou trošku tužší než byly minule...\"",
+          "48": "speak Gus \"A to je dobře?$s\"",
+          "61": "textAboveHead Willy \"Ano, synku\"",
+          "67": "speak Pam \"Je skvělá Gusi. A na chuti ji dodává i to, že je zadarmo!$h\"",
+          "69": "speak Robin \"Tyhle vejce jsou tak žluťoučké a chutné... Marnie, ty jsou od vás?\"",
+          "71": "speak Gus \"Ne ne... Za ně můžeš děkovat @ a slepicím na farmě %farm!\"",
+          "78": "speak Marnie \"Mmmm... vejce z farmy %farm.\"",
+          "80": "textAboveHead Lewis \"Mmmmhm..\""
+        }
+      }
+    }
+  ]
+}

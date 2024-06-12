@@ -1,0 +1,501 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Maps/bathhouse_tiles",
+      "FromFile": "Maps/bathhouse_tiles.png",
+      "ToArea": {
+        "X": 147,
+        "Y": 211,
+        "Width": 25,
+        "Height": 10
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/coopTiles",
+      "FromFile": "Maps/coopTiles.png",
+      "ToArea": {
+        "X": 2,
+        "Y": 306,
+        "Width": 57,
+        "Height": 14
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/desertTiles",
+      "FromFile": "Maps/desertTiles.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 141,
+        "Height": 16
+      },
+      "ToArea": {
+        "X": 33,
+        "Y": 176,
+        "Width": 141,
+        "Height": 16
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/desertTiles",
+      "FromFile": "Maps/desertTiles.png",
+      "FromArea": {
+        "X": 141,
+        "Y": 4,
+        "Width": 37,
+        "Height": 12
+      },
+      "ToArea": {
+        "X": 37,
+        "Y": 318,
+        "Width": 37,
+        "Height": 12
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/Festivals",
+      "FromFile": "Maps/Festivals.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 128,
+        "Height": 31
+      },
+      "ToArea": {
+        "X": 352,
+        "Y": 177,
+        "Width": 128,
+        "Height": 31
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/Festivals",
+      "FromFile": "Maps/Festivals.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 31,
+        "Width": 28,
+        "Height": 10
+      },
+      "ToArea": {
+        "X": 184,
+        "Y": 67,
+        "Width": 28,
+        "Height": 10
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/Festivals",
+      "FromFile": "Maps/Festivals.png",
+      "FromArea": {
+        "X": 29,
+        "Y": 32,
+        "Width": 28,
+        "Height": 7
+      },
+      "ToArea": {
+        "X": 482,
+        "Y": 246,
+        "Width": 28,
+        "Height": 7
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/Festivals",
+      "FromFile": "Maps/Festivals.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 42,
+        "Width": 34,
+        "Height": 13
+      },
+      "ToArea": {
+        "X": 432,
+        "Y": 227,
+        "Width": 34,
+        "Height": 13
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/Festivals",
+      "FromFile": "Maps/Festivals.png",
+      "FromArea": {
+        "X": 35,
+        "Y": 40,
+        "Width": 34,
+        "Height": 8
+      },
+      "ToArea": {
+        "X": 375,
+        "Y": 100,
+        "Width": 34,
+        "Height": 8
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/MovieTheaterJoja_TileSheet_international",
+      "FromFile": "Maps/Theater.png",
+      "ToArea": {
+        "X": 21,
+        "Y": 130,
+        "Width": 101,
+        "Height": 60
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/samshowtiles",
+      "FromFile": "Maps/Show.png",
+      "ToArea": {
+        "X": 0,
+        "Y": 148,
+        "Width": 96,
+        "Height": 44
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/springobjects",
+      "FromFile": "Maps/springobjects.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 10,
+        "Height": 15
+      },
+      "ToArea": {
+        "X": 67,
+        "Y": 288,
+        "Width": 10,
+        "Height": 15
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/springobjects",
+      "FromFile": "Maps/springobjects.png",
+      "FromArea": {
+        "X": 22,
+        "Y": 0,
+        "Width": 15,
+        "Height": 16
+      },
+      "ToArea": {
+        "X": 96,
+        "Y": 288,
+        "Width": 15,
+        "Height": 16
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/springobjects",
+      "FromFile": "Maps/springobjects.png",
+      "FromArea": {
+        "X": 11,
+        "Y": 0,
+        "Width": 10,
+        "Height": 16
+      },
+      "ToArea": {
+        "X": 243,
+        "Y": 225,
+        "Width": 10,
+        "Height": 16
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/springobjects",
+      "FromFile": "Maps/springobjects.png",
+      "FromArea": {
+        "X": 37,
+        "Y": 1,
+        "Width": 16,
+        "Height": 14
+      },
+      "ToArea": {
+        "X": 272,
+        "Y": 529,
+        "Width": 16,
+        "Height": 14
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownIndoors",
+      "FromFile": "Maps/Indoors.png",
+      "ToArea": {
+        "X": 68,
+        "Y": 1924,
+        "Width": 120,
+        "Height": 60
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownInterior",
+      "FromFile": "Maps/Interior.png",
+      "FromArea": {
+        "X": 1,
+        "Y": 17,
+        "Width": 14,
+        "Height": 15
+      },
+      "ToArea": {
+        "X": 144,
+        "Y": 433,
+        "Width": 14,
+        "Height": 15
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownInterior",
+      "FromFile": "Maps/Interior.png",
+      "FromArea": {
+        "X": 16,
+        "Y": 16,
+        "Width": 25,
+        "Height": 8
+      },
+      "ToArea": {
+        "X": 370,
+        "Y": 501,
+        "Width": 25,
+        "Height": 8
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownInterior",
+      "FromFile": "Maps/Interior.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 140,
+        "Height": 16
+      },
+      "ToArea": {
+        "X": 34,
+        "Y": 688,
+        "Width": 140,
+        "Height": 16
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownInterior",
+      "FromFile": "Maps/Interior.png",
+      "FromArea": {
+        "X": 30,
+        "Y": 49,
+        "Width": 30,
+        "Height": 10
+      },
+      "ToArea": {
+        "X": 289,
+        "Y": 771,
+        "Width": 30,
+        "Height": 10
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownInterior",
+      "FromFile": "Maps/Interior.png",
+      "FromArea": {
+        "X": 42,
+        "Y": 17,
+        "Width": 35,
+        "Height": 7
+      },
+      "ToArea": {
+        "X": 106,
+        "Y": 864,
+        "Width": 35,
+        "Height": 7
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownInterior",
+      "FromFile": "Maps/Interior.png",
+      "FromArea": {
+        "X": 2,
+        "Y": 33,
+        "Width": 27,
+        "Height": 44
+      },
+      "ToArea": {
+        "X": 195,
+        "Y": 946,
+        "Width": 27,
+        "Height": 44
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownInterior",
+      "FromFile": "Maps/Interior.png",
+      "FromArea": {
+        "X": 30,
+        "Y": 32,
+        "Width": 80,
+        "Height": 16
+      },
+      "ToArea": {
+        "X": 16,
+        "Y": 1008,
+        "Width": 80,
+        "Height": 16
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownInterior",
+      "FromFile": "Maps/Interior.png",
+      "FromArea": {
+        "X": 42,
+        "Y": 25,
+        "Width": 18,
+        "Height": 7
+      },
+      "ToArea": {
+        "X": 199,
+        "Y": 1016,
+        "Width": 18,
+        "Height": 7
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownInterior",
+      "FromFile": "Maps/Interior.png",
+      "FromArea": {
+        "X": 42,
+        "Y": 25,
+        "Width": 18,
+        "Height": 7
+      },
+      "ToArea": {
+        "X": 167,
+        "Y": 1048,
+        "Width": 18,
+        "Height": 7
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownInterior",
+      "FromFile": "Maps/Interior.png",
+      "FromArea": {
+        "X": 42,
+        "Y": 25,
+        "Width": 18,
+        "Height": 7
+      },
+      "ToArea": {
+        "X": 231,
+        "Y": 1048,
+        "Width": 18,
+        "Height": 7
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/TownInterior",
+      "FromFile": "Maps/Interior.png",
+      "FromArea": {
+        "X": 78,
+        "Y": 18,
+        "Width": 48,
+        "Height": 12
+      },
+      "ToArea": {
+        "X": 368,
+        "Y": 1042,
+        "Width": 48,
+        "Height": 12
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/desert_festival_tilesheet_text_international",
+      "FromFile": "Maps/desert_festival_tilesheet_text_international.png",
+      "FromArea": {
+        "X": 43,
+        "Y": 0,
+        "Width": 28,
+        "Height": 20
+      },
+      "ToArea": {
+        "X": 50,
+        "Y": 4,
+        "Width": 28,
+        "Height": 20
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/desert_festival_tilesheet_text_international",
+      "FromFile": "Maps/desert_festival_tilesheet_text_international.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 4,
+        "Width": 42,
+        "Height": 11
+      },
+      "ToArea": {
+        "X": 2,
+        "Y": 2,
+        "Width": 42,
+        "Height": 11
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/FishingDerbyTiles_international",
+      "FromFile": "Maps/fishingderby.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 55,
+        "Height": 13
+      },
+      "ToArea": {
+        "X": 5,
+        "Y": 135,
+        "Width": 55,
+        "Height": 13
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/FishingDerbyTiles_international",
+      "FromFile": "Maps/fishingderby.png",
+      "FromArea": {
+        "X": 55,
+        "Y": 0,
+        "Width": 54,
+        "Height": 36
+      },
+      "ToArea": {
+        "X": 70,
+        "Y": 131,
+        "Width": 54,
+        "Height": 36
+      }
+    }
+  ]
+}

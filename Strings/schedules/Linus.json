@@ -1,0 +1,12 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Linus",
+      "Entries": {
+        "winter_15.000": "Tito lidé jsou kočovníci, stejně jako já... cítím mezi náma určité spojení. Ale stačí mi tu stát, abych se mohl dívat a poslouchat.",
+        "winter.000": "I někdo takový, jako jsem já, se občas potřebuje ohřát vevnitř."
+      }
+    }
+  ]
+}

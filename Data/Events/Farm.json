@@ -1,0 +1,171 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Farm",
+      "Fields": {
+        "5/e 3/v Abigail/t 600 800": {
+          "4": "speak Abigail \"Ahoj. Um... jen jsem se ti chtěla omluvit za to, jak jsem se včera chovala divně.#$b#Asi víš co se stalo...$l#$b#Uh, to je vše...čau.\""
+        },
+        "47/f Sam 2000/t 600 800/e 44": {
+          "4": "speak Sam \"Ahoj @. Hádej co? Moje kapela má dnes večer koncert ve městě Zuzu!#$b#Pojeď s námi! Uvidíme se dnes odpoledne v 16:00 u autobusové zastávky. A ne že si to rozmyslíš!\"",
+          "6": "end dialogue Sam \"Už se těším a zároveň jsme trochu nervózní. Doufám, že se nic nepokazí.\""
+        },
+        "55/f Leah 2000/t 600 800/z winter/n LeahArtShowSuggestion": {
+          "4": "speak Leah \"Ahoj @! Máš dnes odpoledne volno?#$b#Konečně jsem šel do sebe a dnes večer zahájím svoji výstavu umění na náměstí!$h#$b#Pokud ji chceš navštívit, přijď do města mezi 15:00 a 17:00!\"",
+          "6": "end dialogue Leah \"Jsem nervózní...$l\""
+        },
+        "63/y 2/t 600 1800/H": {
+          "6": "speak Kent \"Um, zdravím. Já jsem Kent. Právě jsem se vrátil domů... ze zámoří. Má žena mi řekla, že se do našeho města nastěhoval nový farmář, zatímco jsem byl pryč.\"",
+          "8": "speak Kent \"Takže jsem se přišel představit... Doufám, že se ještě uvidíme.\""
+        },
+        "992553/t 600 1130/n copperFound": {
+          "5": "speak Clint \"Ah... Ahoj. Dobré ráno.#$b#Všiml jsem si, že jsi ${rozbíjel^rozbíjela}$ kameny a ${nacházel^nacházela}$ rudu. To je dobře!\"",
+          "7": "speak Clint \"Ale pokud chceš zcela využít nalezenou rudu, budeš potřebovat pec.\"",
+          "9": "speak Clint \"Shodou náhod se mi doma povaluje sada plánů navíc. Tady, můžeš si je vzít.\"",
+          "15": "message \"Naučili jste se vytvořit 'Pec'.\"",
+          "17": "speak Clint \"Pec ti umožňuje přetavit rudu na kovové tyče. Ty pak lze použít při vytváření, stavbě a vylepšování nástrojů.\"",
+          "22": "speak Clint \"Když už budeš mít několik měděných tyčí, můžu ti vylepšit jeden z tvých nástrojů. Tvoji práci to pak může velmi ulehčit.#$b#Nu dobrá. Já jdu domů. Nepřepracuj se.\""
+        },
+        "900553/t 600 1130/Hn ccPantry/A cc_Greenhouse/w sunny": {
+          "5": "speak Evelyn \"Dobré ráno, ${synku^děvenko}$.\"",
+          "10": "speak Evelyn \"Bylo hezké zase jednou tuhle starou farmu navštívit... Dlouho jsem tu nebyla.$s#$b#Vypadá mnohem lépe, než si posledně pamatuji!$h\"",
+          "15": "speak Evelyn \"Tady máš, přinesla jsem ti takovou drobnost.#$b#Je to dárek... od jednoho zahradníka pro druhého.$h\"",
+          "22": "message \"Obdrželi jste 'Květináč'\"",
+          "24": "speak Evelyn \"Květináče jsou velmi užitečné. Máš-li je vevnitř, můžeš v nich pěstovat všechny možné rostliny!#$b#Venku se také ujmou... ale pak v nich můžeš zasadit pouze ty rostliny, které v dané období rostou.\"",
+          "26": "speak Evelyn \"Pokud jich budeš potřebovat více, je velmi snadné si vyrobit další... tady, mám tu výstřižek ze starého časopisu, kde výrobu popisují.\"",
+          "31": "message \"Naučili jste se jak vyrobit 'Květináč'\"",
+          "33": "speak Evelyn \"No, asi bych už měla jít. George je mrzutý, když nedostane svoje ovesné vločky včas...#$b#Přeji ti hezký den, zlatíčko!$h\""
+        },
+        "992253/t 600 1130/f Leah 1500/w sunny": {
+          "4": "speak Leah \"Ahoj, @. Dnes je nádherný den, co?\"",
+          "6": "speak Leah \"Přinesla jsem ti dárek.#$b#Je to socha, na kterém jsem pracovala, jen pro tebe.\"",
+          "15": "speak Leah \"Pojmenovala jsem ji... 'Co si myslím o @'. Doufám že se ti líbí.\""
+        },
+        "65/m 25000/t 600 1200/H": {
+          "4": "speak Demetrius \"Ahoj @! Mám pro tebe dobré zprávy. Před pár dny jsem ve svém výzkumu místního prostředí dosáhl významného průlomu.$h#$b#Ušetřím tě technických podrobností a přejdu k věci... asi jsi už zahlédl tu prázdnou jeskyni tamhle ve skalách? Myslím, že jsem přišel na způsob, jak ji využít k něčemu užitečnému... pro nás oba.#$b#Chtěl bych do jeskyně přilákat některé místní druhy. Tak je mohu pozorovat v kontrolovaném prostředí. A ty můžeš sklízet cokoliv, co vytvoří.#$b#V jeskyni buď mohou být houby, nebo tam mohu nalákat kaloně. Kaloni mohou občas zanechat v jeskyni ovoce, které můžeš sebrat.\"",
+          "6": "speak Demetrius \"Dobrá! Hned to jdu zařídit! Nemělo by to trvat dlouho.$h#$b#Díky za svolení.\"",
+          "7": "end dialogue Demetrius \"Těším se až uvidím co se v jeskyni stane. Ty ne?#$e#Doufám že s moji práci budeš ${spokojen^spokojena}$.\""
+        },
+        "66/e 295672/t 600 700/H": {
+          "7": "speak Gunther \"Ah, dobré ráno ${pane^slečno}$ @!#$b#Doufám, že nepřicházím příliš brzo...$s#$b#Tedy, chtěl jsem se tu zastavit a osobně vám poděkovat za všechny ty nádherné artefakty a minerály, které jste sami vlastnoručně objevili...!$h#$b#Dokonce jsem obdržel dopis z kanceláře oblastního sekretariátu artefaktů... Získali jsme prestižní ocenění 'zlatá lopata' za významné přínosy v oboru!#$b#A to vše díky vám!$h#$b#No, asi bych vás měl nechat vrátit se k vaší práci...\"",
+          "13": "speak Gunther \"Oh! Skoro bych zapomněl!#$b#Mám pro vás dárek... je to starý klíč, který byl uložen v depozitáři muzea alespoň 100 let. Je trošku zrezavělý, ale stále je to nádherný exemplář.$h\"",
+          "17": "message \"Získali jste 'Zrezavělý klíč'! Byl přidán do vaší peněženky\""
+        },
+        "690006/n slimeHutchBuilt/H": {
+          "11": "speak Marlon \"Dnes ráno jsem potkal Robin... říkala mi, že máš novou Slizárnu!\"",
+          "14": "textAboveHead Marlon \"Nevypadá špatně!\"",
+          "18": "speak Marlon \"Taky jsem choval slizáky v tvém věku. Je to skvělý koníček... ale nebezpečný.#$b#Jak si myslíš, že jsem přišel o oko?\"",
+          "21": "textAboveHead Marlon \"Ha ha!\"",
+          "23": "textAboveHead Marlon \"Dělám si srandu.\"",
+          "29": "speak Marlon \"Mám tady něco pro tebe.\"",
+          "40": "speak Marlon \"Je to slizáčí vejce. To můžeš umístit do slizáčího inkubátoru a nechat ho vylíhnout.#$b#Dobře se na to vejce podívej. Až budeš někdy v budoucnu lovit slizáky, porozhlédni se, jestli neuvidíš další vejce. Jsou vzácná, ale ze slizáků čas od času padají.#$b#Sbíráním vajec od různých slizáků může do tvého stáda přinést trochu rozmanitosti!\""
+        },
+        "1590166/m 1000/t 600 930/d Mon Tue Thu Sat Sun/w sunny/h cat/H": {
+          "10": "speak Marnie \"Ahoj @!$h#$b#Vidíš tu kočku tady?\"",
+          "17": "speak Marnie \"Našla jsem ji, jak tu sedí před tvoji farmou! Myslím, že se zatoulala... ubohá malá kočička.$s\"",
+          "24": "speak Marnie \"Tak to vypadá, že se jí tady líbí! Hej, um.... Myslíš si, že by tato farma mohla využít tuto kočku?$h\"",
+          "28": "speak Marnie \"No, malá %pet... Slib mi, že budeš hodná... ano?\""
+        },
+        "897405/m 1000/t 600 930/d Mon Tue Thu Sat Sun/w sunny/h dog/H": {
+          "10": "speak Marnie \"Ahoj @!$h#$b#Vidíš toho psa tady?\"",
+          "31": "speak Marnie \"Našla jsem ho, jak tu sedí před tvoji farmou! Myslím, že se zatoulal... ubožáček.$s\"",
+          "35": "speak Marnie \"Tak to vypadá, že se mu tady líbí! Hej, um.... Nemyslíš si, že by tato farma mohla využít tohohle psa?$h\"",
+          "39": "speak Marnie \"No, %pet... Slib mi že budeš hodný pejsek... dobře?\""
+        },
+        "91/f Marnie 750/t 600 930": {
+          "6": "speak Marnie \"Dobré ráno, ${pane^slečno}$ @!$h#$b#Přišla jsem tě požádat o pomoc, protože jsi tak ${hodný soused^hodná sousedka}$.#$b#O co žádám. Snažím se mé kozy naučit říct 'Dobrý den'... ale oni mi vůbec nevěnují pozornost, pokud nemám jejich oblíbený pamlsek, jeskynní mrkve!$u#$b#A protože se bojím jít do dolů... tak jsem si myslela, že, bys mi ji ${mohl^mohla}$ přinést při tvé příští návštěvě?#$b#Nespěchá to... ale pokud budeš moci, můžeš mi ji dát u mě doma mezi 9:00 a 17:00. Tahle stará holka pak bude velmi šťastná. Ahoj.\"",
+          "8": "end dialogue Marnie \"Mé kozy se po ní mohou i utlouct... Neumím si představit proč.\""
+        },
+        "93/f Jodi 1000/t 600 930/d Tue Wed Thu Fri Sat Sun": {
+          "6": "speak Jodi \"*Huf* ...ahoj @! *Hah* Uff... to byl ale výšlap. šla jsem celou cestu až sem.$h\"",
+          "10": "speak Jodi \"Jinak... Přišla jsem se tě zeptat, jestli bys ${nechtěl^nechtěla}$ dnes večer s námi povečeřet!#$b#Nemusíš, pokud se ti nechce... ale pokud přijdeš, ${mohl bys přinést^mohla bys přinést}$ i pruhovaného okouna?#$b#...přesně tak. Tu velkou, slizkou rybu z jezera. Chci ho totiž zapéct k večeři.$h#$b#Tak fajn, já... můžeš přijít dnes večer okolo 21:00... a nezapomeň na okouna! Zatím se měj.\"",
+          "12": "end dialogue Jodi \"Zapečená ryba je prostě nejlepší.\""
+        },
+        "102/z spring/z summer/z fall/d Mon Tue Wed Thu Fri Sat/y 1/H": {
+          "6": "speak Pierre \"Zdravíčko, @. Jak se vede? Tvůj první rok ve Stardew Valley je skoro u konce, co?#$b#Nezapomeň si u mě kupovat semínka, pak můžeš příští rok toho vypěstovat dvakrát tolik!$h#$b#A mám dobré zprávy...#$b#Příští rok budu prodávat i nové druhy semen! Měl bych mít jeden nový druh na jedno období.#$b#...No, to je vše, co jsem chtěl říct. Měj se pěkně.\"",
+          "11": "speak Pierre \"A ještě něco... Ani bych nezkoušel semínka od mé konkurence.$u#$b#Pierrova semínka mají tu *nejvyšší* kvalitu široko daleko. To slibuji.$h\""
+        },
+        "2118991/e 3910975/t 600 800": {
+          "5": "speak Shane \"Ahoj...\"",
+          "10": "speak Shane \"No tak... Uh... Jak to jen říct?$s#$b#Moc se omlouvám za to jak jsem se choval na útesu. Bylo to... trapné...\"",
+          "12": "speak Shane \"$q -1 null#  #$r -1 10 event_apologize1#Těší mě, že má přítomnost ti pomohla dostat se z tvé slabé chvilky.#$r -1 -10 event_apologize2#Jednou na tohle tvrdě doplatíš.#$r -1 10 event_apologize3#Hrozně se mi ulevilo když vidím, že zase stojíš na vlastních nohách.\"",
+          "16": "speak Shane \"Došel jsem k závěru, že musím navštívit terapeuta. Harvey mi dal kontakt na jednoho ze svých kolegů...$s\"",
+          "19": "speak Shane \"Mimochodem... chtěl bych ti poděkovat za všechnu tvoji péči. A také ti chci říct, že od teď budu brát věci trochu vážněji.#$b#Nechci být nikomu přítěží...\""
+        },
+        "2128292/e 3900074/t 600 630/f Shane 2500/D Shane": {
+          "5": "speak Shane \"Nazdar, @!$6\"",
+          "7": "speak Shane \"Hele... Mám tu dva lístky na dnešní zápas Razičů.$6\"",
+          "9": "speak Shane \"Pokud chceš jít taky, tak se setkáme u autobusové zastávky okolo 17 hodin.$6\""
+        },
+        "3917587/f Alex 3500/O Alex/t 500 820/M 5000/d Sun/y 2": {
+          "18": "speak Alex \"Ahoj, @. Ještě než vyrazíš... můžeš na chvilku?#$b#Je mi trapné tě o tohle žádat... ale můžeš mi dát 5 000 zlatých?#$b#Pořebuji je pro tajný projekt na kterém teď pracuji... já vím, že máme společný účet, ale stejně jsem si řekl, že se tě nejdříve zeptám.\"",
+          "20": "question fork0 \"Chcete Alexovi dát 5 000 zlatých na jeho tajný projekt?#Ano#Ne\"",
+          "25": "speak Alex \"Vážně? To mi opravdu nemůžeš dát ubohých 5 000 zlatých na mé štěstí?$a#$b#Nevěděl jsem, že jsi takový skrblík...$s\"",
+          "33": "speak Alex \"Jen jsem se chtěl trochu pobavit...$s\"",
+          "38": "end dialogue Alex \"Teď mi radši nechoď na oči...$s\""
+        },
+        "giveAlexMoney": {
+          "5": "speak Alex \"Super! Zastav se v neděli v hospodě a já ti ukážu výsledky mé práce!$h\""
+        },
+        "3917600/f Emily 3500/O Emily/t 500 820": {
+          "18": "speak Emily \"Ahoj miláčku... mohla bych s tebou na chvilku mluvit, než zase vyrazíš do práce?#$b#Vyrábím pro tebe speciální překvapení... ale potřebuji trochu pomoc s jejím dokončením.\"",
+          "20": "speak Emily \"Sice ti nemůžu dopodrobna popsat na čem dělám, právě proto, že to má být překvapení,... ale ${mohl^mohla}$ bys mi přinést 200 kusů vlákna?\"",
+          "23": "speak Emily \"To jediné potřebuji! Nespěchám na to. Klidně mi je přines kdykoli se ti to bude hodit!\"",
+          "25": "end dialogue Emily \"A hlavně nekoukej! Brzo uvidíš, co mám v plánu.\""
+        },
+        "3911124/f Leah 3500/O Leah/t 500 820/w sunny/z winter/d Sun": {
+          "19": "speak Leah \"Ahoj, @. Dostala jsem takový nápad...#$b#Sejdeme se zítra v poledne v Mízoškvárovém lese.#$b#Chci tě naučit malovat!$h\"",
+          "21": "speak Leah \"Pokud nám zrovna v ten den nevyjde počasí, tak to zkusíme následující den. Souhlasíš?\"",
+          "23": "end dialogue Leah \"Myslím, že bude příjemné více prozkoumat tvoji tvůrčí stránku, co říkáš?\""
+        },
+        "3912125/f Elliott 3500/O Elliott/t 500 1500/p Elliott/U 8": {
+          "24": "speak Elliott \"@! Právě jsem obdržel vskutku znamenité zprávy!\"",
+          "28": "speak Elliott \"Je to poněkud narychlo... ale byl jsem pozván, abych přednesl svoji knihu \"%book\" v pár městech!\"",
+          "35": "speak Elliott \"...Musel bych na týden opustit toto místo. Nezpůsobí ti má nepřítomnost újmu?$s\"",
+          "36": "quickQuestion #Ne, vše bude v pořádku.#Budu šťastný jako blecha!¦Budu šťastná jako blecha!#Neodcházej!(break)emote Elliott 20\\speak Elliott \"Budeš mi moc chybět, ${můj drahý^má drahá}$.#$b#A samozřejmě ti budu každý den psát!\"\\emote farmer 20(break)jump Elliott\\pause 500\\speak Elliott \"Haha... velmi vtipné. Ale musím tvé nadšení ukonejšit...$8#$b#Nezapomenu ti každý den napsat. budeš mi chybět!\"(break)speak Elliott \"Ale ${drahý^drahá}$... toto je pro mě vzácná příležitost. Já prostě musím jít!$s#$b#Prosím nechtěj po mně, abych se cítil provinile. Určitě ti budu psát každý den a vrátím se dřív, než se naděješ.\"",
+          "46": "speak Elliott \"Odjíždím zítra brzy ráno...#$b#Musím okamžitě začít balit!$8\"",
+          "47": "end dialogue Elliott \"Nesmím zapomenout na svůj kartáč na vlasy, vlasový sprej, jemný hřeben a kondicionér s vůní granátového jablka!\""
+        },
+        "992559/t 600 1130/n clothFound/o Emily/w sunny": {
+          "5": "speak Emily \"Ahojky @! Dobré ráno přeji!\"",
+          "10": "speak Emily \"Vypadáš, že se ti daří dobře... farma vypadá skvostně!$h\"",
+          "14": "speak Emily \"Takže... už tu bydlíš nějaký čas a touto dobou jsi určitě narazil na nějakou 'tkaninu'... že ano?\"",
+          "16": "speak Emily \"A víš, že ji můžeš použít k ušití všech možných oblečení? Jediné co potřebuješ, je šicí stroj...#$b#A já jeden takový mám doma! Takže se můžeš kdykoliv zastavit a použít ho.$h\"",
+          "19": "message \"Nyní můžete u Emily použít její šicí stroj!\"",
+          "21": "speak Emily \"Aby jsi ${mohl^mohla}$ začít, je potřeba použít tkaninu a jeden další předmět. Zkus experimentovat a zjistit, kolik jedinečných stylů vlastně dokážeš vytvořit!\""
+        },
+        "980558/t 600 1130/w sunny/f Gus 1250": {
+          "5": "speak Gus \"Dobré ráno!\"",
+          "9": "speak Gus \"Ah... to je panečku nádherný den, co?\"",
+          "12": "speak Gus \"Poslouchej, jako vlastník hospody slyším vše, co se v tomto městě šustne.#$b#Vzpomínám si, jaká byla nálada, když jsi sem poprvé ${přišel^přišla}$... nikdo nevěděl, co od tebe lze čekat.#$b#${Cizí kluk^Cizí holka}$ z města... nikdo neví co je zač...$s\"",
+          "13": "textAboveHead Gus \"Vteřinku...\"",
+          "29": "speak Gus \"Promiň, tenhle hrnec musím míchat každých 5 minut.\"",
+          "31": "speak Gus \"Každopádně, o čem jsem to vlastně mluvil? Ah ano... víš, je to jako když děláš omáčku...\"",
+          "33": "speak Gus \"...Když do ní přidáš nějaké nové koření, můžeš všechno zničit!$s\"",
+          "57": "speak Gus \"...ale taky je tu šance, že se ti podaří vytvořit něco nového a báječného! Nemám pravdu? Hahahaha.$h\"",
+          "65": "speak Gus \"Ehm... snažím se říct, že...$s#$b#Bylo skvělé tě poznat a mít tě tu ve městě a co se týče mě, patříš mezi mé nejlepší přátele!\"",
+          "67": "speak Gus \"Každopádně jsem přišel ti něco dát...#$b#Uklízel jsem ve špajzu a našel jsem tam tuhle starou hrací skříňku. Chci ti ji dát!\"",
+          "74": "message \"Obdrželi jste 'Hrací skříňku'\"",
+          "76": "speak Gus \"Je to vlastně můj starý kutilský projekt, už to bude nějakých pár let. Výroba je v podstatě jednoduchá!#$b#A proto, pokud bys jich ${chtěl^chtěla}$ mít více, přinesl jsem ti i plánek...\"",
+          "81": "message \"Naučili jste se jak vytvářet 'Hrací skříňku'\"",
+          "83": "speak Gus \"No, tak já už půjdu domů. Musím tuhle marinaru dát zpátky na sporák! Tak se měj!\""
+        },
+        "980559/t 600 1130/w sunny/e 739330/j 27/!Skill Fishing 1": {
+          "5": "speak Willy \"Dobré ráno, ${synku^děvče}$!\"",
+          "7": "speak Willy \"Omlouvám se že tě takhle brzo ráno ruším, ale, hmm... Neušlo mi, že jsem tě již nějakou dobu neviděl rybařit.\"",
+          "11": "speak Willy \"Áno... i mé začátky nebyly úplně snadné. Pro malou čudlu jako ty může být hladina vody jako skok po hlavě do rozbouřené řeky.\"",
+          "13": "speak Willy \"A tak jsem přemýšlel že bych ti jako začátečníkovi dal úvodní kurz do naší branže... možná se pak z tebe stane ${ostřílený rybář^ostřílená rybářka}$!\"",
+          "17": "speak Willy \"Takže, nejprve tě naučím jak správně zacházet s prutem. Vidíš jak ho držím?...\"",
+          "22": "message \"Willy vám dal rychlé základy rybaření.\"",
+          "25": "message \"Už teď víte že příště vám to půjde mnohem lépe!\"",
+          "29": "speak Willy \"A ještě jedna věc... chtěl bych ti dát tento prut.#$b#Říká se mu 'Začátečnický prut'. Díky němu bude lovení ryb hračka.#$b#Jen je třeba mít na paměti, že s ním nechytíš žádný velký úlovek, jen běžné ryby. Ale na druhou stranu je to skvělý způsob jak si osvojit to naše mokré řemeslo!\"",
+          "36": "speak Willy \"Doufám že na rybaření nezanevřeš. Jsem si jistý, že jakmile tomu přijdeš na chuť, budeš se cítit jako ryba ve vodě.#$b#Přeji ti hodně štěstí!$h\""
+        }
+      },
+      "Entries": {
+        "992559/t 600 1130/n clothFound/O Emily/w sunny": "continue/64 15/farmer 64 16 2 Emily 64 18 0/skippable/pause 1500/speak Emily \"Nazdar, @.$h\"/pause 500/speak Emily \"Teď jsem si vzpomněla... v mém starém domě mám šicí stroj!\"/pause 500/speak Emily \"Pokud by sis někdy ${chtěl^chtěla}$ zkusit ušít oblečení, můžeš si tam zajít to vyzkoušet.$h\"/pause 800/playSound reward/message \"Nyní máte přístup k šicímu stroji v domě Emily!\"/pause 800/speak Emily \"Aby jsi ${mohl^mohla}$ začít, je potřeba použít tkaninu a jeden další předmět. Zkus experimentovat a zjistit, kolik jedinečných stylů vlastně dokážeš vytvořit!#$b#Už se moc těším, až tě uvidím ve spoustě různých šatech. Určitě ti to bude slušet!$h\"/pause 500/emote Emily 20/pause 500/end"
+      }
+    } 
+  ]
+}

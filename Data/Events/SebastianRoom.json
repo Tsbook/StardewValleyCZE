@@ -1,0 +1,144 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/SebastianRoom",
+      "Fields": {
+        "2794460/f Sebastian 500/p Sebastian": {
+          "14": "speak Sebastian \"Oh, ahoj. Dej mi chvilku.\"",
+          "18": "question fork1 \"#Má práci... navštívím ho později.#Zůstat tady.\"",
+          "21": "speak Sebastian \"Kam jdeš?$u\"",
+          "25": "speak Sebastian \"Promiň... musel jsem tento řádek dokončit, jinak bych ztratil svůj proud myšlenek.\""
+        },
+        "didntLeave": {
+          "2": "speak Sebastian \"Fajn. Promiň, musel jsem nejdřív dokončit svoji práci.\""
+        },
+        "sebastianRoom": {
+          "10": "question fork1 \"#Zeptat se na čem pracuje.#Pochválit výzdobu pokoje.\"",
+          "14": "speak Sebastian \"Jsem programátor na volné noze.\""
+        },
+        "decor": {
+          "2": "speak Sebastian \"Výzdobu?... Ah, jasně... díky. Už léta lepím plakáty na zeď svého pokoje, asi už je to tu trochu přeplněné.\""
+        },
+        "enterRobin": {
+          "8": "speak Sebastian \"To byla SMSka od Sama... asi chce jít ven...#$b#Eh, dneska na to vážně nemám náladu.$u\"",
+          "13": "speak Robin \"Ah, ahoj @.\"",
+          "16": "speak Robin \"Sebíčku, vím, že nemáš rád, když ti chodím do pokoje... ale potkala jsem v obchodě Abigail a říkala, že tě hledá.\"",
+          "19": "speak Sebastian \"Řeklas jí, že pracuji?\"",
+          "20": "speak Robin \"Ano... ale ona řekla, že se asi stejně sem zastaví.\"",
+          "22": "speak Sebastian \"Ach jo... Nikdo nebere moji práci vážně.$u#$b#Nikdo Maru neotravuje, když pracuje v klinice... copak si všichni myslí, že celý den brouzdám po internetu?\"",
+          "31": "question fork1 \"#Zeptat se ho na jeho životní cíle.#Zeptat se ho, proč nechce své přátele vidět.\"",
+          "34": "speak Sebastian \"No, snažím se našetřit si a odstěhovat se. Pravděpodobně do města nebo někam jinam.\"",
+          "36": "speak Sebastian \"Víš, kdybych studoval na univerzitě, tak teď bych pravděpodobně měl šesticiferný plat... ale já se nechci účastnit každodenního firemního závodu patolízalů, chápeš?#$b#No a asi se taky cítím lépe, když sedím za počítačem, než kdybych musel mluvit s lidmi z očí do očí.$s\"",
+          "43": "speak Sebastian \"Každopádně, měl bych se vrátit zpět do práce... tuhle část potřebují mít do zítra hotovou.\""
+        },
+        "noFriends": {
+          "2": "speak Sebastian \"*vzdech*... Přátelé mi nevadí, jen potřebuji spoustu času o samotě, abych se odreagoval od všech těch společenských věci.$s#$b#Sam je pravý opak... šílí, když je dlouhou dobu o samotě.#$b#Možná to je důvod, proč mám tak rád počítače... Jsou zajímavé, přímočaré a nesobecké. Na rozdíl od spousty lidí, co znám.\"",
+          "9": "speak Sebastian \"Každopádně, měl bych se vrátit zpět do práce... tuhle část potřebují mít do zítra hotovou.\""
+        },
+        "27/f Sebastian 1500/p Sebastian": {
+          "12": "speak Sebastian \"Ahoj, @. $7\"",
+          "14": "speak Sebastian \"Sam a já jsme si chtěli zahrát 'Solarionské kroniky: Hra'... Nechceš se k nám přidat? Ve třech je to stejně lepší.$7\"",
+          "22": "speak Sebastian \"Dobře, tak začneme... nejdřív vytáhnu popisující scénář.$7\"",
+          "29": "speak Sebastian \"Hmm... zdá se, že dnešní výprava nás zavede do Nekromantovy věže... kde se pokusíme získat zpět Solarionskou hůl ze spáru Hrůzopána Xartha.\"",
+          "31": "speak Sam \"Super... @, jsi ${připraven^připravena}$ zvolit si svoji postavu?\"",
+          "33": "question chooseCharacter \"Zvolte si postavu:#Válečník. Neberu žádné okliky.#Léčitel. Rád pomáhám ostatním.#Čaroděj. Bystrá mysl je ten nejostřejší meč.\"",
+          "35": "speak Sebastian \"Hej! Toho jsem si chtěl vzít já!$h#$b#Hmm, tak já asi budu léčitel.\"",
+          "37": "speak Sam \"Fajn. Já mám stejně nejradši válečníka.\""
+        },
+        "warrior": {
+          "1": "speak Sebastian \"Dobrá volba. Válečník je pro začátečníky pravděpodobně nejlehčí.$7#$b#Tak já si asi vezmu čaroděje.\"",
+          "3": "speak Sam \"Tak na mě asi zbude léčitel.$s\""
+        },
+        "healer": {
+          "1": "speak Sebastian \"Tak léčitel? To je velmi důležitá role.$7#$b#Tak já si asi vezmu čaroděje.\"",
+          "2": "speak Sam \"Fajn. Já mám stejně nejradši válečníka.\""
+        },
+        "opening": {
+          "1": "speak Sebastian \"Tak můžeme začít...\"",
+          "7": "message \"Král pověřil tebe a tvé společníky získáním Solarionské hole... úkol který, pokud ho úspěšně splníš, ti zajistí místo v síni legend a také značné bohatství v podobě zlata a stříbra.\"",
+          "9": "message \"Po dlouhém měsíci putování přes nemilosrdné země, jste vystoupali na sráz z kterého vidíte váš cíl, jeho obrys nejasně se tyčící v dálce.\"",
+          "11": "message \"Tam, za měsícem zalitou planinou, leží Nekromantova věž... kde Hrůzopán Xarth zneužívá moc ukradené Solarionské hole pro své hanebné záměry.\"",
+          "17": "question fork1 \"Stojíte před potemnělou věží.#Půjdete hlavními dveřmi. Odvážným štěstí přeje.#Zkusíte najít zadní vchod. Je lepší zůstat nespatřen.\"",
+          "26": "message \"Chodbu před vám stráží kostlivec. Vypadá nebezpečně.\"",
+          "29": "question fork1 \"Co uděláte?#Budeme s ním bojovat.#Utečeme.\"",
+          "33": "question fork0 \"Kostlivec se na vás vrhl!#Zaútočíme zbraněmi.#Zvedneme své štíty.\"",
+          "39": "message \"Odrazili jste jeho útok. Kostlivec klopýtl dozadu, což vám dalo dostatek času zaútočit a zahubit tuto odpornou nestvůru.\"",
+          "48": "message \"Pokračujete chodbou opatrně se vyhýbajíc nehybným kostem.\""
+        },
+        "swungWeapons": {
+          "1": "message \"Kostlivec je příliš rychlý, a zaútočí dřív, než někdo z vaší skupiny má vůbec šanci něco udělat!\"",
+          "5": "message \"Síla úderu vás odmrští dozadu. Protože se nedokážete včas zastavit, skutálíte se po šikmé ploše a spadnete do něčeho mokrého.\""
+        },
+        "ranAway": {
+          "1": "message \"Otočíte se a běžíte potemnělou chodbou. Studená kamenná podlaha se svažuje a točí dolů jakoby donekonečna. Po dlouhé době konečně vstoupíte do jiné místnosti.\""
+        },
+        "backEntrance": {
+          "9": "message \"Po podrobné prohlídce základů věže, naleznete padací dveře skryté v křoví. Pod nimi je žebřík, pomocí něhož vaše skupina sestoupí dolů.\""
+        },
+        "sewer": {
+          "4": "message \"Nacházíte se v chodbě ne nepodobné kanálu. Nalevo je chodba z níž vychází zvláštní zelené světlo. Napravo od vás je schodiště vedoucí do temnoty.\"",
+          "6": "question fork1 \"Co uděláte?#Vstoupíme do chodby vlevo.#Půjdeme po schodech vpravo.\""
+        },
+        "podRoom": {
+          "5": "message \"Stojíte v místnosti. Nalevo je umístěn žebřík. Napravo tři vězni se vznášejí v podivných zářících kapslích. Zdají se být uprostřed nějaké temné přeměny.\"",
+          "7": "message \"Je toto snad zvrácený experiment Hrůzopána?\"",
+          "9": "question fork0 \"Co uděláte?#Opustíme tuto místnost co nejrychleji to jde.#Zničíme kapsle.\"",
+          "18": "message \"Jakmile jste tyto nebohé duše odeslali na věčný odpočinek, vy a vaši společníci jste vylezli po žebříku.\""
+        },
+        "wizardDoor": {
+          "5": "message \"Došli jste ke dveřím na konci chodby.\"",
+          "7": "message \"Nadešel čas postavit se Hrůzopánovi Xarthovi.\""
+        },
+        "Necromancer": {
+          "5": "message \"Xarth: Vetřelci? Jak si dovolujete vstupovat do mých soukromých komnat!\"",
+          "7": "message \"Ah, tak vy jste přišli pro Solarionskou hůl...\"",
+          "9": "message \"Hehehe... hlupáci. Budete velkým přínosem do mé armády kostlivců!\"",
+          "13": "message \"Hrůzopán Xarth seslal paprsek stínů!\"",
+          "20": "message \"Podařilo se vám kouzlu vyhnout, ale vaši společníci jsou velmi vážné zraněni!\"",
+          "22": "question fork0 \"Co uděláte?#Uzdravím válečníka (Sam).#Uzdravím čaroděje (Sebastian).\"",
+          "27": "speak Sebastian \"Díky, @.$7\"",
+          "31": "message \"Sebastian seslal 'Paprsek světla'... Paprsek čistého bílého světla zasáhl Xartha přímo do tváře. Hrůzopán vykřikl a rozpadl se na prach.\"",
+          "38": "message \"Sebrali jste Solarionskou Hůl a zvedli ji vysoko nad hlavu. Mír a řád byl navrácen do celého světa.\""
+        },
+        "healedSam": {
+          "2": "speak Sam \"Díky, @.\"",
+          "6": "message \"Sam rychle zaútočí a probodne Xartha mečem, jemuž Solarionská hůl vypadne z pařátů. Mír a řád byl navrácen do celého světa.\""
+        },
+        "finalBossWizard": {
+          "2": "message \"Hrůzopán Xarth mumlá zaklínadlo...\"",
+          "4": "question fork0 \"Co uděláte?#Sešlu 'Paprsek světla' na Xartha.#Sešlu 'Štítové kouzlo' na mé přátele.\"",
+          "8": "message \"Seslali jste 'Štítové kouzlo' na Sama a Sebastiana.\"",
+          "13": "message \"Xarth vyslal blesky čisté temné energie. Jeden z nich zasáhne Sebastiana, ale vaše 'Štítové kouzlo' jej odrazí zpět přímo do Xarthova obličeje!\"",
+          "19": "message \"Xarth je poražen a Solarionská hůl pokojně září. Mír a řád byl navrácen do celého světa.\""
+        },
+        "castBeam": {
+          "1": "message \"Než máte vůbec šanci kouzlo seslat, Xarth vyšle paprsek stínů na vaše společníky!\"",
+          "8": "message \"Sam a Sebastian byli usmaženi na popel...\"",
+          "12": "message \"Vaše kouzlo Xartha zasáhne přímo do obličeje.\"",
+          "17": "message \"Xarth vydá hlasitý křik a rozpadne se na prach. Sebral jste Solarionskou Hůl a zvedli ji vysoko nad hlavu. Mír a řád byl navrácen do celého světa.\""
+        },
+        "chargeAhead": {
+          "1": "message \"Vyrazíte vpřed, ale Xarthovi se povedlo proklouznout a seslat paprsek stínů na vaše společníky!\"",
+          "8": "message \"Sebastian a Sam byli usmaženi na popel...\"",
+          "10": "message \"Znovu se pokusíte máchnout svým mečem a tentokrát úspěšně. Xarth vykřikne a rozpadne se na prach.\"",
+          "17": "message \"Sebrali jste Solarionskou Hůl a zvedli ji vysoko nad hlavu. Mír a řád byl navrácen do celého světa.\""
+        },
+        "finalBossWarrior": {
+          "2": "message \"Hrůzopán Xarth mumlá zaklínadlo...\"",
+          "4": "question fork0 \"Co uděláte?#Vyrazím vpřed máchaje svým mečem.#Použiji svůj štít k obraně svých přátel.\"",
+          "7": "message \"Xarth seslal 'Paprsek stínů' na Sebastiana... ale vy včas zvednete svůj štít a útok odrazíte!\"",
+          "14": "message \"Jak se Xarth připravuje seslat další kouzlo, vyrazíte vpřed a probodnete ho svým mečem.\"",
+          "21": "message \"Solarionská hůl pokojně září zatímco ji slavnostně držíte nad hlavou. Mír a řád byl navrácen do celého světa!\""
+        },
+        "leave": {
+          "1": "message \"Otřesný pohled na vězně raději vyženete z hlavy a rychle vylezete po žebříku.\""
+        },
+        "end": {
+          "5": "speak Sebastian \"Hej, to nebylo špatné!$7#$b#Já jsem svůj první scénář musel opakovat tak třikrát nebo čtyřikrát.$7\"",
+          "8": "speak Sebastian \"Díky že ses ${zastavil^zastavila}$... Uvidíme se později.$7\""
+        }
+      }
+    }
+  ]
+}

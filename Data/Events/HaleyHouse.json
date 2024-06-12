@@ -1,0 +1,120 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/HaleyHouse",
+      "Fields": {
+        "11/f Haley 500/p Haley/p Emily": {
+          "7": "speak Haley \"Aaahhhh! Já pod polštáři uklízím vždycky! Teď jsi na řadě TY!$a\"",
+          "9": "speak Emily \"Chováš se jako fracek, Haley. To já dělám většinu úkolů v tomto domě a ty to víš.$u\"",
+          "16": "speak Haley \"Ah, ten nový farmář.$7^Ah, ta nová farmářka.$7\"",
+          "18": "speak Emily \"${Ten farmář^Ta farmářka}$ má jméno, abys věděla.$u\"",
+          "22": "speak Haley \"Hej, ty určitě víš o čem mluvím.\"",
+          "24": "speak Emily \"*vzdech*... je mi vážně líto, že tě do toho zatahuji, @. Haley si stěžuje, protože jsem ji požádala o úklid pod polštáři.$u\"",
+          "26": "speak Haley \"$q 45 null#To jen proto, že jsem pod nimi uklízela i minulý týden!$a#$r 46 -50 Event_clean2#Přestaň fňukat a začni uklízet!#$r 45 30 Event_clean1#Haley, co kdyby toto byl tvůj jediný úkol, který bys dělala jen ty každý týden?#$r 46 -30 Event_clean3#Emily, buď ta moudřejší a pro tentokrát to udělej ty.\"",
+          "33": "speak Haley \"Dobře, vyhráli jste. Tohle tedy bude můj úkol. Pak není důvod se o tom hádat.$u\"",
+          "35": "speak Emily \"Díky, @. To bylo skvělé řešení.$h\""
+        },
+        "haleyWontDoIt": {
+          "5": "speak Emily \"*povzdech*... Tak já to teda udělám...$s\""
+        },
+        "12/f Haley 1000/p Haley": {
+          "10": "speak Haley \"Hnnnhh... Já tu sklenici prostě neotevřu!$a#$b#...$s\"",
+          "20": "speak Haley \"Oh! Ty jsi...@, že?\"",
+          "22": "speak Haley \"$q 47 null#Poslyš... myslíš, že ${jsi silák^máš sílu v paži}$?#$r 47 30 Event_jar1#Ano#$r 47 -30 Event_jar2#Ne\"",
+          "49": "speak Haley \"Hej, ty jsi to ${dokázal^dokázala}$! Jsi silnější než vypadáš!$h\"",
+          "55": "speak Haley \"Díky!$h\""
+        },
+        "15/f Haley 2500/p Haley": {
+          "20": "speak Haley \"Pojď dál! Jen prosím rychle zavři za sebou dveře!\"",
+          "34": "speak Haley \"@, tak jsi konečně tady!\"",
+          "39": "speak Haley \"Vítej v mé zbrusu nové temné místnosti!$h\"",
+          "48": "speak Haley \"$q -1 null#Tak... co na to říkáš?#$r -1 10 Event_darkroom1#Vypadá skvěle!#$r -1 0 Event_darkroom2#K čemu slouží?#$r -1 -50 Event_darkroom3#Už jsem viděl lepší.\"",
+          "52": "speak Haley \"Tak... hmm, no... a co by jsi ${chtěl^chtěla}$ dělat?$s\"",
+          "54": "question haleyDarkRoom \" #Nabídnout pomoc při zdobení místnosti.#Vymluvit se a odejít.#Zkusit ji políbit.\"",
+          "101": "speak Haley \"Ah, @... na tohle jsem čekala hodně dlouho.$11\"",
+          "103": "speak Haley \"Počkej chvilku...$l\"",
+          "139": "end dialogue Haley \"To bylo hezké...$l\""
+        },
+        "917409/e 463391/f Emily 1500/p Emily": {
+          "8": "speak Emily \"Jen pojď dál, @! Chci ti něco ukázat.$h\"",
+          "12": "speak Emily \"Mého tajného koníčka... Tohle nacvičuji už několik měsíců.#$b#A teď se usaď, uvolni se, a nechej se unášet rytmy do světa hudby... můžeme?\"",
+          "90": "speak Emily \"$q 213 null#Tak... *uf*... co na to říkáš?$h#$r 213 25 event_dance1#To bylo úžasné!#$r 213 -50 event_dance2#Nic trapnějšího asi už neuvidím...#$r 213 25 event_dance1#(Nic neříkat a začít pomalu tleskat)\"",
+          "92": "speak Emily \"Ahh... to byla docela makačka...$u\"",
+          "99": "speak Emily \"Takhle jsem se naposledy zapotila, když jsem si objednala talíř papriček na maturitním večírku Abigail!$h\"",
+          "102": "speak Emily \"...Raději se teď půjdu osprchovat. Díky že ses ${zastavil^zastavila}$.\"",
+          "105": "end dialogue Emily \"A o tomto tanci ani muk. Tohle bylo exkluzivní představení jen pro tebe.\""
+        },
+        "471942/f Emily 500/p Emily": {
+          "26": "textAboveHead Emily \"Mumvá\"",
+          "28": "textAboveHead Emily \"Mumvááá\"",
+          "45": "speak Emily \"Co tu děláš?$u\"",
+          "60": "speak Emily \"...$u#$b#To mi něco připomnělo.$u#$b#I to nejmenší, nejobyčejnější a nejjednodušší světélko ukrývá veliké tajemství.\"",
+          "62": "speak Emily \"Ahhhh! Už vím proč jsi tady. Je to znamení. Hahaha!$h\"",
+          "93": "speak Emily \"@... něco na ${něm^ni}$ je...$u^#$b#Naše osudy se protnou...$u\""
+        },
+        "195019/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/i 446/k 195012": {
+          "4": "message \"Zničehonic máte najednou nutkání dát si ruku do kapsy...\"",
+          "6": "message \"Vaše ruka spočinula na králičí pracce, načež vámi prostoupil náhlý pocit úlevy...\"",
+          "17": "textAboveHead Haley \"Ahoj!\"",
+          "18": "textAboveHead Abigail \"Nazdar!\"",
+          "19": "textAboveHead Leah \"A heleme se kdo tu je!\"",
+          "24": "speak Abigail \"${Slyšel^Slyšela}$ jsi, co se povídá o starostovi Lewisovi a Marnie?$h\"",
+          "26": "speak Penny \"Osobně si myslím, že mezi nimi nic není...\"",
+          "28": "speak Haley \"Ha! Nech si vyšetřit oči!$h\"",
+          "34": "message \"S dámami jste strávili trochu času.\"",
+          "36": "message \"Bylo to obyčejné setkání lidí!\""
+        },
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": {
+          "25": "textAboveHead Haley \"Ne tak rychle!\"",
+          "26": "textAboveHead Abigail \"Počkej!\"",
+          "27": "textAboveHead Leah \"Stůj!\"",
+          "37": "speak Abigail \"${Nečekal^Nečekala}$ jsi, že najdeš všechny své 'přítelkyně' takhle pohromadě, co @?$a\"",
+          "39": "speak Leah \"Já... myslela jsem si, že budeš jiný než ostatní...$s^Všechny si nás mistrně obalamutila, abychom si myslely, že nás miluješ... Jsi odporná...$a\"",
+          "41": "speak Penny \"Jak si nám to ${mohl^mohla}$ provést, @?$s\"",
+          "43": "speak Maru \"Určitě si myslíš, ${jaký jsi frajer^jak jsi dobrá}$, co? Dáš si nás do sbírky, ochutnáš všechny 'položky' v nabídce, co? Je mi z tebe zle...$a\"",
+          "45": "speak Emily \"Tu... Tu noc ve stanu... jak si do mého ucha ${šeptal^šeptala}$ takové hezké věci...$s#$b#Teď musím žít dále s vědomím, že to vše byla lež.$s\"",
+          "48": "speak Haley \"Ale... naštěstí my ženy držíme při sobě! A my už ti tohle nehodláme dále trpět!$a^Ale, období tvé tyranie je u konce!$a\"",
+          "49": "textAboveHead Leah \"Přesně tak!\"",
+          "51": "speak Abigail \"Tak? Co nám na to můžeš povědět?$a\"",
+          "53": "question fork1 \"#Omlouvám se... co jsem vám ${udělal¦udělala}$ bylo špatné.#Dámy, uklidněte se! Já všechno vysvětlím...\"",
+          "56": "textAboveHead Maru \"Hmmf...\"",
+          "58": "speak Abigail \"Pěkný pokus, ale na to ti už znovu nenaletíme...$u\"",
+          "61": "speak Haley \"...a proto jsme došli k rozhodnutí... není to tak, holky?$u\"",
+          "63": "speak Penny \"...ano.$s\"",
+          "64": "speak Leah \"Naprosto.$a\"",
+          "73": "speak Maru \"Už s tebou nechceme nic mít!$a\""
+        },
+        "choseToExplain": {
+          "1": "textAboveHead Haley \"O tom pochybuji...\"",
+          "4": "question fork2 \"#Přišlo mi, že jsme jen přátelé! ${Nevěděl¦Nevěděla}$ jsem, že náš vztah berete tak vážně!#Pierre mě k tomu donutil! Chtěl prodat více kytic!#Dámy, tohle je naprosto normální záležitost! Je to jen 'životní styl'...\"",
+          "7": "textAboveHead Haley \"To je lež!\"",
+          "8": "textAboveHead Maru \"Jo, jasně!\"",
+          "9": "speak Emily \"To opravdu čekáš, že ti to zbaštíme? Jen si kopeš hlubší jámu...$a\"",
+          "13": "speak Haley \"...Myslím, že jsme se už rozhodli... že, děvčata?$u\"",
+          "15": "speak Penny \"...ano.$s\"",
+          "16": "speak Leah \"Naprosto.$a\"",
+          "40": "speak Maru \"Už s tebou nechceme nic mít!$a\""
+        },
+        "lifestyleChoice": {
+          "1": "speak Penny \"Tss! Nevím co se ve městě považuje za 'normální', ale já s tímto naprosto nesouhlasím!$a\"",
+          "2": "speak Maru \"No já nechci mít s tímto 'stylem' nic společného$a\"",
+          "4": "speak Abigail \"Z tohohle se jen tak nevykroutíš, @.$a\"",
+          "8": "speak Haley \"...Myslím, že jsme se už rozhodli... že, děvčata?$u\"",
+          "10": "speak Penny \"...ano.$s\"",
+          "11": "speak Leah \"Naprosto.$a\"",
+          "35": "speak Maru \"Už s tebou nechceme nic mít!$a\""
+        },
+        "150938/n emilyStones": {
+          "18": "speak Emily \"Výborně... všichni mají svůj kámen.#$b#A teď... zavřete své oči a pomalu zhluboka dýchejte. Ať vzduch proudí vašimi plicemi.\"",
+          "20": "speak Emily \"Nechejte čistou energii proudit každým dechem do vašeho těla.#$b#A při výdechu vypuďte všechno napětí a negativní energie. Každým dechem budete více a více uvolněnější.\"",
+          "22": "speak Emily \"A teď otevřete své srdce vibrační frekvenci vašeho kamene. Cítíte něco?\"",
+          "24": "textAboveHead Abigail \"Ne.\"",
+          "26": "textAboveHead Marnie \"Já ano!\"",
+          "28": "textAboveHead Caroline \"Uvolnění\"",
+          "37": "message \"Zdá se, že drahokamy byly k něčemu užitečné...\""
+        }
+      }
+    }
+  ]
+}

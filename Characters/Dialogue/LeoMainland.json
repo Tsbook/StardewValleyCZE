@@ -1,0 +1,30 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/LeoMainland",
+      "Entries": {
+        "LeoDeparture": "Potřebuji si najít místo k bydlení...$s#$b#Ale mám plán... spolehnu se na své přátele.",
+        "AcceptGift_(O)StardropTea": "Ty jo, chutná stejně jako zlaté oříšky! To je úžasné!",
+        "GreenRain": "Tohle počasí se mi zamlouvá... je tu teď tak vlhko. Připomíná mi to lesy u mě doma.",
+        "Thu8": "Nejdřív jsem z toho měl špatný pocit... opustit ostrov a vkročit na neznámou zem.$s#$e#Ale po chvíli jsem si zvykl.#$b#Jsem velmi přizpůsobivý!$h",
+        "Thu10": "Zprvu jsem se tiu cítil jako cizinec. Ale teď mám spoustu přátel!$h#$b#Pro jednou mám pocit, že někam patřím...",
+        "Tue": "Slečna Penny se ze všech sil snaží dohnat mé vzdělání. Je moc milá...#$e#...naštěstí si něco pamatuji ze svého starého života... než jsem ztroskotal na ostrově... takže nemám až tak velké obtíže.#$e#Slečna Penny říká, že je překvapena kolik toho vím!",
+        "Tue10": "Jas a Vincent si určitě nejdřív mysleli, že jsem podivín. párkrát jsem omylem u stolu zavřeštěl... to určitě nepomohlo.$s#$e#Byla to velká změna pro všechny. Ale teď jsme dobří přátelé!$h",
+        "18": "Když jsem poprvé připlul, Linus pro mě vytvořil oblek z listí, takový jako má on...#$b#Ale vypadal jsem legračně... jako chlupaté mango!$h#$e#Myslím, že zůstanu u svého peří.",
+        "Wed": "Díky Linusovi and slečně Penny se naučím vše, co mám a můžu!$h#$e#Starosta Lewis říká, že jsem na dobré cestě stát se 'všestranným vyváženým občanem'... ať už to znamená cokoiv.",
+        "Thu": "Všiml sis někdy kolik zajímavých ptáků tady žije?^Všimla sis někdy kolik zajímavých ptáků tady žije?#$e#Pokud budeš pozorně poslouchat, možná ti něco poví.",
+        "winter_Thu": "Ptákům v tomto údolí zima moc nevadí.#$e#Trošku jim závidím jejich teplé peří...$s",
+        "4": "Jedou jsem viděl jak na nebi pluje velké mango. Linus mi řekl, že to je horkovzdušný balón!$u#$b#A já myslel, že létat mohou jen ptáci...",
+        "Fri": "Linus mě učí co všechno se dá v tomto údolí sníst. Je tu spousta dobrot!$h#$e#I když... trochu mi chybí dávat si zlaté ořechy každé ráno k snídani...$s",
+        "winter_Fri": "Linus mě naučil jak udělat rybu potřenou speciálními pálivými bobulemi...#$b#Říká, že pokud jich sním hodně, bude mi po celou zimu pěkně teplíčko!$h",
+        "Fri8": "Strýček Linus říká, že bych měl ryby před jedením 'uvařit'...$s#$b#Nevím proč, moc mi pak nechutnají... jsou tak suché...$s",
+        "Mon": "Ahoj, @. Rád tě zase vidím na ostrově, jak za starých časů. Určitě bude sranda!#$e#Musím se ti přiznat, když jsi poprvé připlul na ostrov... věděl jsem, že se můj život strašně změní.$u^Musím se ti přiznat, když jsi poprvé připlula na ostrov... věděl jsem, že se můj život strašně změní.$u",
+        "Sun": "Stardew Valley sice je teď můj nový domov... ale ostrov bude taky vždycky mým domovem.#$e#Je hezké, že můžu svoji rodinu pravidelně navštěvovat.",
+        "Sat": "Jednoho dne možná navštívím i město Zuzu...$u#$b#Ale ještě zdaleka nejsem připraven. Již tento svět je pro mě tak cizí a já jsem rád tam, kde teď jsem!$h",
+        "Sun10": "Papoušci ti chtějí poděkovat za všechny zlaté ořechy co jsi našel. Na každém si moc pochutnali.$h^Papoušci ti chtějí poděkovat za všechny zlaté ořechy co jsi našla. Na každém si moc pochutnali.$h",
+        "Sat10": "@? Um... je mi trapné se tě na to ptát...$u#$b#Ale... myslíš, že by Jas někdy mohla mít ráda někoho jako jsem já?$u#$b#Nebo jsem na ni moc divný?$s#$e#Hahaha... ale co, to je jedno. Jednoho dne na to určitě přijdu.$h"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/George",
+      "Entries": {
+        "23.000": "Hmmf... Má žena mě dnes nutí navštívit kliniku.",
+        "23.001": "*grrr*... Zatracení doktoři... *hmmm*",
+        "winter_17.000": "Jsem tu jen kvůli kávě zadarmo.",
+        "Sun.000": "Nikdy jsem nebyl věřící ale to víš... jsem starý.",
+        "23.002": "No, tak kolik let mi ještě zbývá, doktore?",
+        "Sun.001": "Hehehe... Ulil jsem se z kostela a radši šel sem! Doufám, že Yoba na mě nebude moc naštvaný.$h"
+      }
+    }
+  ]
+}

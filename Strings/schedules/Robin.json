@@ -1,0 +1,14 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Robin",
+      "Entries": {
+        "summer_18.001": "Žádné neduhy k nahlášení, doktore. Cítím se zdravá jako ryba",
+        "summer_18.000": "Co tu zdravý mladý člověk jako ty dělá?",
+        "Tue.000": "Setkáváme se každý týden a navzájem se podněcujeme zdravě žít.",
+        "winter_16.000": "Já mám největší zážitek z lodí. Zvuk vrzajícího dřeva je kupodivu velmi uklidňující."
+      }
+    }
+  ]
+}

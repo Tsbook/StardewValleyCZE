@@ -1,0 +1,51 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Marnie",
+      "Entries": {
+        "Introduction": "Ah, starosta Lewis mi sdělil, že přijedeš. Ráda tě poznávám! Já jsem Marnie!#$e#Na svém ranči prodávám dobytek a výrobky pro chov zvířat. Tak se někdy zastav.$h",
+        "AcceptGift_(O)StardropTea": "Ah, o tomto čaji jsem slyšela. Vřelé díky, @. Na tohle určitě nezapomenu!",
+        "AcceptGift_(O)SkillBook_0": "Ty mě znáš, @. Vždycky se cítím lépe, když mám po ruce výtisk almanachu. Obsahuje velmi přesné a podrobné informace!$h",
+        "gotPet": "Myslím, že si svého čtyřnohého kamaráda na své farmě určitě oblíbíš.",
+        "gotPet_memory_oneday": "%pet se určitě bude nejdříve rozkoukávat ve svém okolí, tak se neboj, pokud se bude trochu bát. Všechny zvířata si tímto po změně svého prostředí projdou.",
+        "gotPet_memory_oneweek": "Co %pet? Jak se našemu zatoulanci daří? Už se tolik nebojí? Je to skvělý pozemek poskytující mnoho prostoru pro takto aktivního mazlíčka.",
+        "gotPet_memory_oneyear": "Právě jsem si uvědomila... už to bude asi rok co ses ${ujal^ujala}$ %pet. Určitě jste teď už nerozlučná dvojka!",
+        "structureBuilt_Stable": "Opravdu? ${koupil^koupila} sis koně? To je skvělá zpráva! Koně jsou úžasná zvířata.$h",
+        "dating_Shane_memory_oneweek": "Shane se poslední dobou zdá mít mnohem lepší náladu a pln naděje.#$b#Jsem opravdu vděčná že ses sem ${přistěhoval^přistěhovala}$ až jste se spolu tak spřátelili!$h",
+        "married_Shane": "Vlastně jsem ráda, že se Shane stěhuje k tobě na farmu... pak bude moct udržovat naši rodinou tradici!",
+        "GreenRain": "Tobě ten déšť vrásky nedělá? No, to mě trochu uklidnilo...#$e#Doufám, že se krávy samy schovaly před deštěm do stodoly...$s",
+        "GreenRainFinished": "No, tak to bylo mnoho povyku pro nic... déšť je zcela neškodný!",
+        "GreenRain_2": "Zvířatům se zdánlivě déšť zamlouvá... možná že déšť přináší do trávy více živin.",
+        "Fair_Judging": "No, kdo neseje, nesklízí...",
+        "Fair_Judged": "Tak jsem nakonec odešla s prázdnou... ale i tak jsem pyšná na všechny výrobky ,které jsem mohl představit ostatním!",
+        "Fair_Judged_PlayerLost_PurpleShorts": "Co jsem to zahlédla ve tvém výstavním boxu? To bylo nějaké zvláštní fialové zelí?$h#$b#Klidně bych odpřisáhla, že vypadalo jako Lewisovy tre... $3#$b#Ha!... hehe... nic jsem neřekla!$4",
+        "Resort": "Hehe... konečně šance ukázat výsledky mé tvrdé práce v kurzech aerobiku.$h",
+        "Resort_Leaving": "Je mi teplo.",
+        "Resort_Shore": "He he... zajímavé vidět všechny lidi v plavkách.",
+        "Resort_Chair": "Fuj... ta židle je mokrá.",
+        "Resort_Bar": "Uf... to je vedro!$s",
+        "reject_789": "Ahhh!$4#$b#...ehm... cože? Hehe.. já vůbec netuším co to je...$3",
+        "Mon": "Já miluji zvířata, @. Pokud se ke svým budeš chovat správně, určitě se z nás stanou dobří přátelé!",
+        "Mon4": "Zvířata jsou tak roztomilá a nevinná. A když se o ně nebudeš starat ty, tak kdo asi?$s#$e#Já jen doufám, že slepice nejsou příliš naštvané, když si beru jejich vejce.$s",
+        "Thu_2": "Už jsi tady s námi nějakou dobu... jak se ti vede na farmě?#$e#Chov zvířat je jednoduchý, pokud na ně nezapomeneš!$h",
+        "Saloon": "Teď když jsem tady si konečně můžu na chvíli odpočinout a popovídat si s ostatními.",
+        "Saloon_Tue": "Dnes tu skoro nikdo není...$s",
+        "Saloon_Wed": "#$1 marnieAnimalSal#Dnes jsem vylila celý džber mléka na podlahu, to byla taková hrůza. A takové mrhání práce mé nebohé Belindy.$k$s#$e#Je milé, že ses tu ukázal! Teď to tu trochu více žije.",
+        "Saloon_Thu": "Uf! To je tak dobrý pocit si konečně odpočinout po dni plné těžké práce.",
+        "Saloon_Fri": "%Marnie si ani nevšimla že jste tady...",
+        "Saloon_Sun": "*Povzdech*... Dneska mi práce moc nešla.",
+        "Saloon_Sat": "Vždycky tu potkávám Clinta, ale s nikým se nebaví. Jen se tu a tam ohlédne přes rameno.$s",
+        "Tue": "$query PLAYER_NPC_RELATIONSHIP any Shane married roommate#Tak, teď když je Shane pryč, musí Jas převzít část jeho povinností. Za tímto účelem jsem ji začala učit jak se starat o slepice.|Můj synovec Shane už pár měsíců bydlí u mě.#$e#Ale nestěžuji si, pomáhá mi totiž se slepicemi.",
+        "Wed": "Pro nasekání trávy na krmení můžeš použít kosu.#$#Nebo si ho můžeš ode mne koupit!$h#$e#Peníze by se mi docela hodily...$u#$e#Adios.",
+        "Thu": "Ahoj, potřebuješ něco??#$e#Do budoucna si možná pořídím další druhy zvířat.#$e#Nejdříve ale musím zjistit, jestli si je vůbec někdo bude chtít koupit, takže prvně mi musíš dokázat své dovednosti se zvířaty.#$e#Stačí se k nim chovat s respektem a dobré věci tě neminou..",
+        "Fri": "Po večerech mě často zastihneš v hospodě.#$e#Zvířata jsou skvělí společníci, ale je třeba také být občas ve společnosti lidí.",
+        "Fri4": "#$1 marnieLike#Myslím, že jsem se někomu ve městě zalíbila. *hihi*$k$h#$e#Kdyby se Shane odstěhoval, byla bych tu tak sama..",
+        "Fri6": "Myslíš, že panu Lewisovi je v tom jeho velkém domu smutno?$s#$e#Připadá mi, že ten dům je hrozně prázdný, nemám pravdu?",
+        "Sat": "Už jsi ${viděl^viděla}$ tu zvláštní věž na západ od mého domu?#$e#Jednou jsem slyšela z ní vycházet hrozné až nepozemské zvuky.$s#$e#Být na tvém místě, tak bych se té věži vyhýbala obloukem.",
+        "Sun": "Ahojky, ráda tě vidím!#$e#Neostýchej se nás kdykoliv navštívit.",
+        "Sun8": "Ahoj @!$h#$e#Jsem ráda, že jsem se ${stali^staly}$ přáteli. Teď vím, že ti mohu důvěřovat co se týče mých nejdražších miláčků."
+      }
+    }
+  ]
+}

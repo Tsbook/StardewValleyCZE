@@ -1,0 +1,13 @@
+[
+  {
+    "ID": "Tsbook.StardewValleyCZE",
+    "LanguageCode": "cs",
+    "ButtonTexture": "Mods/[CP] Stardew Valley česky/Minigames/Button",
+    "UseLatinFont": true,
+    "TimeFormat": "[HOURS_24_00]:[MINUTES]",
+    "ClockTimeFormat": "[HOURS_24_00]:[MINUTES]",
+    "ClockDateFormat": "[DAY_OF_WEEK]. [DAY_OF_MONTH]",
+    "NumberComma": " ",
+    "UseGenderedCharacterTranslations": true
+  }
+]

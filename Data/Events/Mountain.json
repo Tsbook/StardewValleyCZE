@@ -1,0 +1,138 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Mountain",
+      "Fields": {
+        "2/f Abigail 1000/w rainy/t 1200 1900/z winter": {
+          "16": "speak Abigail \"$q 32 null#@! Proč jsi tady venku v dešti?$7#$r 32 0 Event_Rain_1#Mám tady něco na práci#$r 32 50 Event_Rain_2#Užívám si počasí#$r 32 10 Event_Rain_3#Ta samá otázka by se dala položit tobě\"",
+          "19": "speak Abigail \"...Přišla jsem sem abych mohla být chvíli o samotě.$8\"",
+          "24": "speak Abigail \"Ale tvá společnost mi nevadí!\"",
+          "27": "speak Abigail \"Takhle zmokneš... pojď se schovat pod strom.\"",
+          "32": "speak Abigail \"Je nemožné popsat ten pocit... sledovat jak záclony deště šeptají nad tichým jezerem.$8\"",
+          "44": "speak Abigail \"Hej! Mini harfa!$h#$b#Jsi ${plný překvapení^plná překvapení}$, @. Jsem ohromena.\""
+        },
+        "8/f Maru 1500/w sunny/t 2100 2340": {
+          "16": "speak Maru \"@! Nečekala jsem, že budeš venku tak pozdě.\"",
+          "19": "speak Maru \"Noční obloha teď vypadá opravdu nádherně.\"",
+          "21": "speak Maru \"Pojď sem, chci ti něco ukázat.\"",
+          "23": "speak Maru \"Tady, koukni se.\"",
+          "30": "speak Maru \"$q 40 null#Co vidíš?#$r 40 30 Event_Space1#Nádhernou planetu.#$r 40 -30 Event_Space2#Studenou, temnou hlubinu.\"",
+          "34": "speak Maru \"Až jednou někdo navštíví jednu z těchto hvězd, my už tu dávno nebudeme...$8\"",
+          "37": "speak Maru \"To je asi ten problém, když jsi člověk, co?\"",
+          "44": "speak Maru \"@, um...$8\"",
+          "48": "speak Maru \"Ale nic...$s\"",
+          "52": "speak Maru \"Teď ti ukážu hvězdný systém s dvojhvězdou...\"",
+          "63": "message \"Taková krásná noc! Maru mi ukázala něco nového...\""
+        },
+        "26/f Linus 1000/w sunny/t 2000 2400": {
+          "9": "speak Linus \"@! Jen pojď blíž k ohništi. Hezky se zahřeješ.\"",
+          "16": "speak Linus \"Doufal jsem, že někdy přijdeš.\"",
+          "24": "speak Linus \"Chtěl jsem se ti omluvit za moji počáteční nedůvěru vůči tobě.$s#$b#Většina lidí se ke mně nechová hezky a proto jsem se naučil být vždycky opatrný.$s\"",
+          "28": "speak Linus \"Ale ty jsi ${byl^byla}$ ke mně až neobyčejně ${hodný^hodná}$. Jsi opravdu jedinečný člověk.$h#$b#... a já tě považuji za skutečného přítele.\"",
+          "36": "speak Linus \"Hej, chci ti něco ukázat. Následuj mě dovnitř.$h\"",
+          "67": "speak Linus \"Ah... tady to máme. Víš, co to je? Je to speciální druh rybí návnady, který jsem vytvořil.#$b#Je to prvotřídní kvalita... sám bych ji rád snědl!#$b#Tady, chci ti dát recept na její vytvoření.\"",
+          "79": "message \"Umíte vytvořit 'Divokou návnadu'.\""
+        },
+        "BadAnswer": {
+          "0": "speak Maru \"$q 18982 null#Musí existovat nějaký dobrý důvod proč jsi to ${řekl^řekla}$...$a#$r 18982 50 event_robot_explain1#MarILZA je jen stroj navržený, aby se choval jako člověk.#$r 18982 50 event_robot_explain2#To byl jen vtip. MarILZA si zaslouží svoji svobodu.#$r 18982 -50 event_robot_explain3#Mně by se hodila na práce na farmě\"",
+          "5": "speak Maru \"No, asi bych už měla jít. Díky že jsi dnešek ${strávil^strávila}$ se mnou, @.$8\""
+        },
+        "384883/f Sebastian 1000/t 1100 1700": {
+          "24": "speak Sebastian \"Oh, ahoj @.$8\"",
+          "29": "speak Sebastian \"Co, ty jsi nikdy předtím ${neviděl^neviděla}$ moji motorku? Hmmm... asi jsem ti ji nikdy neukázal.$8\"",
+          "49": "speak Sebastian \"Občas, když zapadne slunce, si vyjedu na dlouhou dobu ze Stardew Valley...$8\"",
+          "51": "speak Sebastian \"Není nic lepšího, než svištět prázdnými kusy silnice směrem ke slabé záři velkoměsta...$9\"",
+          "57": "speak Sebastian \"Jednou, až našetřím dost peněz, vyrazím na vlastní pěst... do města a ještě dál. Jen já a moje motorka.$9\"",
+          "66": "speak Sebastian \"Tak a hotovo, olej je vyměněn.$8\"",
+          "72": "speak Sebastian \"$q -1 null#Hej... možná tě jednou nechám na ni projet, jestli chceš.$8^Hej... možná tě jednou vezmu na projížďku.$8#$r -1 10 event_garage1#To může být zábava.#$r -1 -10 event_garage2#Ne díky. Připadá mi to hloupé.#$r -1 0 event_garage3#Já se motorek bojím.\""
+        },
+        "384882/f Sebastian 2500/t 2000 2400": {
+          "8": "speak Sebastian \"Hej @. Právě jsem chtěl vyrazit.#$b#Naskoč si...chci ti něco ukázat.\"",
+          "31": "speak Sebastian \"Tam v dálce je město Zuzu...\"",
+          "34": "speak Sebastian \"Když si chci od všeho odpočinout a přemýšlet o samotě, vždycky si zajedu sem...\"",
+          "44": "speak Sebastian \"$q -1 null#Tak, co si myslíš?#$r -1 0 event_city1#Je nádherné.#$r -1 10 event_city2#Mám z toho zvláštní, jakoby smutný pocit.#$r -1 -10 event_city3#Docela hnusný pohled.#$r -1 0 event_city4#Měl bys přestat kouřit.\"",
+          "49": "speak Sebastian \"V minulosti mě město vždycky táhlo... ale teď si připadám šťastnější doma v údolí.\"",
+          "52": "speak Sebastian \"@...?$s#$b#Um... nikdy jsem... nic takového necítil k jinému chlápkovi... ale ty jsi jiný.$l^Na toto místo většinou holky nevodím... vlastně, ty jsi první.$l#$b#Víš co se ti snažím říct, ne?$l\""
+        },
+        "404798/Hn ccFishTank": {
+          "11": "speak Willy \"Ahoj, @.\"",
+          "14": "speak Willy \"To je divné... nevím co způsobilo, že kámen zmizel.\"",
+          "18": "speak Willy \"Tento proud vyvěrá z hloubi hory.\"",
+          "29": "speak Willy \"Koukni! Vidíš ten blýskající se předmět ve vodě?\"",
+          "35": "speak Willy \"Je to... ano, to je kvalitní ruda!$h\"",
+          "41": "speak Willy \"Proud vody ji musel vynést přímo z hory.\"",
+          "45": "speak Willy \"Víš co to znamená, že?\"",
+          "49": "speak Willy \"Znamená to, že můžeme začít rýžovat rudu!$h\"",
+          "52": "speak Willy \"Poslyš, mám v batohu další pánev... proč si ji nevezmeš?\"",
+          "68": "speak Willy \"Pokud někdy uvidíš blyštivou rudu ve vodě, použij tuto pánev ať zjistíš jaká ruda to je.\""
+        },
+        "371652/f Linus 2000/w sunny/t 600 1700/a 12 26": {
+          "33": "textAboveHead Robin \"Áááh!\"",
+          "45": "speak Robin \"Ah... vy jste Linus, nemám pravdu?$s\"",
+          "47": "speak Robin \"Máte hlad? Mohla bych vám udělat oběd... Nemáte chuť na dušenou jeskynní mrkev, co nám tu zbyla?\"",
+          "49": "speak Linus \"To je od vás velmi hezké, ale musím s díky odmítnout! Dnes jsme měl při hledání štěstí.$h\"",
+          "51": "speak Robin \"Aha... no dobře.$5\"",
+          "55": "speak Robin \"@? Máš něco na srdci...\"",
+          "57": "question fork0 \"#Jen mě těší, že se Linusovi daří...#Chtěl bych Linusovi nabídnout, ať žije se mnou na farmě...¦Chtěla bych Linusovi nabídnout, ať žije se mnou na farmě...\"",
+          "61": "textAboveHead Robin \"Páni!\"",
+          "69": "speak Robin \"To je od tebe velmi velkorysé! Takový skvělý nápad! Linusi, můžu pro vás postavit opravdu skvělý dům.$h\"",
+          "71": "speak Robin \"Konečně budete mít tekoucí vodu, teplo, střechu nad hlavou... tak jako my ostatní! Není to báječné?\"",
+          "76": "speak Linus \"Um...$s#$b#Um... Ne, děkuji.$s\"",
+          "95": "textAboveHead Robin \"Cooo..?\"",
+          "100": "speak Linus \"Cením si tvé laskavosti... Opravdu...$s#$b#Ale... jak už jsem ti říkal... Já jsem si tento způsob života vybral...\"",
+          "105": "speak Linus \"Většinu dne chci být o samotě... Mám rád ticho... pohybovat se dle rytmu přírody...#$b#S takovýmto životem jsem spokojen. A nikdy ho nechci změnit.\"",
+          "112": "speak Robin \"Takhle jsem o tom nikdy nepřemýšlela...$5\"",
+          "117": "speak Linus \"@... moc si cením našeho přátelství. A já vím že ty také.$h#$b#Ale... Nemusíš se mi snažit 'pomoci'... Já vím nejlépe jak žít svůj život... dobře?\"",
+          "122": "speak Linus \"...cítíte to? Tu sladkou vůni zralých bobulí?$h\""
+        },
+        "linusWell": {
+          "7": "speak Linus \"Díky, @. Chvilku jsem měl strach... Už už jsem si myslel, že se mě zeptáš, zda bych s tebou nechtěl žít na farmě! *mrk*#$b#Chci ti říct, že si asi ${můj nejbližší přítel^moje nejbližší přítelkyně}$ tady v údolí... nikdy ses ${nepokoušel^nepokoušela}$ mě 'spravit'... bereš ohledy na můj způsob života, i když ho nechápeš.$h#$b#Toho si opravdu cením.\"",
+          "12": "speak Linus \"...cítíte to? Tu sladkou vůni zralých bobulí?$h\"",
+          "20": "speak Robin \"Ahh.. On je takové zlatíčko...$h\""
+        },
+        "5183338/e 3917666/O Maru/w sunny/t 2200 2500": {
+          "15": "speak Maru \"Ahoj, @. ${Dorazil^Dorazila}$ jsi právě včas... Za chvilku se nám zjeví kometa.\"",
+          "21": "speak Maru \"Dnes je nádherná noc, co?\"",
+          "26": "speak Maru \"Vzpomínáš jak jsme tohle ${dělali^dělaly}$ poprvé? To už taky bude nějaká doba...\"",
+          "28": "speak Maru \"Tu noc jsem ti skoro řekla, že tě miluji... ale bála jsem se, že mě odmítneš.\"",
+          "30": "speak Maru \"Kdo mohl tušit, že se zakrátko pak vezmeme!$h\"",
+          "36": "speak Maru \"Ah! Už je tady...\"",
+          "42": "textAboveHead Maru \"To je nádhera!\"",
+          "46": "speak Maru \"Podívej se!\"",
+          "66": "speak Maru \"Když vidíš kometu, je zvykem si něco přát...\"",
+          "68": "quickQuestion Co si přeješ ty?#Nové dítě#Abychom zestárli spolu#Více peněz(break)jump Maru\\pause 500\\speak Maru \"Ah! No, můžeme se o to pokusit...$l\"\\emote Maru 20(break)emote Maru 20\\speak Maru \"To je... opravdu romantické!$l#$b#Já si přeji to samé.$l\"(break)speak Maru \"Peníze? Aha...$s#$b#No, to je asi praktické přání...$8\"\\emote Maru 28\\speak Maru \"Moje je trošku romantičtější...\""
+        },
+        "9333219/O Sebastian/f Sebastian 3500/w rainy/t 600 1900": {
+          "8": "speak Sebastian \"Čau @... díky že ses ${zastavil^zastavila}$.\"",
+          "11": "speak Sebastian \"V tom křoví je zraněná žába... Musím ji zachránit!\"",
+          "14": "speak Sebastian \"Potřebuji tvoji pomoc. Jdi na druhou stranu toho křoví a zkus ji nalákat ke mně. Já tu počkám a zkusím ji chytit.\"",
+          "22": "speak Sebastian \"Tak... připraven?^Tak... připravena?\"",
+          "24": "textAboveHead Sebastian \"Teď!\"",
+          "37": "textAboveHead Sebastian \"Mám ji!\"",
+          "40": "speak Sebastian \"Chudinka... její noha je celá zkroucená.$s\"",
+          "42": "quickQuestion #Co s ní budeme dělat?#Je to naše nová dcera...#Myslím, že má na kahánku#Pojďme o ni pečovat, dokud se neuzdraví!(break)speak Sebastian \"Prozatím ji vezmu domů a udělám ji pohodlí.#$b#Asi si něco přečtu o péči o žáby. Marnie možná něco ví.\"(break)speak Sebastian \"Haha... jo, asi jo.$h#$b#Nos má určitě po tobě...$7\"\\faceDirection farmer 2 true\\jump farmer\\showFrame farmer 94\\startJittering(break)emote Sebastian 12\\speak Sebastian \"No, neměj mi to za zlé, ale brát za slovo tě nebudu ... já ji chci dát šanci.\"(break)speak Sebastian \"Uděláme co bude v našich silách. Ale zatím se k ní moc neupínej...\"",
+          "48": "speak Sebastian \"Vezmem ji domů.\""
+        },
+        "8357109/w sunny/t 600 1900/n linusTrashCleanup": {
+          "9": "speak Linus \"Ahhh... to je příjemný pocit.$4\"",
+          "11": "speak Linus \"Voda nikdy nevypadala čistší.$4\"",
+          "13": "speak Linus \"...a to samé se dá říct i o mně! Hehehe.$5\""
+        },
+        "8959199/w sunny/t 600 1900/e 6497428/f Leo 2250/F": {
+          "9": "textAboveHead Leo \"Už je to hotové!\"",
+          "11": "textAboveHead Linus \"Ještě ne...\"",
+          "31": "textAboveHead Penny \"Správně, Leo!\"",
+          "58": "textAboveHead Willy \"Mám ji, chlapče!\"",
+          "113": "speak Leo \"Haha! ...dneska byl skvělý den!$h\"",
+          "119": "speak Leo \"I když... stále mi občas chybí má rodina na ostrově...$s\"",
+          "122": "speak Leo \"Ale ze vzpomínek na ně jsem šťastný a ne smutný.\"",
+          "125": "speak Leo \"...a tady mám pocit, že opravdu někam patřím!$h\"",
+          "133": "speak Leo \"Je to nádherný svět, přátelé...\"",
+          "139": "speak Leo \"...a jsem rád že mohu být jeho součástí!$h\""
+        }
+      }
+    }
+  ]
+}
+      

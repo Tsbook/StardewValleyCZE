@@ -1,0 +1,16 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Jas",
+      "Entries": {
+        "winter_18.000": "Dnes musím k doktorovi ale nebojím se!",
+        "winter_15.001": "Škoda že nejsem dost stará, abych se mouhla koukat na představení...$s",
+        "winter_18.001": "Doktore Harvey, můžete mi ukázat jak tento nástroj funguje?",
+        "summer.000": "1... 2... 3... 4... A teď přichází vlna! *hihi*$h",
+        "winter_15.000": "1... 2... 3... 4... Ale ne! Zase jsem to zkazila.",
+        "spring.000": "1... 2... 3... 4... Ale ne! Zase jsem to zkazila."
+      }
+    }
+  ]
+}

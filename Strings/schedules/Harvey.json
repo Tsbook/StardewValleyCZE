@@ -1,0 +1,17 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Harvey",
+      "Entries": {
+        "Fri.000": "Tyto věci určitě jde začlenit jako součást zdravého stravování.",
+        "marriageJob.000": "Ahoj miláčku. Co tady děláš?#$e#Aha, přišel si mě jen navštívit. to je od tebe hezké.$h¦Aha, přišla si mě jen navštívit. to je od tebe hezké.$h",
+        "Fri.001": "Já jen vykládám věci z nákupu.",
+        "marriage_Mon.001": "Zvuk tekoucí vody je tak uklidňující.",
+        "marriage_Mon.000": "Ahoj! Jen tu nakupuji nějaké nezbytné věci, to abych pro nás dále mohl vařit zdravé jídlo.",
+        "Sat.000": "Já tu jen vykládám nákup",
+        "winter_15.000": "Zima je často velmi chmurné období, ale události jako je tato mně vykouzlí úsměv na tváři!"
+      }
+    }
+  ]
+}

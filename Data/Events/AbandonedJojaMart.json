@@ -1,0 +1,15 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/AbandonedJojaMart",
+      "Fields": {
+        "missingBundleComplete": {
+          "22": "spriteText 3 \"Všichni ostatní už jsou zpátky, až na mě... \"",
+          "25": "spriteText 3 \"Teď už můžu také konečně jít domů. Děkuji! Moc ti děkuji! \"",
+          "75": "spriteText 4 \"Brzy se stane něco skvělého... \""
+        }
+      }
+    }
+  ]
+}

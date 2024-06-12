@@ -1,0 +1,31 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/animationDescriptions",
+      "Entries": {
+        "abigail_videogames": "Arghh... zase jsem umřela! Tahle hra je fakt těžká...$u",
+        "haley_photo": "%Haley je příliš zaneprázdněná svoji kamerou, aby si tě všimla.",
+        "harvey_radio": "%Harvey vypadá, že má teď práci.",
+        "harvey_examine_left": "A teď se nehýbej... Zhluboka se nadechni.$u",
+        "alex_lift_weights": "Urgh... Nemůžu mluvit.$6",
+        "robin_dance": "%Robin má práci.",
+        "demetrius_dance": "%Demetrius je zaneprázdněn.",
+        "demetrius_read": "Zde ve Stardew Valley jsme izolováni od zbytku světa. A možná to je tak dobře.",
+        "emily_exercise": "Cvičení může být zábava!",
+        "robin_exercise": "Mé ruce jsou silné... *haaa*... ale na nohách potřebuji zapracovat... *Aah*",
+        "caroline_exercise": "Nedívej se! Jsem celá červená a zpocená.$s",
+        "shane_work": "%Shane tvrdě pracuje. Nezdá se, že má zájem si s tebou povídat.",
+        "marnie_exercise": "%Marnie se na tebe usmívá přes potoky potu.",
+        "jodi_exercise": "Uff... Nádech.... Uff.... Výdech.$4",
+        "vincent_read_right": "Slečna Penny říká, že nejdřív si musím přečíst tuto knihu a až pak si můžu jít hrát.$s",
+        "penny_wave_left": "Toto město je bezpečné, ale přesto doprovázím děti domů.",
+        "sam_guitar": "%Sam teď pilně cvičí na kytaru.",
+        "sam_gameboy": "Chviličku... musím dokončit tuto úroveň.$7",
+        "sam_skateboarding": "%Sam se snaží udělat kickflip.",
+        "sam_pool": "$c .5#Hmm... Pokud dám této kouli trochu horní rotace, možná bych dokázal...$7#$e#*vzdech*... Nejsem v tom moc dobrý.$s",
+        "sam_work": "%Sam teď pracuje... raději je lepší mu nezadělávat na potíže."
+      }
+    }
+  ]
+}

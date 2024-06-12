@@ -1,0 +1,14 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Clint",
+      "Entries": {
+        "winter_16.002": "Doktore, jak zní mé plíce? Někdy když dýchám tak vydávají takový chrastící zvuk.",
+        "winter_15.000": "Zítra mám domluvenu kontrolu u lékaře...Třeba mě uklidní tanec mořských panen?Ale co když si budou myslet, že je okukuji...*polk*",
+        "winter_16.001": "Já k lékaři jdu kvůli plicím... dýchat všechen ten uhelný prach nemůže být zdravé.",
+        "winter_16.000": "Dnes mám domluvenu návštěvu u lékaře, takže pokud si chceš něco koupit, tak si prosím pospěš."
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Jas",
+      "Entries": {
+        "Introduction": "...$u#$b#Ahoj...$u",
+        "AcceptBirthdayGift_Positive": "Juchů! Dárek k narozeninám! Bezva!$h",
+        "GreenRain": "Já se bojím...$s",
+        "GreenRain_2": "Doufám že mi déšť neobarví šaty na zeleno...$s",
+        "AcceptBirthdayGift_Negative": "To má být můj dárek? Aha... ale mně se to moc nelíbí.$s",
+        "AcceptGift_(O)StardropTea": "Opravdu? Hrozně dobře to voní! Budu ho pít každý den po doušcích.$h",
+        "AcceptGift_(TR)FairyBox": "Téda, ta je pěkná! A uvnitř že je víla? Hihi... slyším jak zpívá. Odteď budeme kámošky.$h",
+        "AcceptGift_(O)103": "Jé, panenka! Je trochu špinavá, tak ji radši vykoupu. Díky!$h",
+        "AcceptGift_doll_item": "Ha, ta se mi líbí! Určitě si padne do oka s ostatními u mě doma.$h",
+        "AcceptGift_alcohol_item": "Hmm... já ale tohle nesmím pít. Není to jen pro dospělé?$s",
+        "AcceptGift_coffee_item": "No... tetička Marnie říká že na kávu jsem ještě moc malá...$s",
+        "married_Shane": "Myslíš si, že mě Shane bude ještě chtít navštěvovat...$s",
+        "married": "Ach jo... snad se také někdy vdám.$u",
+        "cropMatured_595": "$y 'Hej... ${viděl^viděla} jsi někdy vílu?_Ano_Vážně? Já ji taky chci vidět.$h_Ne_...já taky ne.$s'",
+        "eventSeen_3910975": "...bude Shane v pořádku?$s",
+        "eventSeen_3910975_memory_oneweek": "Měla jsem zlý sen. Zdálo se mi, že dům hoří...$s",
+        "eventSeen_3910974": "Hihi... koukej, mám střevíčky se šperky co vypadají jako králíčci!$h",
+        "movieTheater": "Tetička Marnie říká, že ještě nejsem dost stará, abych šla do kina sama...$s",
+        "Resort_Entering": "Vidím kraba!",
+        "Resort_Leaving": "V botě mám písek...$s",
+        "Resort_Shore": "Sbírám mušle... chci z nich udělat náhrdelník!",
+        "Resort": "Tetička Marnie mi řekla, ať se nespálím... ale když rychle chodím, cítím svěží vánek, takže asi budu v pořádku.$h",
+        "reject_869": "Fuj, to je hnus!$s",
+        "Mon": "Oh...hledáte tetičku Marnie?$u",
+        "Mon4": "Zdravím, pane @.^Zdravím, paní @.#$e#Žít na farmě je zábava.$h",
+        "Tue": "Co? *hihi*$h#$e#...ahoj.",
+        "Tue6": "Pokud chcete, klidně si můžete s mými panenkami hrát. Pak jim ale budete muset učesat vlásky.",
+        "Wed": "...$u",
+        "Wed2": "...Ahoj.$u",
+        "Wed4": "Tetička Marnie mi nařídila večerku v 6 hodin. To není fér!$s#$e#Já už se tmy nebojím!",
+        "Thu": "Nemám si povídat s cizími lidmi...$u",
+        "Thu2": "Slečna Penny mě učí psát kurzivou.$h#$e#Hrozně hezky píše.",
+        "Fri": "... Já vás neznám.$u",
+        "Fri2": "Líbí se vám moje mašle?",
+        "Fri4": "Líbí se mi žít na farmě... nejlepší tady je zmrzlina z mléka našich krav.",
+        "Sat": "Je z vás cítit tráva.$u",
+        "Sat2": "Občas hledám v řece raky. Slib, že to tetičce nepovíte... ale já jsem jednou jednoho dala krávě sníst.#$e#Vypadala že jí moc chutná.",
+        "Sat8": "Jste ke mně vždycky tak hodný, pane @$h^Jste ke mně vždycky tak hodná, slečno @$h#$e#Dospěli jsou většinou zlý a nudní, ale to vy nejste.",
+        "Sun": "Um... p... potřebujete něco?$u#$e#Mám zakázáno povídat si s cizími lidmi.$u",
+        "Sun2": "Shane je často pryč a tetička Marnie má pořád práci... proto si musím vymýšlet své vlastní hry.#$e#Ještě že mám všechny svoje hračky.$h",
+        "Sun10": "Věděli jste, že Shane je můj kmotr? Byl přítelem mých rodičů.$s#$e#...už tu s námi nejsou.*vzlyk*$s"
+      }
+    }
+  ]
+}

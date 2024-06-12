@@ -1,0 +1,17 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Haley",
+      "Entries": {
+        "winter_9.000": "Není to nic vážného... jsem tu na pravidelné kontrole.",
+        "winter_9.001": "No... trochu mi teče z nosu, doktore. Ale jinak se mi daří dobře!",
+        "winter.000": "Je příliš zima na to, abych vylezla z postele.",
+        "marriage_Mon.000": "Ahoj zlato! Já jsem tu hlavně proto, abych navštívila Emily.",
+        "rain.000": "Počasí je příliš hnusné na to, abych vylezla z postele.",
+        "winter_16.001": "Když se pěkně nabalíš tak se i zima dá docela vcelku přežít!$h",
+        "winter_16.000": "Je příliš zima na to, abych vylezla z postele."
+      }
+    }
+  ]
+}

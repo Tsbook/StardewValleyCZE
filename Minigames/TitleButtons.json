@@ -1,0 +1,66 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/TitleButtons",
+      "FromFile": "Minigames/TitleButtons.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 296,
+        "Height": 116
+      },
+      "ToArea": {
+        "X": 0,
+        "Y": 187,
+        "Width": 296,
+        "Height": 116
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/TitleButtons",
+      "FromFile": "Minigames/TitleButtons.png",
+      "FromArea": {
+        "X": 222,
+        "Y": 119,
+        "Width": 66,
+        "Height": 54
+      },
+      "ToArea": {
+        "X": 296,
+        "Y": 252,
+        "Width": 66,
+        "Height": 54
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/TitleButtons",
+      "FromFile": "Minigames/TitleButtons.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 117,
+        "Width": 220,
+        "Height": 23
+      },
+      "ToArea": {
+        "X": 173,
+        "Y": 312,
+        "Width": 220,
+        "Height": 23
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/Xb1ProfileButton",
+      "FromFile": "Minigames/Xb1ProfileButton.png",
+      "ToArea": {
+        "X": 0,
+        "Y": 187,
+        "Width": 73,
+        "Height": 116
+      }
+    }
+  ]
+}

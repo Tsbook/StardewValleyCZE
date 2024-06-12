@@ -1,0 +1,25 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Mister Qi",
+      "Entries": {
+        "Mon": "Jen tak dál, prcku. Máš potenciál stát se hvězdou.#$e#Pokud budeš něco potřebovat, neváhej se mě zeptat.",
+        "married": "To byla velmi kladně naladěná svatba, @.#$b#...Copak? Že jsi mě tam ${neviděl^neviděla}$?#$b#Hahaha... ty malé neviňátko... přede mnou své tajemství neskryješ. Máš to napsané na čele.",
+        "Tue": "Věděl jsem, že to sem jednou dotáhneš. Samozřejmě jsem ti to musel trochu ztížit. To abys ${měl^měla}$ motivaci naplnit svůj potenciál stát se nejlepším.",
+        "Wed": "Do toho světa jsem přišel jako obyčejný chlapec, ale již v raném věku jsem se rozhodl, že se stanu neobyčejným.",
+        "Thu": "Poslouchej, nikomu o tomto místu neříkej, dobře? Chci tady mít... pouze vytříbenou klientelu.#$e#Pro tvého přítele pana Qi bys ${dokázal^dokázala}$ udržet tajemství, že?",
+        "Fri": "Nikdy nepřestávej usilovat o dosažení dokonalosti.#$e#Nesmiř se s ničím jiným, než s naprostou dokonalostí, ať děláš cokoliv..",
+        "Sat": "Zastav se kdykoliv si budeš potřebovat odpočinout.",
+        "Sun": "Když budeš s takovouto vervou pracovat neustále, možná budeš jednou na mém místě.",
+        "QiNutRoom_Mon": "V našem světě se toho děje víc než je na první pohled zřejmé, prcku. Jednoho dne to možná pochopíš.#$b#Pro teď se ale jen musíš snažit dosáhnout dokonalosti ve všem co děláš.",
+        "QiNutRoom_Tue": "V životě jsem se dostal až sem jen díky síle mé vůle, prcku.#$b#Víš... mysl je velmi mocný nástroj.#$b#Vlastně je to ten nejmocnější nástroj v celé naší realitě... a ještě dál.",
+        "QiNutRoom_Wed": "Tvá houževnatost na mě dělá dojem prcku... spousta oříšků padla na to, aby ses ${dostal^dostala}$ tam, kde teď stojíš.",
+        "QiNutRoom_Thu": "Ať jsi kdekoliv, kamkoliv vkročíš... vždycky budu stát v zákulisí za oponou, abych zajistil, že představení bude všechny bavit. Hahaha...#$b#A nebo... možná ne?",
+        "QiNutRoom_Fri": "Upři své oči na nejvzdálenější hvězdu a tu urči jako svůj cíl.#$b#Vždycky je v tvé moci jít o krůček dál, než sis prvně ${myslel^myslela}$.",
+        "QiNutRoom_Sat": "Některé věci dokážou překročit čas a prostor, prcku. Je to jedinečný pocit v srdci... šepot věcí mimo tento svět.",
+        "QiNutRoom_Sun": "Nalevo najdeš tabuli s mými speciálními výzvami... jsou jen pro pro tebe, prcku.#$b#Napravo si zase můžeš vybrat různé úžasné odměny pro ty, co mé výzvy splní...#$b#Hodně štěstí, prcku."
+      }
+    }
+  ]
+}

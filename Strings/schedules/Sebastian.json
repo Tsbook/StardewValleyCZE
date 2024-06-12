@@ -1,0 +1,19 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Sebastian",
+      "Entries": {
+        "summer_4.000": "Sakra... málem bych zapomněl. Dnes mám schůzku s doktorem Harveym.",
+        "Fri.000": "Měl bych pro jednou nechat Sama vyhrát? ...radši ne.$h",
+        "marriage_Fri.001": "Pořád to umím... Sama je stále jednoduché porazit.$h",
+        "summer_4.001": "Co tu děláš? Mohl jsem být nahý!$a",
+        "marriage_Mon.001": "Když jsem vešel, obličej mé mámy se rozzářil. Zaslouží si být šťastná.$7",
+        "marriage_Fri.000": "Dnes si vyjdu se svými přáteli. Vrátím se později.",
+        "marriage_Mon.000": "Když tu teď tak stojím, mám hroznou chuť si zakouřit... ale jsem odhodlaný přestat.",
+        "rain.000": "Moře si nejlépe vychutnáš v osamění... nemyslíš?",
+        "winter_16.000": "V noci se cítím uvolněnější... Možná si i nějakou blbůstku koupím."
+      }
+    }
+  ]
+}

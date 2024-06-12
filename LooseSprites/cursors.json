@@ -1,0 +1,616 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 38,
+        "Height": 101
+      },
+      "ToArea": {
+        "X": 275,
+        "Y": 4,
+        "Width": 38,
+        "Height": 101
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 39,
+        "Y": 0,
+        "Width": 38,
+        "Height": 68
+      },
+      "ToArea": {
+        "X": 317,
+        "Y": 4,
+        "Width": 38,
+        "Height": 68
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 102,
+        "Width": 58,
+        "Height": 22
+      },
+      "ToArea": {
+        "X": 363,
+        "Y": 87,
+        "Width": 58,
+        "Height": 22
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 78,
+        "Y": 0,
+        "Width": 14,
+        "Height": 14
+      },
+      "ToArea": {
+        "X": 17,
+        "Y": 412,
+        "Width": 14,
+        "Height": 14
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 80,
+        "Y": 15,
+        "Width": 10,
+        "Height": 10
+      },
+      "ToArea": {
+        "X": 0,
+        "Y": 438,
+        "Width": 10,
+        "Height": 10
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 39,
+        "Y": 69,
+        "Width": 17,
+        "Height": 8
+      },
+      "ToArea": {
+        "X": 144,
+        "Y": 439,
+        "Width": 17,
+        "Height": 8
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 39,
+        "Y": 79,
+        "Width": 18,
+        "Height": 10
+      },
+      "ToArea": {
+        "X": 207,
+        "Y": 408,
+        "Width": 18,
+        "Height": 10
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 1,
+        "Y": 127,
+        "Width": 62,
+        "Height": 18
+      },
+      "ToArea": {
+        "X": 188,
+        "Y": 438,
+        "Width": 62,
+        "Height": 18
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 81,
+        "Y": 26,
+        "Width": 6,
+        "Height": 7
+      },
+      "ToArea": {
+        "X": 271,
+        "Y": 410,
+        "Width": 6,
+        "Height": 7
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 58,
+        "Y": 68,
+        "Width": 21,
+        "Height": 11
+      },
+      "ToArea": {
+        "X": 294,
+        "Y": 428,
+        "Width": 21,
+        "Height": 11
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 39,
+        "Y": 90,
+        "Width": 47,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 317,
+        "Y": 410,
+        "Width": 47,
+        "Height": 9
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 2,
+        "Y": 148,
+        "Width": 31,
+        "Height": 39
+      },
+      "ToArea": {
+        "X": 441,
+        "Y": 385,
+        "Width": 31,
+        "Height": 39
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 58,
+        "Y": 101,
+        "Width": 55,
+        "Height": 18
+      },
+      "ToArea": {
+        "X": 29,
+        "Y": 1369,
+        "Width": 55,
+        "Height": 18
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 1,
+        "Y": 210,
+        "Width": 110,
+        "Height": 14
+      },
+      "ToArea": {
+        "X": 128,
+        "Y": 1367,
+        "Width": 110,
+        "Height": 14
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 35,
+        "Y": 148,
+        "Width": 40,
+        "Height": 61
+      },
+      "ToArea": {
+        "X": 648,
+        "Y": 1334,
+        "Width": 40,
+        "Height": 61
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 92,
+        "Y": 3,
+        "Width": 94,
+        "Height": 66
+      },
+      "ToArea": {
+        "X": 129,
+        "Y": 1744,
+        "Width": 94,
+        "Height": 66
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 115,
+        "Y": 73,
+        "Width": 63,
+        "Height": 46
+      },
+      "ToArea": {
+        "X": 224,
+        "Y": 1746,
+        "Width": 63,
+        "Height": 46
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 83,
+        "Y": 34,
+        "Width": 3,
+        "Height": 4
+      },
+      "ToArea": {
+        "X": 373,
+        "Y": 1816,
+        "Width": 3,
+        "Height": 4
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 145,
+        "Y": 123,
+        "Width": 32,
+        "Height": 32
+      },
+      "ToArea": {
+        "X": 608,
+        "Y": 1728,
+        "Width": 32,
+        "Height": 32
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 79,
+        "Y": 123,
+        "Width": 64,
+        "Height": 32
+      },
+      "ToArea": {
+        "X": 576,
+        "Y": 1792,
+        "Width": 64,
+        "Height": 32
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 78,
+        "Y": 159,
+        "Width": 76,
+        "Height": 30
+      },
+      "ToArea": {
+        "X": 612,
+        "Y": 1913,
+        "Width": 76,
+        "Height": 30
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 158,
+        "Y": 160,
+        "Width": 20,
+        "Height": 11
+      },
+      "ToArea": {
+        "X": 606,
+        "Y": 1969,
+        "Width": 20,
+        "Height": 11
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 1,
+        "Y": 225,
+        "Width": 78,
+        "Height": 44
+      },
+      "ToArea": {
+        "X": 353,
+        "Y": 1649,
+        "Width": 78,
+        "Height": 44
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 158,
+        "Y": 202,
+        "Width": 28,
+        "Height": 14
+      },
+      "ToArea": {
+        "X": 226,
+        "Y": 623,
+        "Width": 28,
+        "Height": 14
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 76,
+        "Y": 192,
+        "Width": 23,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 259,
+        "Y": 627,
+        "Width": 23,
+        "Height": 9
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 99,
+        "Y": 191,
+        "Width": 26,
+        "Height": 19
+      },
+      "ToArea": {
+        "X": 261,
+        "Y": 647,
+        "Width": 26,
+        "Height": 19
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 125,
+        "Y": 192,
+        "Width": 30,
+        "Height": 24
+      },
+      "ToArea": {
+        "X": 226,
+        "Y": 678,
+        "Width": 30,
+        "Height": 24
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 125,
+        "Y": 192,
+        "Width": 30,
+        "Height": 24
+      },
+      "ToArea": {
+        "X": 226,
+        "Y": 678,
+        "Width": 30,
+        "Height": 24
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 156,
+        "Y": 172,
+        "Width": 31,
+        "Height": 29
+      },
+      "ToArea": {
+        "X": 417,
+        "Y": 675,
+        "Width": 31,
+        "Height": 29
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 114,
+        "Y": 216,
+        "Width": 60,
+        "Height": 26
+      },
+      "ToArea": {
+        "X": 323,
+        "Y": 612,
+        "Width": 60,
+        "Height": 26
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 111,
+        "Y": 241,
+        "Width": 30,
+        "Height": 25
+      },
+      "ToArea": {
+        "X": 353,
+        "Y": 582,
+        "Width": 30,
+        "Height": 25
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 145,
+        "Y": 243,
+        "Width": 28,
+        "Height": 22
+      },
+      "ToArea": {
+        "X": 419,
+        "Y": 579,
+        "Width": 28,
+        "Height": 22
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 81,
+        "Y": 251,
+        "Width": 30,
+        "Height": 18
+      },
+      "ToArea": {
+        "X": 386,
+        "Y": 617,
+        "Width": 30,
+        "Height": 18
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 81,
+        "Y": 223,
+        "Width": 29,
+        "Height": 26
+      },
+      "ToArea": {
+        "X": 321,
+        "Y": 710,
+        "Width": 29,
+        "Height": 26
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 59,
+        "Y": 81,
+        "Width": 4,
+        "Height": 6
+      },
+      "ToArea": {
+        "X": 343,
+        "Y": 479,
+        "Width": 4,
+        "Height": 6
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.png",
+      "FromArea": {
+        "X": 64,
+        "Y": 81,
+        "Width": 5,
+        "Height": 6
+      },
+      "ToArea": {
+        "X": 410,
+        "Y": 479,
+        "Width": 5,
+        "Height": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Shane",
+      "Entries": {
+        "marriage_Fri.001": "Hmm...Musím přiznat, že JojaMart má mnohem větší výběr instatních večeří.",
+        "marriage_Mon.001": "Rád se do těchto lesů vracím, jsem k nim přímo poután... mám tu mnoho vzpomínek...",
+        "marriage_Fri.000": "Neboj se, tohle je jen Joja Cola.",
+        "marriage_Fri.002": "Pokud se občas nenapiju, bude to tu Gus muset zavřít. Je to moje občanská povinnost. Přijdu domů tak okolo 10",
+        "marriage_Mon.000": "Ah ahoj @. Už ti chybím?$6",
+        "winter_15.000": "Kvůli Jas si dnes večer dávám od hospody voraz...",
+        "marriage_Sun.000": "Šeredně to tu smrdí.",
+        "marriage_Sun.001": "Mám kolový zásek... mám si vybrat Joja Klasik, nebo spíše Joja Modrá Kola? Chvíli nad tím asi budu dumat.",
+        "marriage_Fri.003": "Ještě jedno kolo...$h"
+      }
+    }
+  ]
+}

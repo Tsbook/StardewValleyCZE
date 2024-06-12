@@ -1,0 +1,11 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Pierre",
+      "Entries": {
+        "Fri.000": "Tvrdě jsem po celý týden pracoval. Zasloužím si trochu si v pátek večer odpočinout."
+      }
+    }
+  ]
+}

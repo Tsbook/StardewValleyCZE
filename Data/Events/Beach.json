@@ -1,0 +1,123 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Beach",
+      "Fields": {
+        "13/f Haley 1500/z winter/t 1000 1600": {
+          "16": "speak Haley \"@! Pojď sem, rychle!$s\"",
+          "18": "speak Haley \"Můj náramek je pryč! Vím, že jsem ho měla, když jsem sem přišla... $s#$b#Ale teď je pryč a nemůžu ho nikde najít...$s\"",
+          "24": "speak Haley \"$q 48 null#Takový jako je ten můj už nikdy nenajdu...$s#$r 48 -30 Event_beach1#Neboj, koupím ti nový!#$r 48 50 Event_beach2#To je mi vážně líto...\"",
+          "33": "speak Haley \"Promiň, prababičko. ztratila jsem tvůj drahocenný náramek. Prosím odpusť mi to.$s\"",
+          "36": "message \"Možná ho ztratila někde tady?\"",
+          "48": "speak Haley \"Je to snad...?$8\"",
+		"52": "speak Haley \"Kde jsi ho ${našel^našla}$?$h\"",
+          "81": "speak Haley \"Moc ti děkuji, @. Jsi můj strážný anděl.\"",
+          "84": "speak Haley \"Na tohle nikdy nezapomenu.$l\"",
+          "85": "end dialogue Haley \"Jsem tvým dlužníkem, @.\""
+        },
+        "20/f Alex 500/z winter/p Alex/w sunny": {
+          "12": "speak Alex \"Ah, zdravím.\"",
+          "15": "speak Alex \"Um, ty jsi @, že jo?\"",
+          "20": "speak Alex \"Já si tu jen užívám tohohle skvělého počasí, @.\"",
+          "25": "speak Alex \"Hmm...$u#$b#Hej, pojďme si házet míčem!$h\"",
+          "39": "speak Alex \"Ha... Hezký pokus.\"",
+          "44": "speak Alex \"Mluvíš s budoucím prvním profesionálním hráčem síťobalu ze Stardew Valley... O tom není pochyb.#$b#Svůj tým ze školy jsem dokonce dostal do oblastního šampionátu... Teď jenom trénuji a posiluji, abychom mohl získat místo v týmu Zuzkých Tunelářů. Jen počkej!\"",
+          "46": "question fork1 \"#Já ti věřím!#Páni, ty jsi ale arogantní.\"",
+          "50": "speak Alex \"Díky, @. Na to nezapomenu.\"",
+          "53": "end dialogue Alex \"Ha, ale byla to celkem švanda, ne?\""
+        },
+        "arrogantJosh": {
+          "4": "speak Alex \"Hmmf... Myslím že někdo trošičku žárlí.$a\"",
+          "6": "speak Alex \"Jdu pryč.$a\""
+        },
+        "288847/f Alex 2000/p Alex/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY SquidFest": {
+          "7": "speak Alex \"*vzlyk*...$s\"",
+          "14": "speak Alex \"Ah... @. Promiň, že mě vidíš brečet.$s\"",
+          "20": "speak Alex \"Bylo to přesně dnes před dvanácti lety... kdy moje máma umřela.$9\"",
+          "22": "speak Alex \"Pořád si na ni dobře pamatuji... k obědu dělala sendviče se solenou ředkvičkou... a na dvorku se mnou hrála síťobal.$9#$b#Starala se o mě dobře... a já byl příliš malý na to ji říct 'díky'. A teď je navždy pryč.$9\"",
+          "26": "speak Alex \"Tohle je jediná památka, která mi po ní zbyla... její tajná hrací skřínka.$s\"",
+          "41": "speak Alex \"$q -1 null#Takže... O čem teď přemýšlíš, @?$9#$r -1 0 event_box1#Ucti památku tvé matky tím, že se vždycky budeš co nejvíce snažit.#$r -1 0 event_box2#Neměl bys stále žít v minulosti.#$r -1 0 event_box3#Kdykoliv ti bude smutno, jsem ti nablízku.#$r -1 0 event_box4#Dej s tím pokoj. Život je pro všechny těžký.\"",
+          "45": "speak Alex \"No, nemá cenu tu sedět a fňukat... pojďme zpátky do města.$9\"",
+          "53": "speak Alex \"Um... @?$9\"",
+          "57": "speak Alex \"Nikomu neříkej, že jsem brečel. Slibuješ?$7\"",
+          "68": "speak Alex \"Hej!$7\""
+        },
+        "29/f Sebastian 2000/t 1200 2300/w rainy": {
+          "10": "speak Sebastian \"Ahoj. Nečekal jsem, že tě najdu venku v tomto počasí.\"",
+          "21": "speak Sebastian \"Koukni na ty temné mraky tyčící se na obzoru...\"",
+          "23": "speak Sebastian \"Doufám že poplují naším směrem.\"",
+          "28": "speak Sebastian \"Tohle počasí mám rád, protože díky němu všichni zmizí... rozumíš?#$b#Přítomnost ostatních lidí mě znervózňuje.$s\"",
+          "33": "speak Sebastian \"Ale když jsem s tebou, tak takový pocit nemám.$7\"",
+          "36": "speak Sebastian \"Takhle pěkně zmokneme...\"",
+          "45": "speak Sebastian \"Pojď blíž... Je tu místo pro dva.$7\""
+        },
+        "43/f Elliott 2500/w sunny/t 700 1300/G !IS_PASSIVE_FESTIVAL_TODAY SquidFest": {
+          "8": "speak Elliott \"Zdravím.\"",
+          "12": "speak Elliott \"Podívej... Opravil jsem tu starou loďku, která se válela v mém domě. Je hezká, ne?\"",
+          "16": "speak Elliott \"@... Mohl bych mít tu čest a požádat tě o doprovod na této panenské plavbě?$l\"",
+          "18": "question fork1 \"Nastoupit do člunu?#Ano#Ne\"",
+          "34": "speak Elliott \"Takže, má kniha už je nějaký ten čas vydaná... Není to žádný trhák nebo něco podobného, ale dostává pochvalné recenze od kritiků.#$b#A já bych ji určitě nemohl napsat bez tvé morální opory.$l\"",
+          "36": "speak Elliott \"Vlastně to není tak úplně pravda. Dokončil bych ji tak jako tak.$h#$b#Ale jsem rád, že jsem měl tvoji víru ve mně... a v moji vizi. A, no...\"",
+          "38": "speak Elliott \"Um... @? Jak to jen říct...$8\"",
+          "40": "speak Elliott \"Tedy, už nějakou dobu jsme přátelé... Ale já... já si nejsem jist, že to tak chci nechat nadále.$l\"",
+          "42": "speak Elliott \"Ne! Neříkám, že se s tebou chci přestat stýkat!$8#$b#Vlastně... opak je pravdou.$l\"",
+          "46": "speak Elliott \"...Tak tedy, jak bych to jen řekl...?$l#$b#Pro jednou mi nedochází slova...\"",
+          "61": "speak Elliott \"$q -1 null#@? Ty se třeseš...$l#$r -1 50 event_boat1#Jsem radostí bez sebe.#$r -1 -50 event_boat2#Přestaň, je mi to nepříjemné.\"",
+          "67": "speak Elliott \"Raději bychom se měli vrátit, než se zvedne jižní vítr.$l^A jéje... záchvěvy tvého těla upoutaly pozornost rudoryby... Radši bychom odsud měli zmizet.$l\"",
+          "69": "speak Elliott \"Podívej se jak odsud vypadá údolí... konečně vypadá jako 'Domov'.\"",
+          "71": "speak Elliott \"*vzdech*... To byl den...$l\""
+        },
+        "NoToElliott": {
+          "7": "speak Elliott \"Rozumím.$7\""
+        },
+        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": {
+          "9": "speak Sam \"Ahoj @. Hezký den, ne?\"",
+          "13": "speak Sam \"Teď hlídám svého malého bratra. Je dobře, že je venku na čerstvém vzduchu, když je takhle hezky.\"",
+          "15": "speak Sam \"V takovýchto dnech jsme s tátou chodili na pláž.$h\"",
+          "25": "speak Vincent \"Same...?$u\"",
+          "27": "speak Vincent \"Vrátí se táta někdy domů?$s\"",
+          "31": "speak Sam \"Samozřejmě, Vinci. Táta se vrátí hned jak bude moct.$7\"",
+          "33": "speak Vincent \"Ale já slyšel nějaké dospělé říkat že... že všechny naše jednotky jsou stříleny na cucky.$s\"",
+          "36": "speak Sam \"Nevěř všemu co slyšíš!$8\"",
+          "38": "speak Sam \"Copak si zapomněl jak moc je táta silný? On by nikdy nedovolil aby ho dostal nějaký ubohý Gotoroský bazmek! Neboj se!$a#$b#A nezapomeň, že pokud si někdy budeš chtít hrát, máma i já jsme tu vždycky pro tebe.\"",
+          "40": "speak Vincent \"Dobře!\"",
+          "55": "speak Sam \"Upřímně, vůbec nevím jestli se můj starej někdy vrátí... Všichni jsme četli zprávy. Naši vojáci padají po tisícovkách.$s#$b#Ale co mám říct Vincentovi?$7\"",
+          "57": "question null \"#U dětí je nejlepší mluvit pravdu.#Udělal jsi správnou věc. Děti by měly mít naději.\"",
+          "60": "splitSpeak Sam \"To si myslíš?$7#$b#Možná máš pravdu... Svět je krutý a děti se to tak či onak stejně naučí.$s~Jasně... děti by si měly hrát a bavit se, dokud ještě můžou.\"",
+          "64": "speak Sam \"Hele, říkal jsem ti, že naše kapela se začíná utvářet?#$b#Jo! Vypadá to, že Abigail je pěkně dobrý bubeník. A zdálo se, že Sebastian ji v kapele opravdu chtěl...$h\""
+        },
+        "739330/t 600 1710/*n spring_2_1": {
+          "15": "speak Willy \"Zdravím tě, ${synku^slečno}$.$u#$b#Slyšel jsem, že ve městě máme novou tvář... Rád tě konečně poznávám.$u\"",
+          "25": "speak Willy \"Ah... Stále se snažím uvolnit z měsíce stráveného brázděním slaných moří...$h#$b#Byl to velký náklad! Prodal jsem hodně dobrých ryb.#$b#Konečně jsem našetřil dost, abych si mohl koupit nový prut.$h\"",
+          "28": "speak Willy \"Tady máš, chci ti dát svůj starý rybářský prut.$h#$b#Je pro mě sakra důležité, aby umění rybaření nevymřelo. A kdo ví, možná si čas od času z obchodu něco koupíš.$h\"",
+          "43": "speak Willy \"Tady v údolí je dobrá voda. Je tu spousta druhů ryb.\"",
+          "46": "speak Willy \"A ještě něco. Můj obchod je zase otevřen. Pokud potřebuješ zásoby, klidně se zastav.$h#$b#Také koupím vše co chytneš.#$b#'Z každé rybí šupiny štěstí do celé rodiny'. Ha Ha. Tak to aspoň říkal můj starý taťka.$h\""
+        },
+        "711130/t 600 1710/f Willy 1500": {
+          "9": "speak Willy \"Ah... dobře že ses ${zastavil^zastavila}$, ${synku^slečinko}$.#$b#Mám tu takový... malý problém, s kterým bych chtěl pomoct...\"",
+          "16": "speak Willy \"No... nejlepší asi bude, když ti to ukážu...\"",
+          "21": "speak Willy \"Teď se pořádně nadechni.\"",
+          "48": "speak Willy \"Jak můžeš vidět...#$b#A cítit... haha...#$b#Moje holky včera večer trochu 'vyváděly' hehe...$h#$b#Můj experiment ještě potřebuje trochu dodělat...\"",
+          "57": "speak Gus \"Hahá~... Už jsi zase v tom, Willy?$h\"",
+          "58": "textAboveHead Willy \"Ano...\"",
+          "62": "speak Gus \"Vypadají pěkně živě...\"",
+          "64": "speak Willy \"Ano... Tohle jsou ty nejlepší, nejčerstvější a nejmasitější krabi co si kdy viděl.$h#$b#Mají ale trochu tuhý kořínek...$s\"",
+          "70": "speak Gus \"Beru všechny!$h#$b#Samozřejmě po slevě za nutnou práci...\"",
+          "90": "speak Gus \"Myslím že jsme dostali všechny...\"",
+          "92": "speak Willy \"Sbohem, mé dámy...$s\"",
+          "94": "speak Gus \"Pššt... @... Neříkej to Willymu, ale v následujících dnech budu mít v hospodě slevu na krabí koláčky...\""
+        },
+        "3131209/n willyBugWadCutscene": {
+          "9": "speak Willy \"Hahá... jen se na ně podívejte... jak si pošmakují!$h\"",
+          "20": "textAboveHead Willy \"Ahoj!\"",
+          "22": "speak Willy \"${Teď^Právě}$ jsem na tebe myslel, ${chlapče^holčičko}$.#$b#Tohle broučí maso, co jsi ${přinesl^přinesla}$ je přesně to pravé!#$b#Hehe... když jsem říkal 'čerstvé', vůbec jsem nečekal, že se ještě bude kroutit!#$b#Ale to neber, jako že si stěžuji, naopak! Jen koukni jak se toho ryby nemohou nabažit...  Hehehe...$h\"",
+          "31": "speak Willy \"Jako mé 'díky', ti chci povědět o starém rybářském triku... Můj starý mě ho naučil na našem rybářském výletě před mnoha lety.\"",
+          "34": "message \"Naučili jste se jak vytvořit 'Kvalitní splávek'\"",
+          "36": "speak Willy \"Tímhle splávkem přilákáš kvalitnější ryby.#$b#A to znamená více peněz do tvé kapsy, ${chlapče^děvenko}$. Hehe...$h\"",
+          "44": "textAboveHead Willy \"Mám!\""
+        }
+      }
+    }
+  ]
+}

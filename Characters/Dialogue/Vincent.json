@@ -1,0 +1,37 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Vincent",
+      "Entries": {
+        "Introduction": "Ah, tebe já neznám! Já jsem Vincent.#$b#Mamka říká, že nemám mluvit s někým, koho neznám... Ale ty nevypadáš jako zlý člověk.",
+        "AcceptBirthdayGift_Positive": "Jééé! To je můj dárek? A můžu ho hned otevřít?#$b#Jů! Přesně tohle jsem si přál! Juchů!$h",
+        "AcceptBirthdayGift_Negative": "To jsem dostal k narozeninám? Ach... tohle se mi moc nelíbí.$s",
+        "AcceptGift_(O)StardropTea": "Mńam! JE tak sladký! Hmmmm....",
+        "AcceptGift_(TR)FrogEgg": "*čvacht* *čvacht* ... fůůůj! Můžu si ho nechat? Můžu? Juchů!$h",
+        "GreenRain": "Mami! Já chci jít ven!%noturn",
+        "GreenRain_2": "%Vincent je od hlavy k patě pokryt mechem.",
+        "AcceptGift_alcohol_item": "*čich*... co je to? Hrozně to smrdí... mamíííí!!!$s",
+        "married_Sam": "Neber mi mého brášku!$s",
+        "Resort_Entering": "To byla švanda! Jednou chci být taky kapitánem lodě!",
+        "Resort_Leaving": "Vrátíme se sem brzy, že jo?",
+        "Resort_Shore": "Chci vidět žraloka!$h",
+        "Resort": "Pokud se dobře podíváš, uvidíš jak z písku vyskakují malí brouci.$h",
+        "reject_869": "Óóó! Ten je super!#$b#Máma by ho ale okamžitě vyhodila...$s",
+        "Mon": "Až vyrostu, budu jako můj velký brácha!$h#$e#Tak čau!",
+        "Mon4": "$d kent#Jsem hrozně rád že taťka je zpátky... ale je jako jiný člověk...$s|Táta tu moc s námi není... Chtěl bych si s ním hrát.$s",
+        "Tue": "Ach jo... Máma mě dnes už nenechá sníst další gumové medvídky.$s",
+        "Tue6": "Slib, že to nikomu nepovíš?$u#$b#Až vyrostu tak se chci oženit se slečnou Penny.#$e#Tak doufám, že slib dodržíš, jo?$u",
+        "Wed": "Chci hledat brouky, ale máma se pokaždé rozzlobí, když se ušpiním.$u#$b#Je to těžká volba.",
+        "Thu": "Mám hlad... kde je máma?$s",
+        "Thu2": "Nejsi tak nudný jako ostatní dospěláci!^Nejsi tak nudná jako ostatní dospěláci!",
+        "Fri": "#$c .3#Fuj, dneska zase máme dušenou řepu...$s#$e#Ah ne... Máma dělá k večeři čočkovou polévku.$s",
+        "Sat_1": "Táta se za chvíli vrátí!#$b#Doufám, že mi přinese nějaké hračky.$u",
+        "Sat": "Slečna Penny mi dává přečíst novou knížku každý týden.$s#$b#Alespoň mě někdy nechá si ji vybrat!",
+        "Sat8": "$d kent#Táta je nějaký divný co se vrátil. Nevíš co se mu stalo?$s#$b#Už si se mnou nehraje.$s|Vrátí se mi taťka někdy domů?$s",
+        "Sun": "Zdravím pane!^Zdravím slečno.",
+        "Sun10": "Ahoj strýčku @!^Ahoj tetičko @!#$e#Jsi můj oblíbený dospělák, ale mámě to neříkej.$h"
+      }
+    }
+  ]
+}

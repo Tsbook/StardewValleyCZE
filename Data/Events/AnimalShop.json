@@ -1,0 +1,52 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/AnimalShop",
+      "Fields": {
+        "92/e 91/i 78/t 900 1700": {
+          "17": "speak Marnie \"Ah! ${Přinesl^Přinesla}$ si mi jeskynní mrkev! Moc ti děkuji, ${pane^slečno}$ @.$h\"",
+          "31": "speak Marnie \"Vypadá báječně... nejraději bych ji sama celou snědla!$h#$b#...možná někdy jindy.\"",
+          "34": "speak Marnie \"Doufám, že získat ji nebylo moc těžké... opravdu to moc oceňuji.\"",
+          "38": "end dialogue Marnie \"Znovu ti děkuji za pomoc.$h#$e#... a mé kozy také 'děkují'.\""
+        },
+        "3910674/f Shane 1000": {
+          "12": "textAboveHead Marnie \"Ah božínku...\"",
+          "21": "speak Marnie \"@... Můžeš něco udělat? Není při smyslech.$s\"",
+          "30": "speak Shane \"bechhh...$7\"",
+          "38": "textAboveHead Shane \"Coooo..?!\"",
+          "46": "speak Marnie \"Shane! Co je to s tebou? Celý den jen bloumáš ve svém pokoji a naléváš do sebe pivo!$s\"",
+          "56": "speak Shane \"Ty to nechápeš...\"",
+          "58": "textAboveHead Marnie \"Mám o tebe strach...\"",
+          "60": "speak Marnie \"Jak to bude dál? Máš nějaké plány do budoucna? Myslíš někdy i na to co bude zítra?\"",
+          "62": "textAboveHead Shane \"Plány?\"",
+          "64": "speak Shane \"Nepočítám, že tu budu tak dlouho, abych musel vymýšlet nějaké 'plány'...\"",
+          "69": "textAboveHead Jas \"...*vzlyk*...\"",
+          "86": "textAboveHead Shane \"Promiň mi to...\""
+        },
+        "3910974/f Shane 1700/e 3910975/p Shane": {
+          "11": "speak Marnie \"Ahoj Shane... dnes se tváříš nebývale šťastně..\"",
+          "13": "speak Shane \"Máš pravdu... Naposledy jsem se takhle cítil jako kluk.$h\"",
+          "16": "speak Marnie \"Nech mě hádat... Gus měl výprodej piva v plechovce?$u\"",
+          "23": "textAboveHead Shane \"Vtipné...\"",
+          "27": "speak Shane \"Naopak, má milá. Poslední dobou piji místo piva minerální vodu... a cítím se skvěle!$h\"",
+          "34": "speak Shane \"Víš, já někdy zapomenu, že mám kolem sebe opravdové přátele, kterým nejsem lhostejný.#$b#A že je v pořádku hledat v nich oporu... že to ze mě nedělá slabocha.\"",
+          "39": "textAboveHead Marnie \"Vypadá, že mu svitlo!\"",
+          "43": "speak Shane \"Ahoj Jas. Něco pro tebe mám.$6\"",
+          "59": "speak Jas \"To... To jsou pantofle s diamantovými králíčky!!$h\"",
+          "101": "speak Jas \"A... Ale vždyť jsou strašně drahé!$3#$b#Kde si na ně vzal peníze?$3\"",
+          "103": "speak Shane \"Omezil jsem svůj nákladný koníček. Teď mám mnohem více peněz na utrácení!$h\""
+        },
+        "3900074/f Shane 2000/e 2118991/p Shane": {
+          "12": "speak Jas \"Strýček Shane je ve stodole. Řekl... Um... Řekl mi, ať vám řeknu, že vám chce něco ukázat.\"",
+          "43": "speak Shane \"Tak, to by mělo stačit...$6\"",
+          "65": "speak Shane \"O takovém domově se vám slepicím musí jenom zdát...$8#$b#V celém údolí nebudou mít lepší vajíčka!$8#$b#Čerstvá a zdravá, se žloutky jako ze zlata. S těmi od Joja je ani nebude možné srovnávat...$8\"",
+          "76": "speak Shane \"...Ach jo...$9#$b#...Poslyš, Pipko... Trochu jsem přemýšlel... $9#$b#Chlap jako já bude vždy balancovat nad okrajem propasti beznaděje... víš jak to myslím?$9#$b#...Ale proto mám vás slečny tu, protože na vás je vždy spolehnutí. Vy mě nenecháte nikdy ve štychu... Tím jsem si jist.$9#$b#...$9#$b#Copak... je to moc zodpovědnosti? *hehe*$8\"",
+          "99": "speak Shane \"Ahoj, @... tak co na to říkáš?$h\"",
+          "109": "speak Shane \"Můj zvláštní druh modrých slepic... Sám jsem je posledních pár měsíců šlechtil.$6\"",
+          "111": "speak Shane \"Já jen že... hmm, nebudu tu věčně a tak jsem něco chtěl Jas odkázat. Učím ji jak se o ně starat.$6#$b#...Nechci pořád lidem jen brát. Chci nějak přispět, i třeba takhle malinko.\""
+        }
+      }
+    }
+  ]
+}

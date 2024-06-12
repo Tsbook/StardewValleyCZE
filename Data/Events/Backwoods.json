@@ -1,0 +1,20 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Backwoods",
+      "Fields": {
+        "6963327/f Abigail 3500/O Abigail/t 610 1700": {
+          "63": "speak Abigail \"Aaah...!$7\"",
+          "105": "speak Abigail \"@... jsi v pořádku?$6\"",
+          "123": "speak Abigail \"Vypadá to jen na malý škrábanec... měla jsem o tebe strach!\"",
+          "144": "speak Abigail \"Ještě... ještě jsem nikdy nikoho nezabila...$s\"",
+          "148": "quickQuestion #Smutná situace, ale neměla si na výběr.#Příšery si lítost nezaslouží!#Je to krutý svět, děvenko.#To si ho opravdu musela zabít?(break)speak Abigail \"Jo... udělala jsem, co jsem musela.$s#$b#Svět se zdá být opravdu nemilosrdný. Bylo to kdo s koho, co?$6\"(break)speak Abigail \"...Ale nesnaží se jen přežít, stejně tak jako my?$s#$b#Možná to jsou naši nepřátelé, ale myslím si, že si stále zaslouží náš soucit.$6#$b#Přesto... udělala jsem, co jsem musela.$6\"(break)speak Abigail \"Cože? To pěkně sedí od někoho, komu jsem právě zachránila zadek...$h#$b#Ale vím co tím myslíš... jo... někdy nás realita donutí udělat věci, které bychom normálně neudělali... a já jsem se o tomhle přesvědčila tím těžším způsobem.$6\"(break)speak Abigail \"Hej! Snad jsem ti zachránila život, ne? Možná by sis tohle ${mohl^mohla}$ uvědomit předtím, než se ve mně pokusíš vyvolat pocit viny..$a\"",
+          "152": "speak Abigail \"Poslyš... Musíš být od teď více opatrnější. Nechci tě ztratit.\"",
+          "169": "speak Abigail \"Můžeme ho pohřbít někam blízko... co říkáš?$6\"",
+          "182": "end dialogue Abigail \"Ještě že jsem si dnes s sebou vzala svůj meč!$6\""
+        }
+      }
+    }
+  ]
+}

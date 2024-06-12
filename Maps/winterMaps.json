@@ -1,0 +1,282 @@
+{
+  "Changes": [
+    {
+
+      "Action": "EditImage",
+      "Target": "Maps/winter_beach",
+      "FromFile": "Maps/spring_beach.png",
+      "ToArea": {
+        "X": 44,
+        "Y": 430,
+        "Width": 25,
+        "Height": 8
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_outdoorsTileSheet",
+      "FromFile": "Maps/fall_outdoorsTileSheet.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 39,
+        "Height": 18
+      },
+      "ToArea": {
+        "X": 52,
+        "Y": 977,
+        "Width": 39,
+        "Height": 18
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_outdoorsTileSheet",
+      "FromFile": "Maps/winter_outdoorsTileSheet.png",
+      "ToArea": {
+        "X": 178,
+        "Y": 292,
+        "Width": 12,
+        "Height": 7
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 16,
+        "Height": 12
+      },
+      "ToArea": {
+        "X": 240,
+        "Y": 42,
+        "Width": 16,
+        "Height": 12
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 44,
+        "Width": 33,
+        "Height": 15
+      },
+      "ToArea": {
+        "X": 124,
+        "Y": 274,
+        "Width": 33,
+        "Height": 15
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 35,
+        "Y": 0,
+        "Width": 37,
+        "Height": 58
+      },
+      "ToArea": {
+        "X": 283,
+        "Y": 255,
+        "Width": 37,
+        "Height": 58
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 73,
+        "Y": 1,
+        "Width": 48,
+        "Height": 10
+      },
+      "ToArea": {
+        "X": 132,
+        "Y": 722,
+        "Width": 48,
+        "Height": 10
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 73,
+        "Y": 12,
+        "Width": 45,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 325,
+        "Y": 720,
+        "Width": 45,
+        "Height": 9
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 60,
+        "Width": 79,
+        "Height": 13
+      },
+      "ToArea": {
+        "X": 58,
+        "Y": 927,
+        "Width": 79,
+        "Height": 13
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 74,
+        "Width": 79,
+        "Height": 14
+      },
+      "ToArea": {
+        "X": 378,
+        "Y": 926,
+        "Width": 79,
+        "Height": 14
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 80,
+        "Y": 35,
+        "Width": 41,
+        "Height": 42
+      },
+      "ToArea": {
+        "X": 258,
+        "Y": 916,
+        "Width": 41,
+        "Height": 42
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 73,
+        "Y": 22,
+        "Width": 25,
+        "Height": 12
+      },
+      "ToArea": {
+        "X": 117,
+        "Y": 973,
+        "Width": 25,
+        "Height": 12
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 100,
+        "Y": 22,
+        "Width": 25,
+        "Height": 12
+      },
+      "ToArea": {
+        "X": 437,
+        "Y": 973,
+        "Width": 25,
+        "Height": 12
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 1,
+        "Y": 107,
+        "Width": 60,
+        "Height": 12
+      },
+      "ToArea": {
+        "X": 194,
+        "Y": 996,
+        "Width": 60,
+        "Height": 12
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 1,
+        "Y": 89,
+        "Width": 85,
+        "Height": 17
+      },
+      "ToArea": {
+        "X": 94,
+        "Y": 1055,
+        "Width": 85,
+        "Height": 17
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 79,
+        "Y": 78,
+        "Width": 19,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 127,
+        "Y": 1111,
+        "Width": 19,
+        "Height": 9
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "FromArea": {
+        "X": 99,
+        "Y": 78,
+        "Width": 16,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 192,
+        "Y": 1127,
+        "Width": 16,
+        "Height": 9
+      }
+    }
+  ]
+}

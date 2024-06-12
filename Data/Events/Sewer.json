@@ -1,0 +1,22 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Sewer",
+      "Fields": {
+        "691039/f Dwarf 50/n CF_Sewer/d Fri": {
+          "6": "speak Dwarf \"Stínolek? Nad zemí? To je neslýchané!#$b#Tvůj druh je zodpovědný za smrt mé celé rodiny.\"",
+          "10": "speak Krobus \"Kdybyste vy trpaslíci nás nevyhnali z našeho domova předků, tak bychom se nikdy nemuseli uchýlit k násilí!#$b#Tvé rodiny je mi líto.\"",
+          "12": "speak Dwarf \"Lítost to nespraví.\"",
+          "159": "speak Dwarf \"Pusť mě na něj! Je opovrženíhodný.\"",
+          "160": "speak Krobus \"Tak jen pojď na mě, prcku.\"",
+          "186": "speak Wizard \"Ticho! Oba dva!\"",
+          "192": "speak Wizard \"Prvotní Války už dávno skončily. Nemáte důvod proč dále bojovat mezi sebou.#$b#Vy dva se musíte usmířit v zájmu lidí, kteří kolem vás žijí. To přece musíte vědět.\"",
+          "200": "speak Dwarf \"Nu dobrá. Od teď se budu od kanálů držet dál.\"",
+          "207": "speak Krobus \"...A mně je opravdu líto, co se tobě v minulosti stalo, Trpaslíku. Já vůči tobě nechovám zášť.\"",
+          "213": "speak Wizard \"Výborně. Pro utvrzení dohody nyní sešlu 'Pečeť slibů'.\""
+        }
+      }
+    }
+  ]
+}

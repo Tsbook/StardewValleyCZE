@@ -1,0 +1,62 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/LeahHouse",
+      "Fields": {
+        "50/f Leah 500/p Leah": {
+          "20": "speak Leah \"Oh, ahoj @! Pojď dál, pojď dál.\"",
+          "25": "speak Leah \"Právě pracuji na této soše.\"",
+          "27": "speak Leah \"Pojď sem, něco ti ukážu.\"",
+          "46": "speak Leah \"Vidíš? Takto odhaluji podstatu dřeva.\"",
+          "50": "speak Leah \"$q -1 null#Jakmile překročíš svrchní vrstvy, objevíš jeho pravou povahu...#$r -1 0 event_sculpt1#Stejné je to u lidí.#$r -1 0 event_sculpt2#Já mám radši vzhled čistého, neupraveného dřeva.#$r -1 -100 event_sculpt3#(nevhodně) Můžu tě políbit?\"",
+          "55": "speak Leah \"Toto údolí jsem navštívila poprvé jako malá holčička, když jsem byla s rodiči na dovolené.#$b#Věděla jsem, že se sem jednoho dne vrátím... Tohle místo má skvělé umělecký potenciál!\"",
+          "59": "speak Leah \"I když musím přiznat... mé výdělky jako umělec sotva pokrývají mé účty.$s\"",
+          "63": "question fork1 \"#Co uspořádat uměleckou výstavu tady ve městě?#Proč nezačneš prodávat své výtvory na internetu?\"",
+          "66": "speak Leah \"Hmmm... zajímavé. To by mohlo odstartovat změnu pojetí Pelikánova na opravdové město umělců...$7\"",
+          "69": "speak Leah \"Ale co když se mé sochy nikomu líbit nebudou? Byla bych zdrcena.$s\"",
+          "71": "speak Leah \"...Budu si to muset promyslet.$s\"",
+          "73": "speak Leah \"No, díky že ses ${stavil^stavila}$, @.\"",
+          "79": "end dialogueWarpOut Leah \"Umělecká výstava pro celou vesnici? To je odvážný nápad, @.\""
+        },
+        "internet": {
+          "0": "speak Leah \"Hmm... to by mohlo fungovat... ale k tomu nejdříve potřebuji počítač.$7\"",
+          "5": "speak Leah \"A jsme zase u toho... počítače jsou drahé.$s\"",
+          "7": "speak Leah \"Tak, bylo hezké že jsi mě ${přišel^přišla}$ navštívit...\""
+        },
+        "51/f Leah 1000/p Leah": {
+          "8": "speak Leah \"Kele... kolikrát ti to mám říkat? Nechci se vrátit do města!$8#$b#Přestaň mi volat... už od tebe nechci nikdy slyšet! *cvak*$8\"",
+          "19": "speak Leah \"Hádám, že jsi mě ${slyšel^slyšela}$ jak ječím do telefonu?$s\"",
+          "24": "speak Leah \"To byl můj bývalý přítel...$s^To byla moje bývalá přítelkyně...$s\"",
+          "28": "speak Leah \"Asi bych ti o nás měla něco povědět...$u\"",
+          "32": "speak Leah \"Když jsem žila ve městě, ${bydleli^bydlely}$ jsme spolu v bytě.$u#$b#Během dne jsem dělala různé pomocné práce a po nocích zase pracovala na svých uměleckých projektech... jen stěží jsme si ${vystačili^vystačily}$ s penězi.$u#$b#Vždycky mě ${otravoval^otravovala}$, abych se vrátila zpět do školy a studovala podnikání nebo lékařství... něco co by nám přineslo hodně peněz.$a#$b#Asi ${plánoval^plánovala}$, že si našetříme na normální život. Znáš to... dům v předměstí, děti, rodičovské schůzky... takové ty věci.$u\"",
+          "34": "speak Leah \"Na takový život jsem ještě nebyla připravena, @... musela jsem odejít. A proto jsem přišla sem, abych si splnila svůj sen a stala se umělkyní.\"",
+          "37": "speak Leah \"$q 83 null#@, bylo to ode mě sobecké?$s#$r 83 0 event_parents1#Ne, musela jsi to udělat.#$r 83 0 event_parents2#Ne a ta osoba na telefonu mi připadá jako idiot.#$r 83 -20 event_parents3#Ne, ale raději si měla zůstat ve městě.#$r 83 -20 event_parents4#Jo, trochu.#$r 83 -20 event_parents5#Jo, ale je přirozené se nejdříve starat o sebe.\"",
+          "43": "speak Leah \"Tak, díky, že jsi mě ${vyslyšel^vyslyšela}$. Je dobré mít přátele.\"",
+          "47": "end dialogueWarpOut Leah \"Hej, díky že si mě předtím tak trpělivě ${poslouchal^poslouchala}$.\""
+        },
+        "584059/f Leah 2000/p Leah/n LeahInternet": {
+          "11": "speak Leah \"Hej! Pojď se na něco podívat.\"",
+          "16": "speak Leah \"Koupila jsem si laptop a vytvořila obchod s uměním na internetu... jak si ${navrhoval^navrhovala}$.\"",
+          "21": "speak Leah \"${Slyšel^Slyšela}$ jsi to? To znamená, že si někdo právě koupil něco v obchodě!$h\"",
+          "24": "speak Leah \"Hmm... Nějaká 'Osoba K' si neustále kupuje mé sochy.$7#$b#Asi to je nějaký bohatý chlápek, který zbožňuje to, co dělám.\"",
+          "29": "speak Leah \"Páni! Po všech těch prodaných kouscích si nějakou dobu nebudu muset dělat starosti o účty za elektřinu...$6\"",
+          "32": "speak Leah \"Každopádně... díky za tento nápad, @. Zatím to je velký úspěch! Takto získám dostatečně velké finanční prostředky, abych mohla pracovat na mém umění na plný úvazek.$h\"",
+          "34": "speak Leah \"A teď, promiň, že si tě nevšímám... ale já vážně potřebuji upravit tento CSS stylopis...$7\""
+        },
+        "angry": {
+          "2": "speak Leah \"Promiň... neměla bych se rozčilovat.$s\"",
+          "4": "speak Leah \"Možná máš pravdu... můj život by byl mnohem lehčí, kdybych tam zůstala.$u#$b#Možná je snadnější být praktičtější a realističtější... má kariéra se možná nikdy nerozjede a já budu do smrti žít v bídě.$s\"",
+          "8": "speak Leah \"No, díky že si mě ${vyslyšel^vyslyšela}$. Je dobré mít přátele.\""
+        },
+        "internet2": {
+          "1": "speak Leah \"Tak zatím šetřím peníze, abych si mohla koupit počítač... to abych, se pokusila prodávat mé výtvory na internetu, jak jsme o tom mluvili.\"",
+          "3": "speak Leah \"Je dobré mít přátele, kteří tě podrží!\""
+        },
+        "artShowSuggest": {
+          "1": "speak Leah \"Mimochodem... přemýšlela jsem o té výstavě, jak si ${navrhoval^navrhovala}$.#$b#Pracuji na pár nových sochách, které pak bych mohla vystavit... jsme nervózní, ale pomyšlení na představení mé práce veřejnosti je velmi vzrušující.#$b#Jsem také ráda, že podporuješ přeměnu Stardew Valley na jedno z hlavních uměleckých center, @!$h\""
+        }
+      }
+    }
+  ]
+}

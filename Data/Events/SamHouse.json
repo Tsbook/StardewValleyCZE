@@ -1,0 +1,72 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/SamHouse",
+      "Fields": {
+        "95/e 93/k 94/t 1800 1950/i 136/y 2": {
+          "7": "speak Kent \"Ahoj @. Prosím, pojď dál.\"",
+          "11": "speak Jodi \"Ah, jsem ráda, že jsi ${přišel^přišla}$, @! A dokonce si ${přinesl^přinesla}$ i rybu! Báječné.\"",
+          "16": "speak Jodi \"Same! Mohl bys prosím sem přijít a očistit tuhle rybu?\"",
+          "18": "speak Sam \"...Rozkaz, madam.$a\"",
+          "32": "speak Jodi \"Páni, vypadá skvostně... a jak čerstvě voní! Moc ti za ni děkuji, @.#$b#Kent také jednu chytil, ale on je schopen ji sníst celou sám!$u\"",
+          "36": "speak Kent \"He he.$h\"",
+          "40": "message \"Mmm... ta křupavá kůžička u okounka byla skvělá! Ten obal byl fantastický...\"",
+          "42": "message \"Teď se skoro cítím být součástí rodiny.\""
+        },
+        "94/e 93/k 95/t 1800 1950/i 136/y 1": {
+          "7": "speak Jodi \"Oh ahoj, @! Pojď dál! Že bych cítila čerstvou rybu?\"",
+          "12": "speak Jodi \"Same! Mohl bys prosím sem přijít a pomoct s večeří?\"",
+          "14": "speak Sam \"...Rozkaz, madam.$a\"",
+          "29": "speak Jodi \"Páni, tohle vypadá jako kvalitní ryba, @. Díky, že jsi ji nám ${přinesl^přinesla}$.$h\"",
+          "34": "message \"Mmm... ta křupavá kůžička u okounka byla skvělá! Ten obal byl nebeský...\"",
+          "36": "message \"Teď se skoro cítím jako součást rodiny.\""
+        },
+        "44/f Sam 500/p Sam": {
+          "19": "speak Sam \"Oh, ahoj @! Sebastian a já jsme měli malou 'improvizačku'.\"",
+          "23": "speak Sam \"Snažíme se založit kapelu, ale stále nevíme jaký druh hudby máme hrát. Je příliš mnoho možností.\"",
+          "30": "speak Sam \"#$q 76 null#Poslyš, @... jaký druh hudby máš ${rád^ráda}$?#$r 76 50 Event_band1#Veselou popovou hudbu.#$r 77 50 Event_band1#Experimentální noise rock.#$r 78 50 Event_band1#Vysoce energickou taneční hudbu.#$r 79 50 Event_band1#Honky-tonk country hudbu.\"",
+          "32": "speak Sam \"Co tomu říkáš, Sebastiane? Měli bychom do toho jít?\"",
+          "37": "speak Sebastian \"...Jasně.\"",
+          "41": "speak Sam \"Díky za pomoc, @. S mými kouzly na kytaru a Sebastianovými čárami na syntezátoru, budeme brzo v žebříčcích na prvním místě. Jsem si toho jist!$h\"",
+          "43": "speak Sam \"A teď potřebujeme najít někoho, kdo umí hrát na bubny...$u\""
+        },
+        "46/f Sam 1000/p Sam": {
+          "7": "speak Sam \"Oh, ahoj @. Právě si chystám něco ke svačině.\"",
+          "9": "speak Sam \"Počkej, něco ti taky dám.\"",
+          "22": "speak Sam \"Ale ne... to je nepořádek.$s\"",
+          "25": "speak Jodi \"Co to bylo za ránu?\"",
+          "27": "speak Jodi \"*Ach*$s\"",
+          "30": "speak Jodi \"To je naprosto příšerné! Co se stalo?$u\"",
+          "31": "speak Sam \"$q 80 null#...Pověz ji to, @.$s#$r 80 -10 event_snack1#Jak mi Sam podával svačinu, tak ji upustil.#$r 80 50 event_snack2#Sam mi podal svačinu a mně pak spadla na zem.#$r 81 -50 event_snack3#Sam ji upustil schválně. Myslel si, že to bude vtipné.\"",
+          "33": "speak Jodi \"$p 80#Díky, že si ${řekl^řekla}$ pravdu, @. Není to zas takový problém.|COŽE jsi to udělal, Same?! Co do tebe vjelo?!$u\"",
+          "35": "speak Sam \"Moc se za to omlouvám, mami. Hned to utřu.$s\"",
+          "37": "speak Jodi \"Díky, zlato.$h\"",
+          "44": "end dialogue Sam \"$p 81#Jsem na tebe naštvaný. Nechápu proč jsi takhle ${lhal^lhala}$.$s|Omlouvám se za to co se stalo předtím.\""
+        },
+        "100/f Kent 750/p Kent/p Jodi": {
+          "15": "speak Jodi \"Ahoj, @! Právě teď dělám popkorn.$h\"",
+          "32": "speak Kent \"AAAAAHHHHHHH!!!$u\"",
+          "60": "speak Kent \"Ten zvuk...$s\"",
+          "70": "speak Kent \"Měla jsi vědět, že ten zvuk mi připomene válku!$u\"",
+          "85": "speak Kent \"...V těch zatracených zákopech jsem ztratil spoustu přátel.$s\"",
+          "89": "speak Jodi \"Ale, drahoušku... než jsi odešel, popkorn vždycky byl tvé oblíbené jídlo.$s\"",
+          "94": "speak Kent \"...Věci se mění.\"",
+          "99": "speak Jodi \"*šeptem* @... můžeš mu něco říct?$s\"",
+          "107": "speak Kent \"$q 215 null#(Řekni Kentovi něco)$s#$r 215 -25 event_popcorn1#Je to její vina... měla to vědět!#$r 215 50 event_popcorn2#Vím, že ti ublížili, ale tvá žena za to nemůže...#$r 215 -50 event_popcorn3#(Lež) To je moje vina... udělat popkorn byl můj nápad\"",
+          "113": "speak Kent \"...$s#$b#Promiň, zlato. Nemohla si vědět, že mě ten zvuk rozruší.\"",
+          "116": "speak Jodi \"To je v pořádku, drahý.$s#$b#To poslední co chci dělat, je rozčilovat tě. Od teď se budu snažit udržet tě v dobré náladě.\"",
+          "120": "end dialogue Kent \"Jsem vděčný, že v rodině máme takového přítele, @. Omlouvám se za své předešlé chování.\""
+        },
+        "stayPut": {
+          "20": "speak Sam \"Vždycky jsem věděl, že mezi námi je speciální pouto...$l\"",
+          "24": "speak Sam \"Tato noc se mi vryla hluboko do paměti...$l\""
+        },
+        "rejectSam": {
+          "6": "speak Sam \"Chápu...$s\"",
+          "9": "speak Sam \"Promiň... spletl jsem se. Tak zatím čau.$7\""
+        }
+      }
+    }
+  ]
+}

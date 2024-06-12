@@ -1,0 +1,362 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Quests",
+      "Fields": {
+        "1": {
+          "1": "Možná potkáte i kouzelníka",
+          "2": "Obdrželi jste dopis od místního kouzelníka. Tvrdí, že má informace ohledně starého komunitního centra.",
+          "3": "Vstupte do kouzelníkovy věže."
+        },
+        "2": {
+          "1": "Tajný Qi",
+          "2": "Uvnitř tajné truhličky jste nalezli papír se zvláštními pokyny. Je podepsán jistým 'panem Qi'.",
+          "3": "Umístěte duhovou ulitu do truhly u vlakového nádraží."
+        },
+        "3": {
+          "1": "Tajný Qi",
+          "2": "Další dopis od 'pana Qi'. Tento požadavek je ještě divnější než ten předchozí.",
+          "3": "Umístěte 10 řep do ledničky starosty Lewise."
+        },
+        "4": {
+          "1": "Tajný Qi",
+          "2": "A další divný dopis umístěny do starostovy ledničky. A teď jsou pokyny už přímo kryptické.",
+          "3": "\"Dej písečnému drakovi jeho poslední jídlo.\""
+        },
+        "5": {
+          "1": "Tajný Qi",
+          "2": "V oku písečného draka jste nalezli další dopis. Zdá se, že nezvyklá hra pana Qi je u konce.",
+          "3": "Prozkoumejte hromádku dříví u vašeho domu."
+        },
+        "6": {
+          "1": "Tak začínáme",
+          "2": "Vždycky se musí někde začít. Tak nejdříve se naučíme základy farmaření: Motykou okopejte půdu, pak na ni použijte balíček semen pro zasetí plodiny. Zalévejte každý den, dokud plodina nebude připravena ke sklizni.",
+          "3": "Vypěstujte a skliďte pastinák."
+        },
+        "7": {
+          "1": "Chov zvířat",
+          "2": "Robin, místní tesařka, žije na sever od města. Výměnou za stavební materiál a peníze vám na vaší farmě postaví nové budovy. Pro chov zvířat je třeba, aby postavila kurník nebo stodolu.",
+          "3": "Mějte na své farmě kurník."
+        },
+        "8": {
+          "1": "Pokrok",
+          "2": "Jak budete získávat zkušenosti objevíte nové recepty, které vám zvýší výdělek a usnadní život. Například strašáka, který zabrání vránám útočit na vaše drahocenné plodiny.",
+          "3": "Dosáhněte úrovně 1 ve farmaření a vytvořte strašáka."
+        },
+        "9": {
+          "1": "Přátelské uvítání",
+          "2": "Je přeci slušnost představit se vašim novým sousedům. Někteří se už nemohou dočkat."
+        },
+        "10": {
+          "1": "Měděná ruda",
+          "2": "Našli jste kus měděné rudy. Nevíte co s ní máte dělat, ale místní kovář by to mohl vědět.",
+          "3": "Přineste kus měděné rudy do Clintovy kovárny."
+        },
+        "11": {
+          "1": "Hrajeme si s ohněm",
+          "2": "Pokud chcete dolovat jako profesionál, měli byste postavit pec.",
+          "3": "Vytvořte pec."
+        },
+        "12": {
+          "1": "Tak se ztavte!",
+          "2": "Teď když máte pec, můžete začít tavit kovy. Podle Clintových pokynů máte do pece dát 5 měděných rud a 1 kus uhlí, pak byste měli slít měděný ingot.",
+          "3": "Použijte svoji pec pro přetavení měděné rudy."
+        },
+        "13": {
+          "1": "Procházka po pláži",
+          "2": "Někdo se jménem Willy vás pozval na návštěvu na pláž, na jih od města. Říká, že něco pro vás má.",
+          "3": "Navštivte pláž na jihu od města před 17:00."
+        },
+        "14": {
+          "1": "Dole v dole",
+          "2": "V horách na sever od města je stará důlní šachta. Uvnitř mohou být všelijaké cenné minerály, ale Marlon vás varoval, že to může být nebezpečné.",
+          "3": "Sestupte na 5. patro v dolech."
+        },
+        "15": {
+          "1": "Jeden z nás",
+          "2": "Pokud dokážete zničit 10 slizáků vysloužíte si místo ve Spolku Dobrodruhů.",
+          "3": "Zničili jste 0 z 10 slizáků."
+        },
+        "16": {
+          "1": "Jeden z nás",
+          "2": "Úspěšně jste zlikvidovali 10 slizáků. Nyní jste získali přístup do Spolku Dobrodruhů.",
+          "3": "Vstupte do Spolku Dobrodruhů."
+        },
+        "17": {
+          "1": "Doleji v dole",
+          "2": "Zdá se, že důlní výtah stále funguje. Díky němu se můžete rychle vrátit ke dveřím výtahu, které jste objevili. Zdá se, že je třeba důl prozkoumat hlouběji.",
+          "3": "Sestupte na 40. patro v dolech."
+        },
+        "18": {
+          "1": "Cesta do středu země?",
+          "2": "Zatím se nezdá, že by důl někde končil. Jak hluboko asi sahá?",
+          "3": "Dostaňte se na dno dolů."
+        },
+        "19": {
+          "1": "Klíč k tajemství",
+          "2": "Na dně dolů jste našli podivně vypadající klíč.",
+          "3": "Zjistěte, kam klíč s lebkou pasuje."
+        },
+        "20": {
+          "1": "Výzva pana Qi",
+          "2": "Byli jste vyzvání k sestoupení na 25. patro v Jeskyni Lebek. Pokud budete úspěšní, máte přislíbenu velkou odměnu.",
+          "3": "Sestupte na 25. patro Jeskyně Lebek."
+        },
+        "21": {
+          "1": "Pomozte Marnie",
+          "2": "Marnie se zastavila na farmě, aby vás požádala o nalezení a přinesení jeskynní mrkve. Snaží se své kozy naučit mluvit a tyto mrkve jsou jejich oblíbenou pochoutkou.",
+          "3": "Přineste k Marnie do obchodu jeskynní mrkev."
+        },
+        "22": {
+          "1": "Zabezpečená večeře",
+          "2": "Jodi se zastavila na farmě a pozvala vás na večeři v 21:00. Spolu s tím vás poprosila, zda byste nepřinesli okounka pstruhového, aby mohla uvařit svoji specialitu - zapečenou rybu.",
+          "3": "Navštivte Jodi doma s okounkem pstruhovým v 21:00"
+        },
+        "23": {
+          "1": "Archeologie",
+          "2": "Našli jste starověce vypadající objekt. Možná to je pozůstatek doby dávno minulé? Gunther, kurátor místního muzea, bude třeba moci odpovědět.",
+          "3": "Navštivte Gunthera v muzeu."
+        },
+        "24": {
+          "1": "Archeologie",
+          "2": "Gunther vás požádal o darování všech nově nalezených artefaktů, či minerálů muzeu. Řekl, že vás bude občas kompenzovat vzácným zbožím.",
+          "3": "Darujte artefakt, nebo minerál muzeu."
+        },
+        "25": {
+          "1": "Jak jsem potkal přítele",
+          "2": "Dárky jsou skvělý způsob, jak si získat přátele. Zjistěte, co má každý rád, a za chvíli budete všemi oblíbený.",
+          "3": "Dejte někomu dárek."
+        },
+        "26": {
+          "1": "Problém se \"škůdci\"",
+          "2": "V komunitním centru se děje něco divného...",
+          "3": "Prozkoumejte komunitní centrum"
+        },
+        "27": {
+          "1": "Šotkoviny",
+          "2": "V cestě do čarodějnické chýše stojí jistý šotek. Musí existovat nějaký způsob jak kolem něj projít... Asi bude nutné o nich zjistit více informací.",
+          "3": "Získejte přístup do čarodějnické chýše."
+        },
+        "28": {
+          "1": "Temná minulost",
+          "2": "Kouzelník vás požádal, abyste mu přinesli kouzelný inkoust z domu jeho bývalé manželky... ale pro otevření cesty k němu je zapotřebí kouzel temného talismanu.",
+          "3": "Navštivte Krobuse v kanálech a zeptejte se ho na temný talisman."
+        },
+        "29": {
+          "1": "Dopis z neznáma",
+          "2": "Našli jste dopis, skoro nečitelný, který po vás chce přinést \"jevirový širuch\" do \"ťatého leva\".",
+          "3": "Přineste \"jevirový širuch\" do \"ťatého leva\""
+        },
+        "30": {
+          "1": "Záhadný dopis",
+          "2": "Našli jste dopis, na kterém se píše: \"Někdo na tebe čeká na 100. podlaží Jeskyně Lebek\"",
+          "3": "Sejděte na 100. podlaží Jeskyně Lebek"
+        },
+        "31": {
+          "1": "Zimní záhada",
+          "2": "U autobusové zastávky jste potkali podezřele se chovající osobu. Jakmile vás spatřila, utekla směrem k městu. Určitě najdete stopy vedoucí k jejímu úkrytu.",
+          "3": "Zjistěte, kam se tato podivná osoba schovala."
+        },
+        "100": {
+          "1": "Hledá se sekyra",
+          "2": "Robin ztratila svoji oblíbenou sekyru. Pamatuje si, že naposledy ji používala při štípání dřeva na jihu od ranče Marnie.",
+          "3": "Najděte ztracenou sekyru.",
+          "9": "No ne, tys našel moji sekyru! Ani nevíš, jak se mi ulevilo... S tou, kterou teď používám, jsem si málem usekla palec. Díky!"
+        },
+        "101": {
+          "1": "Solidní květák",
+          "2": "Jodi potřebuje pro svůj recept jeden čerstvý květák. Prosí vás, zda byste ji jeden nepřinesli.",
+          "3": "Přineste Jodi květák.",
+          "9": "Ah, vypadá moc chutně! Díky, to jsem přesně potřebovala. Do mého žlutého kari se bude náramně hodit."
+        },
+        "102": {
+          "1": "Starostovy \"kraťasy\"",
+          "2": "Starosta Lewis ztratil svoje fialové \"šortky\". Žádá vás, abyste je našli a vrátili mu je... Ale tajně.",
+          "3": "Najděte a vraťte trenýrky starostovi.",
+          "9": "Tak je máš?... Kde byly? ...Ach!...Ehmm...Hehe.#$b#Tam? Vůbec nemám potuchy, jak se tam mohly dostat... *zakašlání*#$b#Tohle zůstane jen mezi námi. Rozumíš?$u"
+        },
+        "103": {
+          "1": "Pam chce pít",
+          "2": "Pam touží po světlém pivu. Normální pivo nestačí. Můžete ho udělat sami, pokud máte chmel a soudek.",
+          "3": "Přineste Pam pivo.",
+          "9": "Dej mi to. *srk*... Ahh, to je ono.#$b#Je z něho cítit chmel... náznaky citrusů a borovice, ale se silným tělem, které ho drží při zemi.#$b#Díky prcku. Tohle pro mě hodně znamená. Věděla jsem, že s tebou můžu počítat.$h"
+        },
+        "104": {
+          "1": "Studie plodin",
+          "2": "Demetrius potřebuje čerstvý meloun pro svůj výzkum.",
+          "3": "Přineste Demetriovi meloun.",
+          "9": "To je ono! Přesně tohle potřebuji na svůj výzkum. Budu se přemáhat, abych ho nesnědl! Díky moc."
+        },
+        "105": {
+          "1": "Pálivé koleno",
+          "2": "George potřebuje pálivou papričku, aby si ztišil bolest v koleni.",
+          "3": "Přineste Georgovi pálivou papričku.",
+          "9": "To ti to trvalo... hmmf... No aspoň je pěkně pálivá. Díky."
+        },
+        "106": {
+          "1": "To nejjemnější potěšení",
+          "2": "Marnie chce svým krávám dát speciální pamlsek. Prosí vás o jeden trs laskavce.",
+          "3": "Přineste Marnie jeden trs laskavce.",
+          "9": "Ah, přesně to, co jsem po tobě chtěla! Moc ti děkuji... mé krávy si dají na zub!$h"
+        },
+        "107": {
+          "1": "Pichlavé trable",
+          "2": "Je období ostružin, ale Linus nemůže najít svůj košík! Žádá vás abyste mu ho pomohli najít. Vůbec neví kde je.",
+          "3": "Najděte Linusův košík a vraťte mu ho.",
+          "9": "Můj košík! Díky. To pro mě hodně znamená.$h"
+        },
+        "108": {
+          "1": "Vyřezávání dýní",
+          "2": "Caroline chce se svoji dcerou vyřezávat dýně. Požádala Vás, zda byste ji jednu z vaší farmy nepřinesli.",
+          "3": "Přineste Caroline dýni.",
+          "9": "Ah, ta dýně, co jsem chtěla! Vypadá dobře... Abigail bude tak šťastná, až ji uvidí. Díky, @!$h"
+        },
+        "109": {
+          "1": "Chyťte oliheň",
+          "2": "Willy vás vyzval, abyste chytili oliheň. Říká, že je můžete ulovit v oceánu o zimních nocích.",
+          "3": "Přineste Willymu oliheň.",
+          "9": "Ha, tak jsi to dokázal! To nebylo špatné. Vůbec ne. Jsem ohromen.#$b#Zima je skvělá doba na vytáhnutí prutu, ne?"
+        },
+        "110": {
+          "1": "Clintovy pokusy",
+          "2": "Clint chce, abyste Emily předali ametyst. Zároveň Vás žádá zdali by nešlo jí říct, že je od vás.",
+          "3": "Přineste Emily ametyst.",
+          "9": "Ah, můj oblíbený kámen! To je od tebe hezké!$h#$b#Co? To je od koho?$u#$b#Ah, tak to máš z kovárny? Mně nezáleží na tom odkud ho máš, je nádherný! Moc ti děkuji! *muck*$h"
+        },
+        "111": {
+          "1": "Temné činidlo",
+          "2": "Kouzelník po vás chce, abyste sestoupili do dolů a donesli mu esenci prázdnoty. Potřebuje ji kvůli nějakým temným čárám.",
+          "3": "Přineste kouzelníkovi esenci prázdnoty.",
+          "9": "Ah, tak konečně jsi tady. Máš můj vděk a odměnu 1 000 zlatých. A teď jdi pryč."
+        },
+        "112": {
+          "1": "Služba pro Clinta",
+          "2": "Clint má nové kladivo a chce si ho vyzkoušet na různých druzích kovů.",
+          "3": "Přineste Clintovi želený ingot.",
+          "9": "Aha, takový jsem chtěl. Vypadá odolně... výborně.#$b#Díky, @. Vážně si toho cením."
+        },
+        "113": {
+          "1": "Pomoc pro Robin",
+          "2": "Robin vám napsala, že chce tvrdé dřevo.",
+          "3": "Přineste Robin 10 kusů tvrdého dřeva.",
+          "9": "Ah, neseš mi moje dřevo! Na tebe se vždy dá spolehnout, @.$h#$b#Mmhmm... Tohle dřevo je perfektní. Přesně tohle jsem potřebovala. Díky!"
+        },
+        "114": {
+          "1": "Rybí guláš",
+          "2": "Gus chce udělat rybí guláš, ale potřebuje tuňáka křídlatého.",
+          "3": "Přineste Gusovi tuňáka křídlatého.",
+          "9": "*čich*...*čich*... Co to máš? To voní přesně jako ta ryba, co chci!#$b#Aha! Takže ji máš! Moc ti děkuji!"
+        },
+        "115": {
+          "1": "Čerstvé ovoce",
+          "2": "Emily chce ochutnat jaro. Žádá po vás čerstvou meruňku.",
+          "3": "Přineste Emily meruňku.",
+          "9": "Ah... takže ji máš! Díky, vypadá velmi chutně!$h"
+        },
+        "116": {
+          "1": "Dárek od babi",
+          "2": "Evelyn chce překvapit svého muže snídání.",
+          "3": "Přineste Evelyn pórek.",
+          "9": "Ah, děkuji ti. Pórek vypadá báječně. George bude tak šťastný.#$b#Zbožňuje, když mu udělám vejce s pórkem k snídani."
+        },
+        "117": {
+          "1": "Pierrovo nutkání",
+          "2": "Pierre zaplatí \"spoustu peněz\" tomu, kdo mu přinese talíř se sašimi. Očividně po nich hodně touží.",
+          "3": "Přineste Pierrovi sašimi.",
+          "9": "No konečně! Už jsem to skoro nevydržel, moc tu rybu chci. *chroup*... Mmm, taková dobrota.#$b#Díky, @.$h"
+        },
+        "118": {
+          "1": "Zubatý výzkum",
+          "2": "Demetrius zkoumá jedovatost místních čtverzubců. Chce abyste mu jednoho přinesli.",
+          "3": "Přineste Demetriusovi čtverzubce.",
+          "9": "Tak tady jsi. Exemplář vypadá, že je v dobré kondici. Hned ho dám na led. Díky, @!"
+        },
+        "119": {
+          "1": "Vojákova hvězda",
+          "2": "Kent chce své ženě k výročí dát karambolu.",
+          "3": "Přineste Kentovi karambolu.",
+          "9": "Ahoj. Šššš... Ať tě Jodi nevidí.#$b#Ah, ta je pěkně šťavnatá. Bude ji zbožňovat. Díky moc.$h"
+        },
+        "120": {
+          "1": "Starostovi potřeby",
+          "2": "Starosta Lewis chce olej z lanýžů. Nechce říct na co. Asi vám do toho nic není.",
+          "3": "Přineste Lewisovi lahev lanýžového oleje.",
+          "9": "Máš ten olej? Ukaž...#$b#Velmi kvalitní... velmi mazlavý. Výborně. Děkuji."
+        },
+        "121": {
+          "1": "Hledá se: Humr",
+          "2": "Gus vydal oznámení žádající čerstvého humra.",
+          "3": "Přineste Gusovi humra.",
+          "9": "Cítím tu čerstvého humra. Ah, výborně.$h#$b#Opatruj se, příteli."
+        },
+        "122": {
+          "1": "Pam potřebuje dobít",
+          "2": "Televizní ovladač se vybil a Pam teď musí těžce chodit sem a tam mezi sedačkou a čudlíkem na televizi.",
+          "3": "Přineste Pam balíček baterií.",
+          "9": "Aha, věděla jsem, že mě nezklameš! Díky, prcku... teď můžu spokojeně dál žít!$h"
+        },
+        "123": {
+          "1": "Hůl moci",
+          "2": "Kouzelník vytváří hůl s mimořádnou mocí. Kdo ví na co ji potřebuje, ale vy víte co potřebuje on - iridiovou tyč.",
+          "3": "Přineste kouzelníkovy iridiovou tyč.",
+          "9": "Ah, vzácné iridium. Dobře odvedená práce, @. Jsem ti zavděčen. A teď odejdi."
+        },
+        "124": {
+          "1": "Chyťte hřebeníka",
+          "2": "Willy vás vyzval abyste chytili hřebeníka velkého.",
+          "3": "Přineste Willymu hřebeník velkého.",
+          "9": "Ha, tak to je pořádná ryba! Není pochyb, že máš v sobě rybářskou krev.$h"
+        },
+        "125": {
+          "1": "Exotické lihoviny",
+          "2": "Gus chce udělat Koko-na-na, ale chybí mu hlavní přísada.",
+          "3": "Přineste Gusovi kokos.",
+          "9": "Kokos! Tak toto je nádherný, uklidňující pohled pro mé zimou vychladlé oči.$h#$b#Z toho kokosu bude perfektní koko-na-na. Díky!"
+        },
+        "126": {
+          "1": "Pochůzka pro ženušku",
+          "2": "Vaše žena vás požádala, abyste ji přinesli 200 kousků vlákna na její tajný projekt.",
+          "3": "Přineste Emily 200 vláken.",
+          "9": "Ah, vypadají báječně... a taky jsou z udržitelného zdroje! Moc ti děkuji, @ $h#$b#Radši se pustím hned do práce. Bude ji hodně, takže mi to pár dní potrvá..."
+        },
+        "127": {
+          "1": "Haleyina pecová péče",
+          "2": "Vaše žena na náměstí pořádá dortovou charitu. Požádala vás, abyste přinesli čokoládový dort.",
+          "3": "Dorazte na náměstí během slunečního rána s čokoládovým dortem."
+        },
+        "128": {
+          "9": "Ten náhrdelník! Kde si ho našel?$7^Ten náhrdelník! Kde si ho našla?$7#$b#No, tak ti musím moc poděkovat, @. Teď se to máma nikdy nedozví...$h"
+        },
+        "129": {
+          "9": "Copak to máš? Můj starý náhrdelník?$s#$b#To je zvláštní, ani jsem si nevšimla, že se mi ztratil.. I tak ti děkuji za jeho návrat, @.$h"
+        },
+        "130": {
+          "1": "O ptáčkovi a pirátovi",
+          "2": "Stará žena žijící na Zázvorovém ostrově vás požádala o nalezení něčeho jako památku jejího muže. Dala vám starou fotografii vojáka, která se vyplavila na pobřeží, protože doufá, že vám při hledání nějak pomůže.",
+          "3": "Najděte památku, která patřila jejímu muži."
+        },
+        "131": {
+          "1": "Willyho chytáky",
+          "2": "Willy vás vyzval ať chytíte tři písečňáky.",
+          "3": "Chyťte tři písečňáky."
+        },
+        "132": {
+          "1": "Dejte aspoň bílý",
+          "2": "Žádný farmář nemůže být bez zvířat, pojďme se naučit, jak se o ně starat. Slepice krmte každý den tak, že je pustíte ven a oni se najedí trávy, nebo do jejich krmítka umístíte seno. Jakmile vyrostou, budete mít hezkou snůšku vajec!",
+          "3": "Získejte od svých slepic vejce"
+        },
+        "133": {
+          "1": "Farma nakrmených zvířat",
+          "2": "Místní tesařka Robin žije na sever od náměstí. Výměnou za stavební materiál a peníze vám bude moci postavit nové budovy na farmě. Pokud si od ní necháte postavit silo, můžete kosou začít sami do něj začít ukládat slámu a následněji použít k nakrmení svých zvířat.",
+          "3": "Mějte na farmě silo"
+        },
+        "134": {
+          "1": "Rodinné letokruhy",
+          "2": "Prudký vítr shodil strom na jih od farmy. Za pomoci 100 kousků tvrdého dřeva by se z pozůstalého pařezu mohlo udělat něco hezkého a užitečného...",
+          "3": "Předělejte velký pařez."
+        }
+      }
+    }
+  ]
+}

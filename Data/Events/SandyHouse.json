@@ -1,0 +1,15 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/SandyHouse",
+      "Fields": {
+        "67/m 10": {
+          "6": "speak Sandy \"Z... zákazník?\"",
+          "12": "speak Sandy \"Ahoj! Vítej v 'Sandyině oáze'!#$b#Hej, vypadáš přesně jako ${ten nový farmář, o kterém^ta nová farmářka, o které}$ mi psala Emily!#$b#To tedy znamená... že autobusová linka do Stardew Valley je zase v provozu!$h#$b#Oh, tak to je velmi skvělá zpráva!$h\"",
+          "17": "end dialogue Sandy \"Prosím přijď zase, tady je taková nuda.\""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/EngagementDialogue",
+      "Entries": {
+        "Maru0": "Už se moc těším.$h#$b#Stanu se tvojí ženou. Hehe.$l",
+        "Maru1": "Musím se psychicky připravit na můj další život jako žena farmáře.",
+        "Leah0": "...$l#$e#Jsem trochu nervózní. Ale šťastná.$h",
+        "Leah1": "Vždycky jsem snila o životě na farmě.$h#$e#Určitě budu moc šťastná.",
+        "Haley0": "Přetékám radostí!$h#$e#Přesně takhle jsem si to představovala.$l",
+        "Haley1": "To je v pořádku. Vím, že na líbánky odjet nemůžeme, protože o tvoji farmu se nemá kdo postarat.#$e#Vždyť já jsem teď taky farmářka.",
+        "Penny0": "@... Trochu se bojím. Tohle bude taková změna!#$e#Nemusíš se obávat, já jsem také moc šťastná.$h",
+        "Penny1": "Brzo budeme mít spolu malou farmářskou rodinku.$l#$e#Ani nevíš jak moc jsem ráda, že mě miluješ stejně tak jako já.$h",
+        "Abigail0": "Hehe. Já? Vdaná? Ani v nejdivočejších snech by mě to nenapadlo.$h#$e#Spolu si užijeme kopec srandy.$h",
+        "Abigail1": "Jsem zasnoubená s farmářem. Páni!$h#$e#Naše životy se v blízké budoucnosti hodně změní.$l",
+        "Sam0": "Jako tvůj muž budu velmi šťastný,@.$l#$e#Už se nemůžu dočkat.",
+        "Sam1": "O tomhle se mi ani nesnilo. Mám takové štěstí.$l#$e#Já to do svatby snad ani nevydržím.$h",
+        "Sebastian0": "Za pár dní už budu žít na farmě. Ani tomu nemůžu uvěřit.$h#$e#Přesto jsem ale šťastný.$l",
+        "Sebastian1": "Když ses ve městě poprvé ${objevil^objevila}$, vůbec jsem netušil, že si tě jednoho dne vezmu.$l#$e#Život je zvláštní, co?$h",
+        "Harvey0": "Oh bože! Je toho tolik, co musím před svatbou udělat! Jsem strašně nervózní.$l#$e#Už abychom byli pěkně v klidu zabydlení na tvé farmě.$h",
+        "Harvey1": "Jsem doopravdy šťastný.$h#$e#Tohle vždycky byl můj tajný sen.$l",
+        "Elliott0": "Farma bude ideální místo pro mé spisovatelské počiny. Těším se jako malý kluk.$h#$e#Spolu utvoříme skvělý pár.$l",
+        "Elliott1": "Toto bude velkolepé dobrodružství! Já se tak těším, že snad ani nebudu dnes spát. Ty ne?$h#$e#Moji chatku můžeme využívat jako letní dům.$l",
+        "Alex0": "@, toto je ta nejlepší věc, která mě mohla potkat.$l#$e#Nedočkavostí se celý třesu.$h",
+        "Alex1": "Farmaření si zamiluji.$h",
+        "Shane0": "Část mě si říká, zda mě jen nevodíš za nos.#$e#Nemůžu uvěřit, že si chceš vzít někoho jako jsem já.",
+        "Shane1": "@... Celý svět se mi točí a to jsem dneska ještě nic nepil.",
+        "Emily0": "Dokážeš si představit, že budeme žít spolu? Já jsem mimo svoji rodinu nikdy s nikým nežila.#$e#Je to... vzrušující.",
+        "Emily1": "Mně pořád něco v hlavě šeptalo, že se nám oběma stane něco mimořádného... Jen jsem netušila, že to bude toto!$h#$e#Papoušek už se také nemůže dočkat.",
+        "Krobus0": "@... obávám se že tohle to co je mezi námi budeme muset držet v tajnosti... Ani tví ani mí lidé by zrovna neocenili, že žijeme spolu.",
+        "Krobus1": "Doufám, že si uvědomuješ, že žít se mnou bude velmi zvláštní? Nebudu moct ani na krok z domu..."
+      }
+    }
+  ]
+}

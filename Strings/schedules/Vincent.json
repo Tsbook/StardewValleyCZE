@@ -1,0 +1,14 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Vincent",
+      "Entries": {
+        "winter_16.000": "Já se chci projet na lodi!!",
+        "spring_11.001": "*polk*... Mami, ať mi to nedělají.$s",
+        "spring_11.002": "Dostanu lízátko za svoji statečnost?",
+        "spring_11.000": "*vzlyk*... Dnes mi budou píchat injekce.$s"
+      }
+    }
+  ]
+}

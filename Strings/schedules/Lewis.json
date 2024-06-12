@@ -1,0 +1,18 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Lewis",
+      "Entries": {
+        "fall_9.000": "Ehm... doktore Harvey? Toto je naprosto důvěrné, že?",
+        "15.000": "Rád se občas poptám u našich živnostníků jak se jim daří.",
+        "6.000": "Jsem tu pro výběr daně z podnikání Clintova obchodu.",
+        "1.000": "No, ryby letos úplně čpí čerstvotou.",
+        "Tue.000": "Všechny své potraviny nakupuji zde.$h",
+        "3.000": "Jsem tu jen pro zajištění, že všechny potřeby obchodu Marnie jsou splněny.",
+        "6.001": "Knihovna je jeden z nejlepších prvků Pelikánova. Je financována daněmi vybranými od místních podnikatelů.",
+        "winter_16.000": "Na tomto trhu jsem si koupil pár z mých nejoblíbenejších předmětů, takže o kvalitu se nemusíš obávat..."
+      }
+    }
+  ]
+}

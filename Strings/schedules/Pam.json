@@ -1,0 +1,12 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Pam",
+      "Entries": {
+        "spring_25.000": "*grrr*... Doktor všetečka... *grrr*$4",
+        "spring_25.001": "Kolik že toho vypiju každý den? Co je to za otázku?$u"
+      }
+    }
+  ]
+}

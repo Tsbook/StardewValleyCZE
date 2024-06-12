@@ -1,0 +1,34 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Wizard",
+      "Entries": {
+        "Introduction": "Ah ano, tvůj příchod jsem předpověděl již před dlouhou dobou ${mladíku^mladičká}$.#$e#Avšak tvůj osud je zcela ve tvých rukou.",
+        "AcceptGift_(O)StardropTea": "Ale, copak to tu máme? To vypadá na vzácný a mocný elixír. Ano, ten se bude skvěle vyjímat v mé truhle činidel.",
+        "GreenRain": "I když se tento nevídaný úkaz muže jevit jako zkázonosný, není třeba se ho bát.#$e#Opak je pravdou, pro mnoho živočichů je dnešek důvod k radosti.",
+        "GreenRain_2": "Příroda je mocná čarodějka, neradno si s ní zahrávat.#$e#Promiň, ale mám neodkladné povinnosti, kterým se mohu věnovat pouze dnes.",
+        "married": "Manželství... hm? Doufám, že budeš mít více štěstí, než já...",
+        "roommates_Krobus": "Žít s někým jako Krobus bude zatěžkávací zkouška pro vás oba. Ale určitě to bude vzájemně prospěšné soužití.#$e#Musím se přiznat... mám veliký zájem pozorovat co vznikne z tohoto neobvyklého přátelství.",
+        "Mon4": "Příroda poodhalí roušku svých tajemství hlavně v oblastech mimo dosah lidské civilizace.",
+        "Mon8": "Na světě stále existují netknutá místa osvobozena od omezení moderního myšlení, kde kouzla jsou stále součástí života...",
+        "Sat6": "Vědecké postupy dokážou velmi přesně popsat stavební kameny našeho světa, ale nikdy nedokáží vysvětlit jeho nejtemnější tajemství...",
+        "Tue8": "Vítám tě, @. Věřím, že jsi nefušoval do černé magie?",
+        "Tue10": "Pokud je realita utvářena myslí, pak pokud by se někomu podařilo ji ovládnout, měli by kontrolu nad celým světem...",
+        "accept_868": "Ah... ledový střípek.#$b#Ano, toto je velmi mocná látka a doslova překypující elementem ledu.#$b#Vezmu si ho, pokud ti to nebude vadit.#$b#...#$b#...Ehm... ty jsi ještě tady? Aha. Něco chceš?#$b#...tak třeba toto.",
+        "MovieInvitation": "Hmm... asi bych tě mohl doprovodit... ano. Až dorazíš na místo určení, zjevím se také. Na shledanou.",
+        "Mon": "V tvé budoucnosti jsem zahlédl spoustu věcí, @.#$e#Pokud bych ti něco prozradil, mohlo by to mít vážné následky.",
+        "Tue": "Pokud mi nechceš sdělit něco důležitého, tak mě prosím nech být. Mám spoustu věcí na práci.",
+        "Tue4": "Důvěřuji ti natolik, že ti dovolím vstoupit do mého sklepení. Ke všemu, co tam nalezneš, se chovej s úctou.",
+        "Wed": "Porozumět jazyku elementálů mi zabralo roky úporných studií.#$e#Ale abys dokázal mluvit jejich jazykem, musíš tomu zasvětit celý svůj život.#$e#A teď mě prosím omluv...",
+        "Thu": "Obklopuje nás spousta tajemství. K jejich odhalení stačí být pouze trpělivý.",
+        "Thu10": "Toto nesmíš nikomu sdělit... ale mám důvodné podezření. že jeden z místních obyvatel je ve skutečnosti má dcera...#$e#Mohu se mýlit... stává se to vzácně, ale jsou takové případy.",
+        "Fri": "Obyvatelé města mají ze mě strach.#$e#Je to politováníhodné, ale bát se neznámého je nejspíše v lidské povaze.",
+        "Fri6": "Byl jsem ženat, to je už ale doba dávno minulá. Poté, co jsme se já a má žena rozešli, začala létat po venkově a uvalovat kletby na lidi.#$e#To není moc vyzrálý způsob jak uvolnit hněv.",
+        "Sat": "Stojíš nad silným polem magické energie.#$e#Právě proto jsem zde postavil svůj příbytek. To jen kdyby ses ${ptal^ptala}$.",
+        "Sat2": "Pokročil si nějak ohledně záležitosti lesních duchů?",
+        "Sun": "Někdy tajně pozoruji místní obyvatele.#$e#Doufám, že jednou najdu učně. Přijde den, kdy opustím tento svět smrtelníků, ale mé bádání věcí záhadných musí pokračovat."
+      }
+    }
+  ]
+}

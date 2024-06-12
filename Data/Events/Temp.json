@@ -1,0 +1,71 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Temp",
+      "Fields": {
+        "decorate": {
+          "0": "speak Haley \"Zdobit?$s#$b#Um, dobře.$u\"",
+          "2": "speak Haley \"A to je vše co bys ${chtěl^chtěla}$ teď se mnou dělat? Tady... v té malé, temné místnosti?$u#$b#Zajímavé.$u\"",
+          "7": "end dialogue Haley \"No, temná místnost teď vypadá mnohem lépe... díky, @.$u\""
+        },
+        "leave": {
+          "0": "speak Haley \"Ah, ty už musíš odejít?$s#$b#No... tak fajn. Čau.$s\"",
+          "11": "speak Haley \"Páni... nevěděla jsem, že je tak ${zabedněný^zabedněná}$.$s\"",
+          "12": "end dialogue Haley \"Myslela jsem, že máš něco důležitého na práci...$u\""
+        },
+        "tooBold": {
+          "9": "end dialogue Elliott \"To je tak trapné...$8\""
+        },
+        "poppy": {
+          "1": "speak Sam \"Ahoj, všichni. Jsme z Pelikánova... a hm... a jmenujeme se 'Pelikáni'$8\"",
+          "2": "speak Sam \"$p 20#Tahle písnička je o farmaření, dolování a sekání dřeva.|$p 8820#Tahle písnička je o městě v moři.|$p 8821#Tahle písnička je o vlacích.|Tak jdeme na to...$8\"",
+          "27": "speak Emily \"$p 78#Super! Ty elektronické zvuky jsou fakt hustý!$h|Juchů! Paráda!$h\"",
+          "28": "speak Leah \"$p 79#To bylo skvělé! To je nová honky-tonkská klasika!|Skvělá práce, lidi!$h\"",
+          "29": "speak Shane \"$p 77#Mně se moc líbila ta sólová část na konci.|Strašně se mi líbila ta basová část.\"",
+          "31": "speak Sam \"Děkujeme moc všem!$h#$b#Ale spíš byste měli zatleskat @! Bez ${jeho^její}$ pomoci bychom se totiž nikdy nerozhodli, jakou hudbu bychom chtěli vlastně hrát!\"",
+          "36": "speak Penny \"Takže ty jsi takový čestný člen kapely, ne?$h\"",
+          "42": "speak Sam \"Ah! A nezapomeňte si vzít jednu z našich demo kazet až budete odcházet... Stojí pouze 10 zlatých!\"",
+          "48": "speak Sam \"To šlo dobře! Ještě jednou ti děkuji, že jsi ${jel^jela}$ s námi.$h\"",
+          "49": "end dialogue Sam \"Super. Koncert byl velký úspěch! Ještě jednou ti děkuji, @.\""
+        },
+        "heavy": {
+          "1": "speak Sam \"Ahoj, všichni. Jsme z Pelikánova... a hm... a jmenujeme se 'Ničitelé goblinů'$8\"",
+          "2": "speak Sam \"$p 20#Tahle písnička je o farmaření, dolování a sekání dřeva.|$p 8820#Tahle písnička je o městě v moři.|$p 8821#Tahle písnička je o vlacích.|Tak jdeme na to...$8\"",
+          "35": "speak Emily \"$p 78#Super! Ty elektronické zvuky jsou fakt hustý!$h|Juchů! Paráda!$h\"",
+          "36": "speak Leah \"$p 79#To bylo skvělé! To je nová honky-tonkská klasika!|Skvělá práce, lidi!$h\"",
+          "37": "speak Shane \"$p 77#Mně se moc líbila ta sólová část na konci.|Strašně se mi líbila ta basová část.\"",
+          "39": "speak Sam \"Děkujeme moc všem!$h#$b#Ale spíš byste měli zatleskat @! Bez ${jeho^její}$ pomoci bychom se totiž nikdy nerozhodli, jakou hudbu bychom chtěli vlastně hrát!\"",
+          "44": "speak Penny \"Takže ty jsi takový čestný člen kapely, ne?$h\"",
+          "50": "speak Sam \"Ah! A nezapomeňte si vzít jednu z našich demo kazet až budete odcházet... Stojí pouze 10 zlatých!\"",
+          "56": "speak Sam \"To šlo dobře! Ještě jednou ti děkuji, že jsi ${jel^jela}$ s námi.$h\"",
+          "57": "end dialogue Sam \"Super. Koncert byl velký úspěch! Ještě jednou ti děkuji, @.\""
+        },
+        "techno": {
+          "1": "speak Sam \"Ahoj, všichni. Jsme z Pelikánova... a hm... a jmenujeme se 'Xenonový čip 3.0'.$8\"",
+          "2": "speak Sam \"$p 20#Tahle písnička je o farmaření, dolování a sekání dřeva.|$p 8820#Tahle písnička je o městě v moři.|$p 8821#Tahle písnička je o vlacích.|Tak jdeme na to...$8\"",
+          "34": "speak Emily \"$p 78#Super! Ty elektronické zvuky jsou fakt hustý!$h|Juchů! Paráda!$h\"",
+          "35": "speak Leah \"$p 79#To bylo skvělé! To je nová honky-tonkská klasika!|Skvělá práce, lidi!$h\"",
+          "36": "speak Shane \"$p 77#Mně se moc líbila ta sólová část na konci.|Strašně se mi líbila ta basová část.\"",
+          "38": "speak Sam \"Děkujeme moc všem!$h#$b#Ale spíš byste měli zatleskat @! Bez ${jeho^její}$ pomoci bychom se totiž nikdy nerozhodli, jakou hudbu bychom chtěli vlastně hrát!\"",
+          "43": "speak Penny \"Takže ty jsi takový čestný člen kapely, ne?$h\"",
+          "49": "speak Sam \"Ah! A nezapomeňte si vzít jednu z našich demo kazet až budete odcházet... Stojí pouze 10 zlatých!\"",
+          "55": "speak Sam \"To šlo dobře! Ještě jednou ti děkuji, že jsi ${jel^jela}$ s námi.$h\"",
+          "56": "end dialogue Sam \"Super. Koncert byl velký úspěch! Ještě jednou ti děkuji, @.\""
+        },
+        "honkytonk": {
+          "1": "speak Sam \"Ahoj, všichni. Jsme z Pelikánova... a hm... a jmenujeme se 'Alfalfy'$8\"",
+          "2": "speak Sam \"$p 20#Tahle písnička je o farmaření, dolování a sekání dřeva.|$p 8820#Tahle písnička je o městě v moři.|$p 8821#Tahle písnička je o vlacích.|Tak jdeme na to...$8\"",
+          "31": "speak Emily \"$p 78#Super! Ty elektronické zvuky jsou fakt hustý!$h|Juchů! Paráda!$h\"",
+          "32": "speak Leah \"$p 79#To bylo skvělé! To je nová honky-tonkská klasika!|Skvělá práce, lidi!$h\"",
+          "33": "speak Shane \"$p 77#Mně se moc líbila ta sólová část na konci.|Strašně se mi líbila ta basová část.\"",
+          "35": "speak Sam \"Děkujeme moc všem!$h#$b#Ale spíš byste měli zatleskat @! Bez ${jeho^její}$ pomoci bychom se totiž nikdy nerozhodli, jakou hudbu bychom chtěli vlastně hrát!\"",
+          "40": "speak Penny \"Takže ty jsi takový čestný člen kapely, ne?$h\"",
+          "46": "speak Sam \"Ah! A nezapomeňte si vzít jednu z našich demo kazet až budete odcházet... Stojí pouze 10 zlatých!\"",
+          "52": "speak Sam \"To šlo dobře! Ještě jednou ti děkuji, že jsi ${jel^jela}$ s námi.$h\"",
+          "53": "end dialogue Sam \"Super. Koncert byl velký úspěch! Ještě jednou ti děkuji, @.\""
+        }
+      }
+    }
+  ]
+}

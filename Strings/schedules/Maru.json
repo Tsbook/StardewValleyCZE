@@ -1,0 +1,18 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Maru",
+      "Entries": {
+        "marriage_Mon.002": "Doufám, že se Penny rozhodne se jednou vdát.",
+        "winter_16.000": "Páni, jen koukni co všechno to používá za technologie. Úžasné!",
+        "marriageJob.000": "Zlato, teď pracuji! Hlavně ať to nevidí doktor.",
+        "marriageJob.002": "Za chvíli končím...",
+        "marriage_Mon.001": "Táta ve svých výzkumech dělá pokroky.",
+        "summer.000": "Je docela těžké myšlenkově uchopit velikost celého vesmíru.$8",
+        "marriage_Mon.000": "Ahoj! Máma vypadá, že ji to jde i bez mé pomoci. Má tuhý kořínek.",
+        "marriageJob.001": "Je milé, že si mě přišel navštívit.$h¦Je milé, že si mě přišla navštívit.$h"
+      }
+    }
+  ]
+}
