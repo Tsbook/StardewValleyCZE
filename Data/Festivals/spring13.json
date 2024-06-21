@@ -5,20 +5,20 @@
       "Target": "Data/Festivals/spring13",
       "Fields": {
         "afterEggHunt": {
-          "19": "speak Lewis \"Panečku, koukněte se na všechna ta vajíčka!$h#$b#Kdybych vás mladé přinutil sbírat odpadky se stejnou vervou, jakou sbíráte vejce, byli bychom to nejčistší město na této straně Drahokamového moře! *hehe*$h\"",
-          "22": "speak Lewis \"A nyní vyhlásíme vítěze letošního lovu vajec...\"",
-          "31": "speak Lewis \"Tady je tvá cena! Blahopřejeme.\"",
-          "35": "speak Lewis \"No a tímto je letošní festival vajec u konce. Všem vám děkuji za účast!\""
+          "12": "speak Lewis \"Panečku, koukněte se na všechna ta vajíčka!$h#$b#Kdybych vás mladé přinutil sbírat odpadky se stejnou vervou, jakou sbíráte vejce, byli bychom to nejčistší město na této straně Drahokamového moře! *hehe*$h\"",
+          "15": "speak Lewis \"A nyní vyhlásíme vítěze letošního lovu vajec...\"",
+          "24": "speak Lewis \"Tady je tvá cena! Blahopřejeme.\"",
+          "28": "speak Lewis \"No a tímto je letošní festival vajec u konce. Všem vám děkuji za účast!\""
         },
         "AbbyWin": {
           "6": "speak Lewis \"Tady je tvá cena, Abigail. Blahopřejeme!\"",
           "13": "speak Lewis \"No a tímto je letošní festival vajec u konce. Všem vám děkuji za účast!\""
         },
         "mainEvent": {
-          "17": "speak Lewis \"Je čas na zlatý hřeb dnešních oslav... každoroční Jarní lov vajec!$h\"",
-          "22": "speak Lewis \"Uklidněte se, děti. Uchovejte si svoji energii na samotnou soutěž, pokud chcete najít všechna vejce a získat exkluzivní cenu.\"",
-          "35": "speak Lewis \"A nyní... všichni připraveni?\"",
-          "40": "speak Lewis \"Nechť lov vajec započne!$h\""
+          "10": "speak Lewis \"Je čas na zlatý hřeb dnešních oslav... každoroční Jarní lov vajec!$h\"",
+          "15": "speak Lewis \"Uklidněte se, děti. Uchovejte si svoji energii na samotnou soutěž, pokud chcete najít všechna vejce a získat exkluzivní cenu.\"",
+          "28": "speak Lewis \"A nyní... všichni připraveni?\"",
+          "33": "speak Lewis \"Nechť lov vajec započne!$h\""
         },
         "afterEggHunt_y2": {
           "16": "speak Lewis \"Panečku, koukněte se na všechna ta vajíčka!$h#$b#Kdybych vás mladé přinutil sbírat odpadky se stejnou vervou, jakou sbíráte vejce, byli bychom to nejčistší město na této straně Drahokamového moře! *hehe*$h\"",

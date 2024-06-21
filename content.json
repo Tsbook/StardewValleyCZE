@@ -26,12 +26,6 @@
     },
     {
       "Action": "Load",
-      "Target": "Data/TV/InterviewShow",
-      "FromFile": "Data/TV/Interviewshow.json",
-      "When": { "Language": "cs" }
-    },
-    {
-      "Action": "Load",
       "Target": "Data/TV/TipChannel",
       "FromFile": "Data/TV/TipChannel.json",
       "When": { "Language": "cs" }
