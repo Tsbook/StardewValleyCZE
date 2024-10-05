@@ -13,7 +13,7 @@
           "41": "speak Pam \"*vzlyk*... Já jen...$s#$b#...Měla bych být šťastná...$s\"",
           "44": "speak Pam \"...Ale nebyla jsem schopna omezit své pití... Vůbec jsem se nezměnila...$s\"",
           "48": "speak Pam \"Co si pamatuji... mám takový pocit, že něco v mém životě chybí, @... $s#$b#Vždycky jsem si myslela že to jsou peníze... Prostě, že jsem chudá... víš? A tak jsem doufala že tenhle dům všechno vyřeší. Ale ...nestalo se.$s#$b#A proto... Proto jsem si objednala tuhle sochu.\"",
-          "50": "question fork0 \"Řekněte něco Pam:#Jsem rád že si stále uchováváš naději¦Jsem ráda že si stále uchováváš naději#Promiň Pam, ale Yoba neexistuje...\"",
+          "50": "question fork0 \"Řekněte něco Pam:#Jsem ${rád¦ráda}$ že si stále uchováváš naději#Promiň Pam, ale Yoba neexistuje...\"",
           "54": "speak Pam \"To vůbec není vtipné! ...Já si tady vylévám srdce a ty se opovažuješ mi na to říct tohle? Co to u všech nicot s tebou je?$u\"",
           "59": "speak Pam \"Je mi jedno co říkáš... Já v něj věřím! Hodně z nás věří! A teď zmiz.$4\""
         },

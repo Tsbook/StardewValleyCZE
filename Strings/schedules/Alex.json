@@ -4,7 +4,7 @@
       "Action": "EditData",
       "Target": "Strings/schedules/Alex",
       "Entries": {
-        "winter_17.000": "Viděl jsi někdy tanec mořských panen? Já zbožňuji jejich představení.¦Viděla jsi někdy tanec mořských panen? Já zbožňuji jejich představení.",
+        "winter_17.000": "${Viděl¦Viděla}$ jsi někdy tanec mořských panen? Já zbožňuji jejich představení.",
         "marriage_Mon.000": "Já se tu raději zdržím celý den. Mí prarodiče už nejsou nejmladší...",
         "summer_16.000": "Ahoj. Ah, jen jsem si zvrknul kotník. Tak zkouším, jestli si ho nemůžu obvázat.",
         "summer_16.001": "Jo, jo... nebolí to, doktore. Jen ho zavažte, dobře?",

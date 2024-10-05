@@ -74,7 +74,7 @@
           "49": "speak Linus \"To je od vás velmi hezké, ale musím s díky odmítnout! Dnes jsme měl při hledání štěstí.$h\"",
           "51": "speak Robin \"Aha... no dobře.$5\"",
           "55": "speak Robin \"@? Máš něco na srdci...\"",
-          "57": "question fork0 \"#Jen mě těší, že se Linusovi daří...#Chtěl bych Linusovi nabídnout, ať žije se mnou na farmě...¦Chtěla bych Linusovi nabídnout, ať žije se mnou na farmě...\"",
+          "57": "question fork0 \"#Jen mě těší, že se Linusovi daří...#${Chtěl¦Chtěla}$ bych Linusovi nabídnout, ať žije se mnou na farmě...\"",
           "61": "textAboveHead Robin \"Páni!\"",
           "69": "speak Robin \"To je od tebe velmi velkorysé! Takový skvělý nápad! Linusi, můžu pro vás postavit opravdu skvělý dům.$h\"",
           "71": "speak Robin \"Konečně budete mít tekoucí vodu, teplo, střechu nad hlavou... tak jako my ostatní! Není to báječné?\"",
