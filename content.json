@@ -1,5 +1,5 @@
 {
-  "Format": "2.2.0",
+  "Format": "2.3.0",
   "Changes": [
     {
       "Action": "Include",
@@ -23,7 +23,7 @@
       "Action": "Include",
       "FromFile": "Data/TV/CookingChannel.json",
       "When": { "Language": "cs" }
-    },
+    },  
     {
       "Action": "Load",
       "Target": "Data/TV/TipChannel",
@@ -147,7 +147,8 @@
     {
       "Action": "Load",
       "Target": "Data/AdditionalLanguages",
-      "Fromfile": "Data/AdditionalLanguages.json"
+      "Fromfile": "Data/AdditionalLanguages.json",
+      "Priority": "High"
     }
   ]
 }

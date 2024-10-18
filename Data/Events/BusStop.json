@@ -3,6 +3,7 @@
     {
       "Action": "EditData",
       "Target": "Data/Events/BusStop",
+      "Priority": "Early",
       "Fields": {
         "60367/u 0": {
           "10": "speak Robin \"Ahoj! Ty musíš být @.#$b#Já jsem Robin, pracuji tu jako místní tesařka. Starosta Lewis mě poslal, abych tě přivedla a ukázala ti, jak se dostat k tvému novému domu. Právě teď tam je a poklízí před tvým příchodem.#$b#Farma je kousek odsud za rohem. Pojď za mnou.\"",
@@ -32,7 +33,7 @@
           "30": "speak Shane \"Už jsme skoro tam...\"",
           "34": "speak Shane \"*polk* ...jsem před hrou celý nervózní...$10\"",
           "50": "speak Shane \"Tady máš, na posilněnou...\"",
-		"65": "speak Shane \"Poslyš, chtěl jsem ti něco říct... $6#$b#Díky že ses na mě přes to všechno ${nevykašlal^nevykašlala}$... moje úzkosti, deprese... ${sám jsi to viděl^sama jsi to viděla}$...$6#$b#Vážně si ${přítel^přítelkyně}$ k nezaplacení.$6\"",
+          "65": "speak Shane \"Poslyš, chtěl jsem ti něco říct... $6#$b#Díky že ses na mě přes to všechno ${nevykašlal^nevykašlala}$... moje úzkosti, deprese... ${sám jsi to viděl^sama jsi to viděla}$...$6#$b#Vážně si ${přítel^přítelkyně}$ k nezaplacení.$6\"",
           "69": "speak Shane \"Takže... tohle je tvůj první opravdový zápas v síťobalu, co?\"",
           "71": "speak Shane \"$q -1 null#No, co tomu říkáš?#$r -1 10 event_stadium1#Hlučné... Chybí mi tu klid našeho městečka.#$r -1 10 event_stadium2#Je to vzrušující... S tímhle se Pelikánov nemůže nikdy rovnat.\"",
           "77": "speak Shane \"Hele!! Koukej, Raziči jdou do útoku!$10\"",

@@ -5,7 +5,7 @@
       "Target": "Strings/Quests",
       "Entries": {
         "MessageFoundLostItem": "Našli jste {0}. Nezapomeňte to vrátit {1}.",
-        "ObjectiveReturnToNPC": "Vraťte to {0}."
+        "ObjectiveReturnToNPC": "Vraťte se k {0}."
       }
     }
   ]

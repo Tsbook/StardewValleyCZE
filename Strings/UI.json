@@ -3,6 +3,7 @@
     {
       "Action": "EditData",
       "Target": "Strings/UI",
+      "Priority": "Early",
       "Entries": {
         "LearnedRecipe_cooking": "uvařit",
         "LearnedRecipe_crafting": "vytvořit",

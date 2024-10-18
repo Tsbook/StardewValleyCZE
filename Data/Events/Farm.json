@@ -3,6 +3,7 @@
     {
       "Action": "EditData",
       "Target": "Data/Events/Farm",
+      "Priority": "Early",
       "Fields": {
         "5/e 3/v Abigail/t 600 800": {
           "4": "speak Abigail \"Ahoj. Um... jen jsem se ti chtěla omluvit za to, jak jsem se včera chovala divně.#$b#Asi víš co se stalo...$l#$b#Uh, to je vše...čau.\""
@@ -123,7 +124,7 @@
           "24": "speak Elliott \"@! Právě jsem obdržel vskutku znamenité zprávy!\"",
           "28": "speak Elliott \"Je to poněkud narychlo... ale byl jsem pozván, abych přednesl svoji knihu \"%book\" v pár městech!\"",
           "35": "speak Elliott \"...Musel bych na týden opustit toto místo. Nezpůsobí ti má nepřítomnost újmu?$s\"",
-          "36": "quickQuestion #Ne, vše bude v pořádku.#Budu šťastný jako blecha!¦Budu šťastná jako blecha!#Neodcházej!(break)emote Elliott 20\\speak Elliott \"Budeš mi moc chybět, ${můj drahý^má drahá}$.#$b#A samozřejmě ti budu každý den psát!\"\\emote farmer 20(break)jump Elliott\\pause 500\\speak Elliott \"Haha... velmi vtipné. Ale musím tvé nadšení ukonejšit...$8#$b#Nezapomenu ti každý den napsat. budeš mi chybět!\"(break)speak Elliott \"Ale ${drahý^drahá}$... toto je pro mě vzácná příležitost. Já prostě musím jít!$s#$b#Prosím nechtěj po mně, abych se cítil provinile. Určitě ti budu psát každý den a vrátím se dřív, než se naděješ.\"",
+          "36": "quickQuestion #Ne, vše bude v pořádku.#Budu ${šťastný¦šťastná}$ jako blecha!#Neodcházej!(break)emote Elliott 20\\speak Elliott \"Budeš mi moc chybět, ${můj drahý^má drahá}$.#$b#A samozřejmě ti budu každý den psát!\"\\emote farmer 20(break)jump Elliott\\pause 500\\speak Elliott \"Haha... velmi vtipné. Ale musím tvé nadšení ukonejšit...$8#$b#Nezapomenu ti každý den napsat. budeš mi chybět!\"(break)speak Elliott \"Ale ${drahý^drahá}$... toto je pro mě vzácná příležitost. Já prostě musím jít!$s#$b#Prosím nechtěj po mně, abych se cítil provinile. Určitě ti budu psát každý den a vrátím se dřív, než se naděješ.\"",
           "46": "speak Elliott \"Odjíždím zítra brzy ráno...#$b#Musím okamžitě začít balit!$8\"",
           "47": "end dialogue Elliott \"Nesmím zapomenout na svůj kartáč na vlasy, vlasový sprej, jemný hřeben a kondicionér s vůní granátového jablka!\""
         },
