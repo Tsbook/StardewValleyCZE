@@ -1,4 +1,4 @@
-{
+  {
   "Changes": [
     {
       "Action": "EditData",
@@ -9,7 +9,7 @@
         "AcceptGift_(O)Book_Crabbing": "Áno...  tohle je nesmrtelná klasika. Při každém čtení nezůstane mé oko suché. Žádný pořádný rybář se nesmíří mít pouze jednu kopii! Děkuji.$h",
         "AcceptGift_(O)Book_Roe": "Díky! Ideální četba pro dlouhé zimní večery. Ach, dokonce se z ní i line vůně moře...$h",
         "AcceptGift_(O)SkillBook_1": "Ach, 'Návnada a splávek'... tohle je povinné čtení pro všechny rybáře, ale předplatné stojí velké peníze. V průběhu let to byl užitečný zdroj informací a rad ohledně rybaření. Moc ti děkuji!$h",
-        "AcceptGift_coffee_item": "Ach, tohle hezky zahřeje mé staré kosti. Děkuji.",
+        "AcceptGift_Positive_coffee_item": "Ach, tohle hezky zahřeje mé staré kosti. Děkuji.",
         "GreenRain": "Áno... já jen doufám, že tento zvláštní déšť nijak rybám neublíží... jinak by mi to mohlo zničit život!",
         "GreenRainFinished": "Zdá se že jsou všechny ryby zdravé jako předtím. Dokonce bych přísahal, že berou s velkou silou!",
         "GreenRain_2": "Pokud se rybám déšť líbí, tak mně taky.",

@@ -56,7 +56,7 @@
     },
     {
       "Action": "Include",
-      "FromFile": "Strings/1_6_Strings.json, Strings/animationDescriptions.json, Strings/BigCraftables.json, Strings/Buildings.json, Strings/BundleNames.json, Strings/EnchantmentNames.json, Strings/Events.json, Strings/FarmAnimals.json, Strings/Furniture.json, Strings/Characters.json, Strings/Lexicon.json, Strings/Locations.json, Strings/MovieConcessions.json, Strings/MovieReactions.json, Strings/Movies.json, Strings/Notes.json, Strings/NPCNames.json, Strings/Objects.json, Strings/Pants.json, Strings/Quests.json, Strings/Shirts.json, Strings/SimpleNonVillagerDialogues.json, Strings/SpecialOrderStrings.json, Strings/SpeechBubbles.json, Strings/StringsFromMaps.json, Strings/UI.json, Strings/Weapons.json",
+      "FromFile": "Strings/1_6_Strings.json, Strings/animationDescriptions.json, Strings/BigCraftables.json, Strings/Buildings.json, Strings/BundleNames.json, Strings/EnchantmentNames.json, Strings/Events.json, Strings/FarmAnimals.json, Strings/Furniture.json, Strings/Characters.json, Strings/Lexicon.json, Strings/Locations.json, Strings/MovieConcessions.json, Strings/MovieReactions.json, Strings/Movies.json, Strings/Notes.json, Strings/NPCNames.json, Strings/Objects.json, Strings/Pants.json, Strings/Quests.json, Strings/Shirts.json, Strings/SimpleNonVillagerDialogues.json, Strings/SpecialOrderStrings.json, Strings/SpeechBubbles.json, Strings/StringsFromMaps.json, Strings/Tools.json, Strings/UI.json, Strings/Weapons.json",
       "When": { "Language": "cs" }
     },
     {

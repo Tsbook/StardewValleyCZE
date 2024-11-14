@@ -1,13 +1,13 @@
 {
   "Name": "Stardew Valley česky",
   "Author": "Tsbook",
-  "Version": "0.2.1",
+  "Version": "0.2.3",
   "Description": "Modifikace překládající hru do češtiny.",
   "UniqueID": "Tsbook.StardewValleyCZE",
-  "MinimumApiVersion": "4.0.8",
+  "MinimumApiVersion": "4.1.7",
   "UpdateKeys": [ "GitHub:Tsbook/StardewValleyCZE" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher",
-    "MinimumVersion": "2.2.0"
+    "MinimumVersion": "2.4.4"
   }
 }

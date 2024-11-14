@@ -46,7 +46,7 @@
         "Mon": "Stromy dnes vypadají skvostně, ne?#$q 21/22/211132 Mon_old#Poslyš, proč ses ${chtěl^chtěla}$ stát farmářem?#$r 21 -5 Mon_21#Dělám to pro peníze.#$r 22 5 Mon_22#Cítím se tu víc \"při životě\" než ve městě.#$r 211132 5 Mon_211132#Chci kráčet ve šlépějích svého dědečka.#$r 22 5 Mon_22#Prostě nastal čas udělat v mém životě změnu.",
         "Mon_old": "$p 21#Tak co, je množství vydělaných peněz podle tvého očekávání?|Procházka po přírodě je vždycky potěšením..",
         "Mon_21": "Hmm. To je trochu krátkozraké, nemyslíš?$s",
-        "Mon_22": "To je víceméně ten stejný důvod, proč jsem sem přišla já!$h",
+        "Mon_22": "Haha... to je víceméně ten stejný důvod, proč jsem sem přišla já!$h#$b#Chtěla jsem být blíže nezkrocené přírodě..",
         "Mon_211132": "To je od tebe velmi milé, že takhle uctíváš svého dědečka.",
         "Tue4": "Ahoj. Ah, ty si chceš povídat?#$e#Zdejší krajina mi dává spoustu nápadů. Půda skoro vypadá jako vytesaná socha.#$e#Já umění nevytvářím pro peníze. Je to prostě má touha.#$e#Farmaření se zdá být jako velmi užitečné zaměstnání. Vytváříš chutné jídlo pro všechny!$h#$e#Asi máš spoustu práce. Promiň",
         "Tue": "Zdravíčko, sousede.^Zdravíčko, sousedko.#$e#Oba žijeme mimo město. Je to snad nějaké znamení?",

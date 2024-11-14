@@ -3,6 +3,7 @@
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
+      "Priority":  "Early",
       "Fields": {
         "4/f Abigail 1500/t 2100 2400/w sunny": {
           "23": "speak Abigail \"Asi se divíš, proč jsem na hřbitově v tuhle hodinu...\"",
@@ -230,7 +231,7 @@
           "40": "speak George \"Ah, přicházíš v pravou chvíli, ${synku^slečno}$.#$b#${Mohl^Mohla}$ by jsi tomuto nemohoucímu člověku splnit prosbu? ${Šel^Šla}$ by jsi za roh a ${odehnal^odehnala}$ ty mývaly? Dělají mi tam pořádný bordel.#$b#Díky. Nezapomeň je pořádně vyděsit, aby se už nevraceli.\"",
           "53": "speak Linus \"To jsem byl já... promiň.$s\"",
           "61": "speak Linus \"V těchto popelnicích lze najít spoustu horkého, čerstvého jídla... kdybych ho nevzal, byla by to jen škoda.\"",
-          "66": "speak Linus \"$y 'Myslíš si, že to co dělám, je nějak špatné?_Ano, je to nechutné._Nechutné možná pro tebe. Pro mě je to způsob života. A navíc mi ještě nikdy nebylo špatně. Jím jen ty věci, které vypadají čerstvě._Ne. Je škoda vyhodit tohle jídlo._Díky, @. Já věděl, že máš otevřenou mysl. Mám z toho, co dělám, dobrý pocit. Nikomu neubližuji.$h_Ano, je to nezákonné. To je Georgův soukromý majetek._Já nevěřím na 'soukromý majetek'. Navíc, co chceš, abych dělal? Já potřebuji toto jídlo, jinak umřu hlady. Měj srdce.$s_Ne, ale měl by sis najít práci a přestat vysávat ostatní._*vzdech*... Ne každý může žít v této společnosti, @. Nevíš, jaké to je chodit v mých botách. Nikomu neubližuji, jen chci žít svůj život podle sebe. To je vážně takový zločin?'\"",
+          "66": "speak Linus \"$y 'Myslíš si, že to co dělám, je nějak špatné?_Ano, je to nechutné._Nechutné možná pro tebe. Pro mě je to způsob života. A navíc mi ještě nikdy nebylo špatně. Jím jen ty věci, které vypadají čerstvě._Ne. Je škoda vyhodit tohle jídlo._Díky, @. Já věděl, že máš otevřenou mysl. Mám z toho, co dělám, dobrý pocit. Nikomu neubližuji.$h_Ano, je to nezákonné. To je Georgův soukromý majetek._Já nevěřím na 'soukromý majetek'. Navíc, co chceš, abych dělal? Já potřebuji toto jídlo, jinak umřu hlady. Měj srdce.$s_Ne, ale měl by sis najít práci a přestat vysávat ostatní._**Ach jo**...*Ne každý může žít v této společnosti, @. Nevíš, jaké to je chodit v mých botách. Nikomu neubližuji, jen chci žít svůj život podle sebe. To je vážně takový zločin?'\"",
           "72": "speak Linus \"Už můžeš jít domů. Slibuji, že v Georgových odpadcích se už hrabat nebudu.#$b#Můžeš mu říct, že jsi mývaly ${zahnal^zahnala}$ nadobro.\"",
           "96": "speak Gus \"Počkej.$u\"",
           "104": "speak Gus \"Já vím, co jsi dělal, Linusi.$3\"",

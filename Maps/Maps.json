@@ -33,7 +33,7 @@
         "Height": 16
       },
       "ToArea": {
-        "X": 33,
+        "X": 34,
         "Y": 176,
         "Width": 141,
         "Height": 16
@@ -229,17 +229,6 @@
         "Y": 529,
         "Width": 16,
         "Height": 14
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/TownIndoors",
-      "FromFile": "Maps/Indoors.png",
-      "ToArea": {
-        "X": 68,
-        "Y": 1924,
-        "Width": 120,
-        "Height": 60
       }
     },
     {

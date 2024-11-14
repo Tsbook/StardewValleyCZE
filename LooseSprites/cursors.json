@@ -192,15 +192,15 @@
       "Target": "LooseSprites/Cursors",
       "FromFile": "LooseSprites/Cursors.png",
       "FromArea": {
-        "X": 2,
-        "Y": 148,
-        "Width": 31,
+        "X": 192,
+        "Y": 11,
+        "Width": 37,
         "Height": 39
       },
       "ToArea": {
         "X": 441,
         "Y": 385,
-        "Width": 31,
+        "Width": 37,
         "Height": 39
       }
     },
